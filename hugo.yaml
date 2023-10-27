@@ -1,3 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://anthrocon.org/
 languageCode: en-us
-title: My New Hugo Site
+title: "Anthrocon 2024: AnthroCoaster - July 4-7, 2024"
+theme: anthropomorphic

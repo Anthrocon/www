@@ -1,0 +1,19 @@
+name = 'Anthropomorphic'
+license = 'MIT'
+licenselink = 'https://github.com/anthrocon/www/LICENSE'
+description = "A pawsome Hugo theme for Anthrocon's website."
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/anthrocon/www'
+
+# Live demo
+demosite = 'https://anthrocon.org'
+
+# Taxonomy terms
+tags = ['furry', 'anthrocon']
+features = ['semantic', 'pico', 'furry']
+
+# If the theme has a single author
+[author]
+  name = 'Anthrocon, Inc.'
+  homepage = 'https://anthrocon.org'
