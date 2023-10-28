@@ -1,5 +1,4 @@
 baseURL: "/"
-canonifyURLs: true
 disableHugoGeneratorInject: true
 enableRobotsTXT: true
 frontmatter:
@@ -7,9 +6,15 @@ frontmatter:
     - "date"
     - ":filename"
     - "publishdate"
+    - "pubdate"
+    - "published"
+    - "lastmod"
+    - "modified"
+    - ":git"
 
   lastmod:
     - "lastmod"
+    - "modified"
     - ":git"
 
   publishDate:
@@ -23,6 +28,6 @@ imaging:
 
 languageCode: "en-US"
 theme: "anthropomorphic"
-timeout: "300s"
+timeout: "600s"
 timeZone: "America/New_York"
 title: "Anthrocon 2024: AnthroCoaster - July 4-7, 2024"
