@@ -1,4 +1,28 @@
-baseURL: https://anthrocon.org/
-languageCode: en-us
+baseURL: "/"
+canonifyURLs: true
+disableHugoGeneratorInject: true
+enableRobotsTXT: true
+frontmatter:
+  date:
+    - "date"
+    - ":filename"
+    - "publishdate"
+
+  lastmod:
+    - "lastmod"
+    - ":git"
+
+  publishDate:
+    - ":default"
+    - ":filename"
+
+imaging:
+  hint: "picture"
+  quality: 85
+  resampleFilter: "Lanczos"
+
+languageCode: "en-US"
+theme: "anthropomorphic"
+timeout: "300s"
+timeZone: "America/New_York"
 title: "Anthrocon 2024: AnthroCoaster - July 4-7, 2024"
-theme: anthropomorphic
