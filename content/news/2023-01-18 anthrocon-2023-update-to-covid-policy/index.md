@@ -20,6 +20,6 @@ Due to current surges and changing situations, we will provide more details as t
 
 If you have any further questions, please send us an email at **info@anthrocon.org.**
 
-{{% right %}}Sincerely,{{% /right %}}
+{{< right >}}Sincerely,{{< /right >}}
 
-{{% right %}}The Anthrocon Board of Directors{{% /right %}}
+{{< right >}}The Anthrocon Board of Directors{{< /right >}}
