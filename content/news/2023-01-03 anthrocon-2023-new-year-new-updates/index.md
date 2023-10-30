@@ -17,7 +17,7 @@ Early bird pricing for pre-registration will end on January 29th, 2023. Afterwar
 
 **Attendees must be registered for Anthrocon to reserve an Anthrocon-block hotel room**. You will need the Registrant ID found at the bottom of your confirmation email in order to access the booking portal, which is composed of letters and numbers.
 
-{{< img src="Example_RegistrantID.png" alt="An example of the Registrant ID found at the bottom of the confirmation email, composed of letters and numbers." >}}
+{{< img src="Example_RegistrantID.png" alt="An example of the Registrant ID found at the bottom of the confirmation email, composed of letters and numbers." hint="text" >}}
 
 - **Those who pre-register before January 30th** will receive an email when general hotel reservations open, containing the link needed to reserve a hotel room.
 - **Those who pre-register after February 2nd** will receive the link to book a hotel room in the registration confirmation email.
