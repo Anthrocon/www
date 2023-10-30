@@ -15,11 +15,11 @@ Can you believe it Anthrocon attendees? We are now less than five months away fr
 
 {{< audio src="February+2023+-+Anthrocon+Newsletter.mp3" title="Anthrocon 2023 - February Newsletter" author="Father Harvest" >}}
 
-## COVID-19 &amp;MASK POLICIES
+## COVID-19 &amp; MASK POLICIES
 
 Our most up-to-date Anthrocon 2023 COVID-19 and masking policies is available for viewing on the [**COVID-19 Policy page**](https://www.anthrocon.org/covid-policy-2023), although it is subject to changes and updates based on emerging data, as well as guidance, from government and health experts. All updates will be announced to attendees via our social media channels described above.
 
-Our current mask policy is that proper masks (covering the nose and mouth) are required to be worn in specific high-density and high-contact areas of the convention center and hotels, including: Registration, Dealers Room, Artist’s Alley &amp;Con Store, Art Show, Gaming Rooms and all Panel and Event Rooms. All other areas of the convention space will be mask-optional, and we strongly recommend fursuiters wear an appropriate mask underneath their costume heads to ensure they are compliant with our policy and minimize the chances of spread.
+Our current mask policy is that proper masks (covering the nose and mouth) are required to be worn in specific high-density and high-contact areas of the convention center and hotels, including: Registration, Dealers Room, Artist’s Alley &amp; Con Store, Art Show, Gaming Rooms and all Panel and Event Rooms. All other areas of the convention space will be mask-optional, and we strongly recommend fursuiters wear an appropriate mask underneath their costume heads to ensure they are compliant with our policy and minimize the chances of spread.
 
 ## Registration
 
@@ -43,7 +43,7 @@ The Artists Alley is open to all artists on a lottery basis, with applications c
 
 ## Panels Applications and Performance auditions
 
-If you are musically or theatrically inclined and wish to schedule a performance on Anthrocon’s Main Stage, there is an [**audition form**](https://www.anthrocon.org/stage-performances) available to fill out on our Events page. Main Stage time is limited, so please apply early! Applications to host regular panels such as Meet &amp;Greets, Seminars, Discussions, Demonstrations, Educational Talks, etc. are also available on our [**Events and Panels page**](https://www.anthrocon.org/events-panels). Panels must be submitted by March 31 to be considered for this year’s convention. The success of Anthrocon’s programming relies on you - we encourage everyone interested to contribute and be part of one of the largest and most diverse panel tracks in furry fandom, while meeting other furry fans with shared interests!
+If you are musically or theatrically inclined and wish to schedule a performance on Anthrocon’s Main Stage, there is an [**audition form**](https://www.anthrocon.org/stage-performances) available to fill out on our Events page. Main Stage time is limited, so please apply early! Applications to host regular panels such as Meet &amp; Greets, Seminars, Discussions, Demonstrations, Educational Talks, etc. are also available on our [**Events and Panels page**](https://www.anthrocon.org/events-panels). Panels must be submitted by March 31 to be considered for this year’s convention. The success of Anthrocon’s programming relies on you - we encourage everyone interested to contribute and be part of one of the largest and most diverse panel tracks in furry fandom, while meeting other furry fans with shared interests!
 
 ## Conbook and Advertising submissions
 
