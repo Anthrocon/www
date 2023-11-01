@@ -3,13 +3,8 @@ disableHugoGeneratorInject: true
 enableRobotsTXT: true
 frontmatter:
   date:
-    - "date"
     - ":filename"
-    - "publishdate"
-    - "pubdate"
-    - "published"
-    - "lastmod"
-    - "modified"
+    - ":default"
     - ":git"
 
   lastmod:
