@@ -11,7 +11,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-{{< image src="wildlife-works-logo.jpg" alt="wildlife-works-logo.jpg" >}}
+{{< img src="wildlife-works-logo.jpg" alt="wildlife-works-logo.jpg" hint="drawing" link="https://www.wildlifeworksinc.org/" >}}
 
 Anthrocon is pleased to announce that [Wildlife Works Inc.](https://www.wildlifeworksinc.org/) will be our beneficiary for 2020's charity efforts. The following is a summary from Wildlife Works Inc. that summarizes their mission and efforts:
 
