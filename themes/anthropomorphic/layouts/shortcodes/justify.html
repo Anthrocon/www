@@ -1,0 +1,9 @@
+{{/*
+    Shortcode to justify align content block.
+*/}}
+
+{{- $optBlock := dict "display" "block" -}}
+
+<div style="text-align: justify;">
+    {{ .Inner | .Page.RenderString $optBlock }}
+</div>
