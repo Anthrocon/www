@@ -14,6 +14,6 @@ The Anthrocon website.
 ## License
 
 ### Code
-* Licensed under the [MIT License].
+* Licensed under the [MIT License](themes/anthropomorphic/LICENSE).
 ### Website content
 * All rights reserved copyright Anthrocon, Inc., 2023.
