@@ -94,7 +94,7 @@ There was of course a huge spike of tweets starting at Noon,which then dropped o
 
 Finally, there is the raw volume of tweets.  Pictured below is the volume of tweets mentioning “Anthrocon” over the past week:
 
-{{< img src="2019-hotel-tweet-volume.png" alt="2019-hotel-tweet-volume.png" hint="drawing >}}
+{{< img src="2019-hotel-tweet-volume.png" alt="2019-hotel-tweet-volume.png" hint="drawing" >}}
 
 The first hump is from last Monday, when we announced [Benjamin Diskin as a Guest](/goh).  The smaller hump from the middle of the week is when we opened hotel rooms to Supersponsors.  And that huge spike on the far right?  That’s when we opened general hotel reservations.
 
