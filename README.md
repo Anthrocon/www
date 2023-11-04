@@ -108,10 +108,22 @@ should get you what you need. After that, install the devDependencies for this N
 npm install
 ```
 
-or, if it's defaulting to production for some reason?
+If that doesn't work for some reason, you can try installing the packages directly:
 
 ```
-npm install --only=dev
+npm install prettier prettier-plugin-go-template
+```
+
+Then, you can run Prettier:
+
+```
+prettier "**/*.{md,css,html,js}"
+```
+
+or, if you want Prettier to format your files directly:
+
+```
+prettier --write "**/*.{md,css,html,js}"
 ```
 
 ## License(s)
