@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-04-15T10:50:46-0400"
 draft: false
 aliases:
-    - "/news/2022/3/23/anthrocon-2022-april-showers-furry-flowers"
+  - "/news/2022/3/23/anthrocon-2022-april-showers-furry-flowers"
 
 banner: "43809051871_9a14be0a97_k_HokuloaLuau_dark.jpg"
 banner_author: "HokuloaLuau"
@@ -23,7 +23,7 @@ We regret to announce that our performing GOH, Sardyuon, is not able to join us 
 
 ### Charity
 
-- **Charity Donations:** Anthrocon is seeking item donations for the charity raffle and charity auction. We are looking for: furry themed art, items, and comics, new clothes or plushies, crafts, fursuits, figures, etc. Items should be new, like new, or well-kept. Find out more information on how you can donate on [**our Charity page**](/charity) -  questions can be directed to [**charity@anthrocon.org**](mailto:charity@anthrocon.org).
+- **Charity Donations:** Anthrocon is seeking item donations for the charity raffle and charity auction. We are looking for: furry themed art, items, and comics, new clothes or plushies, crafts, fursuits, figures, etc. Items should be new, like new, or well-kept. Find out more information on how you can donate on [**our Charity page**](/charity) - questions can be directed to [**charity@anthrocon.org**](mailto:charity@anthrocon.org).
 - **Charity Staff Recruitment:** Charity is seeking several new staff members for the 2022 convention. We are looking for responsible and dedicated individuals who can help watch the charity tables and work with our charity representatives. Please reach out to [**charity@anthrocon.org**](mailto:charity@anthrocon.org) if interested.
 
 ### Conbook &amp; Advertising Submissions

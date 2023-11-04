@@ -4,7 +4,7 @@ author: "Ashe"
 date: "2019-05-15T21:09:00-0400"
 draft: false
 aliases:
-    - "/news/2018/5/15/anthrocon-tonight-auditions"
+  - "/news/2018/5/15/anthrocon-tonight-auditions"
 
 banner: "AnthroconTonight.jpg"
 banner_author: "Barton Fox"

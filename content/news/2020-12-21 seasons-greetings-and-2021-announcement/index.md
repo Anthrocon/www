@@ -4,7 +4,7 @@ author: "Guest User"
 date: "2020-12-21T19:20:26-0500"
 draft: false
 aliases:
-    - "/news/2020/12/21/seasons-greetings-and-2021-announcement"
+  - "/news/2020/12/21/seasons-greetings-and-2021-announcement"
 
 banner: ""
 banner_author: ""

@@ -9,7 +9,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-This year, we will be running three separate shuttles, each with its own route.  The routes are as follows:
+This year, we will be running three separate shuttles, each with its own route. The routes are as follows:
 
 - Red Route: AC Hotel, Hampton Inn, Homewood Suites, DLCC
 - Blue Route: Omni, Doubletree, Drury, DLCC

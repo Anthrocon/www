@@ -4,7 +4,7 @@ author: "Nicona Shadowwolf"
 date: "2020-10-02T19:46:28-0400"
 draft: false
 aliases:
-    - "/news/2020/10/2/an-update-regarding-2021-registration"
+  - "/news/2020/10/2/an-update-regarding-2021-registration"
 
 banner: ""
 banner_author: ""

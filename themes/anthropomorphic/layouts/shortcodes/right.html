@@ -1,9 +1,8 @@
-{{/*
-    Shortcode to right align content block.
-*/}}
+{{/* Shortcode to right align content block. */}}
 
 {{- $optBlock := dict "display" "block" -}}
 
+
 <div style="text-align: right;">
-    {{ .Inner | .Page.RenderString $optBlock }}
+  {{ .Inner | .Page.RenderString $optBlock }}
 </div>

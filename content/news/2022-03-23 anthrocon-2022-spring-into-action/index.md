@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-03-23T10:36:49-0400"
 draft: false
 aliases:
-    - "/news/2022/1/23/anthrocon-2022-spring-into-action"
+  - "/news/2022/1/23/anthrocon-2022-spring-into-action"
 
 banner: "49931630743_6dac2552ea_o_Exkhaniber_dark.jpg"
 banner_author: "Exkhaniber"

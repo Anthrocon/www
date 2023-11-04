@@ -28,10 +28,10 @@ Here is how to get in touch with us:
 - Visit Operations in **Room 309** in the DLCC
 - Visit Security in the **Crawford Room** in the Westin or **Room 308 in the DLCC**.
 - Call the Anthrocon Operations Hotline at **832-FUR-OPS-1 (832-387-6771)** Hours are:
-    - Thursday: 10 AM to 10 PM
-    - Friday: 9 AM to 10 PM
-    - Saturday: 9 AM to 10 PM
-    - Sunday: 9 AM to 5 PM
+  - Thursday: 10 AM to 10 PM
+  - Friday: 9 AM to 10 PM
+  - Saturday: 9 AM to 10 PM
+  - Sunday: 9 AM to 5 PM
 - DM [@Anthrocon](https://twitter.com/Anthrocon) or [@AnthroconHelp](https://twitter.com/AnthroconHelp) on Twitter
 
 After the convention, please consider sharing your photos on either:

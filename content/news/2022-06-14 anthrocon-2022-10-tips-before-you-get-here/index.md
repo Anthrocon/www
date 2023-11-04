@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-06-14T22:43:39-0400"
 draft: false
 aliases:
-    - "/news/2022/6/14/anthrocon-2022-10-tips-before-you-get-here"
+  - "/news/2022/6/14/anthrocon-2022-10-tips-before-you-get-here"
 
 banner: "35872085086_79f4043e13_k_Randorn.jpg"
 banner_author: "Randorn"

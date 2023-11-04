@@ -4,7 +4,7 @@ author: "Guest User"
 date: "2019-07-11T20:27:06-0400"
 draft: false
 aliases:
-    - "/news/2019/7/10/anthrocon-2019-wrapup"
+  - "/news/2019/7/10/anthrocon-2019-wrapup"
 
 banner: "website-banner.png"
 banner_author: ""
@@ -30,7 +30,7 @@ Now that we're back home and unpacking, we have gone through the Lost and Found 
 
 Looking for the Fursuit Group Photo? [Here it is.](https://www.flickr.com/photos/16854395@N05/48254078821/in/photostream/) A high-resolution 15701 x 4265 pixel version of that photo can be found [over here](https://www.flickr.com/photos/16854395@N05/48254078821/sizes/l). (Credit: Andy Oxenreider of Dragonscales)
 
-The entire **city** was talking about us.  We got plenty of news coverage:
+The entire **city** was talking about us. We got plenty of news coverage:
 
 - [The origin of how Pittsburgh and furries fell in love with each other](https://www.pghcitypaper.com/pittsburgh/the-origin-of-how-pittsburgh-and-furries-fell-in-love-with-each-other/Content?oid=15356126)
 - [Anthrocon 2019 in Pittsburgh: Etiquette, parade details, and all your other furry &nbsp;questions](https://theincline.com/2019/07/03/anthrocon-2019-in-pittsburgh-etiquette-parade-details-and-all-your-other-furry-questions/)

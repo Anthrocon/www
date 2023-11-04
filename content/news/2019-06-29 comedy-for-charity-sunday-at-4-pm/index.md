@@ -4,7 +4,7 @@ author: "Guest User"
 date: "2019-06-29T12:50:55-0400"
 draft: false
 aliases:
-    - "/news/2019/6/29/comedy-for-charity-sunday-at-4-pm"
+  - "/news/2019/6/29/comedy-for-charity-sunday-at-4-pm"
 
 banner: "website-banner.png"
 banner_author: ""

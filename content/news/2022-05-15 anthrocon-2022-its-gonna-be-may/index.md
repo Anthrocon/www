@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-05-15T23:46:52-0400"
 draft: false
 aliases:
-    - "/news/2022/4/19/anthrocon-2022-its-gonna-be-may"
+  - "/news/2022/4/19/anthrocon-2022-its-gonna-be-may"
 
 banner: "48277315811_c791528566_k_Foptography.jpg"
 banner_author: "Foptography"

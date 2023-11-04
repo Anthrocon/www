@@ -4,7 +4,7 @@ author: "Guest User"
 date: "2020-04-20T19:24:29-0400"
 draft: false
 aliases:
-    - "/news/2020/4/20/an-update-from-anthrocon"
+  - "/news/2020/4/20/an-update-from-anthrocon"
 
 banner: ""
 banner_author: ""

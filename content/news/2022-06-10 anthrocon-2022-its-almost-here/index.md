@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-06-10T11:55:27-0400"
 draft: false
 aliases:
-    - "/news/2022/6/10/anthrocon-2022-its-almost-here"
+  - "/news/2022/6/10/anthrocon-2022-its-almost-here"
 
 banner: "14818480290_648a36d28a_k_Foxgrrl.jpg"
 banner_author: "Julia Wolf"
@@ -41,7 +41,7 @@ After three long years, the buzz of excitement in the air is palpable! With only
 - Bucket Brigade sign ups are now available! Help us raise money for our Charity and have some fun while doing it by signing up on our [**Bucket Brigade Form**](https://bit.ly/3z1nWeJ).
 - Want to donate something to our Charity Auction or Raffle? Send an email to [**charity@anthrocon.org**](mailto:charity@anthrocon.org) stating what you are donating, your name, your preferred email address if it's different, and details on the donation (what is it, medium, artist/donor, etc.). Your information will be recorded for the convention.
 
-    Donations to the Charity Auction must be submitted by **Friday, July 1st** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
+  Donations to the Charity Auction must be submitted by **Friday, July 1st** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
 
 ### Volunteers
 
