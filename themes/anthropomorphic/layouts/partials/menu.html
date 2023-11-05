@@ -34,8 +34,9 @@ Renders a menu for the given menu ID.
             {{- printf " %s=%q" $k $v | safeHTMLAttr }}
           {{- end }}
         {{- end -}}
-        >{{ or (T .Identifier) .Name | safeHTML }}</a
-      >
+        >
+        {{ or (T .Identifier) .Name | safeHTML }}
+      </a>
       {{- with .Children }}
         <ul>
           {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
