@@ -1,10 +1,11 @@
 {
   "name": "www",
   "version": "0.0.1",
-  "description": "anthrocon's website",
+  "description": "anthrocon's node package bundle for editing the website",
   "main": " ",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx prettier \".{md,css,html,js}\"",
+    "fix": "npx prettier \".{md,css,html,js}\" --write"
   },
   "repository": {
     "type": "git",
