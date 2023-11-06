@@ -1,1 +1,7 @@
-<p>Copyright {{ now.Year }} Anthrocon, Inc. All rights reserved.</p>
+<p>
+    ©
+    {{ time.Now | time.Format "2006" }}
+    {{- if .Site.Copyright }}
+        {{ .Site.Copyright }}
+    {{- end }}
+</p>

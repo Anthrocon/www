@@ -1,4 +1,5 @@
 baseURL: "/"
+copyright: "Anthrocon Inc"
 disableHugoGeneratorInject: true
 enableRobotsTXT: true
 frontmatter:
