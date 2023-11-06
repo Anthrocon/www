@@ -56,7 +56,7 @@ Anthrocon’s programming relies on its diverse and talented attendees to help u
 
 ## 2023 Guest of Honor updates
 
-For Anthrocon 2023, in conjuction with our theme, we’re bestowing the Guest of Honor designation to the city of Pittsburgh. We want our community to show as much appreciation for the hospitality and camaraderie that the Steel City has shown the furry community since 2006. We have become integral to the city’s image and culture, and vice versa.  However, this doesn’t mean there will be any shortage of talent or celebrity that might appear - Anthrocon always brings the best in furry talent and creativity together in Pittsburgh.
+For Anthrocon 2023, in conjuction with our theme, we’re bestowing the Guest of Honor designation to the city of Pittsburgh. We want our community to show as much appreciation for the hospitality and camaraderie that the Steel City has shown the furry community since 2006. We have become integral to the city’s image and culture, and vice versa. However, this doesn’t mean there will be any shortage of talent or celebrity that might appear - Anthrocon always brings the best in furry talent and creativity together in Pittsburgh.
 
 ## SOCIAL MEDIA
 

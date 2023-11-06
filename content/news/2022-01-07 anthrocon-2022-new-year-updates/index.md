@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-01-07T01:05:14-0500"
 draft: false
 aliases:
-    - "/news/2021/11/17/anthrocon-2022-new-year-updates"
+  - "/news/2021/11/17/anthrocon-2022-new-year-updates"
 
 banner: "50000079716_2e7c797a2e_k_exkhaniber_dark.jpg"
 banner_author: "LionelLeupold"
@@ -31,6 +31,6 @@ In addition, those looking to book a suite at the Westin Pittsburgh Hotel will b
 
 Panels submissions are now open for 2022 - even if you submitted a panel in 2020, we require all panelists to re-submit their desired events to ensure accuracy and up-to-date information. Learn more about our events and submitting a panel on our [**Programming page**](https://www.anthrocon.org/programming).
 
-***
+---
 
 As we work towards the summer, we will continue to provide as many updates as possible on our website and social media. Make sure you follow us on our [**Twitter**](https://twitter.com/anthrocon) and [**Facebook**](https://www.facebook.com/Anthrocon) for the latest updates.

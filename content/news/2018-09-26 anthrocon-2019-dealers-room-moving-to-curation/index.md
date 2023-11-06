@@ -4,7 +4,7 @@ author: "Chiaroscuro"
 date: "2018-09-26T19:43:03-0400"
 draft: false
 aliases:
-    - "/news/2018/9/26/anthrocon-2019-dealers-room-moving-to-curation"
+  - "/news/2018/9/26/anthrocon-2019-dealers-room-moving-to-curation"
 
 banner: "dealers-room.jpg"
 banner_author: ""

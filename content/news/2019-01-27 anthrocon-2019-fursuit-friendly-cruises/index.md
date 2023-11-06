@@ -4,7 +4,7 @@ author: "Nicona Shadowwolf"
 date: "2019-01-27T19:11:54-0500"
 draft: false
 aliases:
-    - "/news/2019/1/27/anthrocon-2019-fursuit-friendly-cruises"
+  - "/news/2019/1/27/anthrocon-2019-fursuit-friendly-cruises"
 
 banner: "Gateway-Clipper-Maniac-Magazine.jpg"
 banner_author: ""

@@ -4,7 +4,7 @@ author: "Guest User"
 date: "2018-07-14T12:56:19-0400"
 draft: false
 aliases:
-    - "/news/2018/7/14/anthrocon-2018-wrapup"
+  - "/news/2018/7/14/anthrocon-2018-wrapup"
 
 banner: "DhrVIJmX0AIwO8c.jpg"
 banner_author: ""

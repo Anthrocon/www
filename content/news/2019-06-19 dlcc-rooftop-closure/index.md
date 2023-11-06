@@ -4,14 +4,14 @@ author: "Guest User"
 date: "2019-06-19T19:37:58-0400"
 draft: false
 aliases:
-    - "/news/2019/6/18/dlcc-rooftop-closure"
+  - "/news/2019/6/18/dlcc-rooftop-closure"
 
 banner: "dlcc-cropped.png"
 banner_author: ""
 banner_url: ""
 ---
 
-The David L. Lawrence Convention Center has been forced to commence renovation of the building’s roof earlier than was planned. &nbsp;It was found that the water leaks, which you may have noticed last year, have done far more damage than was originally believed.  Please accept their apologies, and ours, but the rooftop will not be available for Anthrocon 2019.
+The David L. Lawrence Convention Center has been forced to commence renovation of the building’s roof earlier than was planned. &nbsp;It was found that the water leaks, which you may have noticed last year, have done far more damage than was originally believed. Please accept their apologies, and ours, but the rooftop will not be available for Anthrocon 2019.
 
 ## Frequently Asked Questions
 

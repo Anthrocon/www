@@ -4,7 +4,7 @@ author: "Guest User"
 date: "2021-04-03T15:19:13-0400"
 draft: false
 aliases:
-    - "/news/2021/4/3/anthrocon-2021-virtual"
+  - "/news/2021/4/3/anthrocon-2021-virtual"
 
 banner: ""
 banner_author: ""

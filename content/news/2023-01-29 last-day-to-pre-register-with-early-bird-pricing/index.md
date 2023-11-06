@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2023-01-29T12:20:58-0500"
 draft: false
 aliases:
-    - "/news/2023/1/29/last-day-to-pre-register-with-early-bird-pricing"
+  - "/news/2023/1/29/last-day-to-pre-register-with-early-bird-pricing"
 
 banner: "_MG_4315.jpg"
 banner_author: "HawkPool"

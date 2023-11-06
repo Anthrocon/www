@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-06-15T22:38:24-0400"
 draft: false
 aliases:
-    - "/news/2022/6/15/anthrocon-featured-on-cbs-pittsburgh"
+  - "/news/2022/6/15/anthrocon-featured-on-cbs-pittsburgh"
 
 banner: "35833528096_10949e8612_o_Nightdragon+(good+for+PR).jpg"
 banner_author: "Nightdragon0"

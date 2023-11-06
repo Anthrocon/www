@@ -1,9 +1,8 @@
-{{/*
-    Shortcode to center align content block.
-*/}}
+{{/* Shortcode to center align content block. */}}
 
 {{- $optBlock := dict "display" "block" -}}
 
+
 <div style="text-align: center;">
-    {{ .Inner | .Page.RenderString $optBlock }}
+  {{ .Inner | .Page.RenderString $optBlock }}
 </div>

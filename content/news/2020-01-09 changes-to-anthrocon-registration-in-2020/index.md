@@ -4,7 +4,7 @@ author: "Nicona Shadowwolf"
 date: "2020-01-09T19:36:37-0500"
 draft: false
 aliases:
-    - "/news/2020/1/9/changes-to-anthrocon-registration-in-2020"
+  - "/news/2020/1/9/changes-to-anthrocon-registration-in-2020"
 
 banner: ""
 banner_author: ""
@@ -34,8 +34,8 @@ The driving factor behind the decision to move registration and limited access t
 The hours for registration will not be changing.&nbsp;As a reminder, the hours are as follows:
 
 - Thursday:
-    - Pre-Reg only: Noon to 2 PM
-    - All Registration: 2 PM to 10 PM
+  - Pre-Reg only: Noon to 2 PM
+  - All Registration: 2 PM to 10 PM
 - Friday: 9 AM to 10 PM
 - Saturday: 10 AM to 6 PM
 - Sunday: 10 AM to 4 PM

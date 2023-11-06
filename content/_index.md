@@ -28,4 +28,4 @@ Find out what hotels are available to stay during the convention.
 
 ### Tips and Guides
 
-Learn about helpful topics and guides to help make your convention experience. 
+Learn about helpful topics and guides to help make your convention experience.

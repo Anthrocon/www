@@ -4,7 +4,7 @@ author: "Ronnie Noodles"
 date: "2022-02-12T18:00:18-0500"
 draft: false
 aliases:
-    - "/news/2022/1/23/anthrocon-2022-four-months-to-go"
+  - "/news/2022/1/23/anthrocon-2022-four-months-to-go"
 
 banner: "19755242211_ee3a2a709b_o_KotaWinter_Dark.jpg"
 banner_author: "Kota Winter"
@@ -41,6 +41,6 @@ Our conbook submissions are now open. Visit our [**Conbook page**](/conbook) for
 
 Advertising opportunities are also available through our [**advertising page**](/advertising), with other options that can be discussed with our Publications team.
 
-***
+---
 
 As always, we will continue to provide as many updates as possible on our website and social media. Make sure you follow us on our [**Twitter**](https://twitter.com/anthrocon) and [**Facebook**](https://www.facebook.com/Anthrocon) for the latest updates.

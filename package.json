@@ -1,0 +1,32 @@
+{
+  "name": "www",
+  "version": "0.0.1",
+  "description": "anthrocon's node package bundle for editing the website",
+  "main": " ",
+  "scripts": {
+    "test": "npx prettier \".{md,css,html,js}\"",
+    "fix": "npx prettier \".{md,css,html,js}\" --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthrocon/www.git"
+  },
+  "keywords": [
+    "furry",
+    "website"
+  ],
+  "author": "Anthrocon, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthrocon/www/issues"
+  },
+  "homepage": "https://github.com/anthrocon/www#readme",
+  "volta": {
+    "node": "20.9.0",
+    "npm": "10.2.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}

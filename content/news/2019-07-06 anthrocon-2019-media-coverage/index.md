@@ -4,7 +4,7 @@ author: "Guest User"
 date: "2019-07-06T18:15:59-0400"
 draft: false
 aliases:
-    - "/news/2019/7/6/anthrocon-2019-media-coverage"
+  - "/news/2019/7/6/anthrocon-2019-media-coverage"
 
 banner: "banner-2k.png"
 banner_author: ""
@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< img src="pittsburgh-furry-paper-2019.jpg" alt="The Pittsburgh City Paper also became “The Pittsburgh Furry Paper” for the week. (Read it online here)" caption="The Pittsburgh City Paper also became “[The Pittsburgh Furry Paper](https://twitter.com/PGHCityPaper/status/1146399466037157890)” for the week. ([Read it online here](https://issuu.com/pghcitypaper/docs/issue_27_digital))" >}}
 
-We decided to put together a list of all of the media coverage which we received for Anthrocon 2019.  This list will be updated as we learn of new articles, so if there’s something not on here, [feel free to send it to us](/contact).
+We decided to put together a list of all of the media coverage which we received for Anthrocon 2019. This list will be updated as we learn of new articles, so if there’s something not on here, [feel free to send it to us](/contact).
 
 - [The origin of how Pittsburgh and furries fell in love with each other](https://www.pghcitypaper.com/pittsburgh/the-origin-of-how-pittsburgh-and-furries-fell-in-love-with-each-other/Content?oid=15356126)
 - [Anthrocon 2019 in Pittsburgh: Etiquette, parade details, and all your other furry &nbsp;questions](https://theincline.com/2019/07/03/anthrocon-2019-in-pittsburgh-etiquette-parade-details-and-all-your-other-furry-questions/)
