@@ -1,7 +1,7 @@
 +++
 title = 'Registration'
 draft = false
-menus = ['main', 'registration']
+menus = ['registration']
 +++
 
 2024 Registration Updates
@@ -35,15 +35,19 @@ There are several levels of memberships available for purchase. We recommend reg
 
 [**Attending**](#attending) \- [**Sponsor**](#sponsor) \- [**Supersponsor**](#supersponsor) \- [**Ultrasponsor**](#ultrasponsor) \- [**Day Passes**](#daypasses) - [**PUP (12 and under)**](#PUP) - [**Dealers and Assistants**](#dealers) - [**Membership disclaimers**](#disclaimers)
 
+
+## Attending
+
 As an Attending member, you’ll get:
 
 *   Access to the convention space and activities for its duration (Thursday through Sunday)
-
 
 *   Our souvenir con book, and other publications
 
 *   A weekend of fun
 
+
+## Sponsor
 
 **Pricing**
 
@@ -66,6 +70,7 @@ Sponsors are generous patrons who like to help us provide even more services and
 
 *   Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
 
+## Supersponsor
 
 **Pricing**[**\***](#disclaimers)
 
@@ -94,6 +99,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 
 *   **If registering prior to Jan 30th:** An advance opportunity to register for a hotel room before general availability[**\*\***](#disclaimers)
 
+## Ultrasponsor
 
 **_Sold Out - Pre-registration only_**
 
@@ -124,6 +130,8 @@ Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor get
 *   Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
 
 
+## Day Memberships
+
 Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration!
 
 **Pricing**
@@ -139,9 +147,7 @@ Day memberships allow a member access to the convention space and activities for
 
 **(On-site purchase only)**
 
-###
-
-PUP Membership (Ages 12 and under)
+## PUP Membership (Ages 12 and under)
 
 Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
 
@@ -156,18 +162,13 @@ Children who are 12 years old and younger at the time of the convention can get 
 
 **_Please note that children 12 and under must be accompanied by an adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian, a signed and notarized “_**[**_Parental Assignment for Supervision of Minor Child_**](#forms)**_” form must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent/guardian will need to be purchased separately._**
 
-###
-
-Dealer and Dealer Assistant membership
+### Dealer and Dealer Assistant membership
 
 A Dealer membership allows a member all the benefits of an Attending membership, as well as the ability to purchase a Dealer Table, and admission to the Artists & Dealers Social on Friday night. Dealer+Sponsor and Dealer+Supersponsor memberships are also available, giving the benefits of Sponsor and Supersponsor levels to Dealers!
 
 **_Dealer Assistants will purchase their own badges separately._** Dealer Registration for 2024 requires a passcode, which is available on [**our Dealers page**](https://www.anthrocon.org/dealers)**.** Without this passcode, you will be unable to apply for a Dealer Membership or Table.
 
-Disclaimers for registration tiers
-
-
---------------------------------------
+## Disclaimers for registration tiers
 
 **\* Note for Sponsor, Supersponsor, and Ultrasponsor:** A portion of this membership constitutes a donation to Anthrocon which, by law, is not tax-deductible and is not refundable if your registration is canceled.  For more information, please see [**our refund policy**](https://www.anthrocon.org/refundpolicy).
 
