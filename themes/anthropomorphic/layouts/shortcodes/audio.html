@@ -1,14 +1,13 @@
-{{/*
-    Hugo shortcode audio player.
+{{/* Hugo shortcode audio player.
 
-    src
-        Required. Media location relative to page bundle.
+  src
+  Required. Media location relative to page bundle.
 
-    title
-        Media title.
+  title
+  Media title.
 
-    author
-        Media author.
+  author
+  Media author.
 */}}
 
 {{- $src := .Page.Resources.GetMatch (.Get "src") -}}
