@@ -1,21 +1,19 @@
 {{- /*
-Renders a menu for the given menu ID.
+  Renders a menu for the given menu ID.
 
-@context {page} page The current page.
-@context {string} menuID The menu ID.
+  @context {page} page The current page.
+  @context {string} menuID The menu ID.
 
-@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+  @example: {{ partial "menu.html" (dict "menuID" "main" "page" .)
+}}
 */}}
-
 {{- $page := .page }}
 {{- $menuID := .menuID }}
 
 {{- with index site.Menus $menuID }}
-  <nav>
-    <ul>
-      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-    </ul>
-  </nav>
+  <ul>
+    {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+  </ul>
 {{- end }}
 
 {{- define "partials/inline/menu/walk.html" }}
@@ -34,7 +32,7 @@ Renders a menu for the given menu ID.
             {{- printf " %s=%q" $k $v | safeHTMLAttr }}
           {{- end }}
         {{- end -}}
-        >
+      >
         {{ or (T .Identifier) .Name | safeHTML }}
       </a>
       {{- with .Children }}

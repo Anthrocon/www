@@ -3,49 +3,39 @@ languageCode = 'en-us'
 title = 'Anthropomorphic'
 
 [[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
 name = 'Registration'
 pageRef = '/registration'
 weight = 20
 
 [[menus.main]]
 name = 'Venue'
-pageRef = '/'
-weight = 30
-
-[[menus.main]]
-name = 'Venue'
 pageRef = '/travel-tips'
-weight = 40
+weight = 30
 
 [[menus.main]]
 name = 'Events'
 pageRef = '/events-panels'
-weight = 50
+weight = 40
 
 [[menus.main]]
 name = 'Dealers & Artists'
 pageRef = '/dealers'
-weight = 60
+weight = 50
 
 [[menus.main]]
 name = 'Get Involved'
 pageRef = '/volunteer'
-weight = 70
+weight = 60
 
 [[menus.main]]
 name = 'Learn'
 pageRef = '/tips-and-guides'
-weight = 80
+weight = 70
 
 [[menus.main]]
 name = 'About'
 pageRef = '/about'
-weight = 90
+weight = 80
 
 
 

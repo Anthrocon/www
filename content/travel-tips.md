@@ -8,7 +8,6 @@ Whether you’re a Pittsburgh local or flying in from around the world, there ar
 
 [**Driving and Hotel Shuttles**](#driving)\- [**Flying to Anthrocon**](#flying) \- [**Bus & Train**](#transit)
 
-
 # Driving and Hotel Shuttles
 
 If you're traveling by car, this is the address to put into your navigation system to get to the convention center:
@@ -23,13 +22,13 @@ The closest major international airport to the convention is the [**Pittsburgh I
 
 Once you arrive in Pittsburgh, there are many ways to get to your hotel:
 
-*   [**The 28X "Airport Flyer"**](https://www.portauthority.org/pdfs/28X.pdf): The cheapest way to get downtown from the airport. The three “Downtown Pittsburgh" stops are the closest to our partner hotels. Make sure to look at the maps and timetables in the link to find the best one, and note that weekdays, Saturday and Sunday schedules all differ.
+- [**The 28X "Airport Flyer"**](https://www.portauthority.org/pdfs/28X.pdf): The cheapest way to get downtown from the airport. The three “Downtown Pittsburgh" stops are the closest to our partner hotels. Make sure to look at the maps and timetables in the link to find the best one, and note that weekdays, Saturday and Sunday schedules all differ.
 
-*   [**Pittsburgh Airport’s recommended transportation options**](https://flypittsburgh.com/pittsburgh-international-airport/ground-transport/limousines-taxis-shuttles-charter-buses/)
+- [**Pittsburgh Airport’s recommended transportation options**](https://flypittsburgh.com/pittsburgh-international-airport/ground-transport/limousines-taxis-shuttles-charter-buses/)
 
-*   Taxi or a rideshare service such as [**Uber**](https://www.uber.com/) or [**Lyft**](https://www.lyft.com/)
+- Taxi or a rideshare service such as [**Uber**](https://www.uber.com/) or [**Lyft**](https://www.lyft.com/)
 
-*   [**zTrip**](https://www.ztrip.com/) - Pittsburgh's local ride-sharing service.
+- [**zTrip**](https://www.ztrip.com/) - Pittsburgh's local ride-sharing service.
 
 Coming from outside of the United States? Learn about some [**tips for travelling internationally to Anthrocon**](https://www.anthrocon.org/guides/travelling-internationally-to-anthrocon).
 

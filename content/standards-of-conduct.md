@@ -138,12 +138,11 @@ The name "Anthrocon" and the Anthrocon logo are registered service marks of Anth
 
 Anthrocon receives requests each year for Press/Media Passes from personal bloggers as well as journalistic media.  Please note that Anthrocon does not require a press pass for individual bloggers or podcasters so long as they are not attempting to:
 
-*   A.  Conduct recorded interviews of any type with any Anthrocon attendee or member in Anthrocon space.
+- A.  Conduct recorded interviews of any type with any Anthrocon attendee or member in Anthrocon space.
 
-*   B.  Film documentary footage of Anthrocon spaces, events, or attendees.
+- B.  Film documentary footage of Anthrocon spaces, events, or attendees.
 
-*   C.  Exhibiting or recording behavior that is in violation of the Anthrocon Standards of Conduct.
-
+- C.  Exhibiting or recording behavior that is in violation of the Anthrocon Standards of Conduct.
 
 Anthrocon considers recorded interviews of any type performed in Anthrocon spaces to be a form of media representation and requires an approved Anthrocon Press Pass.  Please note that if determined necessary, an Anthrocon Press Pass may require an escort and can be revoked at any time. An Anthrocon Press Pass is not a substitute for a membership. Determination as to whether or not a Press Pass is required rests solely with Anthrocon.
 
@@ -163,14 +162,13 @@ Anthrocon cannot involve itself in financial disputes between individual members
 
 The usage of any technology or device in a way that is malicious in nature will not be tolerated, regardless of the reason - there are no exceptions. Examples of usage defined as "malicious" include, but are not limited to:
 
-*   Disrupting or interrupting any digital signal or frequency
+- Disrupting or interrupting any digital signal or frequency
 
-*   Stealing, duplicating, or reading/sniffing other signals or frequencies
+- Stealing, duplicating, or reading/sniffing other signals or frequencies
 
-*   "Hacking" any digital device, service, or system that belongs to an Anthrocon attendee, the convention, or the venue(s)
+- "Hacking" any digital device, service, or system that belongs to an Anthrocon attendee, the convention, or the venue(s)
 
-*   Any other action or behavior by a device that causes harmful or disruptive impact to the integrity, availability, or confidentiality of any system.
-
+- Any other action or behavior by a device that causes harmful or disruptive impact to the integrity, availability, or confidentiality of any system.
 
 Any instance of the above, regardless whether or not deemed criminal in nature, will be reported to the appropriate authorities in addition to any consequences determined by Anthrocon, Inc.
 
