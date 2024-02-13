@@ -15,7 +15,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}[**Policies and Rules**]({{ "Anthrocon Event Policies and Rules" | anchorize }}) - [**Host an event**]({{ "Apply to host an event" | anchorize }}) - [**Frequently Asked Questions**]({{ "Frequently Asked Questions" | anchorize }}){{< /center >}}
 
-{{< column >}}
+{{< columns >}}
 {{< img src="2023+Aisling+DSC_5264.jpg" alt="A panelist presenting their panel using a projector and digital drawings for Anthrocon 2023." hint="picture" attr="Aisling Wolf" >}}
 
 <--->
@@ -25,7 +25,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 The full events schedule for the convention will be available closer to Summer 2024.
 
 {{< center >}}{{< button href="https://forms.gle/5DHqPboxWhYVWWLv7" >}}Apply online{{< /button >}}{{< /center >}}
-{{< /column >}}
+{{< /columns >}}
 
 ***
 
@@ -90,13 +90,13 @@ If you’ve got an interesting topic or talent you’d love to share with our co
 Yes, a valid Anthrocon membership is required to be able to host an event at the convention. We do not provide complimentary membership for panel hosts, but do show our appreciation with other rewards!
 {{< /details >}}
 
-{{< datails "Why don't you have more events involving other special topics/interests?" >}}
+{{< details "Why don't you have more events involving other special topics/interests?" >}}
 Anthrocon strives to provide a variety of programming events so that there is something for everyone. Our programming space is limited and we have only so many hours in the weekend; if we were cater too strongly to one particular programming track, we would have to take programming space away from other tracks. If you have ideas for events you’d like to see, please send your feedback to [**events@anthrocon.org**](mailto:events@anthrocon.org).
 {{< /details >}}
 
 {{< details "Can I submit an event for my own private function or party?" >}}
 Again, sorry, but no. Anthrocon needs all of its programming space. Even space that may appear to be unused is often needed for setup or for overflow from other events. We are also responsible for what happens in our programming space and cannot offer it to attendees without formal approval and planning.
-{{< details >}}
+{{< /details >}}
 
 {{< details "Is wireless internet provided for event hosts?" >}}
 No, wireless internet is not provided by the Events Team nor Anthrocon. If your event requires internet access, be prepared to provide it yourself either through a paid service (such as the convention center’s paid wi-fi), or your own device (mobile hotspot).
