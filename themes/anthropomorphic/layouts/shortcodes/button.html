@@ -1,0 +1,12 @@
+{{/* Shortcode renders text inside a CSS link button.
+
+  relref
+  Link internal path.
+
+  href
+  Link external URL.
+*/}}
+
+<a href="{{ .Get "href" }}">
+  {{- .Inner | markdownify -}}
+</a>
