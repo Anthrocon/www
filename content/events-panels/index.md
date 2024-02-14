@@ -13,7 +13,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}Anthrocon features a variety of events and panels over the weekend. From outdoor parades to learning new crafts and social meetups, you’ll have plenty to do!{{< /center >}}
 
-{{< center >}}[**Policies and Rules**]({{ "Anthrocon Event Policies and Rules" | anchorize }}) - [**Host an event**]({{ "Apply to host an event" | anchorize }}) - [**Frequently Asked Questions**]({{ "Frequently Asked Questions" | anchorize }}){{< /center >}}
+{{< center >}}[**Policies and Rules**](#anthrocon-event-policies-and-rules) - [**Host an event**](#apply-to-host-an-event) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
 
 {{< columns >}}
 {{< img src="2023+Aisling+DSC_5264.jpg" alt="A panelist presenting their panel using a projector and digital drawings for Anthrocon 2023." hint="picture" attr="Aisling Wolf" >}}
