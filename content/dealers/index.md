@@ -15,7 +15,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}[**Important information**](#important-information-for-applying) - [**Table Pricing for 2024**](#table-pricing-for-2024) - [**Dealers Assistants**](#dealers-assistants){{< /center >}}
 
-{{< column >}}
+{{< columns >}}
 ### Dealers applications for Anthrocon 2024
 
 Applications to vend at Anthrocon 2024 will be open from **October 15th at 11am Eastern Time** to **November 15th, 2023**. Reviews and acceptance or rejections will be finalized **by January 20th, 2024**. Apply using the button below.
@@ -27,7 +27,7 @@ If you are a Dealer’s Assistant, you must wait until your Dealer is approved b
 <--->
 
 {{< img src="2023+Nightdragon+AC+218.jpg" alt="A vendor and a costumed customer performing a transaction in Anthrocon's Dealers Room." hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
-{{< /column >}}
+{{< /columns >}}
 
 ***
 
@@ -104,4 +104,4 @@ The following options **do not include power (electricity)**. Requests for power
 
 Dealer Assistants must purchase their badges separately once the Dealer application has been approved. This option will become available starting on **January 9th, 2024**. We STRONGLY recommend Dealer Assistants be named before the close of pre-registration; handling them on-site is slower for us, you, and them.
 
-{{< center >}}*Inquiries may be sent to* [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org)*, on Twitter to* [**@AnthroconDealer**](https://twitter.com/AnthroconDealer)*, or by postal mail to:* Anthrocon, Inc., 150 Wrenn Drive Unit 759, Cary, NC 27512
+{{< center >}}*Inquiries may be sent to* [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org)*, on Twitter to* [**@AnthroconDealer**](https://twitter.com/AnthroconDealer)*, or by postal mail to:* Anthrocon, Inc., 150 Wrenn Drive Unit 759, Cary, NC 27512{{< /center >}}

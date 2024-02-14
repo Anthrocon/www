@@ -60,7 +60,7 @@ Boarding takes place at the Convention Center Riverfront Plaza, right outside th
 
 {{< center >}}### **Friday, July 5th**{{< /center >}}
 
-{{< center >}}**Sightseeing Cruise**{{< center >}}
+{{< center >}}**Sightseeing Cruise**{{< /center >}}
 
 **Boarding Time:** Boarding begins at **2:30 PM**
 
@@ -115,11 +115,11 @@ Boarding takes place at the Convention Center Riverfront Plaza, right outside th
 
 {{< center >}}## Boarding process{{< /center >}}
 
-{{< img src="2023+BlueHasia+Day+1-253.jpg" hint ="photo" attr="Blue Hasia" >}}
+{{< img src="2023+BlueHasia+Day+1-253.jpg" hint="photo" attr="Blue Hasia" >}}
 
 ### Boarding process
 
-Boarding will take place at the [**Convention Center Riverfront Plaza**](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557){{< underline >}},{{< /uncderline >}} in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
+Boarding will take place at the [**Convention Center Riverfront Plaza**](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557){{< underline >}},{{< /underline >}} in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
 
 - The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
 - You **do not** need a con badge to board the cruise. However, you will need your cruise tickets for boarding, in either printed or electronic format.
