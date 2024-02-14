@@ -25,6 +25,6 @@ Here’s the form! [https://veyote.typeform.com/to/gu7VmS](https://veyote.typefo
 
 If you have any questions, please feel free to reach out to or DM [@AnthroconDances](https://twitter.com/anthrocondances) on Twitter. We can't wait to hear what you've got.
 
-\-[@Veyote](https://twitter.com/veyote)&amp; [@Protocollie](https://twitter.com/protocollie)
+\-[@Veyote](https://twitter.com/veyote) &amp; [@Protocollie](https://twitter.com/protocollie)
 
 Your Anthrocon Dance Team
