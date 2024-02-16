@@ -65,7 +65,7 @@ As an Attending member, you’ll get:
 - **$65: Pre-registered**
 - $80: On-site
 
-{{< center >}}{{< buntton href="https://anthrocon.regfox.com/anthroconreg" >}}Register online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://anthrocon.regfox.com/anthroconreg" >}}Register online{{< /button >}}{{< /center >}}
 {{< /columns >}}
 
 ***
@@ -99,7 +99,7 @@ Sponsors are generous patrons who like to help us provide even more services and
 
 {{< center >}}***Sold Out - Pre-registration only***{{< /center >}}
 
-{{< center >}}**Pricing**[**\***](#disclaimers-for-registration-tiers)**:** $300
+{{< center >}}**Pricing**[**\***](#disclaimers-for-registration-tiers)**:** $300{{< /center >}}
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
 
@@ -119,7 +119,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 
 {{< center >}}***Sold Out - Pre-registration only***{{< /center >}}
 
-{{< center >}}**Pricing**[**\***](#disclaimers-for-registration-tiers): $1000{{< center >}}
+{{< center >}}**Pricing**[**\***](#disclaimers-for-registration-tiers): $1000{{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
 
@@ -195,7 +195,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 {{< center >}}## Minor Forms{{< /center >}}
 
-{{< center >}}If you are attending Anthrocon and are **under the age of 18 by** **July 4th, 2024**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.
+{{< center >}}If you are attending Anthrocon and are **under the age of 18 by** **July 4th, 2024**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
 
 {{< columns >}}
 {{< center >}}**Minor Consent Form**{{< /center >}}
