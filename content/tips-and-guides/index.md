@@ -159,3 +159,4 @@ Our Convention Operations room, located in Room 309 of the David L. Lawrence Con
 
 {{< details "Can you provide more tips/different topics that aren't covered here?" >}}
 We’re always happy to help. If you’re looking for other information or tips regarding Anthrocon, let us know by emailing [**info@anthrocon.org**](mailto:info@anthrocon.org).
+{{< /details >}}
