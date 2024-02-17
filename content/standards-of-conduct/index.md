@@ -1,10 +1,15 @@
-+++
-title = 'Standards of Conduct'
-draft = false
-menus = ['registration']
-+++
+---
+title: "Standards of Conduct"
+weight: 0
 
-# Standards of Conduct — Anthrocon 2024: AnthroCoaster - July 4-7, 2024
+banner: "19562525078_9c4333bb72_o_KotaWinter.jpg"
+banner_title: ""
+banner_caption: ""
+banner_author: "KotaWinter"
+banner_url: "https://flickr.com/photos/131696694@N04/19562525078/in/album-72157655959057531/"
+---
+
+{{< center >}}# Standards of Conduct{{< /center >}}
 
 This is the Standards of Conduct for Anthrocon, Inc. and all events sponsored by Anthrocon, Inc.; these entities are referred to as ‘Anthrocon’ henceforth.
 
@@ -52,7 +57,7 @@ For safety, only handheld glowsticks are permitted in the dances. Glowsticks on 
 
 Please do not sleep in convention space or hotel lobbies; return to your hotel room or home.
 
-In order to minimize the spread of contagion (commonly known as “con crud”), anyone showing any sign of illness, regardless of cause, must wear a CDC-approved mask or will otherwise be asked to leave convention space.  Anthrocon cannot provide masks for this purpose.
+In order to minimize the spread of contagion (commonly known as “con crud”), anyone showing any sign of illness, regardless of cause, must wear a CDC-approved mask or will otherwise be asked to leave convention space.&nbsp;Anthrocon cannot provide masks for this purpose.
 
 Anthrocon attendees must abide by instructions given by Anthrocon Safety staff. Failure to do so will result in loss of membership privileges. Any disputes or concerns may be addressed onsite at Convention Operations.
 
@@ -70,7 +75,7 @@ Harassment includes, but is not limited to:
 
 (b) Conduct, dress, or speech that targets, threatens, intimidates, or is otherwise intended to cause distress to other attendees, or members of protected classes (such as those based on race, age, religion, national origin, disability, gender, or sexual identity).
 
-If people tell you "no" or ask you to leave them alone, your business with them is done.  If you continue to attempt contact with them, you may be removed from the premises and have membership privileges permanently revoked.  Remember: "A costume does not imply consent."
+If people tell you "no" or ask you to leave them alone, your business with them is done.&nbsp;If you continue to attempt contact with them, you may be removed from the premises and have membership privileges permanently revoked.&nbsp;Remember: "A costume does not imply consent."
 
 Anyone who has been convicted of a crime of violence against another person for which they are required to register with any state or local law enforcement agency may be denied membership to the convention at the sole discretion of Anthrocon, Inc.
 
@@ -84,7 +89,7 @@ Anyone providing false documentation of identity or age will be denied membershi
 
 ### Service Animal Policy
 
-Pets are not permitted in convention space. Service dogs (as defined by the Americans with Disabilities Act or ADA, Title II) are permitted in convention space provided that they are under appropriate control. _Emotional Support Animals and Therapy Animals are NOT considered service dogs by the ADA, and are not permitted in convention space._
+Pets are not permitted in convention space. Service dogs (as defined by the Americans with Disabilities Act or ADA, Title II) are permitted in convention space provided that they are under appropriate control. *Emotional Support Animals and Therapy Animals are NOT considered service dogs by the ADA, and are not permitted in convention space.*
 
 ### Hotel Party Policy
 
@@ -108,7 +113,7 @@ Overly large requests for room amenities such as towels and pillows will not be 
 
 ### Sales of Goods and Services
 
-The offering for sale of any goods or services at the convention may only occur in appropriate and authorized areas of convention space, only at authorized times, and only by registered, authorized vendors of the area in question. In all cases sales will be governed by the applicable rules of each area, such as the Dealer Rules & Information Packet for the Dealers Room. Unauthorized sales of any goods or services may result in revocation of membership.
+The offering for sale of any goods or services at the convention may only occur in appropriate and authorized areas of convention space, only at authorized times, and only by registered, authorized vendors of the area in question. In all cases sales will be governed by the applicable rules of each area, such as the Dealer Rules &amp; Information Packet for the Dealers Room. Unauthorized sales of any goods or services may result in revocation of membership.
 
 ### Smoking, Alcohol, and Substance Abuse
 
@@ -130,21 +135,19 @@ Realistic weapon replicas are permitted as part of a costume only during costume
 
 All journalists, media photographers, and any other members of the press are required to display an official Anthrocon Press Badge or be accompanied by a senior Anthrocon staff member at all times while in convention space. Members of the press who have not been issued a Press Badge may not conduct interviews or take photographs, audio or video footage without an escort.
 
-If members of the media are present, attendees must act responsibly. Media representatives who do not have Press Badges and are not escorted by an Anthrocon staff member should be reported to Anthrocon Safety staff or to Convention Operations immediately. _Do not speak to any unbadged and unescorted members of the press!_
+If members of the media are present, attendees must act responsibly. Media representatives who do not have Press Badges and are not escorted by an Anthrocon staff member should be reported to Anthrocon Safety staff or to Convention Operations immediately. *Do not speak to any unbadged and unescorted members of the press!*
 
 Anthrocon members should be aware that audio and/or video recordings are frequently made in convention space and that their likenesses may appear in those recordings. Certain areas of convention space, as well as certain convention personnel, may be fitted with audio and/or video recording devices for the purpose of enhancing the safety and security of our attendees. Individual members agree to assign without compensation the use of their likeness(es) at Anthrocon for the use of promotional material such as highlight videos.
 
 The name "Anthrocon" and the Anthrocon logo are registered service marks of Anthrocon, and must not be used in any fashion that disparages or dilutes that mark. Members agree to remove from circulation or publication any image or recording that in the sole opinion of Anthrocon, Inc. misrepresents or defames its service mark.
 
-Anthrocon receives requests each year for Press/Media Passes from personal bloggers as well as journalistic media.  Please note that Anthrocon does not require a press pass for individual bloggers or podcasters so long as they are not attempting to:
+Anthrocon receives requests each year for Press/Media &nbsp;Passes from personal bloggers as well as journalistic &nbsp;media.&nbsp;Please note that Anthrocon does not require a press pass for individual bloggers or podcasters so long as they are not attempting to:
 
-- A.  Conduct recorded interviews of any type with any Anthrocon attendee or member in Anthrocon space.
+- A.&nbsp;Conduct recorded interviews of any type with any Anthrocon attendee or member in Anthrocon space.
+- B.&nbsp;Film documentary footage of Anthrocon spaces, events, or attendees.
+- C.&nbsp;Exhibiting or recording behavior that is in violation of the Anthrocon Standards of Conduct.
 
-- B.  Film documentary footage of Anthrocon spaces, events, or attendees.
-
-- C.  Exhibiting or recording behavior that is in violation of the Anthrocon Standards of Conduct.
-
-Anthrocon considers recorded interviews of any type performed in Anthrocon spaces to be a form of media representation and requires an approved Anthrocon Press Pass.  Please note that if determined necessary, an Anthrocon Press Pass may require an escort and can be revoked at any time. An Anthrocon Press Pass is not a substitute for a membership. Determination as to whether or not a Press Pass is required rests solely with Anthrocon.
+Anthrocon considers recorded interviews of any type performed in Anthrocon spaces to be a form of &nbsp;media &nbsp;representation and requires an approved Anthrocon Press Pass.&nbsp;Please note that if determined necessary, an Anthrocon Press Pass may require an escort and can be revoked at any time. An Anthrocon Press Pass is not a substitute for a membership. Determination as to whether or not a Press Pass is required rests solely with Anthrocon.
 
 ### Payments and Money Matters
 
@@ -158,16 +161,13 @@ Please note that Anthrocon is a 501(c)7 nonprofit organization. As such, donatio
 
 Anthrocon cannot involve itself in financial disputes between individual members, and cannot divulge information about an individual member to any party other than to banking officials or legal authorities.
 
-### Technology Policy
+### Technology &nbsp;Policy
 
-The usage of any technology or device in a way that is malicious in nature will not be tolerated, regardless of the reason - there are no exceptions. Examples of usage defined as "malicious" include, but are not limited to:
+The usage of any &nbsp;technology &nbsp;or device in a way that is malicious in nature will not be tolerated, regardless of the reason - there are no exceptions. Examples of usage defined as "malicious" include, but are not limited &nbsp;to:
 
 - Disrupting or interrupting any digital signal or frequency
-
 - Stealing, duplicating, or reading/sniffing other signals or frequencies
-
 - "Hacking" any digital device, service, or system that belongs to an Anthrocon attendee, the convention, or the venue(s)
-
 - Any other action or behavior by a device that causes harmful or disruptive impact to the integrity, availability, or confidentiality of any system.
 
 Any instance of the above, regardless whether or not deemed criminal in nature, will be reported to the appropriate authorities in addition to any consequences determined by Anthrocon, Inc.
@@ -176,6 +176,6 @@ Any instance of the above, regardless whether or not deemed criminal in nature, 
 
 The standards of conduct for Anthrocon will be enforced by Anthrocon Safety Staff. Please remember that your membership badge is the property of Anthrocon, and must be presented and/or surrendered to any Staff member requesting it. If you have any problem with any action taken by a Staff member you may take the matter up with the Safety Head or with Anthrocon's Chairman.
 
-Please be reminded that these rules involve "worst-case" scenarios and are put into place to ensure the safety and comfort of our members. They are also not all-inclusive; in all cases, the singular rule that supersedes all others is: "_Any action or behavior that causes significant interference with convention operations, excessive discomfort to other attendees, or adversely affects Anthrocon's relationship with its guests, its venue, or the public is strictly forbidden and may result in revocation of membership privileges._"
+Please be reminded that these rules involve "worst-case" scenarios and are put into place to ensure the safety and comfort of our members. They are also not all-inclusive; in all cases, the singular rule that supersedes all others is: "*Any action or behavior that causes significant interference with convention operations, excessive discomfort to other attendees, or adversely affects Anthrocon's relationship with its guests, its venue, or the public is strictly forbidden and may result in revocation of membership privileges.*"
 
 We anticipate no difficulties, as our members as a whole are rational and responsible people. Anthrocon is prepared to handle difficulties as efficiently as possible should they occur. We thank our members for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Please remember to be courteous of those around you, and have fun!
