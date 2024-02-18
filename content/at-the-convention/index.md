@@ -101,3 +101,4 @@ Shuttles will be running on the following schedule during the convention days:
 <--->
 
 Our official Convention Guide is updated for each year and contains some handy information on everything related to the convention. For information regarding local businesses such as restaurants or services, we recommend online services such as [**Yelp**](https://yelp.com) and [**Google**](https://www.google.com/maps).
+{{< /columns >}}
