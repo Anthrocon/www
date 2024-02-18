@@ -82,4 +82,4 @@ Other public transit options including the local [**Pittsburgh Regional Transit*
 
 Anthrocon members who live in the Northeast Corridor and the upper Midwest may wish to consider taking a train to Anthrocon. It is more convenient than driving, and usually costs less than airfare. [**Amtrak**](http://www.amtrak.com/) offers rail service to the **Pittsburgh Rail Station (PGH)**, which is right across the street from the Westin Hotel, at **1100 Liberty Ave**.
 
-The station is serviced by Amtrak's [**Capitol Limited](https://www.amtrak.com/capitol-limited-train), running Chicago-Cleveland-Pittsburgh-Washington DC and points between, and [**Pennsylvanian**](https://www.amtrak.com/pennsylvanian-train), running Pittsburgh-Philadelphia-New York and points between.
+The station is serviced by Amtrak's [**Capitol Limited**](https://www.amtrak.com/capitol-limited-train), running Chicago-Cleveland-Pittsburgh-Washington DC and points between, and [**Pennsylvanian**](https://www.amtrak.com/pennsylvanian-train), running Pittsburgh-Philadelphia-New York and points between.

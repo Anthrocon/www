@@ -21,7 +21,7 @@ banner_url: ""
 
 {{< center >}}## 2023 Sponsored Charity: Rabbit Wranglers{{< /center >}}
 
-{{< img src="274921580_324641599702544_8546365176713337444_n.jpg" alt="The Rabbit Wranglers logo of a bunny silhouette." float="left" hint="icon" >}}
+{{< img src="274921580_324641599702544_8546365176713337444_n.jpg" alt="The Rabbit Wranglers logo of a bunny silhouette." float="left" hint="drawing" >}}
 
 **Rabbit Wranglers** is a Pittsburgh-based all-volunteer nonprofit organization. Their mission is to help abused, neglected and abandoned rabbits and educate the public to improve the lives of these companion animals.
 
@@ -97,3 +97,4 @@ In order to support local nonprofits in a way that best relates to the conventio
 **Incorporated in the state of Pennsylvania.**
 
 To be considered, simply contact charity@anthrocon.org expressing interest.  Candidacy means that the organization has been added to the list of available options for consideration in any given future year, as long as the organization remains active.  The convention's Board considers candidates in December and makes a selection in January. Anthrocon's charity staff representatives make a site visit to the selected charity in February/March to validate legitimacy.
+{{< /details >}}
