@@ -274,7 +274,7 @@ All of the rooms in our block are King Studio Suites. They are fully equipped wi
 
 ***
 
-{{< columns "33% ">}}
+{{< columns "33%" >}}
 {{< img src="embassy-suites-pittsburgh-downtown.jpg" hint="photo" >}}
 
 <--->
@@ -330,7 +330,7 @@ Located just across the street from the Convention Center (but with no access wi
 
 ***
 
-{{< columns "33% >}}
+{{< columns "33%" >}}
 {{< img src="drury-plaza-pittsburgh-downtown.jpg" alt="A picture of the interior of the Drury Plaza Pittsburgh Downtown." hint="picture" >}}
 
 <--->
@@ -350,7 +350,7 @@ Located on Grant St just around the corner from the Westin, The Drury is a histo
 
 ***
 
-{{< columns "33% >}}
+{{< columns "33%" >}}
 {{< img src="AC-Hotel-Pittsburgh.jpg" hint="photo" >}}
 
 <--->

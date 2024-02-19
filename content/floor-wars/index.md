@@ -16,7 +16,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 {{< center >}}[**Competition Format**](#competition-format) - [**Competition Rules**](#competition-rules) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
 
 {{< columns >}}
-{{< img scr="2023+LionelLeupold+ac2023-6R1A3328.jpg" alt="Furries and fursuiters battling each other on the floor during Floor Wars." hint="picture" attr="LionelLeupold" attrlink="https://flic.kr/p/2gZhFoJ" >}}
+{{< img src="2023+LionelLeupold+ac2023-6R1A3328.jpg" alt="Furries and fursuiters battling each other on the floor during Floor Wars." hint="picture" attr="LionelLeupold" attrlink="https://flic.kr/p/2gZhFoJ" >}}
 
 <--->
 
