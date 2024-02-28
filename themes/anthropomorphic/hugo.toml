@@ -37,6 +37,10 @@ name = 'About'
 pageRef = '/about'
 weight = 80
 
+[[menus.main]]
+name = 'Latest News'
+pageRef = '/news'
+weight = 90
 
 
 [module]

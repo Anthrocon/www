@@ -1,7 +1,7 @@
 <p>
   ©
-  {{ time.Now | time.Format "2006" }}
   {{- if .Site.Copyright }}
     {{ .Site.Copyright }}
   {{- end }}
+  1996 - {{ time.Now | time.Format "2006" }}
 </p>
