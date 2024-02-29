@@ -26,13 +26,12 @@
 		URL for attr link.
 */}}
 
+{{- $resWidths := slice -}}
 {{- if hugo.IsProduction }}
-	{{- $resWidths := slice "240" "480" "720" "960" "1200" "1440" "1680" "1920" "2160" "2400" "2640" "2880" "3120" "3360" "3600" "3840" -}}
-{{- else }}
-	{{- $resWidths := slice "1130" -}}
+	{{- $resWidths = slice "240" "480" "720" "960" "1200" "1440" "1680" "1920" "2160" "2400" "2640" "2880" "3120" "3360" "3600" "3840" -}}
 {{- end }}
 
-{{- $cssWidth := "760" -}}
+{{- $cssWidth := "1130" -}}
 
 {{- $src := .Page.Resources.GetMatch (.Get "src") -}}
 {{- if not $src -}}
