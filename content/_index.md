@@ -1,32 +1,43 @@
-+++
-title = 'Home'
-date = 2023-01-01T08:00:00-07:00
-draft = false
-aliases = ['/home']
-+++
+---
+title: ""
+weight: 0
+aliases:
+    - "/home"
 
-# Anthrocon is Pittsburgh's Premier Furry Convention
+banner: "AC_2022_group+photo_3000px_dark.jpg"
+banner_video: "https://youtu.be/zuyyRuu00Dk"
+banner_title: "Anthrocon is Pittsburgh's Premier Furry Convention"
+banner_caption: "July 4th - July 7th, 2024"
+banner_button: "Register online"
+banner_button_link: "https://anthrocon.regfox.com/anthroconreg"
+banner_author: "Patrick Snowyote"
+banner_url: "https://www.youtube.com/watch?v=Wayi0jiziNI"
+---
 
-> July 4th - July 7th, 2024
+{{< center >}}# **Welcome to Anthrocon**{{< /center >}}
 
-[REGISTER ONLINE](#registration)
+Join us for our annual convention every summer as we celebrate anthropomorphics, which are human-like animal characters, such as have fascinated mankind since the dawn of human imagination. We are a collection of artists,&nbsp;animators, writers, costumers, puppeteers, and just everyday fans who enjoy cartoon animals and their kin.
 
-## Welcome to Anthrocon
+{{< columns >}}
+{{< img src="2023+Kavaeric+_DSC6257.jpg" alt="Two fursuiters at the Allegheny waterfront, giving a thumbs up to the camera." hint="photo" link="/registration" attr="Kavaeric" >}}
 
-Join us for our annual convention every summer as we celebrate anthropomorphics,
-which are human-like animal characters,
-such as have fascinated mankind since the dawn of human imagination.
-We are a collection of artists, animators, writers, costumers, puppeteers,
-and just everyday fans who enjoy cartoon animals and their kin.
+{{< center >}}### [Registration](/registration){{< /center >}}
 
-### Registration
+{{< center >}}Learn about our different membership levels for the convention, and purchase a ticket.{{< /center >}}
 
-Learn about our different membership levels for the convention and purchase a ticket!
+<--->
 
-### Hotels
+{{< img src="2023+Nightdragon+AC+019.jpg" alt="A picture of a gryphon and a fox checking into the Courtyard Marriott Pittsburgh hotel." hint="photo" link="/hotel" attr="Nightdragon" >}}
 
-Find out what hotels are available to stay during the convention.
+{{< center >}}### [Hotels](/hotel){{< /center >}}
 
-### Tips and Guides
+{{< center >}}Find out what hotels are available to stay at during the convention.{{< /center >}}
 
-Learn about helpful topics and guides to help make your convention experience.
+<--->
+
+{{< img src="_MG_3712.jpg" alt="Two fursuiters reading the convention guide at Anthrocon 2022.." hint="picture" link="/tips-and-guides" attr="Hokuloa Luau" >}}
+
+{{< center >}}### [TIPS &amp; GUIDES](https://www.anthrocon.org/tips-and-guides){{< /center >}}
+
+{{< center >}}Learn about helpful topics and guides to help make your convention experience.{{< /center >}}
+{{< /columns >}}
