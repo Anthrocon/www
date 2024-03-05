@@ -1,7 +1,19 @@
-{{/* Shortcode to format content into div columns.
+{{/*
+  Shortcode to format content into div columns.
 
-  w1
+  string
   Width of first column.
+
+  "<--->"
+  Magic separator.
 */}}
 
-{{- .Inner | markdownify -}}
+<!-- themes/anthropomorphic/layouts/shortcodes/columns.html -->
+
+<div style="display: flex; margin: 0 -20px;">
+  {{ range split .Inner "<--->" }}
+    <div style="flex: 1; padding: 0 20px;">
+      {{ . | $.Page.RenderString }}
+    </div>
+  {{ end }}
+</div>
