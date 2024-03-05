@@ -23,7 +23,11 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
 {{< img src="2023+Luau+7953.jpg" alt="DJ Gnaw making the crowd go wild at Anthrocon's Nightly Dance." hint="picture" attr="Hokuloa Luau" >}}
 {{< /columns >}}
 
-**Applications to perform as a DJ for Anthrocon 2024 will be available in Spring 2024**. Check back later for more details, and keep an eye out for announcements made on our social media channels!
+### **Interested in applying as a DJ for our convention?**
+
+Our DJ applications are now open and will remain open until the DJ coordinator has determined enough have been submitted. Apply today!
+
+{{< center >}}{{< button href="https://veyote.typeform.com/to/NKoWGOps" >}}Apply online{{< /button >}}{{< /center >}}
 
 ***
 

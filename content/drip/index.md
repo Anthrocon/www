@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< center >}}Anthrocon is July 4th-7th, 2024, and will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.{{< /center >}}
 
-[**The Short Version** | ](#the-short-version)[**Hours**](#hours) | [**Obtaining a Dealership**](#obtaining-a-dealership) | [**Before the Dealers Room Opens | The Dealer's Room is Open**](#before-the-dealers-room-opens) | [**After the Dealers Room Closes**](#after-the-dealers-room-closes) | [**Administrative Details**](#administrative-details)
+[**The Short Version** |](#the-short-version) [**Hours**](#hours) | [**Obtaining a Dealership**](#obtaining-a-dealership) | [**Before the Dealers Room Opens | The Dealer's Room is Open**](#before-the-dealers-room-opens) | [**After the Dealers Room Closes**](#after-the-dealers-room-closes) | [**Administrative Details**](#administrative-details)
 
 The Dealer Rules &amp; Information Packet (aka the DRIP) contains rules, instructions, and important information for dealers.&nbsp;If you’re looking for information about shipping your items to the DLCC, view our [**Shipping Guide**](https://www.anthrocon.org/dlcc-shipping-guide).
 
@@ -58,6 +58,8 @@ Load-out begins at 4PM on Sunday; you will need to have a dealer staff member ve
 ### Merchandise
 
 Your merchandise must be acceptable under any and all applicable rules or laws.&nbsp;Adult material outside the Mature Dealer Section must be kept away from minors.; binders must be closed when not being browsed or kept under/behind the table. &nbsp;Displays must not encroach on other dealerships.&nbsp;Annoyances such as lights, music or sound, and strong smells or fumes must be kept under your control.&nbsp;Larger powered equipment must be approved by Anthrocon and the convention center in advance.
+
+**Items generated wholly or partially by AI tools are not permitted for sale.**
 
 Adult-oriented displays and items are permitted in the Mature Dealer Section so long as they do not present illegal content.&nbsp;Dealers selling adult merchandise are allowed to have items on display, but all sales must be “catalog sales” for later delivery; no on-site sales of adult merchandise is permitted.&nbsp;Anyone inside the Mature Dealer Section must abide by the rules presented in the Standards of Conduct.
 
@@ -174,10 +176,10 @@ As a general rule, we ask that a Dealership only purchases a number of Assistant
 
 | Table Size | Space (Total) | Space (Table Only) | Space (Behind) | Seats Provided |
 | --- | :----: | :----: | :----: | :----: |
-| Half | 38sqft | 4'x30' (2'6") | 4'x7' | 1 |
-| Single | 76sqft | 8'x30" (2'6") | 8'x7' | 2 |
+| 38sqft | 4'x30' (2'6") | 4'x7' | 1 |
+| 76sqft | 8'x30" (2'6") | 8'x7' | 2 |
 | Single+Half | 114sqft | 12'x30" (2'6") | 12'x7' | 3 |
-| Double | 152sqft | 16'x30" (2'6") | 16'x7' | 4 |
+| 152sqft | 16'x30" (2'6") | 16'x7' | 4 |
 | Triple | 228sqft | 24'x30" (2'6") | 24'x7' | 6 |
 | Quad | 304sqft | 32'x30" (2'6") | 32'x7' | 8 |
 | Quint | 380sqft | 40'x30" (2'6") | 40'x7' | 10 |
@@ -311,6 +313,7 @@ Dealers are allowed to place cameras at their tables for security purposes.&nbsp
 - Items and services that are illegal to possess or sell in the United States, Commonwealth of Pennsylvania, or City of Pittsburgh are equally prohibited in the Dealers Room. Items and services that require a specific permit or license to display or sell will require the Dealer to present the license.&nbsp;Notably, this includes CBD products, tobacco, lotteries, and raffles.&nbsp;Items or services which may be hazardous will require the Dealer to carry their own insurance; if we determine this is necessary, the Dealers Staff will reach out for a copy of your Certificate of Insurance.
 - Any item that is prohibited for direct sale is also not permitted for display, giveaway, or delivery during or after the convention unless otherwise specified.
 - The responsibility to ensure proper copyright of merchandise rests with Dealerships. Anthrocon recommends Dealers research and be aware of the legality of copyrights, trademarks, works of parody, and fan art. Artwork or merchandise that is known to be counterfeit is prohibited.
+- Items generated wholly or partially by AI tools are not permitted for sale.
 - Depiction of minors, real or fictional, in adult situations is strictly prohibited, either on display or for sale; such items may not be kept out of sight but available.&nbsp;This rule applies to both the general Dealers Room and the Mature Dealer Section.
 - Items of a racist, sexist, or otherwise hateful nature will not be permitted for sale in the Dealers Room.&nbsp;This includes paraphernalia related to certain groups or political movements, or items intended to agitate and provoke.
 - Non-firearm weapons such as swords are acceptable provided the item is blunted and that the purchases are fully wrapped afterward. &nbsp;Anthrocon safety policy requires that these items not be waved, pointed, or otherwise brandished in public. Any items which resemble firearms but are non-firing must also be fully wrapped and not brandished.&nbsp;Customers who purchase such items should be encouraged to carry them directly to their hotel rooms or vehicles.
@@ -373,7 +376,7 @@ Minors will be clearly identified by a brightly colored name-field on their memb
 
 - Horseplay is not allowed in the Dealers Room. This includes the use of any squirt guns, silly string, or any flown, thrown, or projectile item. Anthrocon is not responsible for injuries, breakage, or loss incurred by or caused by any dealer or attendee.
 - Items or services that may create a mess, such as face painting, should have a disposable floor covering in order to contain the mess and make for easy cleanup. Similarly, items or services with pathogen concerns, such as tattooing, will require Dealers and Members to have appropriate Personal Protective Equipment and proper sanitation.&nbsp;Under no circumstances should any Dealer clean any item in the Convention Center washrooms.
-- Items or services that may create a mess, such as face painting, should have a disposable floor covering in order to contain the mess and make for easy cleanup. Similarly, items or services with pathogen concerns, such as tattooing, will require Dealers and Members to have appropriate Personal Protective Equipment and proper sanitation.&nbsp;Under no circumstances should any Dealer clean any item in the Convention Center washrooms.
+- There is a strict NO SMOKING OR VAPING policy in the Dealers Room and the David L. Lawrence Convention Center. Furthermore, no items that generate an open flame or excessive heat may be employed. If you have an air compressor or similar motorized equipment, you must obtain clearance from the Convention Center through the Dealers Room Director prior to its use.
 - Electrical power is exclusively for use of the Dealerships that purchase it and is meant only for business equipment and their important personal devices.&nbsp;If you so wish, allowing other Dealers to use your power is allowed, but moving power outlets around to other tables or running cords of any length from one table to another is prohibited.
 - Dealers may feel free to spend as much or as little time at their Dealer Table during Dealer hours as they choose. However, if the staff note that a Dealer table is often unoccupied or is showing minimal merchandise during the convention, it will be noted during future curations.
 - Those in the Mature Dealer Section are still expected to follow the rules presented in the Standards of Conduct; dealers and attendees must remain in “street legal” attire at all times, and displays of affection should remain appropriate for polite company.&nbsp;Leashes and leads may not be attached to collars, and adult-oriented audio must not be audible outside of the Mature Dealer Section, with headphones strongly recommended.
@@ -395,7 +398,7 @@ All Dealerships will be given a check-out form on Saturday or Sunday of the conv
 
 ## Administrative Details
 
-- Issues arising prior to the convention should ideally be emailed to [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org). For simple questions, there is a Dealer Telegram group with several staff members present; formal business needs to be conducted by email or phone. While the Dealers Room does have a Twitter account, it is not a good primary way to make the staff aware of issues, and matters sent via Direct Message may be missed.&nbsp;During the convention, we recommend speaking directly to the Dealers Room Staff or other appropriate staff. After the convention ends, email again becomes the preferred method of communication.
+- Issues arising prior to the convention should ideally be emailed to [{{< underline >}}**dealers@anthrocon.org**{{< /underline >}}](mailto:dealers@anthrocon.org). For simple questions, there is a Dealer Telegram group with several staff members present; formal business needs to be conducted by email or phone. While the Dealers Room does have a Twitter account, it is not a good primary way to make the staff aware of issues, and matters sent via Direct Message may be missed.&nbsp;During the convention, we recommend speaking directly to the Dealers Room Staff or other appropriate staff. After the convention ends, email again becomes the preferred method of communication.
 - All decisions made by the Dealers Room Director as to the appropriateness of display, merchandise, conduct, sales, or any other issue will be final.&nbsp;Refusal to follow their decision may result in ejection.
 - The Dealers Room Director reserves the right to revoke Dealer status, Dealer Assistant status, Dealer Tables, entire Dealerships, Memberships, Dealers Room access, or loading dock access at any time for any reason, without refund.
 - **Any person who accepts a Dealership at Anthrocon is understood to have read the rules in the Dealer Rules &amp; Information Packet (DRIP), as well as the complete and most recent** [**Anthrocon Standards of Conduct**](/standards-of-conduct)**, and has agreed to abide by them. Anthrocon, Inc. also reserves the right to amend these rules at any time without prior or posted notice and reserves the sole right of interpretation.**
