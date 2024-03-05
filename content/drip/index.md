@@ -176,10 +176,10 @@ As a general rule, we ask that a Dealership only purchases a number of Assistant
 
 | Table Size | Space (Total) | Space (Table Only) | Space (Behind) | Seats Provided |
 | --- | :----: | :----: | :----: | :----: |
-| 38sqft | 4'x30' (2'6") | 4'x7' | 1 |
-| 76sqft | 8'x30" (2'6") | 8'x7' | 2 |
+| Half | 38sqft | 4'x30' (2'6") | 4'x7' | 1 |
+| Single | 76sqft | 8'x30" (2'6") | 8'x7' | 2 |
 | Single+Half | 114sqft | 12'x30" (2'6") | 12'x7' | 3 |
-| 152sqft | 16'x30" (2'6") | 16'x7' | 4 |
+| Double | 152sqft | 16'x30" (2'6") | 16'x7' | 4 |
 | Triple | 228sqft | 24'x30" (2'6") | 24'x7' | 6 |
 | Quad | 304sqft | 32'x30" (2'6") | 32'x7' | 8 |
 | Quint | 380sqft | 40'x30" (2'6") | 40'x7' | 10 |
