@@ -1,8 +1,9 @@
-{{/* Shortcode to left align content block. */}}
+{{/*
+    Shortcode to left align content block.
+*/}}
 
-{{- $optBlock := dict "display" "block" -}}
-
+{{- $opts := dict "display" "block" -}}
 
 <div style="text-align: left;">
-  {{ .Inner | .Page.RenderString $optBlock }}
+    {{ .Inner | .RenderString $opts }}
 </div>

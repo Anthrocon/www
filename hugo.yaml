@@ -27,6 +27,11 @@ imaging:
   resampleFilter: "Lanczos"
 
 languageCode: "en-US"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 theme: "anthropomorphic"
 timeout: "600s"
 timeZone: "America/New_York"
