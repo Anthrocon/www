@@ -3,7 +3,7 @@ cascade:
   _build:
     publishResources: false
 
-copyright: "Anthrocon, Inc."
+copyright: "Anthrocon Inc"
 disableHugoGeneratorInject: true
 enableRobotsTXT: true
 frontmatter:
