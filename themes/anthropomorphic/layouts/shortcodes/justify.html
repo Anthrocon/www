@@ -5,5 +5,5 @@
 {{- $opts := dict "display" "block" -}}
 
 <div style="text-align: justify;">
-    {{ .Inner | .RenderString $opts }}
+    {{ .Inner | .Page.RenderString $opts }}
 </div>
