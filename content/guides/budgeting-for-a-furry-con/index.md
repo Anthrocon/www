@@ -14,7 +14,7 @@ banner_url: ""
 
 {{< center >}}*Please note that the following content does not constitute as financial advice and should not be treated as such, and are only tips based on our personal experiences.*{{< /center >}}
 
-Everyone has their own budget for conventions, so how do you make sure you keep within yours? There are several ways you can keep an eye on your spending while still enjoy the convention to the fullest, most involve a bit of advance planning. When budgeting for a con, I like to separate the individual expenses into three sets: Travel expenses (hotel and transportation), food and supplies, and convention &amp; leisure expenses.
+Everyone has their own budget for conventions, so how do you make sure you keep within yours? There are several ways you can keep an eye on your spending while still enjoy the convention to the fullest, most involve a bit of advance planning. When budgeting for a con, I like to separate the individual expenses into three sets: Travel expenses (hotel and transportation), food and supplies, and convention & leisure expenses.
 
 ### **TRAVEL EXPENSES**
 
@@ -30,7 +30,7 @@ Once you have your hotel and travel costs figured out, then you can see how much
 
 In addition, if you plan on dining out with a big group (6 or more people), restaurants may automatically charge a service tip so you don’t have to worry about calculating a tip. This automatic charge is normally between 18% to 20% depending on the restaurants, but it’ll make your final bill go up more than you might be expecting.
 
-### **CONVENTION &amp; LEISURE PURCHASES**
+### **CONVENTION & LEISURE PURCHASES**
 
 Fur cons are vacations, so make sure you budget for some “fun” money as well! Maybe you want to do a little sightseeing in the city around the convention days (recommended if it’s your first time visiting!), Pittsburgh certainly has quite a bit of history and culture to explore, or maybe something furry-related such as one of our [**Anthrocon River Cruises**](https://www.anthrocon.org/anthrocon-river-cruises), or the more extravagant Dinner or Cocktail Cruises, strikes your fancy. Just make sure that whatever your plans are, that you know the cost of the excursion before you go, so there are no budgeting surprises.
 

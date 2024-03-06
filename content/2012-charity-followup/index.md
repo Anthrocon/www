@@ -48,7 +48,7 @@ Captain Van - "Bellerophon" custom Nerf gun - $150<br>
 Dev Madan - Original sketch for Anthrocon 2012 Supersponsor print - $215<br>
 Charlie Groark - "The Art of the Lion King" + lt ed sericel - $700<br>
 Skull Dog - Anthrocon 2012 dance poster w/ sketches - $120<br>
-Sanguine Games - Sly Cooper 2 &amp; 3 for PS2 signed by Dev Madan - $125<br>
+Sanguine Games - Sly Cooper 2 & 3 for PS2 signed by Dev Madan - $125<br>
 Mooncat, Joatmon - 2x blind bag Series I US release MLP:FiM cases - $75<br>
 Kuddlepup/Anthrocon - Anthrocon 2012 fursuiter badge #69 - $300<br>
 The Westin Hotel - 4 nights in the Westin for Anthrocon 2013 - $850<br>
@@ -63,7 +63,7 @@ Auction total: $7,085
 Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 
 Chantilly Cat - Border collie plush - $64<br>
-Jim &amp; Crystal Martin - Basket w/ plush panda, meerkat, wolf - $27<br>
+Jim & Crystal Martin - Basket w/ plush panda, meerkat, wolf - $27<br>
 WPAFW - Two WPAFW commemorative glasses, 2012 registrations - $16<br>
 Dr. G's Survey Research - Tiger mug - $10<br>
 Chantilly Cat - Donkey mug from "Shrek" - $4<br>
@@ -89,7 +89,7 @@ Joatmon - "Usagi Yojimbo: Foxhunt" HC signed by Stan Sakai - $52<br>
 Chiaroscuro - Professional Bull Riders grab bag - $2<br>
 Applejinx - Albany Anthrocon 1998 conbook - $15<br>
 The DoubleTree Hotel - 4 nights in the DoubleTree for Anthrocon 2013 - $315<br>
-Jenner &amp; Aaron Neathery - "Examination" artwork - $12<br>
+Jenner & Aaron Neathery - "Examination" artwork - $12<br>
 Happy Kitty Studio - Art prints, web comic compilation book - $1<br>
 Furp's estate - "I Feel Sick" #1-2 (3rd print, signed by Rikki Simmons), "Everything Can Be Beaten" (1st print, signed by Jhonen Vasquez, Bracan) - $21<br>
 Raiettei - Fox ear cap - $9<br>
@@ -115,18 +115,18 @@ Furp's estate - Masami Esaka Art Works book, Team Esaka Illustrations comic, sig
 Furp's estate - "Three Fingers" book, signed - $13<br>
 Chantilly Cat - Two automotive t-shirts - $4<br>
 Sssagena Aire - Python-shed earrings - $3<br>
-Hawley - Princess Celestia &amp; Princess Luna MLP:FiM toys - $14<br>
+Hawley - Princess Celestia & Princess Luna MLP:FiM toys - $14<br>
 Furp's estate - Wildlifers #1 - $6<br>
-Joatmon - "Draw Furries," "Drawing Fantastic Furries," Reeves drawing &amp; sketching set, new sketchbook - $74<br>
+Joatmon - "Draw Furries," "Drawing Fantastic Furries," Reeves drawing & sketching set, new sketchbook - $74<br>
 NimhMUCK.com - Dark Heaven, Ral Partha miniatures - $2
 
 Raffle total: $1,609
 
 ***
 
-2 &amp; Kage's Comedy Show (tix @ $10): $3,269
+2 & Kage's Comedy Show (tix @ $10): $3,269
 
-Cash donations &amp; Merchandise sales: $4,844
+Cash donations & Merchandise sales: $4,844
 
 Bucket brigade donations: $2,839
 

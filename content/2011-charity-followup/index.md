@@ -11,7 +11,7 @@ banner_url: ""
 
 Hi, and welcome to the 2011 edition of the Anthrocon Charity Event Followup!
 
-Anthrocon raised a total of $11,522 for the Toonseum, our supported charity this year. Thanks very much to Joe Wos, Jim &amp; Crystal Martin, and all the volunteers from the Toonseum who came out to participate!
+Anthrocon raised a total of $11,522 for the Toonseum, our supported charity this year. Thanks very much to Joe Wos, Jim & Crystal Martin, and all the volunteers from the Toonseum who came out to participate!
 
 Importantly, gratitude goes to all the donors who contributed artwork and merchandise to the auction and raffle, and to those who bid at the auction or bought raffle tickets. This is what makes the event go, so recognition of their philanthropy cannot be understated.
 
@@ -40,7 +40,7 @@ The Omni - 4 nights stay for 2012 - $500<br>
 The Toonseum - Party package - $350<br>
 Kerri Perucki - Original art cutting board - $25<br>
 Joatmon - Walt Disney "Fantasia" statuette - $100<br>
-Krin - Black &amp; gold plush dragon - $45<br>
+Krin - Black & gold plush dragon - $45<br>
 The Toonseum - Original MacGruff puppet - $25<br>
 Anthrocon - Anthrocon flag - $650<br>
 Tyrrlin - Army/scout rations - $100<br>
@@ -69,7 +69,7 @@ Foxy\*Art - Bald eagle, build-a-Bear plushes - $12<br>
 The Toonseum - Tigger statuette #1 - $13<br>
 FlyingFox17 - Framed squirrel artwork - $18<br>
 Morgain Crochet Tiger - Harry Potter handmade house scarves - $57<br>
-Killjoy, Mama Cat - Dinosaur &amp; Snubbies plush set, leopard plush - $24<br>
+Killjoy, Mama Cat - Dinosaur & Snubbies plush set, leopard plush - $24<br>
 The Toonseum - "How To Toon" DVD - $7<br>
 The Toonseum - Amazing Cows book - $6<br>
 The Toonseum - Winnie the Pooh statuette #1 - $8<br>
@@ -84,10 +84,10 @@ Amaruq - Two XL animal t-shirts - $25<br>
 John Lindgren - "Warriors: The Powers of Three" six-book HC set, "The Unscratchables" HC - $33<br>
 The Toonseum - TMNT poster set - $8<br>
 The Toonseum - Hello Kitty books - $8<br>
-Slickpuppy - GURPS "Bunnies &amp; Burrows" signed by Jim Groat - $24<br>
+Slickpuppy - GURPS "Bunnies & Burrows" signed by Jim Groat - $24<br>
 The Toonseum - "Peanuts" baseball team action figure set - $3<br>
-The Toonseum - Superman &amp; Green Lantern bag and toy set - $25<br>
-The Toonseum - Batman &amp; Joker bag and toy set - $34<br>
+The Toonseum - Superman & Green Lantern bag and toy set - $25<br>
+The Toonseum - Batman & Joker bag and toy set - $34<br>
 The Toonseum - Looney Tunes football framed print - $8<br>
 Dronon - "Chronicles of Narnia" Dawn Treader" poster - $9<br>
 Korth - Tepig plush - $65<br>
@@ -129,7 +129,7 @@ Charlie Groark - Collected "Xanadu" TPBsw/ original Vicky Wyman art - $72<br>
 Neil Weber - Roz Gibson collection, "Blacksad: The Sketch Files" - $26<br>
 Chad Carpenter - "Tundra" 2012 calendars - $10<br>
 FlyingFox17 - Framed duck artwork - $4<br>
-The Toonseum - Mother Goose &amp; Grimm book, signed - $17<br>
+The Toonseum - Mother Goose & Grimm book, signed - $17<br>
 The Toonseum - Steelers quarterback Mickey Mouse - $5<br>
 The Toonseum - Spooky Tales set - $21<br>
 Anonymous - "The Laugh Out Loud Cats Sell Out" HC - $22<br>
@@ -139,7 +139,7 @@ The Toonseum - [unknown] - $25
 
 Raffle total: $1,812
 
-2 &amp; Kage's Comedy Show (tix @ $10): $3,430
+2 & Kage's Comedy Show (tix @ $10): $3,430
 
 Additional cash donations: $825
 

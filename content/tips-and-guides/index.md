@@ -9,7 +9,7 @@ banner_author: "HawkPool"
 banner_url: ""
 ---
 
-{{< center >}}#Convention Tips &amp; Guides{{< /center >}}
+{{< center >}}#Convention Tips & Guides{{< /center >}}
 
 {{< center >}}Looking for information on how to plan your convention? Going to Anthrocon for the first time? Our staff writers have some helpful topics and guides to help make your experience the best possible one.{{< /center >}}
 

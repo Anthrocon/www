@@ -42,7 +42,7 @@ The entire **city** was talking about us. We got plenty of news coverage:
 - [Furries are artists, and Anthrocon is their Sotheby's](https://www.pghcitypaper.com/pittsburgh/furries-are-artists-and-anthrocon-is-their-sothebys/Content?oid=15328123)
 - [Furries descend on Pittsburgh for Anthrocon '19](https://www.wpxi.com/news/top-stories/pittsburgh-furries-furries-descend-on-pittsburgh-for-anthrocon-19/956066098)
 - ['Furries' To Invade Pittsburgh For Costumed Convention](https://patch.com/pennsylvania/pittsburgh/furries-invade-pittsburgh-costumed-convention)
-- [Things To Do This Weekend In &amp; Around Pittsburgh: July 5-7](https://kdkaradio.radio.com/articles/things-do-weekend-around-pittsburgh-july-5-7)
+- [Things To Do This Weekend In & Around Pittsburgh: July 5-7](https://kdkaradio.radio.com/articles/things-do-weekend-around-pittsburgh-july-5-7)
 - [Top 13 things to do in Pittsburgh in July](https://www.nextpittsburgh.com/events/top-13-things-to-do-in-pittsburgh-in-july/)
 - [For Some With Autism, Furry Culture Offers Comfort And Acceptance](https://www.wesa.fm/post/some-autism-furry-culture-offers-comfort-and-acceptance#stream/0)
 

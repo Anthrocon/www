@@ -22,10 +22,10 @@ Below is a tally of all the items sold, including their donor and sale price. Th
 \- Button collection (Anthrocon Art Show - Unclaimed art from AC '00) - $25<br>
 \- Lion/Bear/Tiger pendants (Robin Andersen) - $30<br>
 \- Leather book cover w/ dragon, small leather notebook cover w/ wolf design by Larry Sands (T'Chall) - $55<br>
-\- Appearance in "The Suburban Jungle" &amp; prints (The Gneech) - $160<br>
+\- Appearance in "The Suburban Jungle" & prints (The Gneech) - $160<br>
 \- Tails acrylic spray paint t-shirt (Dudley, the Mosh-Pit Dinosaur) - $63<br>
 \- 4' black bear plush (Canis Lupus) - $50<br>
-\- Hand-cut sterling &amp; copper applique pony pin (Flinthoof, Rochndil) - $100<br>
+\- Hand-cut sterling & copper applique pony pin (Flinthoof, Rochndil) - $100<br>
 \- Framed set of Furry Forever pins (Aetobatus) - $500<br>
 \- "Bloom County - Loose Tails", "On With Shoe!", "Hagar the Horrible",<br>
 "The Brass Dragon" paperback books (Anubis) - $15<br>
@@ -40,7 +40,7 @@ Below is a tally of all the items sold, including their donor and sale price. Th
 \- "Before the Trail Ride" artwork (Ursula "Hedgy" Husted) - $30<br>
 \- Casio QV-200 Digital Camera - used (PunkTiger) - $125<br>
 \- "Turkish Dancer" t-shirt w/ artwork (Chris Goodwin) - $20<br>
-\- Pepe le Pew &amp; Penelope pillowcases (Anonymous) - $75<br>
+\- Pepe le Pew & Penelope pillowcases (Anonymous) - $75<br>
 \- Hello Kitty bathroom set (Nightsky Bluewyrm) - $30<br>
 \- Large plush assortment (Furs of Unifursal, Lutris, Anubis, Killjoy) - $110<br>
 \- Anthrocon 2000 Zoo Alexander's Cafe Menu (Anonymous) - $25<br>
@@ -64,9 +64,9 @@ Below is a tally of all the items sold, including their donor and sale price. Th
 \- "Xang" artwork (Cecil) - $25<br>
 \- Artwork portfolio (Various) - $135<br>
 \- Unopened box of original Otter Pops (Anonymous) - $30<br>
-\- Original print of Archie's Pals &amp; Gals Double Digest (Dan &amp; Josie DeCarlo) - $75<br>
+\- Original print of Archie's Pals & Gals Double Digest (Dan & Josie DeCarlo) - $75<br>
 \- Fox cub plush (Wags, the Lion) - $40<br>
-\- Rapid T. Rabbit video, photo, buttons &amp; painted wood artwork (Rapid T. Rabbit, Nightsky Bluewyrm) - $30<br>
+\- Rapid T. Rabbit video, photo, buttons & painted wood artwork (Rapid T. Rabbit, Nightsky Bluewyrm) - $30<br>
 \- "Tiger" artwork (Robin Andersen) - $45<br>
 \- "The Lone Wolf Survival Guide" cookbook (Robin Andersen) - $40<br>
 \- Looney Tunes plush (Killjoy) - $40<br>
@@ -84,12 +84,12 @@ Below is a tally of all the items sold, including their donor and sale price. Th
 \- 2 "Razor" action figures and 2 eagle books (Harmless Gryphon) - $80<br>
 \- Artwork from "Whose Sketch is it Anyway?" event (Unknown) - $25<br>
 \- Gigglin' Meeko plush (Po Shan Cheah) - $75<br>
-\- "Kevin &amp; Kell" artwork (Bill Holbrook) - $100<br>
+\- "Kevin & Kell" artwork (Bill Holbrook) - $100<br>
 \- Deer Avenger PC game (ShiroTora) - $40<br>
 \- Boiled Egg Super-deformed F-16 model kit (Anubis) - $10<br>
 \- "Oddkins" book by Dean Koontz (T'Chall) - $150<br>
 \- "Kimba, the Lion Prince" videos (Unknown) - $20<br>
-\- "Kevin &amp; Kell" commission (Bill Holbrook) - $200<br>
+\- "Kevin & Kell" commission (Bill Holbrook) - $200<br>
 \- "My Name Is" mini-plush set (Killjoy) - $15<br>
 \- Winged lion model (Calgor) - $60<br>
 \- 2 Arctic fox plush (Wags, the Lion) - $100<br>
@@ -99,13 +99,13 @@ Below is a tally of all the items sold, including their donor and sale price. Th
 \- "The Muck is Empty" artwork by Jim Groat (Points) - $20<br>
 \- Large bear plush (Killjoy) - $30<br>
 \- 2 cans of L. L. Bean "Grizzly Paws" chocolates (PunkTiger) - $25<br>
-\- Digimon promo cards (Killjoy &amp; Hoyt's Cinemas) - $20<br>
+\- Digimon promo cards (Killjoy & Hoyt's Cinemas) - $20<br>
 \- Full set of "Xanadu" comics signed by Vicky Wyman (Charlie Groark) - $50<br>
 \- 2 etched glass wolf mugs (Robin Andersen) - $90<br>
 \- Audio tiger soap pump (Killjoy) - $50<br>
 \- "Between the Earth and the Sky" artwork (Fennec) - $35<br>
-\- Tony, the Tiger commercial animation cels &amp; drawing (Bennie) - $100<br>
-\- 2 t-shirts from Thunderhawk Big Cat Rescue (Kimba W. Lion &amp; Robin Andersen) - $35<br>
+\- Tony, the Tiger commercial animation cels & drawing (Bennie) - $100<br>
+\- 2 t-shirts from Thunderhawk Big Cat Rescue (Kimba W. Lion & Robin Andersen) - $35<br>
 \- "Bookworm" artwork (Caribou) - $55<br>
 \- Navajo-pattern afghan (Sarge) - $30<br>
 \- Gothic delight candle (Anonymous) - $20<br>
@@ -113,7 +113,7 @@ Below is a tally of all the items sold, including their donor and sale price. Th
 \- Furrygames.com T-shirt (Bruce Thomas) - $20<br>
 \- Set of artwork (Kashy Fox) - $30<br>
 \- "A Walk in the Shadows" artwork (Fennec) - $40<br>
-\- "Waiting For His Mom" artwork (Cleo Hanzlik), "Stud" artwork (Caribou), "Nightmare" artwork (Lonnie "Dalia" DiNello &amp; Chris Goodwin) - $100<br>
+\- "Waiting For His Mom" artwork (Cleo Hanzlik), "Stud" artwork (Caribou), "Nightmare" artwork (Lonnie "Dalia" DiNello & Chris Goodwin) - $100<br>
 \- "The Animal in You" book (Robin Andersen) - $15<br>
 \- Plush bear w/ hand-knit Anthrocon sweater (Timothy, the Raven) - $20<br>
 \- Deer Avenger 2 PC game and 2 tins of Scho-Ka-Kola chocolate (Kidcat) - $30<br>

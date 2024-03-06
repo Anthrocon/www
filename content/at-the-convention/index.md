@@ -26,7 +26,7 @@ If you’re driving into Pittsburgh, we recommend exploring the public parking l
 
 <--->
 
-{{< img src="Parking+Map+2022.png" alt="A Google Maps view of public paid parking lots in the Triangle district of Pittsburgh." hint="drawing" link="https://www.google.com/maps/d/u/0/viewer?ll=40.44194598380221%2C-79.9980669&amp;mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&amp;z=16" >}}
+{{< img src="Parking+Map+2022.png" alt="A Google Maps view of public paid parking lots in the Triangle district of Pittsburgh." hint="drawing" link="https://www.google.com/maps/d/u/0/viewer?ll=40.44194598380221%2C-79.9980669&mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&z=16" >}}
 {{< /columns >}}
 
 ***

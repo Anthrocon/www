@@ -35,7 +35,7 @@ If you are a Dealer’s Assistant, you must wait until your Dealer is approved b
 
 All tables are 8 feet wide and 30 inches deep, with 7 feet of space behind each table and large aisles for customers to navigate, as well as a dealers-only aisle between the backs of tables to make it easier to move around during the day.
 
-You must read and understand the [**Dealer Rules &amp; Information Packet (DRIP)**](/drip) and [**Anthrocon’s Standards Of Conduct (SOC)**](/standards-of-conduct) before registering as a Dealer. Important information will be available in the DRIP. Should you have any questions not answered by the DRIP or SOC, please contact us at:
+You must read and understand the [**Dealer Rules & Information Packet (DRIP)**](/drip) and [**Anthrocon’s Standards Of Conduct (SOC)**](/standards-of-conduct) before registering as a Dealer. Important information will be available in the DRIP. Should you have any questions not answered by the DRIP or SOC, please contact us at:
 
 - [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org) by email
 - [**@AnthroconDealer on Twitter**](https://twitter.com/anthrocondealer)

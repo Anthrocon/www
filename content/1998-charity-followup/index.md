@@ -21,11 +21,11 @@ Untitled artwork (Cecil) - $30<br>
 Kagemushi's Story Hour Card (Dr Samuel Conway) - $60 + $60 matching<br>
 Feral! Registration (Dan Markey) - $60<br>
 CF9 artjam (Paul Salivar) - $99<br>
-MS Sidewinder Force-Feedback Pro joystick &amp; game bundle (Paul Seid) - $100<br>
-Electronic "Rumble &amp; Roar" Power Blast Godzilla (Dr. Samuel Conway) - $20<br>
+MS Sidewinder Force-Feedback Pro joystick & game bundle (Paul Seid) - $100<br>
+Electronic "Rumble & Roar" Power Blast Godzilla (Dr. Samuel Conway) - $20<br>
 Untitled artwork (Ted Sheppard) - $30<br>
 Signed print (David Wong) - $40<br>
-Worlds of Wonder Animated Mickey Mouse (Snuggems &amp; Wolfcub) - $30<br>
+Worlds of Wonder Animated Mickey Mouse (Snuggems & Wolfcub) - $30<br>
 MS Flight Simulator '98 (Paul Seid) - $45<br>
 Five (5) Chipmunk 45 vinyl albums (Gary Akins) - $48<br>
 Russian historical anthropomorphized history book (Mejeep) - $75<br>
@@ -34,16 +34,16 @@ Signed copy of Shandaverse Encyclopedia 4th Ed. (Mike Curtis) - $50<br>
 
 For the above sale, nearly all the members of the audience contributed $5 to buy the tv for the convention. This is the kind of magical thing I see now and then that makes me proud to be a member of this community.
 
-Feivel doll (Snuggems &amp; Wolfcub) - $30<br>
-Worlds of Wonder Teddy Ruxpin/Grubby combo (Snuggems &amp; Wolfcub) - $50
+Feivel doll (Snuggems & Wolfcub) - $30<br>
+Worlds of Wonder Teddy Ruxpin/Grubby combo (Snuggems & Wolfcub) - $50
 
 During the sale of the above item, Jim Groat arrived and announced that he would annihilate the pair for the highest bid in his favor. Unfortunately or fortunately Jim lost out to a pair of collectors who had the most horrified expressions on their faces when Jim Groat made his announcement and fought valiantly to save poor TR's life.
 
 "Pride of Place" artwork (Mary Hanson-Roberts) - $35<br>
-Two boxes of assorted plush (Snuggems &amp; Wolfcub) - $50<br>
+Two boxes of assorted plush (Snuggems & Wolfcub) - $50<br>
 MS Age of Empires game - $55<br>
-Custom raccoon costume tail by Calypso (Snuggems &amp; Wolfcub) - $35<br>
-Fievel backpack (Snuggems &amp; Wolfcub) - $20
+Custom raccoon costume tail by Calypso (Snuggems & Wolfcub) - $35<br>
+Fievel backpack (Snuggems & Wolfcub) - $20
 
 For the life of me, I still get the giggles when I remember Kagemushi announcing, upon seeing it for the first time: "My God, roadkill!" cos Fievel looked flat as a pancake... :)
 

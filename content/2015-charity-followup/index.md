@@ -35,7 +35,7 @@ Finally, here are all the details.
 
 Charity Auction (in no particular order) [donor - item - sale price]:
 
-Lèvé - Melissa &amp; Doug tiger plush - $80<br>
+Lèvé - Melissa & Doug tiger plush - $80<br>
 Anthrocon - Anthrocon 2015 giant fursuiter badge #2015 - $150<br>
 Salem Wolf - Rocket Raccoon "Gentle Giant" mini-bust - $130<br>
 Fdaki Industries - "A Brony Tale" DVD signed by Ashleigh Ball - $50<br>
@@ -69,14 +69,14 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 Dr. Gerbasi - Russian wild canine nesting dolls - $132<br>
 Mama Folkmanis - Folkmanis tomcat puppet, signed - $35<br>
 Mama Folkmanis - Folkmanis grizzly bear puppet, signed - $40<br>
-Anonymous - AC '11 t-shirt, AC '14 conbook &amp; performer badge signed by Lee Tockar - $46<br>
+Anonymous - AC '11 t-shirt, AC '14 conbook & performer badge signed by Lee Tockar - $46<br>
 Amaruq - "49 Shades Of Grey" t-shirt - $59<br>
-Darkclaw &amp; Tyrrlin - Fabrikations Rocket Raccoon soft sculpture - $56<br>
+Darkclaw & Tyrrlin - Fabrikations Rocket Raccoon soft sculpture - $56<br>
 Bullwinkel Family - Basket of 13 moose plush - $53<br>
 Dr. Gerbasi - Ceramic horse head bookends - $31<br>
 Dr. Gerbasi - "Purr-fect" picture frame - $16<br>
-Dr. Gerbasi - "You Had Me At Woof" picture frame &amp; wolf postcards - $18<br>
-Dr. Gerbasi - Fox plush &amp; mug - $56<br>
+Dr. Gerbasi - "You Had Me At Woof" picture frame & wolf postcards - $18<br>
+Dr. Gerbasi - Fox plush & mug - $56<br>
 Dr. Gerbasi - "Toby" husky plush - $62<br>
 Dr. Gerbasi - "Dance Like An Animal" hair ties, socks, headband - $4<br>
 Dr. Gerbasi - Set of 6 Ty Beanie-Boos - $14<br>
@@ -84,7 +84,7 @@ Dr. Gerbasi - 2x leopard keychain jewelery - $12<br>
 Dr. Gerbasi - MLP:FiM Benie Baby set - $44<br>
 Karmakat - Buffalo Wings TPBs - $47<br>
 Karmakat - Police Academy: The Animated Series Vol. 1 DVD - $19<br>
-Noy - European candy &amp; soda gift basket - $217<br>
+Noy - European candy & soda gift basket - $217<br>
 Anthrocon / Fizz Otter - Anthrocon 2015 "Hyena" fursuit badge - $17<br>
 Anthrocon / Fizz Otter - Anthrocon 2015 "Bear" fursuit badge - $85<br>
 Anthrocon / Fizz Otter - Anthrocon 2015 "Otter" fursuit badge - $41<br>
@@ -94,7 +94,7 @@ Anthrocon / Fizz Otter - Anthrocon 2015 "Goat" fursuit badge - $26<br>
 Anthrocon / Fizz Otter - Anthrocon 2015 "Lion" fursuit badge - $45<br>
 Anthrocon / Fizz Otter - Anthrocon 2015 "Skunk" fursuit badge - $33<br>
 Diana - Bunny scarf - $23<br>
-Slickpuppy - Usagi Yojimbo #1-16 (Mirage) &amp; #1-30 (Dark Horse) - $87<br>
+Slickpuppy - Usagi Yojimbo #1-16 (Mirage) & #1-30 (Dark Horse) - $87<br>
 Hyena Agenda - "Fox Fire" t-shirt, stickers, buttons - $113<br>
 Hyena Agenda - "The Face" t-shirt, stickers, buttons - $75<br>
 Coventry Decor - "Yeeaah!" etched glass, signed by Jayson Thiesson - $11<br>
@@ -104,12 +104,12 @@ Soba - Mickey Mouse tie - $32<br>
 Soba - Electronic Sonic corkboard, neon store display sign - $130<br>
 Soba - Midwest Furfest 2006 ice cream social skeych poster by Spunky - $6<br>
 Legion Printing - Flagon with a dragon - $19<br>
-M&amp;T Comics - "The First Lipizzaner" HC art book - $8<br>
+M&T Comics - "The First Lipizzaner" HC art book - $8<br>
 Wolf Blair Creations - "Dragon Rider" framed print by tBLAIRs - $18<br>
 Courtyard - Four nights at Courtyard Marriott for Anthrocon 2016 - $914<br>
 Sssage - "Celtic Dragon" hand-engraved glass vase by Sssage - $41<br>
 Sssage - "Master Of His Star" unique canvas print by Sssage - $39<br>
-Smooth-On - Lifecasting starter kit &amp; Ultimate wound kit - $54<br>
+Smooth-On - Lifecasting starter kit & Ultimate wound kit - $54<br>
 Tiger Torre Art - Leather bobcat mask, retired pattern - $19<br>
 The Gneech - Suburban Jungle cameo - $58<br>
 Tricia - Limited ed. Disney mirror - $33<br>
@@ -120,12 +120,12 @@ Daniel Skirtandzy - Franklin Mint otter statuette - $17<br>
 Daniel Skirtandzy - Framed lenticular deer print - $14<br>
 Lèvé - 4' All Ball assortment - $33<br>
 Pixel and the Wolf - Pinback buttons (x50) - $31<br>
-Walt's Games - Zombies Bag o' Clowns &amp; Giant Pimple plush - $2<br>
+Walt's Games - Zombies Bag o' Clowns & Giant Pimple plush - $2<br>
 Heather V. Kreiter - My Little Demon plush, signed - $38<br>
 Lupine Assassin - "Bone" complete collection softcover - $41<br>
-Lupine Assassin - The Complete Calvin &amp; Hobbes HC book set - $177<br>
+Lupine Assassin - The Complete Calvin & Hobbes HC book set - $177<br>
 Charlie Groark - "Disney's Art Of Animation" lenticular HC, 1st ed - $43<br>
-Club Stripes / Peaches &amp; Cream &amp; studio Cute - "Rio" figurine signed by Miu &amp; Ponygirl - $38<br>
+Club Stripes / Peaches & Cream & studio Cute - "Rio" figurine signed by Miu & Ponygirl - $38<br>
 The San Diego Chicken - The San Diego Chicken merchandise lot - $16<br>
 Chantilly Cat - Motion-activated candy dispenser - $20<br>
 Furry Picnic - Signed print by Foxy, 4x Furry Picnic mugs - $20<br>
@@ -137,8 +137,8 @@ Little Forkers - "I Could Fork You" book by Tess Cooper - $4<br>
 Sym - "Sno Mates" original framed art - $6<br>
 Paul Germinaro - 5 lbs Runts candy - $35<br>
 Sanguine Games - Vinyl art banner by Chris Goodwin - $9<br>
-Shinigami Girl - "Cops &amp; Robbers" print - $45<br>
-Xolani &amp; Steph - Pop Animation Dragonball Z Resurrection F Golden Frieza vinyl figure - $9<br>
+Shinigami Girl - "Cops & Robbers" print - $45<br>
+Xolani & Steph - Pop Animation Dragonball Z Resurrection F Golden Frieza vinyl figure - $9<br>
 Julie Kossler - Furvilla 3-plush set w/ bag - $114<br>
 Red Falcon - Leatherbound journal - $33<br>
 Red Falcon - Leather claw bracers - $118<br>
@@ -180,7 +180,7 @@ Fursuiter Bucket Brigade - $3,735
 
 Cash donations - $4,748
 
-2 &amp; Kage's Comedy Show (tix @ $10) - $6,470
+2 & Kage's Comedy Show (tix @ $10) - $6,470
 
 Convention total: $35,910
 

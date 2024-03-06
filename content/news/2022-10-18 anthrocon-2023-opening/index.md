@@ -29,11 +29,11 @@ Applications to be a vendor at Anthrocon 2023 will open simultaneously with pre-
 - Dealers can apply through the same form as online pre-registration, including upgrading your membership. However, you will still need to be approved and confirmed for a Dealer’s spot. All dealers will be approved in time for hotel room reservations in late January, and a separate hotel block will be made available to approved dealers.
 - The [**Dealers Room Information Packet**](/drip) for Dealers will be updated for 2023 by the time applications open. These will include important changes including insurance policy clarifications for all vendors, and updated vendor fees.
 
-## Panels &amp; Events Applications
+## Panels & Events Applications
 
 We will be renaming the Programming department to Events! With that, we’ll be looking to open applications for hosting a panel or event at Anthrocon 2023 starting November 1st and closing on March 15, 2023. More details about panel/event rules and guidelines will be updated closer to the opening date on [**our Programming page**](/events-panels).
 
-## Volunteers &amp; Staff Signups
+## Volunteers & Staff Signups
 
 We know there are many folks interested in learning what it’s like to put on a convention, and we’d love to grow our team! We will have more information regarding volunteer and staff opportunities with our team coming in the next months. If you volunteered last year, you’ll be hearing from our Volunteers team soon regarding interest for 2023.
 

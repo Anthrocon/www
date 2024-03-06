@@ -11,7 +11,7 @@ banner_url: ""
 
 We’re now less than two months out from the biggest furry celebration of the summer in Pittsburgh! There’s plenty to pay attention to as we reach the home stretch towards the convention. For more information, read on below or listen to the audio version below!
 
-{{< audio src="Anthrocon_s+May+2023+Newsletter.mp3" title="Anthrocon 2023 - May Updates" author="Father Harvest &amp; Manick" >}}
+{{< audio src="Anthrocon_s+May+2023+Newsletter.mp3" title="Anthrocon 2023 - May Updates" author="Father Harvest & Manick" >}}
 
 ## Registration
 
@@ -23,7 +23,7 @@ We’re now less than two months out from the biggest furry celebration of the s
 - Booking partners will transfer reservation info to respective hotels in early June, attendees may receive confirmation emails from the hotel they have booked at, which will include the hotel’s confirmation. The existing acknowledgement number is ONLY for use with Orchid Events.
 - Hotel shuttle routes and maps are being finalized and will be publicly released by the convention. You’ll be able to find information about the shuttles on our [**At The Convention page**](/at-the-convention).
 
-## Convention Guides &amp; Tips
+## Convention Guides & Tips
 
 As we draw closer to the convention, we know that many folks are new to the world of conventions. If you’re heading to Anthrocon (or any furry convention) for the first time, or don’t know what to expect, our staff writers are creating many helpful topics on things like planning, budgeting, and experiencing a furry con. Check out our [**Tips and Guides section**](/tips-and-guides) to read all of our articles!
 

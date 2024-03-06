@@ -214,7 +214,7 @@ Philadelphia, PA
 
 **Guests of Honor:** Peter Laird, Timothy Albee
 
-**Charity:** [$6,470 for Greater Philadelphia Search &amp; Rescue](/2005-charity-followup)<br>
+**Charity:** [$6,470 for Greater Philadelphia Search & Rescue](/2005-charity-followup)<br>
 **Attendance:** 2,370<br>
 **Fursuit Parade:** 140 fursuiters
 
@@ -225,7 +225,7 @@ Philadelphia, PA
 
 **Guests of Honor:** Michel Gagne', Stan Sakai
 
-**Charity:** [$7,200 for Forgotten Felines &amp; Fidos (FFF)](/2004-charity-followup)<br>
+**Charity:** [$7,200 for Forgotten Felines & Fidos (FFF)](/2004-charity-followup)<br>
 **Attendance:** 2,404
 
 ### **2003 - "Creatures of the Night"**

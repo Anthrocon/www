@@ -38,7 +38,7 @@ Charity Auction (in no particular order) [donor - item - sale price]:
 Salem Wolf - "Guardians of the Galaxy" Rocket Raccoon plush backpack buddy - $45<br>
 Fizz Otter - Anthrocon 2017 "Bear" fursuit tag - $50<br>
 Osiris Adustus - 25 karat yellow topaz in silver setting - $50<br>
-Fizz Otter - Anthrocon 2017 fursuit tags #666 &amp; 69 - $200<br>
+Fizz Otter - Anthrocon 2017 fursuit tags #666 & 69 - $200<br>
 Michael Demcio - Furry-related publication lot - $230<br>
 Omni William Penn - Four nights in Omni for Anthrocon 2018 - $1400<br>
 Star Raccoon - "Guardians of the Galaxy" marquee banner - $30<br>
@@ -70,9 +70,9 @@ Auction total: **$10,205**
 Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 
 Dr. Gerbasi - $100 Amazon gift card - $305<br>
-Dr. Gerbasi - Jusy Hopps &amp; Nick Wilde "Zootopia" plush - $80<br>
+Dr. Gerbasi - Jusy Hopps & Nick Wilde "Zootopia" plush - $80<br>
 Dr. Gerbasi - MLP:FiM Ty Beanie set - $18<br>
-Dr. Gerbasi - Fox blanket/throw &amp; giant fox eraser - $75<br>
+Dr. Gerbasi - Fox blanket/throw & giant fox eraser - $75<br>
 Karmakat - 2x lion throw pillow pillowcases - $41<br>
 Dr. Gerbasi - Grumpy Cat window cling plush w/ magnets - $16<br>
 Gregory Wright - "Winter Banished" print by Kathleen Lowe - $7<br>
@@ -87,7 +87,7 @@ Lauren Morgan - Jewel Scent gift basket - $77<br>
 DoubleTree - Four nights in DoubleTree for Anthrocon 2018 - $746<br>
 Salem Wolf - Mystic Springs Oasis clothing-optional sign - $90<br>
 Mooncat - Folkmanis griffin puppet - $168<br>
-M&amp;T Comics &amp; Cards / Karmakat - "Save Our Natural World" Christmas Crackers / Penguin pin - $17<br>
+M&T Comics & Cards / Karmakat - "Save Our Natural World" Christmas Crackers / Penguin pin - $17<br>
 Dizziness - Big ol' fat carrot plush - $23<br>
 Trevor Boyd - Search Critter XXXL safety vest - $18<br>
 Trevor Boyd - Mini beanbag Prince John/Maid Marian - $13<br>
@@ -127,7 +127,7 @@ Murkrowzy - Bird fursuit partial - $187<br>
 Murkrowzy - Pink monster handpaws - $12<br>
 Murkrowzy - Yarn fox tail - $30<br>
 Tartii - "Popped Seams" original art - $101<br>
-Star Raccoon - Eyes &amp; Ears vol. 46 #5 - $52<br>
+Star Raccoon - Eyes & Ears vol. 46 #5 - $52<br>
 Star Raccoon - Groot lanyard - $36<br>
 Star Raccoon - "Guardians of the Galaxy" lanyard - $51<br>
 Felix 9 - Fox dreamcatcher - $17<br>
@@ -146,10 +146,10 @@ Rain Oubliette - Folkmanis american alligator puppet - $41<br>
 Rain Oubliette - Folkmanis 3-headed dragon puppet - $52<br>
 Rain Oubliette - Folkmanis ignuana puppet - $25<br>
 Wolf n' Cubs - "Anthrocon Baseball" original art - $7<br>
-Alexander Coldfur - Nick Wilde &amp; Judy Hopps "Zootopia" cloisonne pins - $104<br>
+Alexander Coldfur - Nick Wilde & Judy Hopps "Zootopia" cloisonne pins - $104<br>
 Alexander Coldfur - "Zootopia" Disney magicband - $62<br>
-Osiris Adustus - Amber &amp; silver earrings - $17<br>
-Osiris Adustus - His &amp; hers collar set w/ silver tag - $13<br>
+Osiris Adustus - Amber & silver earrings - $17<br>
+Osiris Adustus - His & hers collar set w/ silver tag - $13<br>
 Sarity - Nick Wilde plush - $82<br>
 Anonymous - "Otter Chakra" print by Chum Basket - $38<br>
 Fizz Otter - Anthrocon 2017 albatross fursuit tag - $13<br>
@@ -172,7 +172,7 @@ Raffle total: $6,161 + $22 (unused tix) = **$6,183**
 
 ***
 
-Angel Dragon Meet &amp; Greet - **$117**
+Angel Dragon Meet & Greet - **$117**
 
 Dr. Gerbasi's Furry Survey donation - **$300**
 

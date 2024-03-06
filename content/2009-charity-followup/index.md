@@ -30,7 +30,7 @@ Ferrous Oxide - "Crystal Mask" original art - $95<br>
 Flyingfox (17) - Framed leopard print by Eric Tenney - $70<br>
 Roland Guiscard - Dragon statue (crystals) - $225<br>
 Castle Blood - Castle Blood Prize Cauldron - $40<br>
-Korth &amp; Joey-Poey - Custom sketchbook w/ original art - $50<br>
+Korth & Joey-Poey - Custom sketchbook w/ original art - $50<br>
 Flyingfox (17) - Framed print by Judy Gibson - $60<br>
 Dorsai Irregulars - 2009 DI Migration Study tag #666 - $500<br>
 Langly - Cross-stitch original wolf artwork - $200<br>
@@ -55,9 +55,9 @@ Amaruq - Beaver statue - 76 - $15.20<br>
 Skyfire - Inktense pencil set - 151 - $30.20<br>
 Soba - RIT Tigers pennant, jersey, mug, and t-shirt - 85 - $17<br>
 Ash Evans - "Sly Fairy" art mug - 45 - $9<br>
-Jafra &amp; Pup - Four fursuit figurines - 246 - $49.20<br>
+Jafra & Pup - Four fursuit figurines - 246 - $49.20<br>
 Neon Dragon Art - "Guardian" art t-shirt - 48 - $9.60<br>
-Toolfox &amp; Pixyvixy - Plush frog puppet, RC rat, and "Night Before Cat-Mas" book/plush - 34 - $6.80<br>
+Toolfox & Pixyvixy - Plush frog puppet, RC rat, and "Night Before Cat-Mas" book/plush - 34 - $6.80<br>
 Amaruq - Wolf figurine/sculpture - 68 - 13.60<br>
 nimhmuck.com - Warzone books, Metal Wars RPG, Don Carnage figurine - 171 - $34.20<br>
 Killjoy - 5lb Hershey bar, 9.25lb Nestle Crunch bar - 349 - $69.80<br>
@@ -72,16 +72,16 @@ Tango - Set of Dorsai bling from FCN - 56 - $11.20<br>
 Jovina - Saffron Skunk partial fursuit - 385 - $77<br>
 Joatmon - Kimba series DVD set, Droopy DVD set, Akira SE DVD set - 228 - $45.60<br>
 Geemo - Barking push-button - 172 - $34.40<br>
-Rainy Day Paperback - AD&amp;D "Curse o/t Werewolf" book, $25 gift certificate - 40 - $8<br>
+Rainy Day Paperback - AD&D "Curse o/t Werewolf" book, $25 gift certificate - 40 - $8<br>
 Studio Maki - Gift basket - 62 - $12.40<br>
 Rainy Day Paperback - Dutch ed. of "Winnie the Pooh", $25 gift certificate - 2 - $0.40<br>
 Peggy Krause - "Finding My Molly" signed book - 4 - $0.80<br>
 Omni, Corsi - Weighted Companion Cube - 67 - $13.40<br>
-Pat Stanley - Bear &amp; Fox plush - 123 - $24.60<br>
+Pat Stanley - Bear & Fox plush - 123 - $24.60<br>
 Amaruq - Maleras crystal lion sculpture/etch - 36 - $7.20<br>
 Dr. Gerbasi - 10 Anthrocon 2008 hotel room keys - 45 - $9<br>
-Savage Turtle Studios - Set of fox tail &amp; ears - 153 - $30.60<br>
-ARL Wildlife Rehabilitation Center - Ostrich &amp; Peacock earrings - 12 - $2.40<br>
+Savage Turtle Studios - Set of fox tail & ears - 153 - $30.60<br>
+ARL Wildlife Rehabilitation Center - Ostrich & Peacock earrings - 12 - $2.40<br>
 D. Walker - Leather cat half-mask - 123 - $24.60<br>
 The Kemeeleon - OMGWTF Furries DVD, t-shirt, stickers, buttons - 80 - $16<br>
 Kaejae - Set of TMNT figures from McDonalds 2007 Happy Meals - 10 - $2<br>
@@ -91,7 +91,7 @@ Panja! - 2 t-shirts from KemoCon - 39 - $7.80<br>
 Mejeep - Sneakers, slippers - 21 - $4.20<br>
 Amy Wallace (Pom Pom Purses) - Art supply holder - 3 - $0.60<br>
 nimhmuck.com - Two plush bears, Lapris toy - 11 - $2.20<br>
-Ash Evans - "Yip &amp; Yap" art print - 30 - $6<br>
+Ash Evans - "Yip & Yap" art print - 30 - $6<br>
 Chiaroscuro - Game Boy Color, Para-Para Paradise game - 150 - $30<br>
 Soba - Pre-production "Sonic: Underground" art - 105 - $21
 
@@ -99,7 +99,7 @@ Raffle total: $968
 
 ***
 
-2 &amp; Kage's Comedy Show (tix @ $10): $3,930
+2 & Kage's Comedy Show (tix @ $10): $3,930
 
 Dr. Gerbasi's Furry Survey donation: $100
 

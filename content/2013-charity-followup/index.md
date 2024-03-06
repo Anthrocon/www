@@ -35,9 +35,9 @@ Charity Auction (in no particular order) [donor - item - sale price]:
 Windshear's Wares - Giant plush bear - $75<br>
 Animal - Wolf blanket - $80<br>
 Jake Stein - "Standing Proud" print #5 of 5 by Taurin Fox - $50<br>
-Rally &amp; Ahzlon - VT Rally Team poster (x2) signed by Dave Higgins &amp; Craid Drew - $30<br>
-Salem Wolf - My Little Pony Tales production cel &amp; pencil sketches - $60<br>
-Leve - Melissa &amp; Doug plush lion - $70<br>
+Rally & Ahzlon - VT Rally Team poster (x2) signed by Dave Higgins & Craid Drew - $30<br>
+Salem Wolf - My Little Pony Tales production cel & pencil sketches - $60<br>
+Leve - Melissa & Doug plush lion - $70<br>
 Anthrocon - 2013 fursuiter badges 069, 366, 666 - $300<br>
 RockitFox - Husky fursuit head - $160<br>
 Tony Ringtail - Printed photo of 2003 fursuit parade - $55<br>
@@ -45,16 +45,16 @@ Omni William Penn - Four nights in Omni William Penn for Anthrocon 2014 - $1000<
 Anthrocon - Anthrocon city shirt - $65<br>
 Hopeful Monster Studios - Cruinn Drac Farms "boob-head" wyrm - $200<br>
 Animal - Dragon statue w/ light - $125<br>
-Anthrocon &amp; Dragonscales Photography - Vinyl-printed 2013 fursuit photo - $500<br>
+Anthrocon & Dragonscales Photography - Vinyl-printed 2013 fursuit photo - $500<br>
 Folkmanis - Signed Folkmanis puppet (choice of one) [set 1] - $75<br>
 Folkmanis - Signed Folkmanis puppet (choice of one) [set 2] - $85<br>
 Folkmanis - Signed Folkmanis puppet (2nd choice of one) [set 2] - $80<br>
-Diana Gladstone - KitchenAid Mixer &amp; Food Grinder - $360<br>
+Diana Gladstone - KitchenAid Mixer & Food Grinder - $360<br>
 Anthrocon - 2013 fursuiter badges THX1138, 1200, 420 - $150<br>
 Larry Dixon - Conbook cover print for Anthrocon 2013 - $200<br>
 Salem Wolf - My Little Pony framed watercolor sketch cards by Katie Cook - $125<br>
 Dorsai Irregulars - Final fursuiter slapband #379 - $385<br>
-Folkmanis - Signed raccoon &amp; sheepdog puppets - $110<br>
+Folkmanis - Signed raccoon & sheepdog puppets - $110<br>
 Westin - Four nights in Westin for Anthrocon 2014 - $1500<br>
 Dorsai Irregulars - Golden Elevator Ticket - $350<br>
 Anthrocon - Giant fursuiter tag #1000000 - $3500<br>
@@ -78,26 +78,26 @@ Anonymous - Ty "Slush" Beanie-Boo - $18<br>
 Phantomwolf Apparel - Anthrocon unofficial XL polo - $18<br>
 Joatmon - My Little Pony Rainbow Dash belt, Derpy belt - $53<br>
 Ekim Flow - Beaver stuffing kit - $1<br>
-Windrunner - "Catspaw" signed &amp; numbered print by KC Lancaster - $7<br>
+Windrunner - "Catspaw" signed & numbered print by KC Lancaster - $7<br>
 Heather Bruton - "Charity" original acrylic art - $74<br>
-Tiger Torre Art - Vintage horse art prints &amp; 12 photo postcards - $7<br>
+Tiger Torre Art - Vintage horse art prints & 12 photo postcards - $7<br>
 Offworld Designs - "I Love BroNY" XL t-shirt - $7<br>
 Rain Oubliette - Crocheted pony scarf - $12<br>
 Robin Wahls - Hand-knitted horse purse - $6<br>
 Kasi Frost - 4x Woot.com large t-shirts - $55<br>
-Anonymous - Pinky &amp; the Brain snow globe - $24<br>
+Anonymous - Pinky & the Brain snow globe - $24<br>
 Theresa Muth - My Little Pony crochet (Anthrocon ed.) - $19<br>
-Jim &amp; Crystal Martin - Basket w/ plush ponies - $40<br>
+Jim & Crystal Martin - Basket w/ plush ponies - $40<br>
 Anthrocon - Flashing Anthrocon promo cup - $68<br>
 Nimbus Wolf - Sealed Disney's "Robin Hood" VHS - $10<br>
-Joatmon - My Little Pony papercraft, enamel pins, keychain &amp; mini-plush - $74<br>
-Danruk - Cheetah &amp; wolf XL t-shirts - $30<br>
+Joatmon - My Little Pony papercraft, enamel pins, keychain & mini-plush - $74<br>
+Danruk - Cheetah & wolf XL t-shirts - $30<br>
 Kasi Frost - 6x Woot.com medium t-shirts - $52<br>
-Brenda Lyons (Windfalcon) - "Lord &amp; Lady" original watercolor - $43<br>
-Joatmon - My Little Pony Rainbow Dash Build-A-Bear plush w/ shoes &amp; gala dress - $109<br>
+Brenda Lyons (Windfalcon) - "Lord & Lady" original watercolor - $43<br>
+Joatmon - My Little Pony Rainbow Dash Build-A-Bear plush w/ shoes & gala dress - $109<br>
 Zach Lucas - Artisan "Destroyer" whole bean espresso - $42<br>
-Jim &amp; Crystal Martin - Basket w/ plush panda, meerkat &amp; wolf - $49<br>
-Theresa Muth - Angry Birds &amp; Pig crochet - $7<br>
+Jim & Crystal Martin - Basket w/ plush panda, meerkat & wolf - $49<br>
+Theresa Muth - Angry Birds & Pig crochet - $7<br>
 DoubleTree - Four nights in DoubleTree for Anthrocon 2014 - $430<br>
 Mr. Mutt - Cameesa crowdfunded large "Fire Dog" t-shirt - $37<br>
 Anonymous - Wolf bobble-head - $20<br>
@@ -112,15 +112,15 @@ Ed Trachtenberg - Set of four luggage bag tags - $19<br>
 Tsuneko's Strapping Male Enterprises - Handcrafted ringmail keychain w/ bell - $8<br>
 Soba - Set of three books from Hermux Tantamoq adventure series - $3<br>
 Lis "Lizardbeth" Boriss - "Blazin Cheetah Float" original art w/ AC-exclusive Mix! card - $34<br>
-Weremagnus - "Kirin Warrior Girl" original art &amp; stickers/charms - $59<br>
-Friends of nimhMUCK.com - Two novels &amp; one graphic novel - $40<br>
-Tess Cooper - "I Could Fork You" book &amp; action figure - $7<br>
+Weremagnus - "Kirin Warrior Girl" original art & stickers/charms - $59<br>
+Friends of nimhMUCK.com - Two novels & one graphic novel - $40<br>
+Tess Cooper - "I Could Fork You" book & action figure - $7<br>
 Amaruq - Scrollsaw hawk artwork - $81<br>
 Phantomwolf Apparel - Anthrocon unofficial Large polo - $23<br>
 Hiasaki Kitsune - Ancient Mew Pokemon cards, promo book, 2x strategy guides - $34<br>
 Kyell Gold - Firebird logo medium t-shirt, art by Blotch, signed by Kyell Gold - $19<br>
 Agent Elrond - "Tigerhorse" print - $15<br>
-Anonymous - Pinky &amp; the Brain "sludge mug" - $20
+Anonymous - Pinky & the Brain "sludge mug" - $20
 
 Raffle total: **$2,565**
 
@@ -146,7 +146,7 @@ Fursuiter Bucket Brigade - **$1,893**
 
 Cash donations - **$5,720**
 
-2 &amp; Kage's Comedy Show (tix @ $10) - **$6,810**
+2 & Kage's Comedy Show (tix @ $10) - **$6,810**
 
 Convention total: **$31,255**
 

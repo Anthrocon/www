@@ -32,10 +32,10 @@ Soba - "Kellogg's Sweet Eatin' Carnival" metal sign - $20<br>
 Westin - Four nights in the Westin for AC 2011 - $750<br>
 James Gurney - Original Anthrocon 2010 badge art - $200<br>
 Soba - Framed Mickey Mouse sericel - $35<br>
-FurPlanet &amp; D.J. Fahl - "Save the Day" book, poster, bookmarks - $75<br>
+FurPlanet & D.J. Fahl - "Save the Day" book, poster, bookmarks - $75<br>
 Fayette Friends of Animals - Framed paw-print art - $85<br>
 Lynn Harris - Snow leopard cutting board by Kerri Perucki - $155<br>
-Bill Holbrook - Kevin &amp; Kell collection #15 signed by Holbrook &amp; Conway - $50<br>
+Bill Holbrook - Kevin & Kell collection #15 signed by Holbrook & Conway - $50<br>
 Troy - Dragon blanket - $240<br>
 DoubleTree - Four nights in the DoubleTree for AC 2011 - $500<br>
 Soba - "Choosing the Right Club" framed Goofy print - $70<br>
@@ -61,13 +61,13 @@ Mama Cat - Jaguar plush - $19<br>
 Amaruq - Beaver statue - $15<br>
 Skyfire - Inktense pencil set - $59<br>
 Ash Evans - "Sly Fairy" art mug - $19<br>
-Jafra &amp; Pup - Four fursuit figurines - $44<br>
+Jafra & Pup - Four fursuit figurines - $44<br>
 Mejeep - M:tG Portal: Second Age starter set - $56<br>
-Ritch Duncan &amp; Bob Powers - "The Werewolf's Guide to Life" paperback (signed) - $36<br>
-Pendragon Chainmail - Belt &amp; pouch - $48<br>
-Anthrocon - AC 2007 mug &amp; AC 2008 beanie promos - $7<br>
+Ritch Duncan & Bob Powers - "The Werewolf's Guide to Life" paperback (signed) - $36<br>
+Pendragon Chainmail - Belt & pouch - $48<br>
+Anthrocon - AC 2007 mug & AC 2008 beanie promos - $7<br>
 Johanna Worth - Outdoor/Landscape print portfolio - $2<br>
-MortonFox - "Snow Dogs" &amp; Ikea fox plush - $73<br>
+MortonFox - "Snow Dogs" & Ikea fox plush - $73<br>
 Mejeep - 2 Godzilla caps - $6<br>
 Killjoy - South Park plush (x4) - $13<br>
 Violet Kitsuneko - "Cave Fox" digital print - $6<br>
@@ -79,23 +79,23 @@ Anthrocon - Dog/Cat treat canisters - $17<br>
 Anonymous - "Tiger Buttah" signed children's book - $15<br>
 Nefaria - Schnuffel CD - $13<br>
 Jenner - Australian furry-themed beer packaging - $5<br>
-Lunden - "City of Ice" zines #1 &amp; 2 by Roz Gibson - $3<br>
+Lunden - "City of Ice" zines #1 & 2 by Roz Gibson - $3<br>
 Lunden - "Wrath" art by Terrie Smith - $83<br>
-Tuzi - Fox &amp; Cat art - $37<br>
+Tuzi - Fox & Cat art - $37<br>
 Soba - Pokemon poster - $8<br>
 Jim Martin - Dinotopia VHS signed by James Gurney - $16<br>
 Neon Dragon Art - Dragon t-shirt (small) - $25<br>
 Jenner - "Let's Kick Some Tail" Doc Rat t-shirt, signed - $15<br>
 Skyfire - Cartoon drawing how-to books - $27<br>
 Lunden - Furrlough #110, #117 signed by Eric Costello - $16<br>
-Joatmon - Kevin &amp; little Kevin plush from "Up" - $14<br>
-Joatmon - Usagi Yojimbo book 2 (signed) &amp; book 23 - $39<br>
-Punktiger - AC 1997 &amp; 1998 VHS con videos - $37<br>
-Miyamoto Jiro - "Fangs of K'aath" &amp; "The Rats of Acomar" SC books by Paul Kidd - $32<br>
+Joatmon - Kevin & little Kevin plush from "Up" - $14<br>
+Joatmon - Usagi Yojimbo book 2 (signed) & book 23 - $39<br>
+Punktiger - AC 1997 & 1998 VHS con videos - $37<br>
+Miyamoto Jiro - "Fangs of K'aath" & "The Rats of Acomar" SC books by Paul Kidd - $32<br>
 Killjoy - Complete set of Dragonball Z figurines - $15<br>
 Lunden - "Volle" book by Kyell Gold - $35<br>
 Lynn Harris - Wolf suncatcher artwork by Kerri Perucki - $13<br>
-David Lillie - Dreamkeepers SC GNs Vol 1 &amp; 2, signed w/ sketch - $67<br>
+David Lillie - Dreamkeepers SC GNs Vol 1 & 2, signed w/ sketch - $67<br>
 Angel - Redwall 20th Anniversary ed. book set - $29<br>
 Sanguine Productions - Promo poster by Tracy Butler - $72<br>
 Tuzi - Glass candy dish art - $15<br>
@@ -103,8 +103,8 @@ Johanna Worth - Still life print portfolio - $10<br>
 Mejeep - FAO Schwarz leopard plush - $19<br>
 Lunden - Redwall GN - $14<br>
 Lunden - "Blacksad: The Sketch Files" - $23<br>
-Killjoy - Dinosaur &amp; Snubbies plush sets - $39<br>
-Joatmon - "Power of Three" complete HC set &amp; "The Unscratchables" HC - $29<br>
+Killjoy - Dinosaur & Snubbies plush sets - $39<br>
+Joatmon - "Power of Three" complete HC set & "The Unscratchables" HC - $29<br>
 Miyamoto Jiro - "Blacklight 1-3", "4-5", "6", "Unforgiven", "Jet 2350" by Roz Gibson - $32<br>
 Fenris Lorsrai - Apoxie sculpt art supplies - $4<br>
 Dr. G/Furry Survey - AC 2008 room cards (x10) - $11<br>
@@ -117,7 +117,7 @@ Raffle total: $1370
 
 ***
 
-2 &amp; Kage's Comedy Show (tix @ $10): $3,720
+2 & Kage's Comedy Show (tix @ $10): $3,720
 
 Dr. Gerbasi's Furry Survey donation: $100
 

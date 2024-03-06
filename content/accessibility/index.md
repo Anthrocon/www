@@ -13,7 +13,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}Our convention strives to provide options and services to help improve your experience and create an inclusive space for all.{{< /center >}}
 
-{{< center >}}[**Wheelchairs &amp; Mobility**](#wheelchairs--mobility-scooters) - [**Accessibility at the Venue**](#accessibility-at-the-dlcc-and-hotels) - [**Service Animals**](#service-animals) - [**Sign Language Interpreters**](#sign-language-interpreters) - [**Accessibility Requests**](#additional-accessibility-requests){{< /center >}}
+{{< center >}}[**Wheelchairs & Mobility**](#wheelchairs--mobility-scooters) - [**Accessibility at the Venue**](#accessibility-at-the-dlcc-and-hotels) - [**Service Animals**](#service-animals) - [**Sign Language Interpreters**](#sign-language-interpreters) - [**Accessibility Requests**](#additional-accessibility-requests){{< /center >}}
 
 ***
 

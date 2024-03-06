@@ -81,7 +81,7 @@ These rates are exclusive to rooms booked in Anthrocon’s room block, which can
 
 ### Pittsburgh Marriott City Center
 
-The award-winning Pittsburgh Marriott City Center effortlessly blends style &amp; substance. It is located across the street from PPG Paints Arena, just minutes from the heart of downtown.
+The award-winning Pittsburgh Marriott City Center effortlessly blends style & substance. It is located across the street from PPG Paints Arena, just minutes from the heart of downtown.
 
 **Standard 2 Doubles:** $179/night
 
@@ -373,11 +373,11 @@ The AC Hotel Pittsburgh Downtown reflects smart, timeless European design guests
 ***
 
 {{< columns "33%" >}}
-{{< img src="hapmton-inn-pittsburgh.png" alt="A picture of the exterior of the Hampton Inn &amp; Suites Pittsburgh." hint="photo" >}}
+{{< img src="hapmton-inn-pittsburgh.png" alt="A picture of the exterior of the Hampton Inn & Suites Pittsburgh." hint="photo" >}}
 
 <--->
 
-### The Hampton Inn &amp; Suites Pittsburgh
+### The Hampton Inn & Suites Pittsburgh
 
 This is the only hotel in the Golden Triangle whose room rate includes parking, internet and daily breakfast.
 
@@ -389,7 +389,7 @@ This is the only hotel in the Golden Triangle whose room rate includes parking, 
 
 **Shuttle Service:** Yes
 
-[**Learn more about The Hampton In &amp; Suites Pittsburgh**](https://www.hilton.com/en/hotels/pitdnhx-hampton-suites-pittsburgh-downtown/)
+[**Learn more about The Hampton In & Suites Pittsburgh**](https://www.hilton.com/en/hotels/pitdnhx-hampton-suites-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***

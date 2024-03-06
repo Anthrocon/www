@@ -16,7 +16,7 @@ banner_url: "https://nightdragon0.smugmug.com"
 {{< center >}}Address for the Loading Dock:{{< /center >}}
 
 {{< center >}}**David L. Lawrence Convention Center Loading Dock** [**(View on Google)**](https://goo.gl/maps/1ZHvu8Qwozz)<br>
-1000 Ft. Duquesne Blvd. (10th &amp; Ft. Duquesne)<br>
+1000 Ft. Duquesne Blvd. (10th & Ft. Duquesne)<br>
 Pittsburgh, PA 15222<br>
 +1-412-565-6000{{< /center >}}
 
@@ -24,7 +24,7 @@ Pittsburgh, PA 15222<br>
 PA -60 S to US-30 E becomes I-279 N through the Ft. Pitt Tunnels and across the Ft. Pitt Bridge. Take Exit 6C Ft. Duquesne Blvd. Follow sign to Convention/Strip District on 10th Street Bypass. At 1st traffic light, turn right into the Convention Center Loading Dock Entrance.
 
 **From East/PA Turnpike**<br>
-I-76 W (PA Turnpike) to Exit 57 Pittsburgh. Take I-376 W to Exit 2B Blvd. of the Allies. Take I-579 N to Seventh Ave/Convention Center Exit. Take Seventh Ave. Turn right onto William Penn Way. William Penn Way becomes 10th St. go straight under the Convention Center. At the corner of 10th &amp; Ft. Duquesne Blvd., turn left onto Ft. Duquesne. Next light, turn left into the Convention Center Loading Dock Entrance.
+I-76 W (PA Turnpike) to Exit 57 Pittsburgh. Take I-376 W to Exit 2B Blvd. of the Allies. Take I-579 N to Seventh Ave/Convention Center Exit. Take Seventh Ave. Turn right onto William Penn Way. William Penn Way becomes 10th St. go straight under the Convention Center. At the corner of 10th & Ft. Duquesne Blvd., turn left onto Ft. Duquesne. Next light, turn left into the Convention Center Loading Dock Entrance.
 
 **From West/PA Turnpike**<br>
 I-76 E (PA Turnpike) to Exit 28 Cranberry. Follow signs to I-79 S to I-279 S across Ft. Duquesne Bridge to Convention Center/The Strip District Exit. At 1st traffic light, turn right into the Convention Center Loading Dock Entrance.
@@ -39,15 +39,15 @@ I-79N to Exit 59A Pittsburgh to I-279N through Ft. Pitt Tunnel across Ft. Pitt B
 
 **Very Important Information!**
 
-The Dealers' Room will be located in Halls A&amp;B on the second level of the **David L. Lawrence Convention Center** in Pittsburgh, PA.
+The Dealers' Room will be located in Halls A&B on the second level of the **David L. Lawrence Convention Center** in Pittsburgh, PA.
 
 Dealers can pick up their convention badges in Hall D, on the ground floor, with entry from 10th Street. Dealer registration opens beginning noon on Thursday.
 
 Entry points once you have your badge include:
 
-- Through the West Lobby on 10th Street (same street as the Westin), on the ground floor. Go up the escalator and turn right to reach Halls A&amp;B.
+- Through the West Lobby on 10th Street (same street as the Westin), on the ground floor. Go up the escalator and turn right to reach Halls A&B.
 - Across the skybridge from the 2nd floor of the Westin. There are two elevators at the end of the skybridge. Travel up one level to #3, then cross the walkway ahead of you. At the far end, take the escalator down one level and turn left.
-- Through the loading dock. This is where you should go **if you have a vehicle with significant material to directly offload**. The entrance to the loading dock is located on Ft. Duquesne Blvd. between 9th Street &amp; 10th Street at the point where Ft. Duquesne Blvd. &amp; 10th Street Bypass merge. Note that the loading dock allows drop-off of merchandise only! You cannot check into the Dealer's Room from here.
+- Through the loading dock. This is where you should go **if you have a vehicle with significant material to directly offload**. The entrance to the loading dock is located on Ft. Duquesne Blvd. between 9th Street & 10th Street at the point where Ft. Duquesne Blvd. & 10th Street Bypass merge. Note that the loading dock allows drop-off of merchandise only! You cannot check into the Dealer's Room from here.
 
     The loading dock will be open for merchandise drop-off from 3 PM until 9 PM on Thursday and from 8 AM until 11:45 AM  on Friday.
 

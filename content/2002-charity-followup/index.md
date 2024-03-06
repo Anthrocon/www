@@ -32,16 +32,16 @@ Finally, below is the not-quite-complete breakdown of items, donors, and their s
 Item Donor Sale<br>
 Large husky plush (Sym - $100)<br>
 Wacom Intuos2 graphics tablet (Amaruq - $150)<br>
-Three (3) large plus tigers (Joe Siebert &amp; ? - $125)<br>
+Three (3) large plus tigers (Joe Siebert & ? - $125)<br>
 Three (3) Kliban cat posters (Plan 9 Publishing - $60)<br>
 Uncle Kage puppet (Plushdragon - $120)<br>
 Handcrafted ears (Creedence - $20)<br>
 "Moonlit Run" acrylic arrowhead (Amaruq - $200)<br>
 Artwork - "Leska" (Snowman - $100)<br>
-Set of four hot sauces &amp; kitchen apron (Ben Raccoon &amp; Gary Akins &amp;<br>
+Set of four hot sauces & kitchen apron (Ben Raccoon & Gary Akins &<br>
 Servil/Style Wager - $60)<br>
 Large raccoon plush (Valent - $80)<br>
-Wolf &amp; mouse tie (Brian Miller - $35)<br>
+Wolf & mouse tie (Brian Miller - $35)<br>
 WB Catwoman statue (Steve Abbott - $35)<br>
 WolfMech costume (Triggur - $850)<br>
 Two (2) pair of dutch shoes (? - $30)<br>
@@ -51,77 +51,77 @@ Herbietoons Print Set (12) (Herbie Hammil - $400)<br>
 Edible sketchbook by various artists (Trixi Solfire - $180)<br>
 Hello Kitty toilet paper (Charlie Groark - $60)<br>
 Platinum ed. Gameboy Advance (? - $125)<br>
-Sheep plush &amp; chicken plush (Kyrin &amp; T'Chall - $50)<br>
+Sheep plush & chicken plush (Kyrin & T'Chall - $50)<br>
 10lbs (approx.) Nutella (Smrgol - $45)<br>
 Mailbox Books mailbox (Rabbit Valley - $50)<br>
-Six (6) racoon plush &amp; One (1) raccoon plush (Mejeep &amp; Cyberhorn - $100)<br>
+Six (6) racoon plush & One (1) raccoon plush (Mejeep & Cyberhorn - $100)<br>
 Two (2) artwork - "Bell pepper", "Habanero" (Rebecca "Vanan" Savage - $20)<br>
 Meeko plush (Po Shan Cheah - $125)<br>
 Signed $100 bill (Ben Franklin - $200)<br>
 Two (2) inflatable zebras (Expandranon - $100)<br>
 Bass guitar w/ case signed by "Sting" (Kagemushi - $1000)<br>
-Bunny t-shirt &amp; Genus t-shirt (John Friedrich &amp; Shyboar - $200)<br>
+Bunny t-shirt & Genus t-shirt (John Friedrich & Shyboar - $200)<br>
 Ironclaw promo poster (Sanguine Productions - $150)<br>
 Pancreas plush (Kagemushi - $40)<br>
 Set of Six (6) "Realm o/t Claw" figures (PunkTiger - $200)<br>
-Space Jam cards &amp; Two (2) Lola Bunny ornaments (Gary Akins - $75)<br>
-Tiger photo &amp; Snow leopard photo (LionKingCMSL &amp; Calgor - $100)<br>
-Animalympics LP &amp; CD (copy) (Gary Akins - $100)<br>
+Space Jam cards & Two (2) Lola Bunny ornaments (Gary Akins - $75)<br>
+Tiger photo & Snow leopard photo (LionKingCMSL & Calgor - $100)<br>
+Animalympics LP & CD (copy) (Gary Akins - $100)<br>
 Assorted plush (The Gneech - $60)<br>
 Set of three (3) Japan-exclusive Beanie Babies (Larry Wise - $200)<br>
 Black, felt hat (Tibor Tiger - $160)<br>
 Dark Horse/Sock Monkey lighter set (Rabbit Valley - $35)<br>
-Two (2) hotel nights &amp; brunch for four (4) (Adams Mark Hotel -$400)<br>
-"Rascal" DVD &amp; Two (2) Bucky O'Hare videos &amp; Kimba videos (John<br>
-Friedrich &amp; Falbert &amp; www.kimba.us - $350)<br>
+Two (2) hotel nights & brunch for four (4) (Adams Mark Hotel -$400)<br>
+"Rascal" DVD & Two (2) Bucky O'Hare videos & Kimba videos (John<br>
+Friedrich & Falbert & www.kimba.us - $350)<br>
 Artwork x2 (Ian "Fennec" Dettmering - ?)<br>
 Supersponsorship to Anthrocon 2003 (Charlie Groark - ?)<br>
 ? (? - $25)<br>
 ? (? - $20)<br>
 ? (? - $100)<br>
-Two easels &amp; leather artist's portfolio (Rassah - $110)<br>
+Two easels & leather artist's portfolio (Rassah - $110)<br>
 ? (? - $55)<br>
 ? (? - $100)<br>
-Bugzzz toy &amp; artwork - "Roach Whisperer" &amp; artwork - "Daddy!" (Smrgol<br>
-&amp; Jim Groat &amp; DuGaul McPherson - $55)<br>
+Bugzzz toy & artwork - "Roach Whisperer" & artwork - "Daddy!" (Smrgol<br>
+& Jim Groat & DuGaul McPherson - $55)<br>
 Squeaky reindeer plush (Mejeep - $25)<br>
 Wall scroll artwork by Vicki Wyman (Charlie Groark - $170)<br>
 Two (2) Blood Beret board games (Excelsior Entertainment - $15)<br>
 Sponsorship-level membership to Mephit Furmeet 2002 (Mephit Furmeet - $45)<br>
 Canon flatbed scanner (Amaruq - $125)<br>
-Assorted comics (? &amp; ? - $350)<br>
+Assorted comics (? & ? - $350)<br>
 SC signed ed. of "Redeeming Factors" w/ t-shirt (Jim Lane - $50)<br>
 Two (2) pair of Dutch shoes (2nd sale) (? - $30)<br>
 2003 Further Confusion patron membership (Further Confusion - $100)<br>
 Large afghan (? - $50)<br>
-Assorted plush (Blackfire &amp; Cyberhorn &amp; Po Shan Cheah - $150)<br>
+Assorted plush (Blackfire & Cyberhorn & Po Shan Cheah - $150)<br>
 Artwork - "Dogs of War" (Amy Cott - $300)<br>
-Assorted plush (Michael Sherman &amp; Candace Zimbleman &amp; Ka Crow &amp;<br>
+Assorted plush (Michael Sherman & Candace Zimbleman & Ka Crow &<br>
 Creedence - $40)<br>
 Artwork - untitled (Oakpaw - $110)<br>
 Frank Banner print - "The Fairy Princess" (Plan Nine Publishing - $40)<br>
-Assorted t-shirts (Blackfire &amp; Robin Andersen - $75)<br>
-"Inherit the Earth" &amp; "Dark Age of Camelot" PC games (Gary Akins &amp;<br>
+Assorted t-shirts (Blackfire & Robin Andersen - $75)<br>
+"Inherit the Earth" & "Dark Age of Camelot" PC games (Gary Akins &<br>
 John Friedrich - $200)<br>
-Automobile HC book &amp; atlas (Mejeep &amp; Tibor Tiger - $40)<br>
+Automobile HC book & atlas (Mejeep & Tibor Tiger - $40)<br>
 Artwork - "Baba Yaga" (Chris Goodwin - $125)<br>
 Donation: In honor of dog "Lady" (Joe Siebert - $1000)<br>
 Two (2) artwork (Rebecca "Vanan" Savage - $40)<br>
 Handmade brass brooch (Rochndil - $50)<br>
 Supersponsorship at Pawpet Megaplex 2003 (Pawpet Megaplex - $60)<br>
-Bears figurine &amp; "Season of the Spellsong" HC (Killjoy &amp; Gary Akins - $70)<br>
-Midwest Furfest 2002 Sponsorship &amp; artwork (Midwest Furfest - $100)<br>
-Catwoman figurine &amp; Hello Kitty toilet paper (2nd sale) (Steve Abbot<br>
-&amp; Charlie Groark - $100)<br>
+Bears figurine & "Season of the Spellsong" HC (Killjoy & Gary Akins - $70)<br>
+Midwest Furfest 2002 Sponsorship & artwork (Midwest Furfest - $100)<br>
+Catwoman figurine & Hello Kitty toilet paper (2nd sale) (Steve Abbot<br>
+& Charlie Groark - $100)<br>
 Sketchbook - #6 Mar-Jul 2001 (Steve Carter - $70)<br>
-First Furry Church Catechisms vol. 1 &amp; 2 (Gary Akins - $75)<br>
-Tiny Toons soap, shampoo &amp; werewolf model (Gary Akins &amp; Teaselbone - $30)<br>
-Artwork - "Cheetah Ninja Girl &amp; Raquel Bitch Kitten" (Jodi Tong - $30)<br>
+First Furry Church Catechisms vol. 1 & 2 (Gary Akins - $75)<br>
+Tiny Toons soap, shampoo & werewolf model (Gary Akins & Teaselbone - $30)<br>
+Artwork - "Cheetah Ninja Girl & Raquel Bitch Kitten" (Jodi Tong - $30)<br>
 Pair of Bugs Bunny postage stamp earrings (Docabsinthe - $35)<br>
-Video &amp; signed photo (Rapid T. Rabbit - $25)<br>
+Video & signed photo (Rapid T. Rabbit - $25)<br>
 Artwork - untitled (Louisa 'Itara' Smith - $40)<br>
 Artwork - "Data Stream" (Fran Wolf Johnson - $25)<br>
-Two (2) door hangers &amp; "Clan Fenros" print set (Arctic Snow &amp; Oakpaw - $50)<br>
+Two (2) door hangers & "Clan Fenros" print set (Arctic Snow & Oakpaw - $50)<br>
 Manuscript of conbook stories (Lisanne Norman - $45)<br>
 Cameo in "The Suburban Jungle" (The Gneech - $310)<br>
 Artwork - "Singing the Good Song" (Terrie Smith - $200)<br>

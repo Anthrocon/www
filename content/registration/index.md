@@ -104,7 +104,7 @@ Sponsors are generous patrons who like to help us provide even more services and
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
 
 - A nifty Supersponsor ribbon
-- An invitation to the Artists &amp; Dealers reception on Friday evening
+- An invitation to the Artists & Dealers reception on Friday evening
 - Earlier admission into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor)
 - Advance admission to selected main ballroom events
 - A unique gift available to Supersponsors
@@ -148,7 +148,7 @@ Day memberships allow a member access to the convention space and activities for
 
 {{< center >}}**Pricing**{{< /center >}}
 
-- Thursday &amp; Friday: $50
+- Thursday & Friday: $50
 - Friday: $40
 - Saturday: $40
 - Sunday: $40
@@ -161,7 +161,7 @@ Day memberships allow a member access to the convention space and activities for
 {{< center >}}### PUP Membership (Ages 12 and under){{< /center >}}
 
 {{< columns >}}
-Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 &amp; under child for a minimal $5 fee. Purchase of these badges is not required.
+Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
 
 <--->
 
@@ -179,7 +179,7 @@ Children who are 12 years old and younger at the time of the convention can get 
 
 {{< center >}}### Dealer and Dealer Assistant membership{{< /center >}}
 
-A Dealer membership allows a member all the benefits of an Attending membership, as well as the ability to purchase a Dealer Table, and admission to the Artists &amp; Dealers Social on Friday night. Dealer+Sponsor and Dealer+Supersponsor memberships are also available, giving the benefits of Sponsor and Supersponsor levels to Dealers!
+A Dealer membership allows a member all the benefits of an Attending membership, as well as the ability to purchase a Dealer Table, and admission to the Artists & Dealers Social on Friday night. Dealer+Sponsor and Dealer+Supersponsor memberships are also available, giving the benefits of Sponsor and Supersponsor levels to Dealers!
 
 ***Dealer Assistants will purchase their own badges separately.*** Dealer Registration for 2024 requires a passcode, which is available on [**our Dealers page**](https://www.anthrocon.org/dealers)**.** Without this passcode, you will be unable to apply for a Dealer Membership or Table.
 

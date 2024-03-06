@@ -9,13 +9,13 @@ banner_author: "Blue Hasia"
 banner_url: ""
 ---
 
-{{< center >}}# Anthrocon Parade &amp; Block Party{{< /center >}}
+{{< center >}}# Anthrocon Parade & Block Party{{< /center >}}
 
 {{< center >}}### We’re taking our engagement with the city of pittsburgh to the next level!{{< /center >}}
 
 {{< center >}}On Saturday July 6th, we’ll be closing down the street of Penn Avenue between 9th and 11th Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party!** We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
 
-{{< center >}}[**Fursuit Photo &amp; Parade**](#fursuit-parade) - [**Anthrocon Block Party**](#anthrocon-block-party) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[**Fursuit Photo & Parade**](#fursuit-parade) - [**Anthrocon Block Party**](#anthrocon-block-party) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
 
 ***
 

@@ -13,7 +13,7 @@ Hi, and welcome to the 2008 edition of the Anthrocon Charity Auction Followup!
 
 First, the bad news: The Charity Auction had the lowest return this year since 1999, we're sorry. There were issues, we know - some we could've fixed, others out of our hands. We are working to change for 2009. We have plans - BIG plans - that should turn things around on many levels. Stay tuned!
 
-And now the good news: We raised a total of $3,982 for Pittsburgh Parrot Rescue, our charity this year! They also benefited from donations at their Dealers' Room table to the tune of $1,102! Kage &amp; 2's charity benefit performance raised $3,040! Dr. Gerbasi's survey team donated $130! Anthrocon provided a matching (sorta) donation of $5,000!
+And now the good news: We raised a total of $3,982 for Pittsburgh Parrot Rescue, our charity this year! They also benefited from donations at their Dealers' Room table to the tune of $1,102! Kage & 2's charity benefit performance raised $3,040! Dr. Gerbasi's survey team donated $130! Anthrocon provided a matching (sorta) donation of $5,000!
 
 All told, the convention total contributed to Pittsburgh Parrot Rescue was $13,154!
 
@@ -28,7 +28,7 @@ Finally, in no particular order (my cards got mixed up), here's a tally of all t
 > Kristy Lee - Bib/kerchief necklace - $45<br>
 > Bloodhound - Tiny clay dragon - $15<br>
 > Theyain - 145 notes - $16<br>
-> Killjoy - Three M&amp;M's "Wild Adventures" banks - $1<br>
+> Killjoy - Three M&M's "Wild Adventures" banks - $1<br>
 > Pittsburgh Parrot Rescue - Framed Steelers flyer signed by Dwight White - $5<br>
 > Rona Dolvi - Artwork [2], acrylic on canvas - $10<br>
 > Po Shan Cheah - 3' Meeko raccoon plush - $10<br>
@@ -38,7 +38,7 @@ Finally, in no particular order (my cards got mixed up), here's a tally of all t
 > Bloodhound - Hello Kitty journal/pillow - $5<br>
 > Killjoy - "Thunder Herd" plush horse set - $30<br>
 > Friends of NIMHMuck - Battle Ball Game - $5<br>
-> Yunicoon - Wolf &amp; Her Pups statue - $40<br>
+> Yunicoon - Wolf & Her Pups statue - $40<br>
 > Smrgol - Anthrocon 2008 Furry Forever hat #11 - $35<br>
 > Lilpup - AC '03 conbook and Guy Gilchrist signed t-shirt - $19<br>
 > Pittsburgh Parrot Rescue - Baseball signed by Brian Giles - $15<br>
@@ -46,29 +46,29 @@ Finally, in no particular order (my cards got mixed up), here's a tally of all t
 > Janethorse - Assorted plush - $15<br>
 > Mwuricon D. Malamute - Fenton ceramic collectible cat, signed - $16<br>
 > Triggur - Voidstar anubis costume - $125<br>
-> Greater Philadelphia Search &amp; Rescue - "Search Critter" fursuit vest - $40<br>
+> Greater Philadelphia Search & Rescue - "Search Critter" fursuit vest - $40<br>
 > Killjoy - Starfox Adventures ad standee (2002) - $55<br>
-> Mejeep - Strange Change Machine, Bigfoot Wreck &amp; Roll Arena - $5<br>
+> Mejeep - Strange Change Machine, Bigfoot Wreck & Roll Arena - $5<br>
 > BunnyBox - Mystery Machine lunch box, gummy candy, wireless headphones - $15<br>
 > Liv Hathaway - Acrylic snow leopard - $65<br>
 > Panja - Two large t-shirts by Florida Wind - $20<br>
 > Tyrrlin - Two MREs - $40<br>
 > Victoria "slashersivi" Chang - Artwork: "Rainforest Rendezvous" - $25<br>
-> Joe Strike - "Sugar &amp; Babe" fan - $5<br>
+> Joe Strike - "Sugar & Babe" fan - $5<br>
 > Friends of NIMHMuck - Mutant Chronicles Warzone, Chronopia (signed) - $25<br>
-> Triggur - Opening Ceremonies "Jumanji" video props &amp; comics - $70<br>
-> Kristy Lee - Parrot necklace &amp; earrings set - $20<br>
+> Triggur - Opening Ceremonies "Jumanji" video props & comics - $70<br>
+> Kristy Lee - Parrot necklace & earrings set - $20<br>
 > David Losar - Blue Planet RPG books - $40<br>
 > Sara Palmer, Michelle Light, Heather Bruton, Diana Harlan Stein, Terrie Smith, Dark Natasha, Marci McAdams - Artwork: "Birthday Cake" - $300<br>
 > Lanakila - 36 cans of Canadian Coke - $90<br>
 > Bloodhound - Artwork: "Play With Me!" - $45<br>
-> John (Joatmon) Lindgren - Rocky &amp; Bullwinkle plush beanie set - $50<br>
-> Jill0r &amp; Artspots.com - Artwork: "Mariners" (cover to MFF's conbook) - $20<br>
+> John (Joatmon) Lindgren - Rocky & Bullwinkle plush beanie set - $50<br>
+> Jill0r & Artspots.com - Artwork: "Mariners" (cover to MFF's conbook) - $20<br>
 > Killjoy - 18pc big-eyes/big-head plush set - $20<br>
 > Yunicoon - Wolf candle statuette - $45<br>
 > Pittsburgh Parrot Rescue - Cowboys pennant signed by Jerry Jones - $10<br>
 > Wolfie's Pack Productions - Artwork: "Mirv Griffon" - $25<br>
-> Soba - Set of Sonic &amp; Sega boards &amp; standees - $105<br>
+> Soba - Set of Sonic & Sega boards & standees - $105<br>
 > Mejeep - Copper Coyote cap - $5<br>
 > Blaits - Artwork: wolf w/ scenery - $15<br>
 > Maggock - Artwork: "Nandays" - $45<br>
@@ -88,11 +88,11 @@ Finally, in no particular order (my cards got mixed up), here's a tally of all t
 > Jennifer Miller - Painted spix's macaw feather - $80<br>
 > Mejeep - "Learn to Read the Furry Way", furry cellphone case, Animalympics VHS - $40<br>
 > Friends of NIMHMuck - Hunter: The Reckoning RPG books - $30<br>
-> Jill0r &amp; Artspots.com - Artwork: "Fox &amp; Grapes" - $30<br>
-> Chilly - Coca-Cola shorts &amp; Richmond River Dogs hockey jersey - $5<br>
+> Jill0r & Artspots.com - Artwork: "Fox & Grapes" - $30<br>
+> Chilly - Coca-Cola shorts & Richmond River Dogs hockey jersey - $5<br>
 > Cedar, Sarah "Teto" Frost - Deep-o fish plush, sock monster plush - $5<br>
 > Killjoy - Barrel of monkeys plush, 33pc licensed character plush - $20<br>
-> Jill0r &amp; Artspots.com - Artwork: "Ghost" - $35<br>
+> Jill0r & Artspots.com - Artwork: "Ghost" - $35<br>
 > Blaits - Carved wolf head statue - $40<br>
 > Gregory Giacobe - Anthrocon souvenir convention books (1997-2007) - $50<br>
 > Blotch - Anthrocon 2008 dance poster - $100<br>
@@ -109,19 +109,19 @@ Finally, in no particular order (my cards got mixed up), here's a tally of all t
 > Sara Palmer, Michelle Light, Heather Bruton, Diana Harlan Stein, Terrie Smith, Dark Natasha, Marci McAdams - Artwork: Seven Sins collaboration - $125<br>
 > Bloodhound - Elephant bag from India - $5<br>
 > Pixy Vixy - Furry magnetic decal - $15<br>
-> Friends of NIMHMuck - Warzone games &amp; minis - $20<br>
+> Friends of NIMHMuck - Warzone games & minis - $20<br>
 > Dark Natasha - Artwork: "Cockatiel Griffon" - $50<br>
 > Chilly - Furry bathroom sign - $24<br>
 > Mejeep - Three Gund lion plush - $10<br>
 > Anthrocon - 2008 Charity Auction donor gift (parrot beanie) - $5<br>
 > Slickpuppy - Signed "Furry Pirates" RPG book - $20<br>
 > Farore Nightclaw - Bookmark commission - $10<br>
-> Bloodhound, Amaruq - Lisa Frank assignment book, lighted leash &amp; collar - $15<br>
+> Bloodhound, Amaruq - Lisa Frank assignment book, lighted leash & collar - $15<br>
 > Wolfie's Pack Productions - Artwork: "Rocket Car" - $15<br>
 > Blaits - Carved howling wolf statue - $16<br>
 > Maggock - Artwork: "A Rare Moment of Quiet" - $20<br>
 > Artspots.com - Artwork: "Lemur Love" - $35<br>
-> Triggur - Horstachio costume &amp; candy - $150
+> Triggur - Horstachio costume & candy - $150
 
 Charity Auction Total: $3,882
 

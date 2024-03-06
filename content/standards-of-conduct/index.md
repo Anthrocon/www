@@ -113,7 +113,7 @@ Overly large requests for room amenities such as towels and pillows will not be 
 
 ### Sales of Goods and Services
 
-The offering for sale of any goods or services at the convention may only occur in appropriate and authorized areas of convention space, only at authorized times, and only by registered, authorized vendors of the area in question. In all cases sales will be governed by the applicable rules of each area, such as the Dealer Rules &amp; Information Packet for the Dealers Room. Unauthorized sales of any goods or services may result in revocation of membership.
+The offering for sale of any goods or services at the convention may only occur in appropriate and authorized areas of convention space, only at authorized times, and only by registered, authorized vendors of the area in question. In all cases sales will be governed by the applicable rules of each area, such as the Dealer Rules & Information Packet for the Dealers Room. Unauthorized sales of any goods or services may result in revocation of membership.
 
 ### Smoking, Alcohol, and Substance Abuse
 

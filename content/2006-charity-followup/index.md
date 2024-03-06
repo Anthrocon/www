@@ -11,13 +11,13 @@ banner_url: ""
 
 Hi, and welcome to the 2006 edition of the Anthrocon Charity Auction Followup!
 
-We raised a healthy total of $5,855 for our charity this year, the Western Pennsylvania National Wild Animal Orphanage. They also benefited from ticket sales to Uncle Kage &amp; 2's Comedy Show and general sales &amp; donations to the tune of $2,552.
+We raised a healthy total of $5,855 for our charity this year, the Western Pennsylvania National Wild Animal Orphanage. They also benefited from ticket sales to Uncle Kage & 2's Comedy Show and general sales & donations to the tune of $2,552.
 
 I'd like to give my sincere thanks to my staff members who assisted me throughout the days the Charity items were displayed and during the Auction itself. These indispensable people who I rely on year after year to support the event are Jason "creature" Murdock, Mike "Mrianti" Pierce, Steven "Tora" Sears, and Lincoln "JBadger" Kliman, as well as the volunteers who assisted during the auction itself. Extra special thanks to Dr. Sam "Kagemushi" Conway for auctioneering the full three hour stretch.
 
 Finally, in approximate order of sale, here's a tally of all the items sold during the Auction by Donor, Item, and Sale Price:
 
-Kellic Tiger - The Complete Calvin &amp; Hobbes - $120<br>
+Kellic Tiger - The Complete Calvin & Hobbes - $120<br>
 Siyahamba - Artwork: "Jolly" - $15<br>
 Amaruq, Danruk - Fox puzzle, Wolf puzzle - $20<br>
 Karen Osler - Artwork: "First Excursion" - $55<br>
@@ -28,9 +28,9 @@ Ursula Husted - Artwork: "Molly" - $35<br>
 Smrgol - 10 lbs of Nutella - $20<br>
 Erika Rosengarten, Bobby Kamal - Assorted root beer - $50<br>
 Smrgol - Furry Forever cap - $70<br>
-Kemeeleon, Amadeus - Part in OMGWTFF 2 &amp; DVD - $50<br>
+Kemeeleon, Amadeus - Part in OMGWTFF 2 & DVD - $50<br>
 Danruk - Wolf dreamcatcher - $120<br>
-Stuffe &amp; Nonsense - Hoary Marmot handmade plush - $20<br>
+Stuffe & Nonsense - Hoary Marmot handmade plush - $20<br>
 Killjoy - Plush assortment - $95<br>
 Tracy Reynolds - Lion King mystery box - $30<br>
 Danruk - Set of tiger towels - $60<br>
@@ -44,8 +44,8 @@ Tracy Reynolds - Shaman's Tears series, Sophistikats, Magic Carpet comics - $40<
 Tony Ringtail - Spy Fox puppet - $90<br>
 Amaruq - Lynx wood carving - $50<br>
 ShiroTora - "Leo, the Lion" and "Safari" DVDs - $20<br>
-Pixy Vixy, Toolfox - Talking Puss &amp; Boots - $15<br>
-Peter Morwood - "Firebird", "Golden Horde" vol. 2 &amp; 3 (plus vol. 1 later) - $150<br>
+Pixy Vixy, Toolfox - Talking Puss & Boots - $15<br>
+Peter Morwood - "Firebird", "Golden Horde" vol. 2 & 3 (plus vol. 1 later) - $150<br>
 Diane Duane - A speaking part in audio version of "The Last Meow" - $500<br>
 Amaruq - Franklin Mint wolf walking stick - $100<br>
 Tango - Werewolf stand-up by Zannah - $15<br>
@@ -59,7 +59,7 @@ Kattywampus - Two cans of Jolt Blue - $30<br>
 Sharky - "High Adventure" ltd. ed. plate - $25<br>
 Amaruq - Grey wolves blanket - $40<br>
 Wolfies Pack Productions - Tapestries MUCK Golden Lash staff portrait - $50<br>
-GoPets Ltd, Wyrmkeep Ent. - GoPets Virtual Pet game 3 mo. subscription &amp; 4 GoPets plush - $15<br>
+GoPets Ltd, Wyrmkeep Ent. - GoPets Virtual Pet game 3 mo. subscription & 4 GoPets plush - $15<br>
 Joe Strike - Adult Swim polo shirt, pink socks - $20<br>
 Danruk - Wolf photo frame, tea candle holder, and glass art - $75<br>
 Magic Tom - Adams Mark brick - $200<br>
@@ -75,7 +75,7 @@ Anubis - Scorch, Scoozie plush - $15<br>
 Lupinsmile - Pizza - $25<br>
 Omni hotel - Five free nights at Omni hotel - $400<br>
 Tiger Torre Art - Notebook, pad, sketchpad - $10<br>
-Selenia Crossfire - Scarf, tiger &amp; Lion King latchbook art - $10<br>
+Selenia Crossfire - Scarf, tiger & Lion King latchbook art - $10<br>
 Scullyraptor - Raccoon plush - $30<br>
 Punktiger - Con chairman plate set - $10<br>
 Karen Osler - Artwork: "Midnight Snow" - $150<br>
@@ -83,7 +83,7 @@ Anonymous - Albedo 2nd ed RPG - $20<br>
 Lincoln "JBadger" Kliman - Raccoon garden figures - $35<br>
 Anubis - Spirit bear sand painting - $15<br>
 Jessie T. Wolf - Art bin signed by 100 artists - $125<br>
-Brian Harris - Omaha, the Cat Dancer picture disc &amp; trading cards - $45<br>
+Brian Harris - Omaha, the Cat Dancer picture disc & trading cards - $45<br>
 Anonymous - Furry PS2 games - $70<br>
 Anonymous - Ironclaw RPG - $50<br>
 Tyrrlin - Gryphon tail - $25<br>
@@ -94,7 +94,7 @@ Wendell - Artwork: "Tiger in Smoking Jacket" - $20<br>
 Jill Czajkowski - Artwork: "Il Leone" - $40<br>
 Sanguine Productions - Usagi Yojimbo RPG - $25<br>
 Marsten - Flanimals books - $20<br>
-Aurora Firebrand - Chip &amp; Dale doormat - $20<br>
+Aurora Firebrand - Chip & Dale doormat - $20<br>
 Anubis - Matchbox diecast airplane - $20<br>
 Tracy Reynolds - Pocahontas glass, Sancutary of the Dolphin collector's plate - $5<br>
 Tracy Reynolds - Bald eagle plush - $50<br>
@@ -117,7 +117,7 @@ Honeck Sculpture - Bronze cat sculpture - $35<br>
 Fiawol Dave - Animalympics animation cel - $70<br>
 Eagle Beagle, Marsten, Nikki, Anonymous - Over The Hedge stickers,<br>
 Gabriel Knight book, Exxon tiger tail, Weasel Patrol #1 - $15<br>
-Graysoul - Rainbow luggage strap &amp; chain necklace - $30<br>
+Graysoul - Rainbow luggage strap & chain necklace - $30<br>
 Danruk - Wolf sculpture table - $60<br>
 Scott Shaw! - T-shirt artwork - $50
 

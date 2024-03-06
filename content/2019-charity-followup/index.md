@@ -43,12 +43,12 @@ Charity Auction (in no particular order) [donor - item - sale price]:
 - Joatmon - The American Journal of Anthropomorphics #1-4 - $120
 - Graphix - Framed DogBomb memorial artwork - $75
 - SarahCat - Fruitbat monster fursuit partial - $350
-- Salem Wolf &amp; Sharky - 2019 fursuit games 1st-place trophy - $95
+- Salem Wolf & Sharky - 2019 fursuit games 1st-place trophy - $95
 - Static Claws - Playstation VR bundle - $500
 - Fire Fox - Plush "Polar" seltzer display bear - $100
 - Anthrocon/Courtyard - Four nights in Courtyard for AC 2020 - $1600
 - Fizz Otter - 2019 macro fursuit badge - $140
-- Dorsai Irregulars &amp; Sandy Schreiber - 2020 Super Golden Ticket - $1000
+- Dorsai Irregulars & Sandy Schreiber - 2020 Super Golden Ticket - $1000
 - SarahCat - Rainbow tiger fursuit partial - $1400
 - Fizz Otter - Fursuit badge #10,000 - $300
 - Anthrocon/Westin - Four nights in Westin for AC 2020 - $1200
@@ -63,10 +63,10 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 - Xydexx - SonicFox 2018 ESports Player of the Year t-shirt - $66
 - Joatmon - "Rakkety Tam" HC by Brian Jacques, signed - $139
 - Anthrocon/DoubleTree - Four nights in DoubleTree for AC 2020 - $680
-- Inulupus - 2x reindeer kigurumi (m &amp; f) - $120
+- Inulupus - 2x reindeer kigurumi (m & f) - $120
 - Inulupus - Acellories wireless sweat-proof earbuds - $37
 - Inulupus - Mighty Rock mini boom bluetooth speaker - $79
-- Kofu - Disney theme parks original Simba cub &amp; adult plush - $67
+- Kofu - Disney theme parks original Simba cub & adult plush - $67
 - Kofu - Underworld action figure "Raze" - $50
 - Goldeen "Rhondi" Ogawa - "Hyacinth Crowned By Stars" orig. oil painting - $72
 - Desdicado - Hand-made leatherbound journal, blank - $272
@@ -75,7 +75,7 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 - Fur Science - Fur Science gift basket #1 - $126
 - Fur Science - Fur Science gift basket #2 - $127
 - Happily-retired Dr. Kathleen Gerbasi - $100 Amazon gift card - $271
-- Blue Canary Gallery - MLP:FiM activity book lot + zebra &amp; giraffe childrens' books - $31
+- Blue Canary Gallery - MLP:FiM activity book lot + zebra & giraffe childrens' books - $31
 - Blue Canary Gallery - "Encyclopedia of Birds" SC, 2nd ed. - $30
 - Bossasaur - Blizzcon 2018 promo exclusive gift box - $425
 - Chiaroscuro - Fusion #1-17 - $112
@@ -96,22 +96,22 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 - Mama Ryuu - DogBomb ALS pin - $179
 - BronyCon - 2x 4-day badge passes #1 - $50
 - BronyCon - 2x 4-day badge passes #2 - $40
-- Lauren &amp; Joseph Morgan - Squirtle Pokemon plush - $103
-- Lauren &amp; Joseph Morgan - Overwatch pillow - $51
-- Lauren &amp; Joseph Morgan - Overwatch t-shirt - $30
+- Lauren & Joseph Morgan - Squirtle Pokemon plush - $103
+- Lauren & Joseph Morgan - Overwatch pillow - $51
+- Lauren & Joseph Morgan - Overwatch t-shirt - $30
 - Roamin' Bison Workshop - Sky of Jewels series 1 enamel pin set - $124
 - Quack Quack Honk - "Evil But Tasty" orig. art in coptic marker - $5
 - Amazed Furz Studios - Etched parrot in glass - $18
-- Butterscotch Biscuit - Leopard ear &amp; tail set - $34
-- Butterscotch Biscuit - Yellow &amp; purple wagging tail - $54
+- Butterscotch Biscuit - Leopard ear & tail set - $34
+- Butterscotch Biscuit - Yellow & purple wagging tail - $54
 - Butterscotch Biscuit - Pink husky wagging tail - $35
 - The Reynolds - Pokemon 3x beanies - $141
 - The Reynolds - Tailspin knapsack - $237
-- The Reynolds - Kevin &amp; Kell book set - $24
+- The Reynolds - Kevin & Kell book set - $24
 - Red Falcon - Test tube holster - $83
 - Red Falcon - Engraved leather blank book - $94
 - The Reynolds - Christmas Classics DVD set - $13
-- The Reynolds - Chip &amp; Dale Disneyland plush set - $36
+- The Reynolds - Chip & Dale Disneyland plush set - $36
 - The Reynolds - Disney Store Zootopia shopping bag - $38
 - Wolf n' Cubs - Surf Paw black mirror - $21
 - Wolf n' Cubs - Surf Paw coaster set w/ leather pouch - $49
@@ -128,7 +128,7 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 - Catcherfiles - Japanese pomeranian plush - $65
 - Visit Pittsburgh - 2x Weird Al Yankovic tickets - $134
 - Mahogany Pearl - Hand-made rainbow chainmail necklace - $20
-- Mahogany Pearl - Hand-made cog &amp; chain steampunk necklace - $30
+- Mahogany Pearl - Hand-made cog & chain steampunk necklace - $30
 - Kiss me Karma - Capri-Sun swim trunks - $7
 - Fizz Otter - Fursuit badge #366 - $99
 - Fizz Otter - Fursuit badge #621 - $175
@@ -172,7 +172,7 @@ Berry Talks - **$1,112**
 
 Whose Lion Is It Anyway? - **$1,407**
 
-Fox &amp; Pepper After Dark - **$1,445**
+Fox & Pepper After Dark - **$1,445**
 
 Charity Poker Tournament - **$1,580**
 

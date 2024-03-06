@@ -70,7 +70,7 @@ Anthrocon is a Pennsylvania-incorporated 501(c)7 not-for-profit organization. Th
 
 <--->
 
-{{< center >}}**Director of Print &amp; Digital Media**{{< /center >}}
+{{< center >}}**Director of Print & Digital Media**{{< /center >}}
 
 {{< center >}}Paige “Ysera” Ward{{< /center >}}
 {{< /columns >}}

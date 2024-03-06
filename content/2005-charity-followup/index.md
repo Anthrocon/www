@@ -11,7 +11,7 @@ banner_url: ""
 
 Hi, and welcome to the 2005 edition of the Anthrocon Charity Auction Followup!
 
-We raised a very satisfactory total of $6,470 for our charity this year, Greater Philadelphia Search &amp; Rescue. They also raised additional donations from the sale of "Search Critter" vests, donations at their table, and additional funds contributed during the auction - these will be reported at a later date (I wanted to get the Auction data out ASAP).
+We raised a very satisfactory total of $6,470 for our charity this year, Greater Philadelphia Search & Rescue. They also raised additional donations from the sale of "Search Critter" vests, donations at their table, and additional funds contributed during the auction - these will be reported at a later date (I wanted to get the Auction data out ASAP).
 
 I'd like to give my sincere thanks to my staff members who assisted me throughout the days the Charity items were displayed and during the Auction itself. These indispensable people who I rely on year after year to support the event are J. Scotty "Windsinger" Emerle, Jason "creature" Murdock, Erika Leigh "Chillymouse" Rosengarten, Mike "Mrianti" Pierce, Steven "Tora" Sears, and Lincoln "JBadger" Kliman. Extra special thanks to Sam "Kagemushi" Conway and Ryan "Tet Solfire" Dewalt for auctioneering the full three hour stretch. Also thanks to Triggur, Simba_Lion and the entire A/V crew for their support in sound, lighting, and getting those photos of each item up on the big screen!
 
@@ -22,7 +22,7 @@ Shawntae Howard - Autographed print - $20<br>
 Kellic J. Tiger - Father of the Pride DVD - $60<br>
 Susan Rankin - Family Dog plush - $25<br>
 David Von Foxkin - Scorpion candy - $10<br>
-Redkam &amp; Graveyard Greg - Carpe Diem art - $20<br>
+Redkam & Graveyard Greg - Carpe Diem art - $20<br>
 Dante - Steel rose - $25<br>
 Erika Rosengarten - Star Wars poster - $10<br>
 Tony Ringtail - Funday Pawpet banner - $20<br>
@@ -32,16 +32,16 @@ Eagle Beagle - Norton Internet Security 2005 - $10<br>
 Nightsky Bluewyrm - iPod dock - $40<br>
 Killjoy - 50 sheets of elephant paper - $25<br>
 Guy Gilchrist - Original Mudpie strip - $25<br>
-Terrie Smith - Original art "Ernie &amp; Bert" - $40<br>
+Terrie Smith - Original art "Ernie & Bert" - $40<br>
 Wookie - Commission - $500<br>
 Silverfox Publications - Monty Python's Albatross plush - $25<br>
-Reto Roth - Faces de Rat #1 &amp; 2 - $30<br>
+Reto Roth - Faces de Rat #1 & 2 - $30<br>
 Mark Cerceo - Legends of the Unicorn poster - $10<br>
 Recherei - Peanut butter, jelly, bat box - $15<br>
 Firehopper - Tyrune action figure - $20<br>
 The Gneech - Suburban Jungle cameo, artwork - $250<br>
 Major Matt Mason - Bag of plush - $20<br>
-Bungee Skunk &amp; Pat the Fox - Two 2-liter bottles and 24-pack cans of Canadian Coke - $90<br>
+Bungee Skunk & Pat the Fox - Two 2-liter bottles and 24-pack cans of Canadian Coke - $90<br>
 FurFright - FurFright 2005 admission - $35<br>
 Danruk - Wolves journal, wolf alarm clock - $50<br>
 Killjoy - 12 Creepy Freaks starter packs, 150 booster packs - $35<br>
@@ -49,24 +49,24 @@ Rocco Perry - 14 posters - $30<br>
 Amaruq - Blank sketch book - $40<br>
 Charles Groark - Last Unicorn OST - $160<br>
 Meeba - Sabrina Online Collection - $150<br>
-Wyrmkeep Entertainment Co. - Inherit the Earth game &amp; signed mini-comic - $60<br>
-JBadger - Red, White &amp; Blue plush bears - $30<br>
+Wyrmkeep Entertainment Co. - Inherit the Earth game & signed mini-comic - $60<br>
+JBadger - Red, White & Blue plush bears - $30<br>
 Fredricksburg - Coyote plush w/ howling hot sauce - $50<br>
-Travis Moonschein - Pizza &amp; sodas - $30<br>
-Killjoy - 3D Dragon's Lair action figures &amp; game - $35<br>
+Travis Moonschein - Pizza & sodas - $30<br>
+Killjoy - 3D Dragon's Lair action figures & game - $35<br>
 Anubis - XL Albedo ConFed battle dress uniform - $30<br>
 Mejeep - Two Godzilla caps - $30<br>
-Sanguine Entertainment - Usagi Yojimbo comic w/ TMNT signed by Laird &amp; Sakai - $140<br>
+Sanguine Entertainment - Usagi Yojimbo comic w/ TMNT signed by Laird & Sakai - $140<br>
 Stormfront - Ltd Ed. Dark Natasha "Red Shetland" print - $60<br>
 Kagemushi - Duckcon spoof "Harry Potter" poster - $30<br>
 Michael Bergey - Two advance reading copies of "New Coyote" - $100<br>
 Dottiemouse - Kid's book - $25<br>
-Erika Rosengarten - Promo posters &amp; Borders $10 gift card - $35<br>
+Erika Rosengarten - Promo posters & Borders $10 gift card - $35<br>
 PixyVixy - Orbit RPG game book - $10<br>
 Rapid T. Rabbit - TV show package - $30<br>
 Mejeep, Po Shan Cheah - Paw slippers - $100<br>
 Fiawol Dave - Original Animalympics cel - $30<br>
-Sai Kennedy - Signed &amp; matted print - $50<br>
+Sai Kennedy - Signed & matted print - $50<br>
 Furry Weekend Atlanta - FWA God-level membership - $70<br>
 Recherei - Americana Fireman Bank - $10<br>
 Donna Ferron - Photo of Uncle Kage - $140<br>
@@ -77,7 +77,7 @@ Two Rodents Printing Group - Scho-ka-kola chocolate - $10<br>
 Tiger-Torre Art - Cowardly Lion plush - $15<br>
 Killjoy - Video game heroes plush - $145<br>
 Rainy Day Paperback Exchange, Nefaria - First ed. books - $25<br>
-Larry Dixon &amp; Mercedes Lackey - Signed books authored by Mercedes Lackey - $150<br>
+Larry Dixon & Mercedes Lackey - Signed books authored by Mercedes Lackey - $150<br>
 Smrgol - 10 lbs of Nutella - $40<br>
 John "Joatmon" Lindgren - Autographed copy of latest Redwall Book - $25<br>
 Sabrewing - Ltd. Ed. "New Avengers" comic - $10<br>
@@ -92,7 +92,7 @@ Mejeep - Star Wars kid's plate, bowl, cup - $10<br>
 Shirotora - Animal candy - $15<br>
 Charles Groark - Mark Rogers "Tiger Tank" original artwork - $150<br>
 Vulpes Rex - "The Morgue" gift set - $50<br>
-Brett Linbo-Terhaar - Talespin &amp; Darkwing Duck toys - $75<br>
+Brett Linbo-Terhaar - Talespin & Darkwing Duck toys - $75<br>
 Anubis, Mejeep - Ty Beanie "Scorch", Lion King ornaments - $10<br>
 Philip "Cirrel" Eggerding - DVD player - $40<br>
 Keiser Hess - Two original art, one print - $20<br>
@@ -108,14 +108,14 @@ Chris Goodwin - Digital print - $30<br>
 Peter Laird - Original AC05 conbook cover art - $250<br>
 Redding Roaster's Coffee Company - Coffee and lunch basket - $10<br>
 Jay Tee - Space Jam poster - $5<br>
-Tara &amp; Tony Bassette, Jr. - Plush - $10<br>
+Tara & Tony Bassette, Jr. - Plush - $10<br>
 Kagemushi - Werewolf plush - $30<br>
 Erf - Laser-engraved wolf zeta coins - $40<br>
 Larry Dixon - "Lord of the Rings" Great Eagle resin claw casting - $80<br>
 Tony Bassette, Jr - Children of the Twilight portfolio - $10<br>
 Kagemushi - Adams Mark memorabilia - $250<br>
 Seawolf - US Postal service 9/11 bear plush - $20<br>
-Nius &amp; Zannah - Petz Foxz plush set - $60<br>
+Nius & Zannah - Petz Foxz plush set - $60<br>
 2 - 2's DVD, signed - $60<br>
 Megaplex 2006 - Attending membership, t-shirt - $50<br>
 Smrgol - Furry Forever cap - $20<br>

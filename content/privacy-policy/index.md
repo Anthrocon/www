@@ -42,7 +42,7 @@ We review our retention periods for personal information on a regular basis. We 
 
 We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-## Tracking &amp; Cookies Data
+## Tracking & Cookies Data
 
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
@@ -110,7 +110,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
     You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-    For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+    For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 # Links To Other Sites
 

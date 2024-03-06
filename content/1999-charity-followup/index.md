@@ -28,9 +28,9 @@ Ty Beanie Baby "Scorch" (Jason Saylor) - $30<br>
 Limpidity comic strip original "Comets, Asteroids, and Meteors..."  (Po Shan Cheah) - $20<br>
 Uncle Kage's story hour card (Dr. Samuel Conway) - $40<br>
 Microsoft Office 2000 Premium (Paul Seid) - $90<br>
-Ren &amp; Stimpy #1-30 (Smrgol) - $70<br>
+Ren & Stimpy #1-30 (Smrgol) - $70<br>
 Feral! registration (Dan Markey) - $60<br>
-"Mimi &amp; Gogo" artwork (Diosden Rodriguez) - $10<br>
+"Mimi & Gogo" artwork (Diosden Rodriguez) - $10<br>
 Sculpture by Vicky Wyman (Charles Groark) - $140<br>
 "Missy" artwork (Gary Akins, Jr.) - $20<br>
 "Essence of Cherry Blossoms" artwork (Shannon Stuart) - $50<br>
@@ -61,7 +61,7 @@ Godiva chocolate gift basket (Godiva Chocolates) - $80<br>
 Comic collection (Bronzebear Media) - $40<br>
 Whiskey mirror (Jeff Jonas) - $25<br>
 Microsoft Frontpage 2000 (Paul Seid) - $20<br>
-"Cornbread Berry Cobbler" artwork (Margaret &amp; Robert Carspecken) - $60<br>
+"Cornbread Berry Cobbler" artwork (Margaret & Robert Carspecken) - $60<br>
 Aristocats CAV laserdisc (Gary Akins, Jr.) - $50<br>
 Animalympics videotape (Dorothy Rumfelt) - $50<br>
 Cross-stitched embroidery artwork (Chik'ki) - $100<br>
@@ -73,6 +73,6 @@ Microsoft Backoffice Server (Paul Seid) - $60<br>
 Hand-bound blank sketchbook (Bryan Feir) - $25<br>
 "Graceful Movement" artwork (Shannon Stuart) - $45<br>
 Figment dragon plush (Po Shan Cheah) - $25<br>
-Watership Down OST LP &amp; CDR (Gary Akins, Jr.) - $65
+Watership Down OST LP & CDR (Gary Akins, Jr.) - $65
 
 -- Rigel

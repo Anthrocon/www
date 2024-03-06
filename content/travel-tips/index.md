@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< center >}}Whether you’re a Pittsburgh local or flying in from around the world, there are several ways you can get to our city safely and smoothly. The event is held primarily in the David L. Lawrence Convention Center, but you can also navigate to The Westin Pittsburgh (located at 1000 Penn Ave) as a destination.{{< /center >}}
 
-{{< center >}}[**Driving &amp; Hotel Shuttles**](#driving-to-anthrocon) - [**Flying to Anthrocon**](#flying-to-anthrocon) - [**Bus &amp; Train**](#bus--train){{< /center >}}
+{{< center >}}[**Driving & Hotel Shuttles**](#driving-to-anthrocon) - [**Flying to Anthrocon**](#flying-to-anthrocon) - [**Bus & Train**](#bus--train){{< /center >}}
 
 ***
 
@@ -35,7 +35,7 @@ Pittsburgh, PA 15222
 
 ### Parking
 
-There are **plenty** of parking options besides those at the hotels! [**View our public parking map on Google to see what's nearby**.](https://www.google.com/maps/d/u/9/edit?mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&amp;usp=sharing)
+There are **plenty** of parking options besides those at the hotels! [**View our public parking map on Google to see what's nearby**.](https://www.google.com/maps/d/u/9/edit?mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&usp=sharing)
 
 ### Sharing a Ride
 

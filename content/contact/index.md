@@ -19,7 +19,7 @@ Artists Alley **-** [**alley@anthrocon.org**](mailto:alley@anthrocon.org)
 
 Art Show **-** [**artshow@anthrocon.org**](mailto:artshow@anthrocon.org)
 
-Conbook, Print &amp; Advertising **-** [**publications@anthrocon.org**](mailto:publications@anthrocon.org)
+Conbook, Print & Advertising **-** [**publications@anthrocon.org**](mailto:publications@anthrocon.org)
 
 Charity - [**charity@anthrocon.org**](mailto:charity@anthrocon.org)
 
@@ -31,7 +31,7 @@ Fursuit Photography - [**photo@anthrocon.org**](mailto:photo@anthrocon.org)
 
 Hotels and Suites - [**hotel@anthrocon.org**](mailto:hotel@anthrocon.org)
 
-Public Relations/Press &amp; Media - [**pr@anthrocon.org**](mailto:pr@anthrocon.org)
+Public Relations/Press & Media - [**pr@anthrocon.org**](mailto:pr@anthrocon.org)
 
 Operations - [**operations@anthrocon.org**](mailto:operations@anthrocon.org)
 
@@ -41,7 +41,7 @@ Registration - [**registration@anthrocon.org**](mailto:registration@anthrocon.or
 
 Refunds - [**refunds@anthrocon.org**](mailto:refunds@anthrocon.org)
 
-Safety &amp; Security - [**safety@anthrocon.org**](mailto:safety@anthrocon.org)
+Safety & Security - [**safety@anthrocon.org**](mailto:safety@anthrocon.org)
 
 Social Media - [**social-media@anthrocon.org**](mailto:social-media@anthrocon.org)
 

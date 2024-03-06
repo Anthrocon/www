@@ -31,7 +31,7 @@ Plenty of tickets are still available for all sailings of the Anthrocon River Cr
 
 ## Events and Performance applications
 
-Applications to host regular panels such as Meet &amp; Greets, Seminars, Discussions, Demonstrations, Educational Talks, etc. are also available on our [**Events and Panels page**](https://www.anthrocon.org/events-panels). Panels must be submitted by March 31 to be considered for this year’s convention. For those looking for their opportunity to perform on one of Anthrocon’s stages, our [**audition form**](https://www.anthrocon.org/stage-performances) is available to fill out on our Events page. Main Stage time is limited, so please apply early!
+Applications to host regular panels such as Meet & Greets, Seminars, Discussions, Demonstrations, Educational Talks, etc. are also available on our [**Events and Panels page**](https://www.anthrocon.org/events-panels). Panels must be submitted by March 31 to be considered for this year’s convention. For those looking for their opportunity to perform on one of Anthrocon’s stages, our [**audition form**](https://www.anthrocon.org/stage-performances) is available to fill out on our Events page. Main Stage time is limited, so please apply early!
 
 ## Fursuit Dance Competition and Floor wars
 
@@ -43,7 +43,7 @@ Floor Wars sign-ups are now available! This electrifying event brings the best o
 
 Interested in advertising at Anthrocon? Or maybe even submitting written short stories and artwork? Our conbook and print advertisement submissions are open! For more information, check out our [**Conbook Submissions page**](/conbook-submissions-2023)!
 
-## Art Show &amp; Artists Alley
+## Art Show & Artists Alley
 
 Applications for both Art Show and Artists Alley are open! Register for the Art Show by March 31 to guarantee your spot. For more information about the process and frequently asked questions, refer to our [**Art Show page**](https://www.anthrocon.org/artshow).
 

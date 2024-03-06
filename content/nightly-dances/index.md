@@ -46,7 +46,7 @@ A variety of music genres are chosen for each night of the dances. You can expec
 - Trap and Dubstep
 - House
 - Trance
-- Drum &amp; Bass
+- Drum & Bass
 
 **Are the nightly dances livestreamed?**
 

@@ -16,9 +16,9 @@ Anthrocon donated a new convention record of **$42,051** for South Hills Pet Res
 We also set new records for the charity raffle and the bucket brigade!
 
 - More special thanks are in order to the following groups and individuals:To all the donors who contributed artwork, merchandise, and memorabilia to the auction and raffle, and to all those who both bid at the auction and bought raffle tickets.
-- To the Dorsai Irregulars, Anthrocon's security contingent, who contributed the New &amp; Improved Golden Ticket for 2019.
+- To the Dorsai Irregulars, Anthrocon's security contingent, who contributed the New & Improved Golden Ticket for 2019.
 - To all the Sunday comedy show performers, for their charity performance from which all ticket sales were donated to charity.  Also, as always, to Dr. Conway for his annual auctioneering skills.
-- To all the fursuiters who volunteered their time for the new &amp; improved fursuit "bucket brigade": Vira, Prince Mai, Hubcap, TehAlbi, Hella Obnoxious, Toxic, Foxkiller BlueDragon, Martog, Gadget, R3venge, Kodiac, Oliver Devlin, Tamaska Kitsune, Blue Mouse, Dusk &amp; Laguna, Kytezilla, Star, Tumult, Snorkyl Randa, A Loaf, Queenie Deerhart, Red, Wolven, Monster Bones, Cyfer, Whitepaw &amp; Scooter, Peach Pit, Lt. Knight, and Grandma Kage.  Congratulations to our top three fundraisers: Prince Mai, Tumult, and A Loaf!
+- To all the fursuiters who volunteered their time for the new & improved fursuit "bucket brigade": Vira, Prince Mai, Hubcap, TehAlbi, Hella Obnoxious, Toxic, Foxkiller BlueDragon, Martog, Gadget, R3venge, Kodiac, Oliver Devlin, Tamaska Kitsune, Blue Mouse, Dusk & Laguna, Kytezilla, Star, Tumult, Snorkyl Randa, A Loaf, Queenie Deerhart, Red, Wolven, Monster Bones, Cyfer, Whitepaw & Scooter, Peach Pit, Lt. Knight, and Grandma Kage.  Congratulations to our top three fundraisers: Prince Mai, Tumult, and A Loaf!
 - To all the attendees who bought merchandise and made cash donations to South Hills' donation buckets at their table.
 
 I would like to give thanks to my staff who helped conduct both the charity auction and raffle. None of this could've occurred without the assistance of Mike "Mrianti" Pierce, Trevor "Mr. Mutt" Boyd, Tracey "Stormy" Bealer, Karl "Xydexx" Jorgensen, Lynn Harris, and Sharon Yates, as well as the additional assistance of legacy staffer, Shaun "Stahi" Daugherty.
@@ -46,8 +46,8 @@ Charity Auction (in no particular order) [donor - item - sale price]:
 - Fizz Otter - Giant fursuit tag "Monstr" for AC 2018 - $525
 - Flux/Open Realms LLC - "Aflockalypse" poster - $160
 - Chris McKinley - Associated Student Bodies letterman jacket - $200
-- Matt Frank &amp; Bossasaur - Framed memorial print for Haruo Nakajima - $225
-- Dorsai Irregulars &amp; Sandy Schreiber - Golden Ticket for AC 2018 - $600
+- Matt Frank & Bossasaur - Framed memorial print for Haruo Nakajima - $225
+- Dorsai Irregulars & Sandy Schreiber - Golden Ticket for AC 2018 - $600
 - Anthrocon - 4 nights in Courtyard for AC 2018 - $1050
 - Fizz Otter - Giant fursuit tag "Kaiju" for AC 2018 - $600
 - Len Simon - "Akima" cleanup production drawing - $50
@@ -56,19 +56,19 @@ Auction total: **$7,090**
 
 Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 
-- Joseph Gregory &amp; Anna Marie Wright - "Kimono Cat" sculpture by Vicky Wyman - $32
+- Joseph Gregory & Anna Marie Wright - "Kimono Cat" sculpture by Vicky Wyman - $32
 - Jem Nighthawk - Skylanders Imaginators Starter Pack for WiiU - $27
-- Kateserra &amp; Raibeart - 2x Anthrocon 2018 XL t-shirts - $60
+- Kateserra & Raibeart - 2x Anthrocon 2018 XL t-shirts - $60
 - Osiris Adustus - Sterling silver + gemstone collar tag - $18
 - Smrgol - Furry Forever gold-on-black cap #17 - $29
 - Wolf N Cubs - Engraved 2017 Anthrocon sketchpad - $32
 - Padma Bhujaga - Untitled original artwork by Soulpoison (large) - $14
-- Joseph Gregory &amp; Anna Marie Wright - "My Teddy 2" print by R. Wayt Smith - $42
+- Joseph Gregory & Anna Marie Wright - "My Teddy 2" print by R. Wayt Smith - $42
 - Neurotic Sphynx - Fox mug - $58
-- Joseph &amp; Laura Morgan - Chim Char giant plush - $34
+- Joseph & Laura Morgan - Chim Char giant plush - $34
 - Neurotic Sphynx - Arctic fox mug - $27
 - JenKiwi - Pewter dragon - $12
-- Joseph Gregory &amp; Anna Marie Wright - "Curiosity" print by Kathleen Lowe - $49
+- Joseph Gregory & Anna Marie Wright - "Curiosity" print by Kathleen Lowe - $49
 - Static Claws - NES Classic Edition - $464
 - Kale - Canadian snack pack - $118
 - Furscience - Furscience swag basket - $107
@@ -87,9 +87,9 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 - KarmaKat - 2XL lion t-shirt - $13
 - KarmaKat - Black jade pendant w/ engraved wolf - $57
 - Sssage - Black cobra hood snake shed pendant - $11
-- Joseph Gregory &amp; Anna Marie Wright - "Lady in Tree at Night" print by Georgia Horesh - $4
+- Joseph Gregory & Anna Marie Wright - "Lady in Tree at Night" print by Georgia Horesh - $4
 - Joatmon - 2x Zootopia XL t-shirts - $109
-- Joseph Gregory &amp; Anna Marie Wright - "Blue Moon" print by Alison Rementer &amp; Miguel Nieves - $19
+- Joseph Gregory & Anna Marie Wright - "Blue Moon" print by Alison Rementer & Miguel Nieves - $19
 - KarmaKat - 5XL wolf t-shirt - $20
 - Fizz Otter - Fursuit tag #420 for AC 2018 - $190
 - Panzier - "Otterpuss" art by Misty Grennell (Worried Eyes Art) - $26
@@ -99,26 +99,26 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 - Fizz Otter - Giant fursuit tag $10,000 for AC 2018 - $501
 - JenKiwi - Clay raven pendant - $12
 - KarmaKat - Metal dragon bracelet - $30
-- Kitt, the gryphon - Winnie (parrot) &amp; Saffire (dragon) Ty beanies - $52
+- Kitt, the gryphon - Winnie (parrot) & Saffire (dragon) Ty beanies - $52
 - Edgar Kingmaker - "Llama Mama" print - $14
 - Daryl Flood - "Night of the Were-coyote" original art - $17
 - Tiger Torre Art - Build-A-Bear tiger pirate plush - $58
 - Rain Oubliette - Folkmanis pack rat puppet - $49
 - Panzier - Elephant painting by Misty Grennell (Worried Eyes Art) - $5
 - Padma Bhujaga - "Curiosity" original art - $38
-- Bill Holbrook - Kevin &amp; Kell "Straight Outta Computers" HC, signed - $24
+- Bill Holbrook - Kevin & Kell "Straight Outta Computers" HC, signed - $24
 - Scrolling Fantasy - "rescue" canine woodcut puzzle - $22
 - INKtiger - "Red Panda" original art by Tygurstar - $9
 - Quack Quack Honk - "Worth of Salt" original art - $4
-- Pixel &amp; the Wolf - "Life is Wonderful" print by Nate Nill - $57
+- Pixel & the Wolf - "Life is Wonderful" print by Nate Nill - $57
 - Paws To Press - Volcarona crystal pokeball - $71
 - Hyena Agenda - L t-shirt, gaming mousepad, accessories - $205
 - JenKiwi - Nano Metalfics die-cast Disney Gizmo duck figurine - $16
-- Joseph Gregory &amp; Anna Marie Wright - "Moonlight Succubus" print by Brown - $34
+- Joseph Gregory & Anna Marie Wright - "Moonlight Succubus" print by Brown - $34
 - Ruben Avila - UFO model from "Earth vs. the Flying Saucers" - $16
-- Joseph Gregory &amp; Anna Marie Wright - "Wise One" clay sculpture by Vicky Wyman - $7
+- Joseph Gregory & Anna Marie Wright - "Wise One" clay sculpture by Vicky Wyman - $7
 - Padma Bhujaga - Untitled original art (small) by Soulpoison - $12
-- Joseph Gregory &amp; Anna Marie Wright - "Renaissance Cat" art by Deborah W. - $33
+- Joseph Gregory & Anna Marie Wright - "Renaissance Cat" art by Deborah W. - $33
 - Wolf N Cubs - 2x engraved champagne flutes - $59
 - Red Falcon - Skull potion bottle w/ leather strap - $54
 - Dr. Kathy Gerbasi - $100 Amazon gift card - $405
@@ -132,26 +132,26 @@ Raffle (in no particular order) [donor - item - ticket sales @ $1 each]:
 - Anthrocon - 4 nights in Omni for AC 2018 - $826
 - Norman Rafferty - 2XL retro-primitive t-shirt - $5
 - Foxlinger - Aurora World MLP:FiM 6x plush set - $42
-- Jem Nighthawk - Zootopia McHorn &amp; Clawhauser figurines - $14
+- Jem Nighthawk - Zootopia McHorn & Clawhauser figurines - $14
 - JenKiwi - Barrettes by Crass Critters - $10
 - KarmaKat - 2XL lion sweatshirt hoodie - $29
 - ChrisFoxx - Bulbasaur portable charger - $52
 - Tiger Torre Art - "Lucky" plush cat - $9
 - Ebony Leopard - "Raccoon Woman" original sculpture by Ruban Avila - $46
-- Joseph Gregory &amp; Anna Marie Wright - "The Bard" print by Georgia Horesh - $10
+- Joseph Gregory & Anna Marie Wright - "The Bard" print by Georgia Horesh - $10
 - Miu - 2x Acrylic standees - $114
 - The Garment Goddess - Celtic dragon wall art - $433
 - Stele Dragon - Hand-carved wooden Anthrocon sign - $57
-- Joseph Gregory &amp; Anna Marie Wright - "Elven Prince" original art by April Lee - $35
+- Joseph Gregory & Anna Marie Wright - "Elven Prince" original art by April Lee - $35
 - Wolf N Cubs - Elder runes set - $62
 - Tycoon - Disney cast-member ltd. ed. "Robin Hood' 45th ann. pin - $58
 - Zerohenry - Video game fan art sketchbook - $25
 - KarmaKat - 3XL lion shirt - $10
 - Highwing - Zootopia marketing DVD display - $240
-- Joseph &amp; Laura Morgan - Rick &amp; Morty giant plush - $82
+- Joseph & Laura Morgan - Rick & Morty giant plush - $82
 - Business Wolf - "Freddy Cougar" original art - $24
 - The Gneech - Buffalo Wings TPB collection, signed - $29
-- Pixel &amp; the Wolf - "Beautiful Creature" wolf print by Nate Nill - $27
+- Pixel & the Wolf - "Beautiful Creature" wolf print by Nate Nill - $27
 - Dr. Kathy Gerbasi - MLP: FiM Ty beanie set - $17
 - The Gneech - Suburban Jungle cameo - $79
 - Rysingson Accessories - 2XL blue El Wire sleeveless hoodie - $236
@@ -160,9 +160,9 @@ Raffle total: $7,195 + $40 (unused tickets) = **$7,235**
 
 Furry Language event - **$25**
 
-Angel Dragon Meet &amp; Greet - **$42**
+Angel Dragon Meet & Greet - **$42**
 
-Furry D&amp;D event - **$126**
+Furry D&D event - **$126**
 
 Dr. Gerbasi's Furry Science donation - **$200**
 
@@ -190,7 +190,7 @@ Charity Poker Tournament - **$1,520**
 
 South Hills Pet Rescue merchandise sales - **$1,785**
 
-Fox &amp; Pepper + Majira - **$2,039**
+Fox & Pepper + Majira - **$2,039**
 
 Cash donations - **$2,421**
 

@@ -23,7 +23,7 @@ No, since the convention handles the sales.
 
 Anthrocon does not believe in restricting the artistic freedom of its attendees (unless that artistic freedom conflicts with Pennsylvania state law). We will, however, confine any artwork deemed to be unsuitable for a general audience to specific areas that will be restricted to adults.
 
-## SPACE RESERVATIONS &amp; DISPLAY
+## SPACE RESERVATIONS & DISPLAY
 
 ### Do you have a jury for the Art Show?
 

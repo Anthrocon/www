@@ -35,7 +35,7 @@ We know that figuring out your travel plans to Anthrocon will be a priority soon
 
 Programming submissions are still open for 2022, and we will be looking to receive all panels and event ideas once more regardless whether or not it was accepted for 2020 or previous years. Head over to our [**Programming page**](/programming) for more information.
 
-### Conbook &amp; Advertising
+### Conbook & Advertising
 
 Our conbook submissions are now open. Visit our [**Conbook page**](/conbook) for details on what we’re looking for, and how to submit for our 2022 conbook.
 

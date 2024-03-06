@@ -21,7 +21,7 @@ Programming submissions have been up for some time now, but we’re looking to w
 
 Art Show submissions are being taken now, with those getting their application in by March 31st getting a guaranteed spot. More information can be found on our [**Art Show page!**](https://www.anthrocon.org/artshow)
 
-### Conbook &amp; Advertisement Submissions
+### Conbook & Advertisement Submissions
 
 We’re still taking submissions for our convention conbook and other advertisement mediums, whether you’re looking to show off your artistic talents or promote your business. Submissions are due no later than May 1st - find out how to submit on our [**Conbook page**](/conbook), or our [**Advertising page**](https://www.anthrocon.org/advertising).
 
