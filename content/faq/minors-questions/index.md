@@ -45,7 +45,7 @@ For Anthrocon 2024, a new option is being offered for children under 13 to atten
 
 If your friends or classmates think you’re weird because you have a fun hobby that allows you to be creative and express yourself, it shouldn’t really matter what they think as long as you’re happy and having a good time. Plus, there are plenty of furries all around the world who would be happy to be your friend and enjoy your “weirdness”!
 
-### I am under 21 years of age.&nbsp;Can I reserve a hotel room?
+### I am under 21 years of age. Can I reserve a hotel room?
 
 Certain hotels that Anthrocon has specific agreements with may allow guests aged 18 years or older to check in. However, these must be rooms reserved through Anthrocon’s booking website (Orchid Events) in order to qualify for this particular concession. Not all hotels offered within Anthrocon’s room block offer this; please double check on the booking website (Orchid Events) for a hotel’s minimum age before you reserve.
 

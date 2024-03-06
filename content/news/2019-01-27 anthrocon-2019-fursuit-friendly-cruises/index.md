@@ -47,5 +47,5 @@ banner_url: ""
 - The deadline to request a refund for the Fursuit-Friendly cruise is June 16th, 2019 at 11:59pm EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.
 - Refunds will not be issued if you miss the boarding time for your cruise.
-- Refund requests must made by email to refunds@anthrocon.org. &nbsp;We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests made by PM on the website, by Twitter, by Facebook/G+ posts, or other methods.
+- Refund requests must made by email to refunds@anthrocon.org.  We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests made by PM on the website, by Twitter, by Facebook/G+ posts, or other methods.
 - Refunds must be approved/requested by the person who purchased the tickets.

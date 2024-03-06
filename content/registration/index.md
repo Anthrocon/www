@@ -187,9 +187,9 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 {{< center >}}## Disclaimers for registration tiers{{< /center >}}
 
-**\* Note for Sponsor, Supersponsor, and Ultrasponsor:** A portion of this membership constitutes &nbsp;a donation to Anthrocon which, by law, is not tax-deductible and is not refundable if your registration is canceled.&nbsp;For more information, please see [**our refund policy**](/refundpolicy).
+**\* Note for Sponsor, Supersponsor, and Ultrasponsor:** A portion of this membership constitutes  a donation to Anthrocon which, by law, is not tax-deductible and is not refundable if your registration is canceled. For more information, please see [**our refund policy**](/refundpolicy).
 
-**\*\* Note for Advance Hotel Reservations:** The higher demand hotels (such as the Westin, Courtyard and the Drury) will have a number of rooms set aside for the general reservation opening.&nbsp;This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. You may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations. For more information about available hotels, see [**our hotels page**](/hotel).
+**\*\* Note for Advance Hotel Reservations:** The higher demand hotels (such as the Westin, Courtyard and the Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. You may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations. For more information about available hotels, see [**our hotels page**](/hotel).
 
 ***
 
@@ -220,7 +220,7 @@ Required for attendees who are under 13 years of age and attending Anthrocon 202
 {{< details "What ID do I need to bring to get my registration?" >}}
 For all attendees aged 18 years and older, we require a government-issued photo ID so that we can make sure nobody other than you is trying to pick up your badge or register in your name. Anthrocon accepts the following as a single-form ID: USA or Canada Driver's License, USA or Canada State ID, USA Military ID, or a Passport.
 
-For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well. &nbsp;However, we do understand that not every minor (especially the younger ones) will have an ID.&nbsp;If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth.&nbsp;Contact the Registration department at [**registration@anthrocon.org**](mailto:registration@anthrocon.org) registration@anthrocon.org if you are unsure or need assistance in determining alternate forms of acceptable ID.
+For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well.  However, we do understand that not every minor (especially the younger ones) will have an ID. If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth. Contact the Registration department at [**registration@anthrocon.org**](mailto:registration@anthrocon.org) registration@anthrocon.org if you are unsure or need assistance in determining alternate forms of acceptable ID.
 {{< /details >}}
 
 {{< details "I don't have an ID. What should I do?" >}}

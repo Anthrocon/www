@@ -33,10 +33,10 @@ Looking for the Fursuit Group Photo? [Here it is.](https://www.flickr.com/photos
 The entire **city** was talking about us. We got plenty of news coverage:
 
 - [The origin of how Pittsburgh and furries fell in love with each other](https://www.pghcitypaper.com/pittsburgh/the-origin-of-how-pittsburgh-and-furries-fell-in-love-with-each-other/Content?oid=15356126)
-- [Anthrocon 2019 in Pittsburgh: Etiquette, parade details, and all your other furry &nbsp;questions](https://theincline.com/2019/07/03/anthrocon-2019-in-pittsburgh-etiquette-parade-details-and-all-your-other-furry-questions/)
+- [Anthrocon 2019 in Pittsburgh: Etiquette, parade details, and all your other furry  questions](https://theincline.com/2019/07/03/anthrocon-2019-in-pittsburgh-etiquette-parade-details-and-all-your-other-furry-questions/)
 - [FURRIES: Today we spoke with "Danger" at Anthrocon! Organizers say they're expecting to break last year's attendance record with up to 10,000 visitors this year!](https://twitter.com/WTAE/status/1147299585544642562)
 - [Meet Rhythm, the 25-year-old furry from Carnegie](https://www.pghcitypaper.com/Blogh/archives/2019/07/03/meet-rhythm-the-25-year-old-furry-from-carnegie)
-- [Anthrocon 2019 Kicks Off In Downtown &nbsp;Pittsburgh](https://pittsburgh.cbslocal.com/2019/07/04/anthrocon-2019-kicks-off-in-downtown-pittsburgh/)
+- [Anthrocon 2019 Kicks Off In Downtown  Pittsburgh](https://pittsburgh.cbslocal.com/2019/07/04/anthrocon-2019-kicks-off-in-downtown-pittsburgh/)
 - [Furries set to break Pittsburgh attendance record](https://www.wtae.com/article/furries-on-parade-in-pittsburgh-this-saturday/28294302)
 - [Furries feel the love from Pittsburghers as Anthrocon begins](https://triblive.com/local/pittsburgh-allegheny/animal-magnetism-furries-open-annual-pittsburgh-convention/)
 - [Furries are artists, and Anthrocon is their Sotheby's](https://www.pghcitypaper.com/pittsburgh/furries-are-artists-and-anthrocon-is-their-sothebys/Content?oid=15328123)
@@ -48,6 +48,6 @@ The entire **city** was talking about us. We got plenty of news coverage:
 
 Many thanks to our attendees, our staff, and the city of Pittsburgh for being such a hospitable host city!
 
-Do you have more thoughts or feedback to share with us?&nbsp;Please take our [post-con survey](http://anthrocon.org/survey)!
+Do you have more thoughts or feedback to share with us? Please take our [post-con survey](http://anthrocon.org/survey)!
 
-Anthrocon 2020 will be held **July 2 - July 5, 2020** in Pittsburgh, PA, USA and the theme will be "Aesop's Fables".&nbsp;&nbsp;We’ll see you then.
+Anthrocon 2020 will be held **July 2 - July 5, 2020** in Pittsburgh, PA, USA and the theme will be "Aesop's Fables".  We’ll see you then.

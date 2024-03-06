@@ -14,7 +14,7 @@ banner_url: "https://www.flickr.com/photos/dmuth/20195413312/"
 ### All items
 
 - All items will go on display.
-- Auction items will be auctioned on Sunday. Winners of raffle items will be determined after Dealers Room hours on Saturday, with results posted on Sunday.&nbsp;Due to the quantity of participants, the raffle drawing is not a public event.
+- Auction items will be auctioned on Sunday. Winners of raffle items will be determined after Dealers Room hours on Saturday, with results posted on Sunday. Due to the quantity of participants, the raffle drawing is not a public event.
 - Salable valuation is determined at the event representative's discretion.
 - Items for the Auction must be one-of-a-kind, unique items at the current Anthrocon that are not available in the Art Show or Dealers' Room. Items for the Raffle do not need to be unique.
 - All items should be in new or like-new condition.
@@ -27,11 +27,11 @@ banner_url: "https://www.flickr.com/photos/dmuth/20195413312/"
 - We cannot guarantee accommodation of excessively large items.
 - Please deliver any donations to the Dealers' Room on Friday during Dealers' Room setup and open hours. We apologize for being unable to pick-up items from individual donors at the convention.
 - Make sure that any item you donate is described correctly and legibly on the display card at the convention. Any confirmation emails before the convention are only for tallying and approval.
-- Raffle items won may be shipped after the convention at the director's discretion and at the winner's expense.&nbsp;Otherwise, unclaimed raffle items of 20 tickets or less are turned over to the charity, and unclaimed raffle items of greater than 20 tickets are stored and re-raffled the subsequent year.
+- Raffle items won may be shipped after the convention at the director's discretion and at the winner's expense. Otherwise, unclaimed raffle items of 20 tickets or less are turned over to the charity, and unclaimed raffle items of greater than 20 tickets are stored and re-raffled the subsequent year.
 
 ### Items to be raffled
 
-- The Raffle can accept a maximum of 100 donations through Dealers Room close on Friday of the convention.&nbsp;Donations will no longer be accepted once either limit has been reached.
+- The Raffle can accept a maximum of 100 donations through Dealers Room close on Friday of the convention. Donations will no longer be accepted once either limit has been reached.
 
 ### Items to be auctioned (higher-value items)
 

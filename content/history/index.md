@@ -85,7 +85,7 @@ Pittsburgh, PA
 June 30-July 3, 2016<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Trevor Devall,&nbsp;Tracy Butler,&nbsp;Joaquin Baldwin
+**Guests of Honor:** Trevor Devall, Tracy Butler, Joaquin Baldwin
 
 **Charity:** [$32,579 for The Pittsburgh Zoo](/2016-charity-followup)<br>
 **Attendance:** [7,308](/anthrocon-attendance-graphs)<br>
@@ -96,7 +96,7 @@ Pittsburgh, PA
 July 9-12, 2015<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Kimlinh Tran,&nbsp;The San Diego Chicken
+**Guests of Honor:** Kimlinh Tran, The San Diego Chicken
 
 **Charity:** [$35,910 for The Western PA Humane Society](/2015-charity-followup)<br>
 **Attendance:** [6,348](/anthrocon-attendance-graphs)<br>
@@ -107,7 +107,7 @@ Pittsburgh, PA
 July 3-6, 2014<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Lee Tockar,&nbsp;Jim Cummings
+**Guests of Honor:** Lee Tockar, Jim Cummings
 
 **Charity:** [$32,372 for The National Aviary](/2014-charity-followup)<br>
 **Attendance:** [5,861](/anthrocon-attendance-graphs)<br>
@@ -118,7 +118,7 @@ Pittsburgh, PA
 July 4-7, 2013<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Tom Minton,&nbsp;Mercedes Lackey,&nbsp;Larry Dixon
+**Guests of Honor:** Tom Minton, Mercedes Lackey, Larry Dixon
 
 **Other Guests:** Sardyuon
 
@@ -131,7 +131,7 @@ Pittsburgh, PA
 June 14-17, 2012<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Dev Madan,&nbsp;Mike Kazaleh
+**Guests of Honor:** Dev Madan, Mike Kazaleh
 
 **Other Guests:** Sardyuon
 
@@ -144,7 +144,7 @@ Pittsburgh, PA
 June 23-26, 2011<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Peter S. Beagle,&nbsp;Andy Runton
+**Guests of Honor:** Peter S. Beagle, Andy Runton
 
 **Charity:** [$11,522 for The Toonseum](/2011-charity-followup)<br>
 **Attendance:** [4,400](/anthrocon-attendance-graphs)<br>
@@ -155,7 +155,7 @@ Pittsburgh, PA
 June 24-27, 2010<br>
 Pittsburgh, PA
 
-**Guests of Honor:** James Gurney,&nbsp;Jim Martin
+**Guests of Honor:** James Gurney, Jim Martin
 
 **Charity:** [$12,849 for Fayette Friends of Animals](/2010-charity-followup)<br>
 **Attendance:** [4,238](/anthrocon-attendance-graphs)<br>
@@ -166,7 +166,7 @@ Pittsburgh, PA
 July 2-5, 2009<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Joe Harris, Ben Balistreri,&nbsp;Bob Boyle
+**Guests of Honor:** Joe Harris, Ben Balistreri, Bob Boyle
 
 **Charity:** [$8,992 for Animal Rescue League Wildlife Rehabilitation Center](/2009-charity-followup)<br>
 **Attendance:** [3,777](/anthrocon-attendance-graphs)<br>
@@ -188,7 +188,7 @@ Pittsburgh, PA
 July 5-8, 2007<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Rob Paulsen,&nbsp;Mark Evanier,&nbsp;Caroyln Kelly
+**Guests of Honor:** Rob Paulsen, Mark Evanier, Caroyln Kelly
 
 **Charity:** [$7,608 for Animal Friends](/2007-charity-followup)<br>
 **Attendance:** 2,849<br>
@@ -199,7 +199,7 @@ Pittsburgh, PA
 June 15-18, 2006<br>
 Pittsburgh, PA
 
-**Guests of Honor:** Scott Shaw!,&nbsp;Diane Duane
+**Guests of Honor:** Scott Shaw!, Diane Duane
 
 **Other Guests:** [Tom Smith](http://www.tomsmithonline.com/)
 
@@ -212,7 +212,7 @@ Pittsburgh, PA
 July 7-10, 2005<br>
 Philadelphia, PA
 
-**Guests of Honor:** Peter Laird,&nbsp;Timothy Albee
+**Guests of Honor:** Peter Laird, Timothy Albee
 
 **Charity:** [$6,470 for Greater Philadelphia Search &amp; Rescue](/2005-charity-followup)<br>
 **Attendance:** 2,370<br>
@@ -223,7 +223,7 @@ Philadelphia, PA
 July 8-11, 2004<br>
 Philadelphia, PA
 
-**Guests of Honor:** Michel Gagne',&nbsp;Stan Sakai
+**Guests of Honor:** Michel Gagne', Stan Sakai
 
 **Charity:** [$7,200 for Forgotten Felines &amp; Fidos (FFF)](/2004-charity-followup)<br>
 **Attendance:** 2,404
@@ -233,7 +233,7 @@ Philadelphia, PA
 July 17-20, 2003<br>
 Philadelphia, PA
 
-**Guests of Honor:** Mark E. Rogers,&nbsp;Guy Gilchrist
+**Guests of Honor:** Mark E. Rogers, Guy Gilchrist
 
 **Charity:** [$8,348 for Support Our Shelters](/2003-charity-followup)<br>
 **Attendance:** 1,949
@@ -243,9 +243,9 @@ Philadelphia, PA
 July 11-14, 2002<br>
 Philadelphia, PA
 
-**Guests of Honor:** Heather Bruton,&nbsp;Lisanne Norman
+**Guests of Honor:** Heather Bruton, Lisanne Norman
 
-**Other Guests:** Herbie Hamill,&nbsp;Josie DeCarlo, Benjamin Franklin
+**Other Guests:** Herbie Hamill, Josie DeCarlo, Benjamin Franklin
 
 **Charity:** [$13,280 for Canine Partners for Life](/2002-charity-followup)<br>
 **Attendance:** 1,648
@@ -255,7 +255,7 @@ Philadelphia, PA
 July 27-29, 2001<br>
 Philadelphia, PA
 
-**Guests of Honor:** Bill Holbrook,&nbsp;Dan DeCarlo
+**Guests of Honor:** Bill Holbrook, Dan DeCarlo
 
 **Charity:** [$7,273 for Reins of Life](/2001-charity-followup)<br>
 **Attendance:** 1,457
@@ -265,7 +265,7 @@ Philadelphia, PA
 June 30-July 2, 2000<br>
 Valley Forge, PA
 
-**Guests of Honor:** Sara Palmer,&nbsp;Paul Kidd
+**Guests of Honor:** Sara Palmer, Paul Kidd
 
 **Charity:** [$6,534 for The National Greyhound Adoption Program](/2000-charity-followup)<br>
 **Attendance:** 1,128
@@ -275,7 +275,7 @@ Valley Forge, PA
 July 2-4, 1999<br>
 Valley Forge, PA
 
-**Guests of Honor:** Vicky Wyman,&nbsp;S. Andrew Swann
+**Guests of Honor:** Vicky Wyman, S. Andrew Swann
 
 **Charity:** [$3,600 for Great Valley Nature Center](/1999-charity-followup)<br>
 **Attendance:** 845
@@ -285,7 +285,7 @@ Valley Forge, PA
 July 3-5, 1998<br>
 Albany, NY
 
-**Guests of Honor:** Jeffrey A. Carver,&nbsp;Uncle Kage,&nbsp;Jim Groat
+**Guests of Honor:** Jeffrey A. Carver, Uncle Kage, Jim Groat
 
 **Charity:** [$3,092 for Whiskers](/1998-charity-followup)<br>
 **Attendance:** 600 est
@@ -295,7 +295,7 @@ Albany, NY
 July 4-6, 1997<br>
 Albany, NY
 
-**Guests of Honor:** Daphne Lage,&nbsp;Watts Martin
+**Guests of Honor:** Daphne Lage, Watts Martin
 
 **Charity:** $2,200 for Therapy Dogs/K9 Friends<br>
 **Attendance:** 300 est

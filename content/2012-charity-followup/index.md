@@ -17,7 +17,7 @@ More special thanks are in order to the following groups and individuals:
 
 - To all the donors who contributed artwork and merchandise to the auction and raffle, and to all those who both bid at the auction and bought raffle tickets.
 - To the Dorsai Irregulars, Anthrocon's security contingent, who contributed more of their sought-after fursuit items, the Elevator Golden Ticket for 2013, and raised additional funds at the elevators.
-- To Dr. Samuel Conway and 2, the Ranting Gryphon, for their charity performance for which all ticket sales were donated to charity.&nbsp;Also, again to Dr. Conway for his annual auctioneering skills.
+- To Dr. Samuel Conway and 2, the Ranting Gryphon, for their charity performance for which all ticket sales were donated to charity. Also, again to Dr. Conway for his annual auctioneering skills.
 - To all the fursuiters and their handlers who helped us inaugurate our own version of the fursuit "bucket brigade," and to the other furry conventions who gave us the idea to build off of - we've got new ideas on how to streamline it, improve it, and make it more fun to participate in for 2013!
 - To the Westin, Omni, and DoubleTree who each generously offered up a four-night stay during Anthrocon 2013.
 - To all the attendees who bought merchandise and made cash donations to Hello Bully's donations jar at their table, which is always a large percentage of the total funds raised.

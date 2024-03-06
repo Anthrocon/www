@@ -9,9 +9,9 @@ banner_author: ""
 banner_url: ""
 ---
 
-Thank you all for helping make the Anthrocon 2000 Charity Auction a tremendous success!&nbsp;The donations made to help the National Greyhound Adoption Program raised over $6500!&nbsp;For comparison, last year we raised $3800, an all-time record for any furry convention.&nbsp;This year simply blew that old record out of the water thanks to the generosity of our bidders and yourselves.
+Thank you all for helping make the Anthrocon 2000 Charity Auction a tremendous success! The donations made to help the National Greyhound Adoption Program raised over $6500! For comparison, last year we raised $3800, an all-time record for any furry convention. This year simply blew that old record out of the water thanks to the generosity of our bidders and yourselves.
 
-Below is an accounting of the donations, their donors, and their sale prices at the Charity Auction.&nbsp;They are probably not in sale order:
+Below is an accounting of the donations, their donors, and their sale prices at the Charity Auction. They are probably not in sale order:
 
 "Night Watch", artwork: mixed media, headbanded tiger - Terrie Smith - $140<br>
 Microsoft Flight Simulator 2000 Professional Edition - Paul Seid - $30<br>
@@ -52,7 +52,7 @@ One Sponsor Membership to Midwest Furfest - Midwest Furfest - $50<br>
 "The Purple One is Dead" Barney plush - Jim Groat - $20<br>
 Electronic game - Jeff Jonas - $15<br>
 "Goofy: The Good Sport" hardcover - Mike Demcio - $10<br>
-Issue of "Milk" -&nbsp;- $20<br>
+Issue of "Milk" - - $20<br>
 "Rendezvous" artwork: print - Margaret Carspecken - $50<br>
 Small furry boots - Jeff Jonas - $10<br>
 "Yankee Doodle - A Furry History" hardcover - Jeff Jonas - $25<br>
@@ -64,7 +64,7 @@ Relisys Dimera 3500 Digital Camera (used) - Mark Correia - $200<br>
 Commissioned fursuit paws &amp; feet - BigBadWolf - $80<br>
 Fusion #1-17 - James McCoy - $40<br>
 "Mama &amp; Cub", artwork: burned, stained, pencilled, wood, brass - Chris Goodwin - $525<br>
-Handmade Afghan -&nbsp;- $60<br>
+Handmade Afghan - - $60<br>
 "Stitching", artwork: ink - Chris Goodwin - $75<br>
 Hissy, the snake, Beanie Baby - Jason Saylor - $20<br>
 King Moonracer beanie toy - Mark Correia - $20<br>
@@ -143,7 +143,7 @@ Miscellaneous cash donations - $25
 
 Total: $6534
 
-Again, thank you very much for all your help.&nbsp;If you have any questions,<br>
+Again, thank you very much for all your help. If you have any questions,<br>
 comments, criticisms, please send them to charity@anthrocon.org.
 
 \- Brian

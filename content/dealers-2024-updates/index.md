@@ -15,11 +15,11 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}## **Changes and New Things Hall A/B at Anthrocon 2024**{{< /center >}}
 
-**The Art Show and the Con Store are moving!** Con Store will be located at the East Lobby Information Desk, and Art Show will be located upstairs in rooms 323 through 330.&nbsp;With all that extra space...
+**The Art Show and the Con Store are moving!** Con Store will be located at the East Lobby Information Desk, and Art Show will be located upstairs in rooms 323 through 330. With all that extra space...
 
-**The Dealers Room is expanding again!** We understand there were a lot of dealers left on the waitlist last year, but with around 40% more tables it shouldn't be nearly so bad.&nbsp;We're putting out a lot more tables so you get off your feet for a minute or have a snack without standing.&nbsp;Now, those extra tables mean...
+**The Dealers Room is expanding again!** We understand there were a lot of dealers left on the waitlist last year, but with around 40% more tables it shouldn't be nearly so bad. We're putting out a lot more tables so you get off your feet for a minute or have a snack without standing. Now, those extra tables mean...
 
-**We're bringing back the Mature Dealer Section, located along the east wall!** One of the most common requests from visitors to the 2023 Dealers Room was a section dedicated to adult merchandise, and we're eager to finally give it a try.&nbsp;The entire area will be curtained off and screened to keep minors out, so there'll be some leeway for those dealers.&nbsp;Completely new for 2024 is...
+**We're bringing back the Mature Dealer Section, located along the east wall!** One of the most common requests from visitors to the 2023 Dealers Room was a section dedicated to adult merchandise, and we're eager to finally give it a try. The entire area will be curtained off and screened to keep minors out, so there'll be some leeway for those dealers. Completely new for 2024 is...
 
 **Something we're calling The Bodega!** The Bodega is a new section intended for those folks who've outgrown the Artists Alley, but don't want to make the leap to a larger table just yet.
 
@@ -27,19 +27,19 @@ Located between the Dealers Room and the Artists Alley in rows Q and R, The Bode
 
 - Half Tables will only be available in The Bodega, or at the convention if there are any.  Single+Half tables aren't affected.
 
-**Endcaps are now two tables rather than one!** We noticed a number of dealers at endcaps 'grew out' a foot or so to the sides, so we're going to offer more dedicated table space for those folks.&nbsp;This also means there's more endcaps in general, and two dealers could even share one the endcap right out.&nbsp;Now for less exciting stuff...
+**Endcaps are now two tables rather than one!** We noticed a number of dealers at endcaps 'grew out' a foot or so to the sides, so we're going to offer more dedicated table space for those folks. This also means there's more endcaps in general, and two dealers could even share one the endcap right out. Now for less exciting stuff...
 
-- Because of the change to Endcaps, we'll no longer be offering Triple or Quintuple Endcaps; these two options will be replaced with Quadruple and Sextuple Endcaps, the largest arrangement Anthrocon has ever offered.&nbsp;(Sextuple tables are only available with Endcaps and will very be limited.)
+- Because of the change to Endcaps, we'll no longer be offering Triple or Quintuple Endcaps; these two options will be replaced with Quadruple and Sextuple Endcaps, the largest arrangement Anthrocon has ever offered. (Sextuple tables are only available with Endcaps and will very be limited.)
 
-**Friday’s grand opening will be reworked!** We'll be testing out a new 'rolling entry' method to hopefully avoid last year's unplanned and unannounced early opening on Friday.&nbsp;More details will be available soon, but most importantly the opening time on Friday will be moved back to 11:30AM from the traditional Noon.&nbsp;This means the loading docks will be closed a half-hour earier as well, and all vehicles must be off the floor by 11:00AM.
+**Friday’s grand opening will be reworked!** We'll be testing out a new 'rolling entry' method to hopefully avoid last year's unplanned and unannounced early opening on Friday. More details will be available soon, but most importantly the opening time on Friday will be moved back to 11:30AM from the traditional Noon. This means the loading docks will be closed a half-hour earier as well, and all vehicles must be off the floor by 11:00AM.
 
 **There will be a Headless Lounge in Hall A.** We hope this will help our fursuiter friends be able to navigate the Dealers and Concourse area for longer periods and reduce the risk of overheating.
 
-**Row 'breaks' will be staggered in 2024 rather than a straight-through path**.&nbsp;This should cut down on people cutting through the back-of-table space by making it less obvious and convenient.&nbsp;A map will be up later in the year to make clear how this is being done.
+**Row 'breaks' will be staggered in 2024 rather than a straight-through path**. This should cut down on people cutting through the back-of-table space by making it less obvious and convenient. A map will be up later in the year to make clear how this is being done.
 
-**The back-of-table space is changing in two important ways:** first, the amount of space provided behind each table is now 7' rather than 7'8", and second, every row will have an aisle straight down the middle of each row to make it far easier to get around the tables, especially for people with mobility issues, as well as no longer having dealers butt up against each other.&nbsp;The plan is to have the aisle marked off with coloured tape so it's easy to tell where your space ends and the aisle begins.
+**The back-of-table space is changing in two important ways:** first, the amount of space provided behind each table is now 7' rather than 7'8", and second, every row will have an aisle straight down the middle of each row to make it far easier to get around the tables, especially for people with mobility issues, as well as no longer having dealers butt up against each other. The plan is to have the aisle marked off with coloured tape so it's easy to tell where your space ends and the aisle begins.
 
-**Something dealers have requested for a long time:** Table 01 will now be at the FRONT of the room, not the BACK.&nbsp;Sorry it's taken so long!
+**Something dealers have requested for a long time:** Table 01 will now be at the FRONT of the room, not the BACK. Sorry it's taken so long!
 
 ***
 

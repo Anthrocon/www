@@ -9,7 +9,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-In just a few days, many of our staff will be on their way to Anthrocon in Pittsburgh, PA!&nbsp;That means we won't be able to answer emails like we could during any other time of the year.&nbsp;Instead, we've put together some resources you might find helpful while on the road or at the convention
+In just a few days, many of our staff will be on their way to Anthrocon in Pittsburgh, PA! That means we won't be able to answer emails like we could during any other time of the year. Instead, we've put together some resources you might find helpful while on the road or at the convention
 
 - [Livestream of selected events](https://anthrocon.tv/)
 - [Fursuit Photo, Fursuit Parade, Fursuit Badges, and Guidelines](/parade)
@@ -39,11 +39,11 @@ After the convention, please consider sharing your photos on either:
 - [Our Flickr Group](https://www.flickr.com/groups/anthrocon/)
 - or [Our Facebook Group](https://www.facebook.com/groups/Anthrocon/)
 
-Finally, we like to hear how we're doing, what you liked, and how we can do better.&nbsp;Please consider taking [our post-con survey](http://anthrocon.org/survey) after the convention.
+Finally, we like to hear how we're doing, what you liked, and how we can do better. Please consider taking [our post-con survey](http://anthrocon.org/survey) after the convention.
 
 ## Journalists/Members of the Press
 
-Looking for photos?&nbsp;Check out our [Fursuit Group Photo](https://www.flickr.com/photos/16854395@N05/28443227077/in/dateposted-public/).&nbsp;Please credit the photo to "Andy Oxenreider of Dragonscales".&nbsp;We also have thousands of photos from past Anthrocon conventions [in our Flickr group](https://www.flickr.com/groups/anthrocon/pool/).&nbsp;Please credit those photos to their individual authors.
+Looking for photos? Check out our [Fursuit Group Photo](https://www.flickr.com/photos/16854395@N05/28443227077/in/dateposted-public/). Please credit the photo to "Andy Oxenreider of Dragonscales". We also have thousands of photos from past Anthrocon conventions [in our Flickr group](https://www.flickr.com/groups/anthrocon/pool/). Please credit those photos to their individual authors.
 
 See you in Pittsburgh,
 

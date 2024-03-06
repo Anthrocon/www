@@ -9,7 +9,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-The following is the sales record for the AAC98 Charity Auction.&nbsp;It is as close to the order of sale as I remember it.&nbsp;I'm including notes about fun stuff that happened at the Charity Auction.
+The following is the sales record for the AAC98 Charity Auction. It is as close to the order of sale as I remember it. I'm including notes about fun stuff that happened at the Charity Auction.
 
 "Sirah Proto" artwork (Antti Remes) - $27<br>
 Huzzah #16 (Roz Gibson) - $34<br>
@@ -32,12 +32,12 @@ Russian historical anthropomorphized history book (Mejeep) - $75<br>
 Signed copy of Shandaverse Encyclopedia 4th Ed. (Mike Curtis) - $50<br>
 27" Sharp TV (Roger Wilbur) - $280
 
-For the above sale, nearly all the members of the audience contributed $5 to buy the tv for the convention.&nbsp;This is the kind of magical thing I see now and then that makes me proud to be a member of this community.
+For the above sale, nearly all the members of the audience contributed $5 to buy the tv for the convention. This is the kind of magical thing I see now and then that makes me proud to be a member of this community.
 
 Feivel doll (Snuggems &amp; Wolfcub) - $30<br>
 Worlds of Wonder Teddy Ruxpin/Grubby combo (Snuggems &amp; Wolfcub) - $50
 
-During the sale of the above item, Jim Groat arrived and announced that he would annihilate the pair for the highest bid in his favor.&nbsp;Unfortunately or fortunately Jim lost out to a pair of collectors who had the most horrified expressions on their faces when Jim Groat made his announcement and fought valiantly to save poor TR's life.
+During the sale of the above item, Jim Groat arrived and announced that he would annihilate the pair for the highest bid in his favor. Unfortunately or fortunately Jim lost out to a pair of collectors who had the most horrified expressions on their faces when Jim Groat made his announcement and fought valiantly to save poor TR's life.
 
 "Pride of Place" artwork (Mary Hanson-Roberts) - $35<br>
 Two boxes of assorted plush (Snuggems &amp; Wolfcub) - $50<br>
@@ -45,7 +45,7 @@ MS Age of Empires game - $55<br>
 Custom raccoon costume tail by Calypso (Snuggems &amp; Wolfcub) - $35<br>
 Fievel backpack (Snuggems &amp; Wolfcub) - $20
 
-For the life of me, I still get the giggles when I remember Kagemushi announcing, upon seeing it for the first time: "My God, roadkill!" cos Fievel looked flat as a pancake...&nbsp;:)
+For the life of me, I still get the giggles when I remember Kagemushi announcing, upon seeing it for the first time: "My God, roadkill!" cos Fievel looked flat as a pancake... :)
 
 Kodak KB-10 camera (Petercat) - $50<br>
 "Rock a Doodle" unused animation cell (Karri Aronen) - $70<br>

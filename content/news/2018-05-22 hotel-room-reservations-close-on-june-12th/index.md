@@ -13,8 +13,8 @@ banner_url: ""
 
 {{< img src="image-asset.jpg" hint="photo" >}}
 
-Need a hotel room for Anthrocon? &nbsp;All double rooms are sold out except for Marriott and Wyndham Grand. &nbsp;Room blocks close on June 12th, reserve your hotel room now!
+Need a hotel room for Anthrocon?  All double rooms are sold out except for Marriott and Wyndham Grand.  Room blocks close on June 12th, reserve your hotel room now!
 
 [Head on over to our hotel page to get started!](/hotel)
 
-Just as we did last year, we will also have a shuttle service running between overflow hotels and the DLCC this year every half hour.&nbsp;Schedules will be finalized and posted closer to the con.
+Just as we did last year, we will also have a shuttle service running between overflow hotels and the DLCC this year every half hour. Schedules will be finalized and posted closer to the con.

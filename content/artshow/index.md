@@ -30,7 +30,7 @@ Reservations timestamped or postmarked by **March 31** are guaranteed space, whi
 {{< center >}}
 **Anthrocon Art Show**<br>
 **PO Box 6095**<br>
-**Syracuse, NY &nbsp;13217-6095**
+**Syracuse, NY  13217-6095**
 {{< /center >}}
 
 ***

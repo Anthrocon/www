@@ -26,7 +26,7 @@ Also, a 4-night hotel stay in a standard room at one of the Anthrocon hotels wil
 
 ### **FOOD and supplies**
 
-Once you have your hotel and travel costs figured out, then you can see how much of your remaining budget you can allocate for the con itself. Say you are on a $1,000 budget, and your total travel costs are $700 - that leaves you $300 for food and miscellaneous spending. While there are many food options in and around the convention center and main hotels,&nbsp;I would allocate at least 50% of your remaining budget towards food. One cost-saving tip would be to make a trip to a local grocery store (especially if you are driving in) and stocking up on affordable, healthy snacks such as fruit, granola, refrigerated salads (all of Anthrocon’s partner hotels come equipped with mini fridges) and beverages, including bottled water – instead of paying premium prices for those essentials from the hotel lobby or nearby convenience stores.
+Once you have your hotel and travel costs figured out, then you can see how much of your remaining budget you can allocate for the con itself. Say you are on a $1,000 budget, and your total travel costs are $700 - that leaves you $300 for food and miscellaneous spending. While there are many food options in and around the convention center and main hotels, I would allocate at least 50% of your remaining budget towards food. One cost-saving tip would be to make a trip to a local grocery store (especially if you are driving in) and stocking up on affordable, healthy snacks such as fruit, granola, refrigerated salads (all of Anthrocon’s partner hotels come equipped with mini fridges) and beverages, including bottled water – instead of paying premium prices for those essentials from the hotel lobby or nearby convenience stores.
 
 In addition, if you plan on dining out with a big group (6 or more people), restaurants may automatically charge a service tip so you don’t have to worry about calculating a tip. This automatic charge is normally between 18% to 20% depending on the restaurants, but it’ll make your final bill go up more than you might be expecting.
 
@@ -36,7 +36,7 @@ Fur cons are vacations, so make sure you budget for some “fun” money as well
 
 Budgeting for the Anthrocon Dealers Room/Artists Alley, pardon the pun, is a whole another animal! Nowhere else in the fandom will you find a such a diverse collection of vendors selling furry-related art and wares. Without a budget, it’s very easy to spend much more than you anticipated. What I like to do is, knowing how much you can spend, make a quick pass through the room, making note of vendors that I may want to purchase items from as well as the price (and noting their position in the enormous room for reference). Once I have that list, I’ll go through it and prioritize. For example, if I have $100 to spend and I want a $50 badge from Vendor A, a $25 shirt from Vendor B, a $25 matted print from Vendor C, and a $25 plush from Vendor D, then I’d have to choose which of the $25 items to drop from my list.
 
-Also, keep in mind that many, if not most dealers offer the same or similar merchandise online &nbsp;on web-based stores. Ask for a business card, and if your budget doesn’t quite allow for the purchase at-con, save it for after you get home!
+Also, keep in mind that many, if not most dealers offer the same or similar merchandise online  on web-based stores. Ask for a business card, and if your budget doesn’t quite allow for the purchase at-con, save it for after you get home!
 
 ### **Other helpful tips to budget**
 

@@ -417,7 +417,7 @@ If you’re unable to get the reservation you want, we would recommend securing 
 
 A room may show as "not available" when only one of the nights is truly not available.  This is likely to happen for the first or last night of your stay, or If you try to book a date outside the convention time frame.  Try requesting a shorter stay, and if you are then able to make a successful reservation, contact [**help@orchid.events**](mailto:help@orchid.events) (or call **+1-800-470-8077**)  and indicate that you're looking to add additional nights.
 
-**Please note:** The higher demand hotels (such as the Westin, Courtyard, and the Drury) will have a number of rooms set aside for the general reservation opening.&nbsp;This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. As such you may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations.
+**Please note:** The higher demand hotels (such as the Westin, Courtyard, and the Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. As such you may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations.
 {{< /details >}}
 
 {{< details "Is there a shuttle service between the hotels?" >}}

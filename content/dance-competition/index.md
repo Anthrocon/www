@@ -49,7 +49,7 @@ Please read through each section carefully, as it will help you with what to exp
 You will be uploading your audition video at the same time as your sign up. Competitors are responsible for including their music with their video submission.
 
 - **The video audition should be limited to 1 minute.** If your performance is a few seconds over, we will not penalize you - but any excessive overage of the audition time limit will not count to your scores.
-- **Please submit your video in as high quality as possible**, in MP4, MOV, AVI, FLV, or WMV formats.&nbsp;We also encourage all competitors to submit videos that are filmed horizontally, or “landscape”, instead of a vertical fashion if you are filming with your phone.
+- **Please submit your video in as high quality as possible**, in MP4, MOV, AVI, FLV, or WMV formats. We also encourage all competitors to submit videos that are filmed horizontally, or “landscape”, instead of a vertical fashion if you are filming with your phone.
 - **The link to your video audition should be viewable by our judging team** - if uploading to a platform such as YouTube, Twitter or Google Drive, please make sure the privacy settings are changed so that anyone with the link can view.
 - **All songs must be PG-13 censored -** a radio edit “clean” rating in other words. Please remove/minimize any profanity that is in your song or mix.
 - **Groups have the option** to have an in-person preliminary tryout at the convention during the Floor Wars Preliminaries panel. If your group would like an in-person tryout, please fill out the sign up form and indicate “in-person tryout” in the special accommodations field. Please note that this will only be on a case-by-case basis. Group auditions will be limited to 1 minute, but will have a larger time allowance for the Main Event.
@@ -83,8 +83,8 @@ In the event of a tiebreaker, individual judges’ marks will be considered to b
 2. This is a **FURSUIT** dance competition – other forms of costume will not be eligible.
     - **Minimum fursuit requirements are**: Head, Hands, Tail, Feet. Your fursuit should stay on you at all times during your performance, unless in case of medical emergency.
     - Any “substitute” fursuit parts, such as Happy Feet (plush-shaped sneakers) or footwear specific for a dance style (i.e. ballet shoes, tap-dance shoes), can be used in lieu of fursuit feet with permission from the organizer.
-3. Only &nbsp;original dance routines and choreography may be used – we will not tolerate plagiarism of existing dance routines of any kind. An intentional or blatant copy of a pre-existing choreography, with proof, will result in an instant revocation of any award(s) given, and further penalties as determined by the event organizer.
-4. **Props:** Only small clothing or “accessory” props (e.g. a cane, hat, fan) are allowed to be used.&nbsp;Please notify the event team if you want to perform with a prop that could be considered dangerous or difficult to use.
+3. Only  original dance routines and choreography may be used – we will not tolerate plagiarism of existing dance routines of any kind. An intentional or blatant copy of a pre-existing choreography, with proof, will result in an instant revocation of any award(s) given, and further penalties as determined by the event organizer.
+4. **Props:** Only small clothing or “accessory” props (e.g. a cane, hat, fan) are allowed to be used. Please notify the event team if you want to perform with a prop that could be considered dangerous or difficult to use.
 5. Songs must be a radio-friendly or radio-version, meaning no vulgarity.
 6. **The event organizer(s) reserve the right to make decisions for any performances in the event where necessary.**
 

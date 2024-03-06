@@ -25,7 +25,7 @@ More special thanks are in order to the following groups and individuals:
 - To the Westin, Omni, DoubleTree, and the Courtyard, who each generously offered up one or more four-night stays during Anthrocon 2018.
 - To all the attendees who bought merchandise and made cash donations to Hope Haven's donation buckets at their table.
 
-I would like to give thanks to my staff who helped conduct both the charity auction and raffle.&nbsp;None of this could've occurred without the assistance of Mike "Mrianti" Pierce, Trevor "Mr. Mutt"&nbsp;Boyd, Tracey "Stormy" Bealer, and Tamarie "CelticKitty" Simmons, as well as the additional assistance of legacy staffer, Shaun "Stahi" Daugherty.
+I would like to give thanks to my staff who helped conduct both the charity auction and raffle. None of this could've occurred without the assistance of Mike "Mrianti" Pierce, Trevor "Mr. Mutt" Boyd, Tracey "Stormy" Bealer, and Tamarie "CelticKitty" Simmons, as well as the additional assistance of legacy staffer, Shaun "Stahi" Daugherty.
 
 Unclaimed high-ticket raffle items will be re-raffled next year.
 

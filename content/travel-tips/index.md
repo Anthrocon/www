@@ -39,7 +39,7 @@ There are **plenty** of parking options besides those at the hotels! [**View our
 
 ### Sharing a Ride
 
-Looking to share a ride with other attendees?&nbsp;Check out our [**Anthrocon Ride Share group on Facebook**](https://www.facebook.com/groups/AnthroconRideShare) to get started.
+Looking to share a ride with other attendees? Check out our [**Anthrocon Ride Share group on Facebook**](https://www.facebook.com/groups/AnthroconRideShare) to get started.
 
 ### Anthrocon Hotel shuttles
 

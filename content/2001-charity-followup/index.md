@@ -9,11 +9,11 @@ banner_author: ""
 banner_url: ""
 ---
 
-Thanks to everyone who participated in the Anthrocon 2001 Charity Auction this year for donating money by purchasing items, donating items, and volunteering to make yet another record-setting total of$7273!&nbsp;My thanks to Kagemushi for co-auctioneering, the hard-working volunteers for running the items and guarding the Charity Auction tables, and to Reins of Life, our Charity this year, for participating.
+Thanks to everyone who participated in the Anthrocon 2001 Charity Auction this year for donating money by purchasing items, donating items, and volunteering to make yet another record-setting total of$7273! My thanks to Kagemushi for co-auctioneering, the hard-working volunteers for running the items and guarding the Charity Auction tables, and to Reins of Life, our Charity this year, for participating.
 
-Due to time constraints (we went 50 minutes overtime and ended barely 10 minutes before the Masquerade), some items had to be combined with others.&nbsp;I also apologize to Mikeneko for accidentally combining her wood-carving donation with Rapid T. Rabbit's videos during the rush of selling.
+Due to time constraints (we went 50 minutes overtime and ended barely 10 minutes before the Masquerade), some items had to be combined with others. I also apologize to Mikeneko for accidentally combining her wood-carving donation with Rapid T. Rabbit's videos during the rush of selling.
 
-Below is a tally of all the items sold, including their donor and sale price.&nbsp;This is not the order they were sold in, nor the order they were received.
+Below is a tally of all the items sold, including their donor and sale price. This is not the order they were sold in, nor the order they were received.
 
 \- 1976 Trix cereal commercial animation cel, matching drawing, background, and Certificate of Authenticity (Bennie) - $50<br>
 \- Canine, lion, cancoon plush (PunkTiger, Creedence, Bleis) - $40<br>
@@ -113,7 +113,7 @@ Below is a tally of all the items sold, including their donor and sale price.&nb
 \- Furrygames.com T-shirt (Bruce Thomas) - $20<br>
 \- Set of artwork (Kashy Fox) - $30<br>
 \- "A Walk in the Shadows" artwork (Fennec) - $40<br>
-\- "Waiting For His Mom" artwork (Cleo Hanzlik),&nbsp;"Stud" artwork (Caribou), "Nightmare" artwork (Lonnie "Dalia" DiNello &amp; Chris Goodwin) - $100<br>
+\- "Waiting For His Mom" artwork (Cleo Hanzlik), "Stud" artwork (Caribou), "Nightmare" artwork (Lonnie "Dalia" DiNello &amp; Chris Goodwin) - $100<br>
 \- "The Animal in You" book (Robin Andersen) - $15<br>
 \- Plush bear w/ hand-knit Anthrocon sweater (Timothy, the Raven) - $20<br>
 \- Deer Avenger 2 PC game and 2 tins of Scho-Ka-Kola chocolate (Kidcat) - $30<br>
@@ -128,6 +128,6 @@ Below is a tally of all the items sold, including their donor and sale price.&nb
 
 \- TOTAL: $7273
 
-Thanks again for another record!&nbsp;Hope to see you again next year!
+Thanks again for another record! Hope to see you again next year!
 
 -- Rigel
