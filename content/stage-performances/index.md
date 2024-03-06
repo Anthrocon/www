@@ -15,7 +15,7 @@ banner_url: ""
 Anthrocon’s stages showcase the best of furry-centric talent in front of our attendees. Applications for Anthrocon 2024 are being taken through the Events and Panels form up until March 15, 2024.
 
 - [**Policies and Rules**](#anthrocon-performance-policies-and-rules)
-- [**Frequently Asked Questions](#frequently-asked-questions)
+- [**Frequently Asked Questions**](#frequently-asked-questions)
 
 {{< center >}}{{< button href="https://forms.gle/5DHqPboxWhYVWWLv7" >}}Apply online{{< /button >}}{{< /center >}}
 
@@ -42,7 +42,6 @@ Anthrocon **DOES** provides the following items **based on performance type**:
 
 - Projectors, Microphones, Speakers, and Basic Sound Equipment (Not all rooms are outfitted with equipment).
 - Chairs and tables, per request
-
 
 ### ACKNOWLEDGEMENTS
 

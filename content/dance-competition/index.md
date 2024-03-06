@@ -92,7 +92,7 @@ In the event of a tiebreaker, individual judges’ marks will be considered to b
 
 {{< center >}}If you have your audition video filmed and ready to submit, get started with the form below. Make sure your video follows all the formats and rules outlined above.{{< /center >}}
 
-{{< center >}}*The submission form will be available in March 2024. Check back later for more details.**{{< /center >}}
+{{< center >}}**The submission form will be available in March 2024. Check back later for more details.**{{< /center >}}
 
 ***
 

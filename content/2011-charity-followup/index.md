@@ -65,7 +65,7 @@ The Toonseum - "Incredibles" comic signed by Tom Scioli - $9<br>
 Morton Fox - "Blossom" original art by Mary Hanson Roberts - $4<br>
 The Carlton restaurant - $50 gift certificate - $9<br>
 James Gurney - Art print for Anthrocon 2010, framed - $12<br>
-Foxy*Art - Bald eagle, build-a-Bear plushes - $12<br>
+Foxy\*Art - Bald eagle, build-a-Bear plushes - $12<br>
 The Toonseum - Tigger statuette #1 - $13<br>
 FlyingFox17 - Framed squirrel artwork - $18<br>
 Morgain Crochet Tiger - Harry Potter handmade house scarves - $57<br>

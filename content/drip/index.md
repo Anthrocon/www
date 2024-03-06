@@ -84,7 +84,7 @@ There are to be no sales in the Dealers Room except by approved Dealerships in a
 | 11:30 AM - 12 Noon | Ultrasponsor, Sponsor, and Supersponsor Admission (New for 2024!) |
 | 12 Noon - 6 PM | Admission for all Anthrocon Members |
 | 6 PM - 7 PM | Dealers/DAs only to close tables |
-| 7 PM onward | Off limits to all, including Dealers* |
+| 7 PM onward | Off limits to all, including Dealers\* |
 
 | Saturday July 6th, 2024 |
 | --- | --- |
@@ -92,7 +92,7 @@ There are to be no sales in the Dealers Room except by approved Dealerships in a
 | 9:50 AM - 10 AM | Ultrasponsor, Supersponsor, and Sponsor Admission |
 | 10 AM - 6 PM | Open to all Anthrocon Members |
 | 6 PM - 7 PM | Dealers/DAs only to close tables |
-| 7 PM onward | Off limits to all, including Dealers* |
+| 7 PM onward | Off limits to all, including Dealers\* |
 
 | Sunday July 7th, 2024 |
 | --- | --- |
@@ -186,7 +186,7 @@ As a general rule, we ask that a Dealership only purchases a number of Assistant
 
 - **Endcap tables:** These are identical to Standard tables, except they are located on the end of a row. **New in 2024:** we are changing Endcaps to be two tables wide instead of one. They may be purchased in Single, Double, Quad, or Hextuple sizes.
 
-| Table Size | Space (Table Only) | Space (Behind)* | Seats Provided |
+| Table Size | Space (Table Only) | Space (Behind)\* | Seats Provided |
 | --- | :----: | :----: | :----: |
 | Single | 8'x30' | 8’6”x6’ | 2 |
 | Double | 16'x30' | 21'x6’ | 4 |

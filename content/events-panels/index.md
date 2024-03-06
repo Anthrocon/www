@@ -56,7 +56,7 @@ In submitting my panel request for Anthrocon 2024 I accept and acknowledge the f
 4. If multiple submissions are received for the same event we will do our best to put you in touch with each other so you can work together if you so desire - if you can’t work together we will work from there.
 5. You will abide by the Convention [**Standards of Conduct**](https://anthrocon.org/standards-of-conduct).
 6. You will adhere to all Convention Policies Regarding Public Health.
-7. Any host found to be charging an admissions fee or cover charge will have their event shutdown and be barred from hosting future events with Anthrocon.**
+7. Any host found to be charging an admissions fee or cover charge will have their event shutdown and be barred from hosting future events with Anthrocon.\*\*
 8. An event may not pass out any food or drink, store bought or homemade. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
 9. Panelists may not alter a room’s fundamental layout. If a room is set up as a classroom the tables must stay put; If it is set up as a lecture hall you may not move the chairs into a circle, etc. (Seating may be moved for accessibility, accommodation of additional panelists, etc.. but it must be returned to position at the end of your panel).
 

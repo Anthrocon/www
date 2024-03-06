@@ -42,7 +42,7 @@ A Furry Named Greywolf - The Lion King exclusive deluxe VHS video edition - $120
 Omni Hotels - 4 nights in the Omni William Penn for Anthrocon 2013 - $400<br>
 Apothacer - McRib poster signed by 2 Gryphon - $80<br>
 Furp's estate - Associated Student Bodies #1-8 + "The Lion in Winter" - $120<br>
-Killjoy - Plush tiger+book/audio "Go the F*** to Sleep" read by Samuel Jackson - $150<br>
+Killjoy - Plush tiger+book/audio "Go the F\*\*\* to Sleep" read by Samuel Jackson - $150<br>
 Lunden Otter - "Dog Days of Summer" (2nd print) by Blotch - $60<br>
 Captain Van - "Bellerophon" custom Nerf gun - $150<br>
 Dev Madan - Original sketch for Anthrocon 2012 Supersponsor print - $215<br>
