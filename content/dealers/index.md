@@ -42,7 +42,7 @@ You must read and understand the [**Dealer Rules & Information Packet (DRIP)**](
 - [**Telegram Dealers Announcement Channel**](https://t.me/anthrocondealersannounce)
 - [**Telegram Dealers Chat group**](https://t.me/+Ut8XsuB-6oBS4fVz)
 
-You will need your PA sales tax number (Revenue ID) to vend at Anthrocon. [**Click here to apply for a PA Sales Tax License**](https://mypath.pa.gov/_/). **Any application submitted that does not have a complete, valid PA Tax ID will not be eligible for curation until a the Tax ID has been emailed to the Anthrocon dealers staff at** [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org). This may result in your application being considered in later rounds of curation or placed on a waitlist; however, no application will be immediately rejected over a "Pending" Tax ID.  It is the responsibility of the applying Dealer to submit a valid Tax ID.
+You will need your PA sales tax number (Revenue ID) to vend at Anthrocon. [**Click here to apply for a PA Sales Tax License**](https://mypath.pa.gov/_/). **Any application submitted that does not have a complete, valid PA Tax ID will not be eligible for curation until a the Tax ID has been emailed to the Anthrocon dealers staff at** [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org). This may result in your application being considered in later rounds of curation or placed on a waitlist; however, no application will be immediately rejected over a "Pending" Tax ID. It is the responsibility of the applying Dealer to submit a valid Tax ID.
 
 The passcode for RegFox for Dealers and Dealer Assistants is: **ACDealer2024**. This is case-sensitive; please enter it exactly.
 
@@ -52,7 +52,7 @@ The passcode for RegFox for Dealers and Dealer Assistants is: **ACDealer2024**. 
 
 **The only legitimate providers are DLCC Event Services (Electrical power, water, other in-building services) and APA Exposition Services (tables, chairs, other furnishings). Anyone else is not authorized.**
 
-As a dealer, you may be contacted by Unauthorized Service Providers  — for hotel/housing, audiovisual, carpet, exhibitor directory listing, etc. — who claim to be affiliated with Anthrocon. These solicitations may appear to provide cost savings; however, the rates listed could be misleading and, in some cases, the vendor may not be a credible supplier. Should you be contacted by an unauthorized service provider or have any questions, please contact VisitPittsburgh at [**info@visitpittsburgh.com**](mailto:info@visitpittsburgh.com). They can also be contacted by phone at +1-844-744-7666.
+As a dealer, you may be contacted by Unauthorized Service Providers — for hotel/housing, audiovisual, carpet, exhibitor directory listing, etc. — who claim to be affiliated with Anthrocon. These solicitations may appear to provide cost savings; however, the rates listed could be misleading and, in some cases, the vendor may not be a credible supplier. Should you be contacted by an unauthorized service provider or have any questions, please contact VisitPittsburgh at [**info@visitpittsburgh.com**](mailto:info@visitpittsburgh.com). They can also be contacted by phone at +1-844-744-7666.
 
 Additional information:
 

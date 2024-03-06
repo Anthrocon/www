@@ -16,10 +16,10 @@ banner_url: ""
 We decided to put together a list of all of the media coverage which we received for Anthrocon 2019. This list will be updated as we learn of new articles, so if there’s something not on here, [feel free to send it to us](/contact).
 
 - [The origin of how Pittsburgh and furries fell in love with each other](https://www.pghcitypaper.com/pittsburgh/the-origin-of-how-pittsburgh-and-furries-fell-in-love-with-each-other/Content?oid=15356126)
-- [Anthrocon 2019 in Pittsburgh: Etiquette, parade details, and all your other furry  questions](https://theincline.com/2019/07/03/anthrocon-2019-in-pittsburgh-etiquette-parade-details-and-all-your-other-furry-questions/)
+- [Anthrocon 2019 in Pittsburgh: Etiquette, parade details, and all your other furry questions](https://theincline.com/2019/07/03/anthrocon-2019-in-pittsburgh-etiquette-parade-details-and-all-your-other-furry-questions/)
 - [FURRIES: Today we spoke with "Danger" at Anthrocon! Organizers say they're expecting to break last year's attendance record with up to 10,000 visitors this year!](https://twitter.com/WTAE/status/1147299585544642562)
 - [Meet Rhythm, the 25-year-old furry from Carnegie](https://www.pghcitypaper.com/Blogh/archives/2019/07/03/meet-rhythm-the-25-year-old-furry-from-carnegie)
-- [Anthrocon 2019 Kicks Off In Downtown  Pittsburgh](https://pittsburgh.cbslocal.com/2019/07/04/anthrocon-2019-kicks-off-in-downtown-pittsburgh/)
+- [Anthrocon 2019 Kicks Off In Downtown Pittsburgh](https://pittsburgh.cbslocal.com/2019/07/04/anthrocon-2019-kicks-off-in-downtown-pittsburgh/)
 - [Furries set to break Pittsburgh attendance record](https://www.wtae.com/article/furries-on-parade-in-pittsburgh-this-saturday/28294302)
 - [Furries feel the love from Pittsburghers as Anthrocon begins](https://triblive.com/local/pittsburgh-allegheny/animal-magnetism-furries-open-annual-pittsburgh-convention/)
 - [Furries are artists, and Anthrocon is their Sotheby's](https://www.pghcitypaper.com/pittsburgh/furries-are-artists-and-anthrocon-is-their-sothebys/Content?oid=15328123)

@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< img src="image-asset.jpg" hint="photo" >}}
 
-Need a hotel room for Anthrocon?  All double rooms are sold out except for Marriott and Wyndham Grand.  Room blocks close on June 12th, reserve your hotel room now!
+Need a hotel room for Anthrocon? All double rooms are sold out except for Marriott and Wyndham Grand. Room blocks close on June 12th, reserve your hotel room now!
 
 [Head on over to our hotel page to get started!](/hotel)
 

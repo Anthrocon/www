@@ -141,13 +141,13 @@ Anthrocon members should be aware that audio and/or video recordings are frequen
 
 The name "Anthrocon" and the Anthrocon logo are registered service marks of Anthrocon, and must not be used in any fashion that disparages or dilutes that mark. Members agree to remove from circulation or publication any image or recording that in the sole opinion of Anthrocon, Inc. misrepresents or defames its service mark.
 
-Anthrocon receives requests each year for Press/Media  Passes from personal bloggers as well as journalistic  media. Please note that Anthrocon does not require a press pass for individual bloggers or podcasters so long as they are not attempting to:
+Anthrocon receives requests each year for Press/Media Passes from personal bloggers as well as journalistic media. Please note that Anthrocon does not require a press pass for individual bloggers or podcasters so long as they are not attempting to:
 
 - A. Conduct recorded interviews of any type with any Anthrocon attendee or member in Anthrocon space.
 - B. Film documentary footage of Anthrocon spaces, events, or attendees.
 - C. Exhibiting or recording behavior that is in violation of the Anthrocon Standards of Conduct.
 
-Anthrocon considers recorded interviews of any type performed in Anthrocon spaces to be a form of  media  representation and requires an approved Anthrocon Press Pass. Please note that if determined necessary, an Anthrocon Press Pass may require an escort and can be revoked at any time. An Anthrocon Press Pass is not a substitute for a membership. Determination as to whether or not a Press Pass is required rests solely with Anthrocon.
+Anthrocon considers recorded interviews of any type performed in Anthrocon spaces to be a form of media representation and requires an approved Anthrocon Press Pass. Please note that if determined necessary, an Anthrocon Press Pass may require an escort and can be revoked at any time. An Anthrocon Press Pass is not a substitute for a membership. Determination as to whether or not a Press Pass is required rests solely with Anthrocon.
 
 ### Payments and Money Matters
 
@@ -161,9 +161,9 @@ Please note that Anthrocon is a 501(c)7 nonprofit organization. As such, donatio
 
 Anthrocon cannot involve itself in financial disputes between individual members, and cannot divulge information about an individual member to any party other than to banking officials or legal authorities.
 
-### Technology  Policy
+### Technology Policy
 
-The usage of any  technology  or device in a way that is malicious in nature will not be tolerated, regardless of the reason - there are no exceptions. Examples of usage defined as "malicious" include, but are not limited  to:
+The usage of any technology or device in a way that is malicious in nature will not be tolerated, regardless of the reason - there are no exceptions. Examples of usage defined as "malicious" include, but are not limited to:
 
 - Disrupting or interrupting any digital signal or frequency
 - Stealing, duplicating, or reading/sniffing other signals or frequencies

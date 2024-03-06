@@ -57,7 +57,7 @@ Load-out begins at 4PM on Sunday; you will need to have a dealer staff member ve
 
 ### Merchandise
 
-Your merchandise must be acceptable under any and all applicable rules or laws. Adult material outside the Mature Dealer Section must be kept away from minors.; binders must be closed when not being browsed or kept under/behind the table.  Displays must not encroach on other dealerships. Annoyances such as lights, music or sound, and strong smells or fumes must be kept under your control. Larger powered equipment must be approved by Anthrocon and the convention center in advance.
+Your merchandise must be acceptable under any and all applicable rules or laws. Adult material outside the Mature Dealer Section must be kept away from minors.; binders must be closed when not being browsed or kept under/behind the table. Displays must not encroach on other dealerships. Annoyances such as lights, music or sound, and strong smells or fumes must be kept under your control. Larger powered equipment must be approved by Anthrocon and the convention center in advance.
 
 **Items generated wholly or partially by AI tools are not permitted for sale.**
 
@@ -120,14 +120,14 @@ Your payment for a Dealership at Anthrocon includes all applicable taxes and fee
 
 With the Pennsylvania change to the MyPath system and Artists Alley now requiring PA Tax licenses, we have moved the Guide to obtaining a PA Tax license to its own document. Dealers will be notified when the guide is available.
 
-We are required as the Promoter to have all license numbers on file prior to the convention, and due to past abuses we can no longer hold onto tables while dealers seek tax license numbers. That means that you must have a valid tax license before you can submit an application for a Dealership.  You must submit it with your application, or it will not be considered. You must report your sales tax license number to us each year with your application; Anthrocon is not responsible for maintaining this information, and it is not kept on-file from year to year.
+We are required as the Promoter to have all license numbers on file prior to the convention, and due to past abuses we can no longer hold onto tables while dealers seek tax license numbers. That means that you must have a valid tax license before you can submit an application for a Dealership. You must submit it with your application, or it will not be considered. You must report your sales tax license number to us each year with your application; Anthrocon is not responsible for maintaining this information, and it is not kept on-file from year to year.
 
 ### **One Dealer, One Dealership, One Sales Tax License**
 
 Anthrocon wishes to remind our dealers that we have a policy of strict adherence to state and local tax codes. It is illegal for multiple dealerships to share a single tax license. Thus, our general rules regarding tables and tax licenses are as follows:
 
 - A table(s) and associated assigned space represents "one Dealership." It is staffed by one Dealer, and optionally one or more Dealer Assistants who are there to help the dealer in operating the dealership. A single tax license is required for each Dealership.
-- A "Dealer Assistant" (DA) is a person who helps a Dealer with tasks.  If the primary interest of a person at the table is to sell their own merchandise, even though they may be helping you to sell yours, that person does not constitute a "Dealer Assistant."
+- A "Dealer Assistant" (DA) is a person who helps a Dealer with tasks. If the primary interest of a person at the table is to sell their own merchandise, even though they may be helping you to sell yours, that person does not constitute a "Dealer Assistant."
 - Under no circumstances may two different dealerships at different tables share one tax license. If you wish to share a table with another dealer, you must purchase two table spaces, one for each of you. Do not purchase a table with the intent to share it with someone else.
 - We understand that some dealers wish to share a table with others and are worried that they will be unable to if they submit separate applications. Anthrocon will make every reasonable effort to keep friends together, though you must let us know on your applications that you both desire to sit near or next to one another. Please make sure that both you and your friend are requesting compatible table types.
 - Anthrocon understands some Dealerships are studios or partnerships. Any Dealerships that are in a studio system must make clear on their application that the works are coming from a studio system that operates as a united business, with one tax license and one cashbox. There must be one lead Dealer.
@@ -201,7 +201,7 @@ As a general rule, we ask that a Dealership only purchases a number of Assistant
 
 All Dealerships may use vertical space freely up to building features, all of which are over 14 feet in height. Two seats will be provided for each table (one in the case of a Half Table).
 
-No Dealership may encroach on aisle space, other dealerships, safety  gaps, the center aisle, or any indicated walking paths. This includes placement of merchandise, signage, seating, or storage, as well as gaps adjoining Endcap tables; these gaps may not be adjusted without the approval of staff.
+No Dealership may encroach on aisle space, other dealerships, safety gaps, the center aisle, or any indicated walking paths. This includes placement of merchandise, signage, seating, or storage, as well as gaps adjoining Endcap tables; these gaps may not be adjusted without the approval of staff.
 
 Upon request, tables and chairs may be removed from your area; contact us in advance of the convention with these requests.
 
@@ -212,16 +212,16 @@ Extra tables added to your space will require the purchase of at least a Double 
 Dealerships at Anthrocon will be approved via a curation process. Curation will be performed principally by the Anthrocon Dealers Room staff, although other Anthrocon staff may be involved. Dealerships will be chosen based on a variety of factors, including:
 
 - **On-Topic:** Items offered for sale should be related to the furry fandom, be produced by furries, or should have a broad appeal to furries and others in attendance at Anthrocon. Merchandise shown in your application and offered at your Dealership should be well-curated for furry conventions over other types of convention.
-- **Quality:** Is a Dealership selling quality goods that will interest our Members and make for good sales? This may be judged by information and photographs from  a Dealer’s website, prior years in the Dealers Room, and/or additional information.
+- **Quality:** Is a Dealership selling quality goods that will interest our Members and make for good sales? This may be judged by information and photographs from a Dealer’s website, prior years in the Dealers Room, and/or additional information.
 - **Variety:** Are there many or few Dealerships selling products of this type? Are they filling a niche other Dealers will not be?
 - **Originality:** Does the merchandise feature original characters or designs? Is there notable copyright infringement? Are the items unique?
-- **Craft:** Is this Dealership involved in the art, design, creation, and/or  manufacture of their goods?
+- **Craft:** Is this Dealership involved in the art, design, creation, and/or manufacture of their goods?
 - **Behavior:** Is the Dealership friendly and communicative with Anthrocon Staff and Members of the convention? Do they create a positive environment and make us glad to interact with them?
 - **Prior Status:** Has the Dealer been a Guest of Honor or Charitable Organization with Anthrocon before?
 
 Applications for one table type that becomes unavailable, such as Endcaps or Booths, may be offered an alternate table type, or moved to one if one was indicated on the application.
 
-**Incomplete applications will not be considered until all required information is provided**. Most often, an incomplete application is the lack of a Pennsylvania Revenue ID; please arrange these in advance! of applying if at all possible.  The responsibility for an incomplete application rests on a Dealer and not on Anthrocon Staff, and Revenue IDs are not kept on file from year-to-year.
+**Incomplete applications will not be considered until all required information is provided**. Most often, an incomplete application is the lack of a Pennsylvania Revenue ID; please arrange these in advance! of applying if at all possible. The responsibility for an incomplete application rests on a Dealer and not on Anthrocon Staff, and Revenue IDs are not kept on file from year-to-year.
 
 ### Step IV: Payment
 
@@ -229,7 +229,7 @@ For Anthrocon 2024 we will request as part of your application if you need advan
 
 If you request notice, we will email you to ask for confirmation. Once we have your confirmation, Anthrocon will charge your debit or credit card within 48 hours of the mutually approved time. We plan to begin approval and payment requests in December.
 
-Anthrocon cannot assign you a table without payment. If multiple charging attempts fail, if you cannot give approval in a reasonable timeframe, or if you do not respond to contact attempts, Anthrocon may  bypass or cancel your application and offer it to the next dealership on the Waitlist.
+Anthrocon cannot assign you a table without payment. If multiple charging attempts fail, if you cannot give approval in a reasonable timeframe, or if you do not respond to contact attempts, Anthrocon may bypass or cancel your application and offer it to the next dealership on the Waitlist.
 
 Anthrocon handles all transactions via credit or debit cards. Anthrocon cannot accept digital payment services such as PayPal., Cash.app, Zelle, or Venmo, and (**New for 2024**) cash payments are no longer accepted. If your credit card information changes, please notify the Dealers Room staff via email as soon as possible; a staff member will need to contact you via phone to update our records and process your payment. **For your own safety, under no circumstances should you email *any* credit card info to the staff!**
 
@@ -249,7 +249,7 @@ In the extremely rare event there is a conflict of placement at the convention, 
 
 **Waiting Lists and Cancellations**
 
-Once all tables in the Dealers Room have been assigned or suitable space is not available, any remaining applications will be placed on the Waitlist. We will inform you if you have been placed on the waitlist once it has been determined.  It is entirely possible that some Dealers may be told of their approval before other dealers are told of their Waitlist status, as curation and assignments are done in groups. We will not deliberately oversell the Dealers Room.
+Once all tables in the Dealers Room have been assigned or suitable space is not available, any remaining applications will be placed on the Waitlist. We will inform you if you have been placed on the waitlist once it has been determined. It is entirely possible that some Dealers may be told of their approval before other dealers are told of their Waitlist status, as curation and assignments are done in groups. We will not deliberately oversell the Dealers Room.
 
 Traditionally, we see a certain amount of attrition from dealers who discover scheduling conflicts or encounter other obstacles to attending Anthrocon. We will process the Waitlist based on the same curated criteria. Let us know you are willing to accept a different table type than your requested one; this will increase your chances of obtaining a table!
 
@@ -257,7 +257,7 @@ Once a table comes open, we will email the next Dealer on the waitlist that has 
 
 In the event you are unable to get a table from the waitlist, any Dealer or Dealer Assistant Membership can become an Attending Membership at the listed price. Similarly, Dealer-Sponsors can be Sponsors and Dealer-Supersponsors can be Supersponsors. However, we will not convert memberships unless the request is emailed prior to the close of Pre-registration on June 16th, 2024. These Memberships may also be canceled until the close of Pre-registration; please email [**refunds@anthrocon.org**](mailto:refunds@anthrocon.org) if a refund is needed.
 
-If you find that you will not need or cannot use any or all of your Dealership space, please inform us as soon as possible.  The earlier we know, the easier it will be for a replacement Dealer to make travel plans for Anthrocon. It is against Anthrocon's policy to transfer an unwanted table to another person to bypass the waiting list.
+If you find that you will not need or cannot use any or all of your Dealership space, please inform us as soon as possible. The earlier we know, the easier it will be for a replacement Dealer to make travel plans for Anthrocon. It is against Anthrocon's policy to transfer an unwanted table to another person to bypass the waiting list.
 
 Table or Memberships cancellations should be directed to both [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org) and [**refunds@anthrocon.org**](mailto:refunds@anthrocon.org). If canceling a table, please mention explicitly whether you wish to cancel your Dealer membership or have it converted to a standard Membership.
 
@@ -277,7 +277,7 @@ Any table that is left unclaimed as of 12:00 PM on Saturday of the convention wi
 
 **Dealer Registration is located in Hall D/E**. Be aware that you cannot enter the DLCC without first collecting your badge, and as such you will not be able to reach Halls A and B.
 
-On Thursday at 12:00 PM, the Dealers Room Staff will begin processing Membership badges. This tends to be a quite prompt process in most cases. Each Dealer and Dealer Assistant must present their own photo ID and must pick up their own Membership Badge.; Dealers do not need to be present to vouch for their assistants unless they were registered on-site.  If it is necessary to change someone's badge type to Dealer Assistant at the door, it will be handled as such:
+On Thursday at 12:00 PM, the Dealers Room Staff will begin processing Membership badges. This tends to be a quite prompt process in most cases. Each Dealer and Dealer Assistant must present their own photo ID and must pick up their own Membership Badge.; Dealers do not need to be present to vouch for their assistants unless they were registered on-site. If it is necessary to change someone's badge type to Dealer Assistant at the door, it will be handled as such:
 
 - Pre-registered Members must pick up their badges first, and then present them to Dealer Registration for reprinting as Dealer Assistant.
 - On-Site Members must first register for the convention, either by standing in the On-Site Registration line or using an electronic device and the Online Registration system; payment must be by credit or debit card. Their Dealer must be present to certify the DA's status before a badge can be printed. Assistants who need to use On-Site registration may use the expedited line, usually listed as the 'Sponsor Line'. Assistants using online registration can have this taken care of at Dealer Registration.
@@ -299,7 +299,7 @@ We are quite fortunate that the unions who are employed by the David L. Lawrence
 
 ## The Dealers Room is Open!
 
-At the scheduled times, the Dealers Room will open to Members. Each day, there is an initial period where Sponsors, Supersponsors, and Ultrasponsors will be permitted entry before General Admission.  We will do our best to control the crowd and avoid a ‘mob rush’, but be prepared for a rush of people.
+At the scheduled times, the Dealers Room will open to Members. Each day, there is an initial period where Sponsors, Supersponsors, and Ultrasponsors will be permitted entry before General Admission. We will do our best to control the crowd and avoid a ‘mob rush’, but be prepared for a rush of people.
 
 **New for 2024:** this year, we are using a “rolling open” on Friday to avoid the substantial problems with 2023’s Friday opening. At 11:30AM, Ultrasponsors, then Supersponsors, and finally Sponsors will be allowed into Hall B via a doorway in the north-eastern corner. This will be a controlled queue, and be complete before Noon. Once that queue has been cleared, General Attendees will be allowed to enter from Hall C. There will be a strict limit on how many people can be in this queue to stay under capacity, and our Public Safety staff will be controlling how fast people can enter to avoid a mob rush. The Dealers Staff will do our very best to keep dealers informed as the rolling open proceeds.
 
@@ -316,8 +316,8 @@ Dealers are allowed to place cameras at their tables for security purposes. Thes
 - Items generated wholly or partially by AI tools are not permitted for sale.
 - Depiction of minors, real or fictional, in adult situations is strictly prohibited, either on display or for sale; such items may not be kept out of sight but available. This rule applies to both the general Dealers Room and the Mature Dealer Section.
 - Items of a racist, sexist, or otherwise hateful nature will not be permitted for sale in the Dealers Room. This includes paraphernalia related to certain groups or political movements, or items intended to agitate and provoke.
-- Non-firearm weapons such as swords are acceptable provided the item is blunted and that the purchases are fully wrapped afterward.  Anthrocon safety policy requires that these items not be waved, pointed, or otherwise brandished in public. Any items which resemble firearms but are non-firing must also be fully wrapped and not brandished. Customers who purchase such items should be encouraged to carry them directly to their hotel rooms or vehicles.
-- Items of a distinctly adult or sexual nature whose primary purpose is not artistic are prohibited for direct sale in all areas of the Dealers Room, including the Mature Dealer Section. However, the Mature Dealer Section permits display of samples and models of functional adult items, and for these items to be sold for delivery off-site.  As Anthrocon encourages public health and safety, sale or giveaway of prophylactics such as condoms or lubricant is permitted.
+- Non-firearm weapons such as swords are acceptable provided the item is blunted and that the purchases are fully wrapped afterward. Anthrocon safety policy requires that these items not be waved, pointed, or otherwise brandished in public. Any items which resemble firearms but are non-firing must also be fully wrapped and not brandished. Customers who purchase such items should be encouraged to carry them directly to their hotel rooms or vehicles.
+- Items of a distinctly adult or sexual nature whose primary purpose is not artistic are prohibited for direct sale in all areas of the Dealers Room, including the Mature Dealer Section. However, the Mature Dealer Section permits display of samples and models of functional adult items, and for these items to be sold for delivery off-site. As Anthrocon encourages public health and safety, sale or giveaway of prophylactics such as condoms or lubricant is permitted.
 - Our contract with the DLCC does not permit food and drink sales, displays, and giveaways are not permitted in the Dealers Room without express approval from the Director and Levy Catering. [**Contact us for details**](mailto:dealers@anthrocon.org).
 - No items may be produced or sold that bear the name "Anthrocon'' or the Anthrocon logo. "Anthrocon'' and the Anthrocon logo are registered servicemarks of Anthrocon, Inc. Trademark law requires that we prohibit either of these from being used unless formally licensed by Anthrocon, Inc. Such a license agreement requires Anthrocon to request a licensing fee, and that we approve the use of our servicemarks before items bearing them are produced. Unlicensed items must be removed from sale and display.
 
@@ -356,11 +356,11 @@ Artwork containing adult material may either be shielded by Post-It notes, stick
 
 Artwork, clothing, or other items of an appropriate but adult nature may be sold only if they are kept from public view. Such items must be covered or similarly shielded. These must be delivered to the customer in opaque packaging that obscures the mature item completely, such as a bag, envelope, or folder. If a customer has their own packaging, they may place it inside that instead. This rule applies to **both** the general Dealers Room and the Mature Dealer Section.
 
-Minors will be clearly identified by a brightly colored name-field on their membership badges; likewise, the entire reverse of the badge will be the same bright color. Further information on how to recognize them will be available on site. **Anthrocon holds each Dealer responsible for ensuring that minors are not permitted to view, handle, or be otherwise exposed to adult materials.** If you are in doubt, please ask the customer for identification before allowing them to view your wares. Dealers who are found to be displaying adult-oriented items in such a fashion that they can be viewed by underage members will be afforded a single warning; further incidents may result in that dealer being ejected from the Dealers Room without refund and possible loss of Dealers Room privileges for future conventions.  Minors will not be present in the Mature Dealers Section; if you spot one, please ask them to leave or notify a Staff member immediately.
+Minors will be clearly identified by a brightly colored name-field on their membership badges; likewise, the entire reverse of the badge will be the same bright color. Further information on how to recognize them will be available on site. **Anthrocon holds each Dealer responsible for ensuring that minors are not permitted to view, handle, or be otherwise exposed to adult materials.** If you are in doubt, please ask the customer for identification before allowing them to view your wares. Dealers who are found to be displaying adult-oriented items in such a fashion that they can be viewed by underage members will be afforded a single warning; further incidents may result in that dealer being ejected from the Dealers Room without refund and possible loss of Dealers Room privileges for future conventions. Minors will not be present in the Mature Dealers Section; if you spot one, please ask them to leave or notify a Staff member immediately.
 
-**DEALERS NEED TO BE AWARE THAT MEMBERS OF THE PRESS, CITY OFFICIALS, AND OTHER MEMBERS OF THE PUBLIC MAY BE PRESENT IN THE DEALERS' ROOM AT ANY TIME DURING REGULAR HOURS. WITHOUT ANNOUNCEMENT.** All signs, banners, standing displays in the Dealers Room must abide by a strict "PG" or better rating. Any signage in the Mature Dealers Section which appears above 6’ in height must also be PG, as this may become visible over the curtains.  Any display that may be damaging to Anthrocon's public image is strictly forbidden.
+**DEALERS NEED TO BE AWARE THAT MEMBERS OF THE PRESS, CITY OFFICIALS, AND OTHER MEMBERS OF THE PUBLIC MAY BE PRESENT IN THE DEALERS' ROOM AT ANY TIME DURING REGULAR HOURS. WITHOUT ANNOUNCEMENT.** All signs, banners, standing displays in the Dealers Room must abide by a strict "PG" or better rating. Any signage in the Mature Dealers Section which appears above 6’ in height must also be PG, as this may become visible over the curtains. Any display that may be damaging to Anthrocon's public image is strictly forbidden.
 
-**Five Senses Rule:** Your table's displays, merchandise, and staff should not annoy customers or other dealers with sight, sound, smell, taste, or touch. Specific concerns are bright or flashing lights, loudspeakers, and strong scents. Videos, music, video games, and other audio need to be kept at a volume that does not annoy customers or other dealers; headphones are recommended if audio is an important part of your business. The Dealers Room Director and Staff have the final authority on what  constitutes an annoyance.
+**Five Senses Rule:** Your table's displays, merchandise, and staff should not annoy customers or other dealers with sight, sound, smell, taste, or touch. Specific concerns are bright or flashing lights, loudspeakers, and strong scents. Videos, music, video games, and other audio need to be kept at a volume that does not annoy customers or other dealers; headphones are recommended if audio is an important part of your business. The Dealers Room Director and Staff have the final authority on what constitutes an annoyance.
 
 ### Guidelines on sales
 
@@ -391,7 +391,7 @@ All Dealerships will be given a check-out form on Saturday or Sunday of the conv
 
 - Anthrocon is responsible for leaving the Convention Hall in "broom clean" condition, meaning a good sweeping is all that’s necessary to finish cleaning. We are assessed a steep fee if unreasonable amounts of garbage, empty boxes, etc. are left behind when the room is vacated. Trash receptacles will be provided, especially for teardown on Sunday. **Any Dealership that leaves an excessive amount of waste behind in their area will be responsible for a cleaning fee of not less than $100**.
 - After the Dealers Room closes at 4:00 pm on Sunday, load-out begins in force. Dealerships are expected to rapidly pack and clean their areas to ensure a swift departure. From 4pm onward, only Dealers and DAs are permitted presence and entry to the Dealers Room. This is a very busy time, especially for those who will need Loading Dock access for their vehicles. Usually, all but our largest Dealerships are clear by 7:00 pm.
-- Dealers are permitted to drive their vehicle onto the floor for load-out., regardless of table size, once their Dealership is completely packed. As before, vehicles can only be on the floor for loading and not parked while you pack, and the driver must be either a registered Dealer or Dealer Assistant.  This service is completely at the discretion of Anthrocon Staff and DLCC employees, and at any point a vehicle can be denied entry to the floor. Please do not queue for the loading dock prior to 4:00PM, or you may be cited by the city police.
+- Dealers are permitted to drive their vehicle onto the floor for load-out., regardless of table size, once their Dealership is completely packed. As before, vehicles can only be on the floor for loading and not parked while you pack, and the driver must be either a registered Dealer or Dealer Assistant. This service is completely at the discretion of Anthrocon Staff and DLCC employees, and at any point a vehicle can be denied entry to the floor. Please do not queue for the loading dock prior to 4:00PM, or you may be cited by the city police.
 - Taxis or rideshare vehicles must wait in line as any other vehicle if using the loading dock. As such, they are not recommended.
 
 ***

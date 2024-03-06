@@ -13,7 +13,7 @@ banner_url: ""
 
 ## announcement: General Hotel Opening Delay
 
-During our Supersponsor hotel opening, we received multiple reports of issues with the booking software (Passkey) not properly holding attendees’ rooms during booking. We had initially tested this system with Passkey’s tech team, but further investigation revealed underlying issues with the implementation.  The fix is currently being looked into by Passkey’s technical team, but we do not currently have a timeline on when it will be resolved.
+During our Supersponsor hotel opening, we received multiple reports of issues with the booking software (Passkey) not properly holding attendees’ rooms during booking. We had initially tested this system with Passkey’s tech team, but further investigation revealed underlying issues with the implementation. The fix is currently being looked into by Passkey’s technical team, but we do not currently have a timeline on when it will be resolved.
 
 As a result, **we are delaying the General Hotel opening for Anthrocon 2024**. We apologize for any inconvenience that this may cause for those who have planned for the February 2 hotel opening. However, we wish to avoid any additional frustration of our members by trying to book a hotel room when the system is not performing as expected. We also sincerely apologize to any of our Supersponsors who were impacted by this situation.
 

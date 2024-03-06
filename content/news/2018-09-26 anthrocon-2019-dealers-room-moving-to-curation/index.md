@@ -49,7 +49,7 @@ The Dealers Room staff, currently consisting of eight individuals including the 
 
 **When** are the important dates?
 
-October 6th  is the planned opening date for applications.
+October 6th is the planned opening date for applications.
 
 October 31st at 11:59pm, EST, will be the final date for applications.
 

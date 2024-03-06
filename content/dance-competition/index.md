@@ -83,7 +83,7 @@ In the event of a tiebreaker, individual judges’ marks will be considered to b
 2. This is a **FURSUIT** dance competition – other forms of costume will not be eligible.
     - **Minimum fursuit requirements are**: Head, Hands, Tail, Feet. Your fursuit should stay on you at all times during your performance, unless in case of medical emergency.
     - Any “substitute” fursuit parts, such as Happy Feet (plush-shaped sneakers) or footwear specific for a dance style (i.e. ballet shoes, tap-dance shoes), can be used in lieu of fursuit feet with permission from the organizer.
-3. Only  original dance routines and choreography may be used – we will not tolerate plagiarism of existing dance routines of any kind. An intentional or blatant copy of a pre-existing choreography, with proof, will result in an instant revocation of any award(s) given, and further penalties as determined by the event organizer.
+3. Only original dance routines and choreography may be used – we will not tolerate plagiarism of existing dance routines of any kind. An intentional or blatant copy of a pre-existing choreography, with proof, will result in an instant revocation of any award(s) given, and further penalties as determined by the event organizer.
 4. **Props:** Only small clothing or “accessory” props (e.g. a cane, hat, fan) are allowed to be used. Please notify the event team if you want to perform with a prop that could be considered dangerous or difficult to use.
 5. Songs must be a radio-friendly or radio-version, meaning no vulgarity.
 6. **The event organizer(s) reserve the right to make decisions for any performances in the event where necessary.**

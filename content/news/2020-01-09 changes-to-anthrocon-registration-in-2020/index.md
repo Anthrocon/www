@@ -27,7 +27,7 @@ Those who have not picked up their Membership badge will need to enter the DLCC 
 
 Those who have their current Anthrocon Membership badge will be able to use any of the DLCC entrances: West Lobby, East Lobby, and the Sky Bridge. Children 12 years old and younger (who do not need to get badges as they get in free) will have to be accompanied by a badged adult in order to get into the DLCC.
 
-The driving factor behind the decision to move registration and limited access to the DLCC is the safety of our attendees.  We do realize that this will cause some inconvenience, especially on Thursday, as people will not be able to spread out across the DLCC before they pick up their badge. However, limiting access to the DLCC to badged individuals will allow us to provide a safer environment for our attendees.
+The driving factor behind the decision to move registration and limited access to the DLCC is the safety of our attendees. We do realize that this will cause some inconvenience, especially on Thursday, as people will not be able to spread out across the DLCC before they pick up their badge. However, limiting access to the DLCC to badged individuals will allow us to provide a safer environment for our attendees.
 
 ## Registration Hours
 

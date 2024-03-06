@@ -96,5 +96,5 @@ In order to support local nonprofits in a way that best relates to the conventio
 
 **Incorporated in the state of Pennsylvania.**
 
-To be considered, simply contact charity@anthrocon.org expressing interest.  Candidacy means that the organization has been added to the list of available options for consideration in any given future year, as long as the organization remains active.  The convention's Board considers candidates in December and makes a selection in January. Anthrocon's charity staff representatives make a site visit to the selected charity in February/March to validate legitimacy.
+To be considered, simply contact charity@anthrocon.org expressing interest. Candidacy means that the organization has been added to the list of available options for consideration in any given future year, as long as the organization remains active. The convention's Board considers candidates in December and makes a selection in January. Anthrocon's charity staff representatives make a site visit to the selected charity in February/March to validate legitimacy.
 {{< /details >}}

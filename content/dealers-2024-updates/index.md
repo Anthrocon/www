@@ -25,7 +25,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 Located between the Dealers Room and the Artists Alley in rows Q and R, The Bodega consists of 4 foot by 30 inch Half Tables only. For $100 you'll get a PERMANENT LOCATION(!) with more room behind you, no restrictions on your displays (within reason of course), and the option to get things like power from the convention centre. One more thing...
 
-- Half Tables will only be available in The Bodega, or at the convention if there are any.  Single+Half tables aren't affected.
+- Half Tables will only be available in The Bodega, or at the convention if there are any. Single+Half tables aren't affected.
 
 **Endcaps are now two tables rather than one!** We noticed a number of dealers at endcaps 'grew out' a foot or so to the sides, so we're going to offer more dedicated table space for those folks. This also means there's more endcaps in general, and two dealers could even share one the endcap right out. Now for less exciting stuff...
 

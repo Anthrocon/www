@@ -36,7 +36,7 @@ Fur cons are vacations, so make sure you budget for some “fun” money as well
 
 Budgeting for the Anthrocon Dealers Room/Artists Alley, pardon the pun, is a whole another animal! Nowhere else in the fandom will you find a such a diverse collection of vendors selling furry-related art and wares. Without a budget, it’s very easy to spend much more than you anticipated. What I like to do is, knowing how much you can spend, make a quick pass through the room, making note of vendors that I may want to purchase items from as well as the price (and noting their position in the enormous room for reference). Once I have that list, I’ll go through it and prioritize. For example, if I have $100 to spend and I want a $50 badge from Vendor A, a $25 shirt from Vendor B, a $25 matted print from Vendor C, and a $25 plush from Vendor D, then I’d have to choose which of the $25 items to drop from my list.
 
-Also, keep in mind that many, if not most dealers offer the same or similar merchandise online  on web-based stores. Ask for a business card, and if your budget doesn’t quite allow for the purchase at-con, save it for after you get home!
+Also, keep in mind that many, if not most dealers offer the same or similar merchandise online on web-based stores. Ask for a business card, and if your budget doesn’t quite allow for the purchase at-con, save it for after you get home!
 
 ### **Other helpful tips to budget**
 

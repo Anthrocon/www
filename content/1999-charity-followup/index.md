@@ -15,7 +15,7 @@ First off, I want to thank all the donors for participating and helping us out w
 
 \- Highest sale: Christopher Goodwin - "Brothers" for $335. New single-sale convention record for Charity Auction.
 
-Final Sales (in no particular order. item, then donor, then sale price.  donor listed by provided name):
+Final Sales (in no particular order. item, then donor, then sale price. donor listed by provided name):
 
 Con Chair Collector's Plates (Jim Groat) - $40<br>
 Set of Animal Magnetic Poetry (Mark Correia) - $15<br>
@@ -25,7 +25,7 @@ Ty Large Beanie Baby "Pepper" (Jason Saylor) - $55<br>
 "The Cat's Commandments" (Dr. Samuel Conway) - $30<br>
 5'x6' realistic portrayal of a fox (Ian Dettmering) - $50<br>
 Ty Beanie Baby "Scorch" (Jason Saylor) - $30<br>
-Limpidity comic strip original "Comets, Asteroids, and Meteors..."  (Po Shan Cheah) - $20<br>
+Limpidity comic strip original "Comets, Asteroids, and Meteors..." (Po Shan Cheah) - $20<br>
 Uncle Kage's story hour card (Dr. Samuel Conway) - $40<br>
 Microsoft Office 2000 Premium (Paul Seid) - $90<br>
 Ren & Stimpy #1-30 (Smrgol) - $70<br>

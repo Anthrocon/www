@@ -18,14 +18,14 @@ More special thanks are in order to the following groups and individuals:
 - To all the donors who contributed artwork, merchandise, and memorabilia to the auction and raffle, and to all those who both bid at the auction and bought raffle tickets.
 - To the Dorsai Irregulars, Anthrocon's security contingent, who contributed the Super Golden Ticket for 2020.
 - To all the Sunday comedy show performers, for their charity performance from which all ticket sales were donated to charity. Also, as always, to Dr. Conway for his annual auctioneering skills.
-- To all the fursuiters who volunteered their time for the fursuit "bucket brigade": Lotus Wolf, Sither, Rainbowz Pinata, LexxieOtter, Vira, Yizozo, Acer, Teshy, Eventide, Hubcap, Prince Mai, Alibi, Blue Mouse, Rowdy, Twitchy, Vapor, Uwe, Laszlo, Ramacal, Plague Rat, Featherbutt, Valentine Thunderfoot, and Nushaa. Congratulations to our top three fundraisers: Lotus Wolf, Prince Mai, and Teshy!  And many thanks to Fizz Otter for donating the prizes.
+- To all the fursuiters who volunteered their time for the fursuit "bucket brigade": Lotus Wolf, Sither, Rainbowz Pinata, LexxieOtter, Vira, Yizozo, Acer, Teshy, Eventide, Hubcap, Prince Mai, Alibi, Blue Mouse, Rowdy, Twitchy, Vapor, Uwe, Laszlo, Ramacal, Plague Rat, Featherbutt, Valentine Thunderfoot, and Nushaa. Congratulations to our top three fundraisers: Lotus Wolf, Prince Mai, and Teshy! And many thanks to Fizz Otter for donating the prizes.
 - To all the attendees who bought merchandise and made cash donations to Pearl Parrots' donation buckets at their table.
 
 I would like to give thanks to my staff who helped conduct both the charity auction and raffle.
 
 None of this could have occurred without the assistance of Mike "Mrianti" Pierce, Trevor "Mr. Mutt" Boyd, Tracey "Stormy" Bealer, Karl "Xydexx" Jorgensen, Lynn Harris, and Sharon Yates.
 
-**RESULTS ARE CURRENTLY TENTATIVE** for a few months after publication of this summary to account for additional incoming donations and human error. Corrections will be made as they are identified.  Itemizations are rounded down to the nearest dollar.
+**RESULTS ARE CURRENTLY TENTATIVE** for a few months after publication of this summary to account for additional incoming donations and human error. Corrections will be made as they are identified. Itemizations are rounded down to the nearest dollar.
 
 Finally, here are all the details.
 

@@ -415,7 +415,7 @@ Rooms are booked very quickly due to high demand, and we try to make as many roo
 
 If you’re unable to get the reservation you want, we would recommend securing a room at other hotels to ensure you have a place to stay during the convention. Alternatively, you can also try and find rooming arrangements with other attendees that have space (you can find these on various forums and websites).
 
-A room may show as "not available" when only one of the nights is truly not available.  This is likely to happen for the first or last night of your stay, or If you try to book a date outside the convention time frame.  Try requesting a shorter stay, and if you are then able to make a successful reservation, contact [**help@orchid.events**](mailto:help@orchid.events) (or call **+1-800-470-8077**)  and indicate that you're looking to add additional nights.
+A room may show as "not available" when only one of the nights is truly not available. This is likely to happen for the first or last night of your stay, or If you try to book a date outside the convention time frame. Try requesting a shorter stay, and if you are then able to make a successful reservation, contact [**help@orchid.events**](mailto:help@orchid.events) (or call **+1-800-470-8077**) and indicate that you're looking to add additional nights.
 
 **Please note:** The higher demand hotels (such as the Westin, Courtyard, and the Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. As such you may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations.
 {{< /details >}}
@@ -425,7 +425,7 @@ Yes, shuttle service will be provided to all partner hotels, with the exception 
 {{< /details >}}
 
 {{< details "I'm trying to find roommates, where should I start asking?" >}}
-Drop by our [**Anthrocon Room Share** **group on Facebook**](https://www.facebook.com/groups/AnthroconRoomShare) to get started!  Or, if Facebook is not your thing, we also have our Discord channel #roomshare on the [**Official Anthrocon Discord Server**](https://discord.gg/SUHnJD72JC).
+Drop by our [**Anthrocon Room Share** **group on Facebook**](https://www.facebook.com/groups/AnthroconRoomShare) to get started! Or, if Facebook is not your thing, we also have our Discord channel #roomshare on the [**Official Anthrocon Discord Server**](https://discord.gg/SUHnJD72JC).
 
 Please note that Anthrocon cannot help arrange, verify, or mediate any disputes with your chosen roommates - exercise caution when interacting with new potential roommates, verify all the details are accurate on room reservations, and make sure payments made are legitimate.
 {{< /details >}}
@@ -441,7 +441,7 @@ A valid Anthrocon registration ID is required to make a hotel reservation - you 
 {{< /details >}}
 
 {{< details "What other fees or charges should I expect with my hotel booking?" >}}
-In addition to all applicable state and local taxes, there will be an additional hold of $50 to $100 per night at check-in as an incidentals/damages hold,  which will be released back to the cardholder upon checkout.
+In addition to all applicable state and local taxes, there will be an additional hold of $50 to $100 per night at check-in as an incidentals/damages hold, which will be released back to the cardholder upon checkout.
 {{< /details >}}
 
 {{< details "What's the change/refund policy for Anthrocon-partnered hotels?" >}}

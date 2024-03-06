@@ -52,7 +52,7 @@ A virtual event was held this year due to COVID-related issues.
 
 July 4th-7th, 2019
 
-**Guests of Honor**:  Benjamin Diskin, SonicFox, Steve Gallacci
+**Guests of Honor**: Benjamin Diskin, SonicFox, Steve Gallacci
 
 **Charity:** [$45,852 for PEARL Parrot Rescue](/2019-charity-followup)<br>
 **Attendance:** [9,358](https://twitter.com/anthrocon/status/1148002180642889728)<br>
