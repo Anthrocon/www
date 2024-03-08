@@ -27,9 +27,9 @@ Hotel room bookings will start in late January for both Dealers and those who ha
 
 If you’re looking for a great last-minute holiday gift, or wish to secure your spot for a memorable adventure on the Allegheny River, tickets for our special River Cruises are available, in partnership with the Gateway Clipper Fleet! This year we are offering five hour-long Sightseeing cruises at various times on Thursday, Friday and Saturday, along with a special catered Dinner Cruise (Friday night at 7:30) and Cocktail Cruise (Saturday night at 7:30). For more information or to book tickets, visit the [**Anthrocon River Cruises**](https://www.anthrocon.org/anthrocon-river-cruises) information page.
 
-## PERFORMANCE AUDITION FORM &amp; PANEL SUBMISSIONS
+## PERFORMANCE AUDITION FORM & PANEL SUBMISSIONS
 
-If you are musically or theatrically inclined and wish to schedule a performance on Anthrocon’s Main Stage, there is an audition form available to fill out on our Events page. Main Stage time is limited, so please apply early! Applications to host regular panels such as Meet &amp; Greets, Seminars, Discussions, Demonstrations, Educational Talks, etc. are also available on our [**Events and Panels page**](/events-panels). The success of Anthrocon’s programming relies on you - we encourage everyone interested to contribute and be part of one of the largest and most diverse panel tracks in furry fandom, while meeting other furry fans with shared interests!
+If you are musically or theatrically inclined and wish to schedule a performance on Anthrocon’s Main Stage, there is an audition form available to fill out on our Events page. Main Stage time is limited, so please apply early! Applications to host regular panels such as Meet & Greets, Seminars, Discussions, Demonstrations, Educational Talks, etc. are also available on our [**Events and Panels page**](/events-panels). The success of Anthrocon’s programming relies on you - we encourage everyone interested to contribute and be part of one of the largest and most diverse panel tracks in furry fandom, while meeting other furry fans with shared interests!
 
 ## SOCIAL MEDIA
 
@@ -39,6 +39,6 @@ Our media team will continue regular updates on all of our social media channels
 - Verify any information you hear from non-official sources. Even if you heard it from a friend!
 - If you’re not sure about a post’s authenticity, send us a private message through our e-mail or Direct Messages on social media.
 
-## VOLUNTEERS &amp; STAFF SIGNUPS
+## VOLUNTEERS & STAFF SIGNUPS
 
 We know there are many folks interested in learning what it’s like to put on a convention, and we’d love to grow our team! We will have more information regarding volunteer and staff opportunities with our team in the upcoming months. If you volunteered last year, you’ll be hearing from our Volunteers team soon regarding interest for 2023.

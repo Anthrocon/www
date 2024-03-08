@@ -11,7 +11,7 @@ banner_url: ""
 
 Now that the clock’s winding down, we’re now a couple of weeks away from Anthrocon 2023! It’s time for the final Newsletter before the convention, so let’s get started on Anthrocon’s June Newsletter. Make sure you’ve got all the important last-minute information you need by reading below, or listening to the audio version by Father Harvest and Manick.
 
-{{< audio src="Anthrocon+2023_s+June+Newsletter.mp3" title="Anthrocon 2023 - June Updates" author="Father Harvest &amp; Manick" >}}
+{{< audio src="Anthrocon+2023_s+June+Newsletter.mp3" title="Anthrocon 2023 - June Updates" author="Father Harvest & Manick" >}}
 
 ## REGISTRATION
 
@@ -37,9 +37,9 @@ Under the “Events” category on our website, other information can be found a
 
 Both the Dealers Room and Artists Alley lists have been released! You can find out which of your favorite vendors and artists will be at Anthrocon by visiting the [**Dealers Room**](/dealers-list-map-2023) and [**Artists Alley**](/alley) pages respectively. Our Art Show is also now completely full, and only waitlist spots are available - any requests for information or waitlist can be sent to [**artshow@anthrocon.org**](mailto:artshow@anthrocon.org).
 
-## Convention Tips &amp; Guides
+## Convention Tips & Guides
 
-There’s a lot to learn about preparing for a furry con, and everything to do when you get there. Our content team has been adding many helpful articles aimed at providing some first-hand advice and tips on how to enjoy your Anthrocon to the fullest. Learn more by visiting our [**Tips &amp; Guides**](/tips-and-guides) under our site’s Learn section!
+There’s a lot to learn about preparing for a furry con, and everything to do when you get there. Our content team has been adding many helpful articles aimed at providing some first-hand advice and tips on how to enjoy your Anthrocon to the fullest. Learn more by visiting our [**Tips & Guides**](/tips-and-guides) under our site’s Learn section!
 
 ## Volunteering
 

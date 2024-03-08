@@ -11,9 +11,9 @@ banner_author: ""
 banner_url: ""
 ---
 
-General hotel reservations open on February 2, 2018, along with corner suites in the Westin.&nbsp;However, at this time reservations for Suites in the Westin Hotel are **now available**!
+General hotel reservations open on February 2, 2018, along with corner suites in the Westin. However, at this time reservations for Suites in the Westin Hotel are **now available**!
 
-To request a suite, [please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf9mKs4I2hZYEuJmy2i1cCqg5EHG-_BCh3g6ai7elQoM9KxCQ/viewform).&nbsp;Information from that form will be passed onto the Convention Services Department at the Westin, who will begin contacting people as suites become available.&nbsp;Also note that a one-might deposit of room and tax will be required at the time of renting.
+To request a suite, [please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf9mKs4I2hZYEuJmy2i1cCqg5EHG-_BCh3g6ai7elQoM9KxCQ/viewform). Information from that form will be passed onto the Convention Services Department at the Westin, who will begin contacting people as suites become available. Also note that a one-might deposit of room and tax will be required at the time of renting.
 
 {{< img src="westin-family-suite.jpg" alt="Westin Family Suite" hint="photo" caption="Westin Family Suite" >}}
 
@@ -31,7 +31,7 @@ To request a suite, [please fill out this form](https://docs.google.com/forms/d/
 
 **2-Bedroom Parlor** - $728 ($829) per night. A bedroom with a king-sized bed, a second bedroom with two double-beds, and between them a large separate parlor with its own bathroom, dining table, and sofa. The parlor is 729 square feet and each bedroom is about 364 square feet. Comes equipped with a sofa-bed.
 
-**Workout Suite** -&nbsp;$435 ($495) per night. Similar to a family suite, but with a king bed and workout equipment for those who like to keep fit. The exercise equipment is stationary and cannot be moved from the room.
+**Workout Suite** - $435 ($495) per night. Similar to a family suite, but with a king bed and workout equipment for those who like to keep fit. The exercise equipment is stationary and cannot be moved from the room.
 
 ---
 

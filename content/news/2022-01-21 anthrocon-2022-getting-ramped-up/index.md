@@ -13,7 +13,7 @@ banner_url: ""
 
 We’re already three weeks into the new year, and things are steadily ramping up with our convention planning. There’s plenty to look forward to in the next couple weeks’ time - read on and find out more about what’s happening!
 
-### Registration &amp; COVID-19 Policy
+### Registration & COVID-19 Policy
 
 Pre-registration is available for Anthrocon 2022, and you can head over to our [**Registration page**](/registration) for more information and to purchase your pre-registered badge at a cheaper price compared to at-the-door registration. Our 2022 convention is still operating under a [**COVID-19 policy**](/covidpolicy) which we have updated based on current information and guidance provided to us by health authorities. As we move closer to June, any updates to the policy will be announced publicly, and any questions and concerns about our policy can be directed to [anthrocon@anthrocon.org](mailto:anthrocon@anthrocon.org).
 

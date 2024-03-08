@@ -13,7 +13,7 @@ Springtime is fully underway with the snow melting, temperatures rising, and the
 
 If you’d prefer to hear our April updates in audio format, hosted by our content producer Harvest, check out our audio broadcast below.
 
-{{< audio src="Anthrocon+April+2023+Newsletter.mp3" title="Anthrocon 2023 - April Newsletter" author="Harvest &amp; Manick" >}}
+{{< audio src="Anthrocon+April+2023+Newsletter.mp3" title="Anthrocon 2023 - April Newsletter" author="Harvest & Manick" >}}
 
 ## Hotel booking
 
@@ -23,7 +23,7 @@ Please remember to NEVER give out any personal information or payments if you ar
 
 ## Convention Guides and Tips
 
-We’ve got some new convention guides that will help you enjoy your convention better, whether it’s your first furry con or your umpteenth! Check out our new [**Convention Tips &amp; Guides**](/tips-and-guides) section for new articles and tips from some of our staff writers. We’ll be releasing more articles and tips as the convention continues to get closer - if you have any questions or topics that you’d like to hear about, let us know on our social media channels (found below).
+We’ve got some new convention guides that will help you enjoy your convention better, whether it’s your first furry con or your umpteenth! Check out our new [**Convention Tips & Guides**](/tips-and-guides) section for new articles and tips from some of our staff writers. We’ll be releasing more articles and tips as the convention continues to get closer - if you have any questions or topics that you’d like to hear about, let us know on our social media channels (found below).
 
 ## Volunteering
 
@@ -39,7 +39,7 @@ If you’re a budding artist looking to show off your skills to our attendees, o
 
 Anthrocon’s nightly dances feature some of the best talents behind the DJ booth, accompanied by a calvacade of lights and visual effects. If you think you’ve got what it takes to make our ballroom come alive at night, our DJ applications are now open. There’s no set date for when applications will close, as once our DJ coordinator has enough entries, the form will be closed. Don’t delay submitting your demo - more information and submission form can be found on our [**Nightly Dances page**](/nightly-dances).
 
-## Conbook &amp; Advertising
+## Conbook & Advertising
 
 Conbook and advertising opportunities will be closing on May 1st! If you haven’t started on your submission yet, you won’t want to delay any longer. We’re accepting media types such as artwork, graphics, and written short stories - if selected, your works will have a chance to be featured in our Conbook and/or other printed material at the convention. To find out more about the submission process, head over to our [**Conbook page**](/conbook-submissions).
 

@@ -21,7 +21,7 @@ Pre-registration has now opened for Anthrocon 2022, and you can head over to our
 
 Our [**COVID-19 policy**](/covidpolicy) has been published (under our Registration category) and will be updated as we continue forward towards July 2022. As navigating a COVID-affected world has been complex and unpredictable, we ask of everyone’s understanding and patience as we work with both government and health experts to host a safe and responsible event for everyone. Questions and concerns about our COVID-19 policy can be directed to [anthrocon@anthrocon.org](mailto:anthrocon@anthrocon.org).
 
-### Hotel &amp; Westin Suite Bookings
+### Hotel & Westin Suite Bookings
 
 Our hotel bookings for Anthrocon 2022 will open starting on January 31st for Ultrasponsors and Supersponsors, followed by general hotel bookings on February 2nd. Find out more information about available partnered hotels on our [**Hotels page**](/hotel).
 

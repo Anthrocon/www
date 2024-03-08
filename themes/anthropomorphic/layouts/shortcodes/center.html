@@ -1,8 +1,11 @@
-{{/* Shortcode to center align content block. */}}
+{{/*
+    Shortcode to center align content block.
+*/}}
 
-{{- $optBlock := dict "display" "block" -}}
+<!-- themes/anthropomorphic/layouts/shortcodes/center.html -->
 
+{{- $opts := dict "display" "block" -}}
 
 <div style="text-align: center;">
-  {{ .Inner | .Page.RenderString $optBlock }}
+    {{ .Inner | .Page.RenderString $opts }}
 </div>

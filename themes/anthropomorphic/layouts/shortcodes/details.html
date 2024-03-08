@@ -1,0 +1,11 @@
+{{/* Shortcode renders details HTML element.
+
+  "string"
+  Summary appears on button.
+
+  open
+  Optional. Boolean attribute specifies whether details are open by default.
+*/}}
+
+<p><strong>{{ .Get 0 }}</strong></p>
+{{ .Inner | markdownify -}}

@@ -3,19 +3,45 @@ languageCode = 'en-us'
 title = 'Anthropomorphic'
 
 [[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
+name = 'Registration'
+pageRef = '/registration'
 weight = 20
 
 [[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
+name = 'Venue'
+pageRef = '/travel-tips'
 weight = 30
+
+[[menus.main]]
+name = 'Events'
+pageRef = '/events-panels'
+weight = 40
+
+[[menus.main]]
+name = 'Dealers & Artists'
+pageRef = '/dealers'
+weight = 50
+
+[[menus.main]]
+name = 'Get Involved'
+pageRef = '/volunteer'
+weight = 60
+
+[[menus.main]]
+name = 'Learn'
+pageRef = '/tips-and-guides'
+weight = 70
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 80
+
+[[menus.main]]
+name = 'Latest News'
+pageRef = '/news'
+weight = 90
+
 
 [module]
   [module.hugoVersion]

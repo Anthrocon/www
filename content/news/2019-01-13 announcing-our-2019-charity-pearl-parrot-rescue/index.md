@@ -19,4 +19,4 @@ _The mission of PEARL is to provide quality education to current and potential p
 
 PEARL Parrot Rescue will be at the Charity Auction and will have a table in the Dealers' Room where you can meet them and peruse information about their organization.
 
-More information about PEARL Parrot Rescue can be found at their website, [pearlparrots.com](https://www.pearlparrots.com/).&nbsp;If you have any questions regarding PEARL Parrot Rescue, they can be reached at **info(at)pearlparrots.com**.
+More information about PEARL Parrot Rescue can be found at their website, [pearlparrots.com](https://www.pearlparrots.com/). If you have any questions regarding PEARL Parrot Rescue, they can be reached at **info(at)pearlparrots.com**.

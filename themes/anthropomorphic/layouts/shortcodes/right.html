@@ -1,8 +1,11 @@
-{{/* Shortcode to right align content block. */}}
+{{/*
+    Shortcode to right align content block.
+*/}}
 
-{{- $optBlock := dict "display" "block" -}}
+<!-- themes/anthropomorphic/layouts/shortcodes/right.html -->
 
+{{- $opts := dict "display" "block" -}}
 
 <div style="text-align: right;">
-  {{ .Inner | .Page.RenderString $optBlock }}
+    {{ .Inner | .Page.RenderString $opts }}
 </div>
