@@ -42,7 +42,7 @@ header {
     padding: 2rem;
 }
 
-main header div {
+main section header {
     display: flex;
     position: relative;
     margin-top: -1rem;
@@ -55,6 +55,6 @@ main header div {
     align-items: center;
 }
 
-main header div img {
+main section header img {
     width: 100%;
 }

@@ -1,9 +1,7 @@
 {{ define "main" }}
   <section>
     <header>
-      <div>
-        <img src="AC_2022_group+photo_3000px_dark.jpg" alt="">
-      </div>
+      <img src="AC_2022_group+photo_3000px_dark.jpg" alt="">
     </header>
     {{ .Content }}
     <hr>
@@ -19,6 +17,8 @@
         </footer>
       </article>
       {{ end }}
+    </div>
+    <div class="grid">
       {{ range first 4 (after 4 site.RegularPages) }}
       <article>
         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
