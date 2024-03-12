@@ -1,19 +1,19 @@
 /* base */
 
-body {
+/* body {
     background-color: black;
-}
+} */
 
 /* layout */
 
-nav {
+/* nav {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     padding: 2rem;
     background-color: black;
-}
+} */
 
 nav > ul > a:nth-child(1) > img { 
     height: 6.66rem;
@@ -28,10 +28,33 @@ nav > ul > a:nth-child(1) > img {
 
 /* theme */
 
-a {
+/* a {
     color: #05e1b9;
-}
+} */
 
 footer { 
     text-align: center;
+}
+
+header {
+    background-color: var(--pico-background-color);
+    color: var(--pico-color);
+    padding: 2rem;
+}
+
+main header div {
+    display: flex;
+    position: relative;
+    margin-top: -1rem;
+    margin-bottom: 3rem;
+    padding: 0;
+    width: 100vw;
+    max-height: 520px;
+    left: calc(-50vw + 50%);
+    overflow-y: hidden;
+    align-items: center;
+}
+
+main header div img {
+    width: 100%;
 }

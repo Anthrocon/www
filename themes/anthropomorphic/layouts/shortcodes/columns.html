@@ -10,9 +10,9 @@
 
 <!-- themes/anthropomorphic/layouts/shortcodes/columns.html -->
 
-<div style="display: flex; margin: 0 -20px;">
+<div class="grid">
   {{ range split .Inner "<--->" }}
-    <div style="flex: 1; padding: 0 20px;">
+    <div>
       {{ . | $.Page.RenderString }}
     </div>
   {{ end }}

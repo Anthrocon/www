@@ -1,16 +1,35 @@
 {{ define "main" }}
   <section>
+    <header>
+      <div>
+        <img src="AC_2022_group+photo_3000px_dark.jpg" alt="">
+      </div>
+    </header>
     {{ .Content }}
-    {{ range site.RegularPages | first 8 }}
-    <article>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      <p>{{ .Summary }}</p>
-      <footer>
-        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-        {{ $dateHuman := .Date | time.Format ":date_long" }}
-        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-      </footer>
-    </article>
-    {{ end }}
+    <hr>
+    <div class="grid">
+      {{ range first 4 site.RegularPages }}
+      <article>
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <p>{{ .Summary | truncate 150 }}</p>
+        <footer>
+          {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+          {{ $dateHuman := .Date | time.Format ":date_long" }}
+          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+        </footer>
+      </article>
+      {{ end }}
+      {{ range first 4 (after 4 site.RegularPages) }}
+      <article>
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <p>{{ .Summary | truncate 150 }}</p>
+        <footer>
+          {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+          {{ $dateHuman := .Date | time.Format ":date_long" }}
+          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+        </footer>
+      </article>
+      {{ end }}
+    </div>
   </section>
 {{ end }}
