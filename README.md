@@ -10,9 +10,6 @@ The Anthrocon website.
   - [Markdown](https://commonmark.org/) - Readable pages!
 - [Semantic HTML](https://en.wikipedia.org/wiki/Semantic_HTML) - Accessibility by default!
 - [Pico CSS](https://picocss.com/) - Lightweight CSS framework!
-- [Prettier](https://prettier.io) - Opinionated code formatting!
-  - [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) - Proper formatting for Hugo templates!
-  - [Volta](https://volta.sh) - Management for Prettier formatting!
 
 ## Getting started
 
@@ -27,8 +24,7 @@ Building this website for public release is one command: `hugo`!
 You will see output similar to the following:
 
 ```
-
-$ hugo                                                                                                                                                                                   [±add-prettier-to-repo ✓]
+$ hugo
 Start building sites …
 hugo v0.119.0-b84644c008e0dc2c4b67bd69cccf87a41a03937e+extended linux/amd64 BuildDate=2023-09-24T15:20:17Z VendorInfo=gohugoio
 
@@ -53,7 +49,7 @@ If you'd like hugo to serve you the site locally, just run `hugo serve`!
 You'll see output like so:
 
 ```
-> $ hugo serve                                                                                                                                                                             [±add-prettier-to-repo ●]
+> $ hugo serve
 Watching for changes in anthrocon/www/{content,layouts,package.json,themes}
 Watching for config changes in anthrocon/www/hugo.yaml, anthrocon/www/themes/anthropomorphic/hugo.toml
 Start building sites …
@@ -80,51 +76,6 @@ Press Ctrl+C to stop
 
 You can now visit [the site locally](http://localhost:1313/).
 Press Ctrl + C to stop the server when you're done.
-
-### Installing Volta
-
-[Volta](https://volta.sh/) is a Node.js toolchain manager built in Rust that we mainly use to run Prettier.
-
-```
-# install Volta
-curl https://get.volta.sh | bash
-```
-
-You can learn more about using Volta [here](https://docs.volta.sh/guide/understanding#managing-your-toolchain).
-What we're doing, in Volta terms, is pinning a version of Node and the devtools we need under that version.
-
-### Running the linter
-
-Volta, once configured correctly, should automatically load the pinned Node/NPM version we require.
-
-```
-volta install node
-volta install npm
-```
-
-should get you what you need. After that, install the devDependencies for this Node project:
-
-```
-npm install
-```
-
-If that doesn't work for some reason, you can try installing the packages directly:
-
-```
-npm install prettier prettier-plugin-go-template
-```
-
-Then, you can run Prettier:
-
-```
-prettier "**/*.{md,css,html,js}"
-```
-
-or, if you want Prettier to format your files directly:
-
-```
-prettier --write "**/*.{md,css,html,js}"
-```
 
 ## License(s)
 
