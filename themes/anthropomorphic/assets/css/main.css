@@ -58,3 +58,14 @@ main section header {
 main section header img {
     width: 100%;
 }
+
+.grid div {
+    container-type: inline-size;
+}
+
+@container (min-width: 100px) {
+    .grid img {
+        height: 60cqi;
+        object-fit: cover;
+    }
+}
