@@ -1,3 +1,17 @@
+:root {
+    --pico-font-family-sans-serif: "Poppins", sans-serif, var(--pico-font-family-emoji);
+    --pico-font-family: var(--pico-font-family-sans-serif);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    --pico-font-family: "Raleway", sans-serif, var(--pico-font-family-emoji);
+}
+
 /* base */
 
 /* body {
