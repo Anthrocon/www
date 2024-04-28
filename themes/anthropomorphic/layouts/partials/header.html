@@ -1,10 +1,8 @@
-<hgroup>
-  <nav>
-    <ul>
-      {{ with resources.Get "registered_logo_white.png" }}
-      <li><a href="{{ site.Home.RelPermalink }}"><img src="{{ .RelPermalink }}" alt="" width="194px"></a></li>
-      {{ end }}
-    </ul>
-    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-  </nav>
-</hgroup>
+<nav>
+  <ul>
+    {{ with resources.Get "registered_logo_white.png" }}
+    <li><a href="{{ site.Home.RelPermalink }}"><img src="{{ .RelPermalink }}" alt="" width="194px"></a></li>
+    {{ end }}
+  </ul>
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</nav>
