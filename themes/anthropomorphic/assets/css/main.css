@@ -12,6 +12,11 @@ h6 {
     --pico-font-family: "Raleway", sans-serif, var(--pico-font-family-emoji);
 }
 
+h2,
+h3 {
+    text-transform: uppercase;
+}
+
 /* base */
 
 /* body {
