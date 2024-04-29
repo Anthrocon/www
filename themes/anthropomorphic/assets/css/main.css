@@ -17,6 +17,12 @@ h3 {
     text-transform: uppercase;
 }
 
+@media (min-width: 768px) {
+    .featured {
+        grid-template-columns: repeat(auto-fit, minmax(max(calc(33% - 2 * var(--pico-grid-column-gap)), 18rem), 1fr));
+    }
+}
+
 /* base */
 
 /* body {

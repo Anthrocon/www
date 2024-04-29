@@ -6,10 +6,15 @@
     {{ .Content }}
   </section>
   <hr>
-  <div class="grid">
-    {{ range first 4 site.RegularPages }}
+  <div style="text-align: center;">
+    <h2>Recent news</h2>
+  </div>
+  <div class="grid featured">
+    {{ range first 6 site.RegularPages }}
     <article>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      <header>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </header>
       <p>{{ .Summary | truncate 150 }}</p>
       <footer>
         {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
@@ -19,17 +24,7 @@
     </article>
     {{ end }}
   </div>
-  <div class="grid">
-    {{ range first 4 (after 4 site.RegularPages) }}
-    <article>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      <p>{{ .Summary | truncate 150 }}</p>
-      <footer>
-        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-        {{ $dateHuman := .Date | time.Format ":date_long" }}
-        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-      </footer>
-    </article>
-    {{ end }}
+  <div style="text-align: right;">
+    <a href="/news">Read more Recent News</a>
   </div>
 {{ end }}
