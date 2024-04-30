@@ -23,6 +23,19 @@ h3 {
     }
 }
 
+.grid > article {
+    display: flex;
+    flex-direction: column;
+}
+
+.grid > article > p:last-of-type {
+    flex: 1;
+}
+
+.grid > article > footer {
+    margin-top: 0;
+}
+
 /* base */
 
 /* body {
