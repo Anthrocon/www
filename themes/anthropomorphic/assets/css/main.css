@@ -50,40 +50,6 @@ body > header nav li [role=button] {
     margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
 }
 
-/* base */
-
-/* body {
-    background-color: black;
-} */
-
-/* layout */
-
-/* nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 2rem;
-    background-color: black;
-} */
-
-/* nav > ul > a:nth-child(1) > img { 
-    height: 6.66rem;
-    width: auto;
-} */
-
-/* module */
-
-
-/* state */
-
-
-/* theme */
-
-/* a {
-    color: #05e1b9;
-} */
-
 footer { 
     text-align: center;
 }
