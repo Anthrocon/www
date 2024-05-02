@@ -1,6 +1,7 @@
 :root {
     --pico-font-family-sans-serif: "Poppins", sans-serif, var(--pico-font-family-emoji);
     --pico-font-family: var(--pico-font-family-sans-serif);
+    --banner-height: 600px;
 }
 
 h1,
@@ -54,25 +55,28 @@ body > header nav li [role=button] {
     margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
 }
 
+.banner {
+    height: var(--banner-height);
+    margin-top: calc(0rem - var(--pico-block-spacing-vertical));
+    margin-bottom: var(--pico-block-spacing-vertical);
+}
+
+.banner div {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: var(--banner-height);
+    overflow: hidden;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 footer { 
     text-align: center;
-}
-
-main section header {
-    display: flex;
-    position: relative;
-    margin-top: -1rem;
-    margin-bottom: 3rem;
-    padding: 0;
-    width: 100vw;
-    max-height: 520px;
-    left: calc(-50vw + 50%);
-    overflow-y: hidden;
-    align-items: center;
-}
-
-main section header img {
-    width: 100%;
 }
 
 .grid div {

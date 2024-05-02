@@ -1,7 +1,13 @@
 {{ define "main" }}
   <section>
     <header>
-      <img src="AC_2022_group+photo_3000px_dark.jpg" alt="">
+      {{- with .Resources.Get .Params.banner }}
+      <div class="banner">
+        <div>
+          <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
+        </div>
+      </div>
+      {{- end }}
     </header>
     {{ .Content }}
   </section>
