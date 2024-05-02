@@ -46,6 +46,10 @@ body > header {
     color: var(--pico-color);
 }
 
+body > header nav {
+    white-space: nowrap;
+}
+
 body > header nav li [role=button] {
     margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
 }
