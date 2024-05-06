@@ -84,6 +84,11 @@ body > footer {
     color: var(--pico-color);
 }
 
+.social {
+    font-size: 2em;
+    line-height: 0.03125em;
+}
+
 .grid div {
     container-type: inline-size;
 }
