@@ -1,6 +1,6 @@
 :root {
     --pico-font-family-sans-serif: "Poppins", sans-serif, var(--pico-font-family-emoji);
-    --pico-font-family: var(--pico-font-family-sans-serif);
+    --pico-block-spacing-vertical: calc(1.5 * var(--pico-spacing));
     --banner-height: 600px;
 }
 
@@ -16,6 +16,40 @@ h6 {
 h2,
 h3 {
     text-transform: uppercase;
+}
+
+h1 {
+    --pico-line-height: 1.375;
+}
+
+h2 {
+    --pico-line-height: 1.45;
+}
+
+h3 {
+    --pico-line-height: 1.525;
+}
+
+h4 {
+    --pico-line-height: 1.6;
+}
+
+h5 {
+    --pico-line-height: 1.675;
+}
+
+h6 {
+    --pico-line-height: 1.75;
+}
+
+hr {
+    margin: calc(2.5 * var(--pico-typography-spacing-vertical)) 0;
+    border-top-width: 4px;
+}
+
+details + hr {
+    margin: calc(1.5 * var(--pico-typography-spacing-vertical)) 0;
+    border-top-width: 1.6px;
 }
 
 @media (min-width: 768px) {
