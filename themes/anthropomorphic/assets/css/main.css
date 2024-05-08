@@ -118,6 +118,11 @@ body > footer {
     color: var(--pico-color);
 }
 
+footer nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .social {
     font-size: 2em;
     line-height: 0.03125em;
