@@ -1,35 +1,36 @@
 {{ define "main" }}
   <section>
     <header>
-      <img src="AC_2022_group+photo_3000px_dark.jpg" alt="">
+      {{- with .Resources.Get .Params.banner }}
+      <div class="banner">
+        <div>
+          <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
+        </div>
+      </div>
+      {{- end }}
     </header>
     {{ .Content }}
-    <hr>
-    <div class="grid">
-      {{ range first 4 site.RegularPages }}
-      <article>
-        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-        <p>{{ .Summary | truncate 150 }}</p>
-        <footer>
-          {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-          {{ $dateHuman := .Date | time.Format ":date_long" }}
-          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-        </footer>
-      </article>
-      {{ end }}
-    </div>
-    <div class="grid">
-      {{ range first 4 (after 4 site.RegularPages) }}
-      <article>
-        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-        <p>{{ .Summary | truncate 150 }}</p>
-        <footer>
-          {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-          {{ $dateHuman := .Date | time.Format ":date_long" }}
-          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-        </footer>
-      </article>
-      {{ end }}
-    </div>
   </section>
+  <hr>
+  <div style="text-align: center;">
+    <h2>Recent news</h2>
+  </div>
+  <div class="grid featured">
+    {{ range first 6 site.RegularPages }}
+    <article>
+      <header>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </header>
+      <p>{{ .Summary | truncate 150 }}</p>
+      <footer>
+        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+        {{ $dateHuman := .Date | time.Format ":date_long" }}
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      </footer>
+    </article>
+    {{ end }}
+  </div>
+  <div style="text-align: right;">
+    <a href="/news">Read more Recent News</a>
+  </div>
 {{ end }}

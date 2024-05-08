@@ -7,6 +7,6 @@
   Link external URL.
 */}}
 
-<a href="{{ .Get "href" }}">
-  <button>{{- .Inner | markdownify -}}</button>
+<a href="{{ .Get "href" }}" role="button">
+  {{- .Inner | markdownify -}}
 </a>

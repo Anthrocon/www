@@ -1,10 +1,23 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <section>
+    <header>
+      {{- with .Resources.Get .Params.banner }}
+      <div class="banner">
+        <div>
+          <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
+        </div>
+      </div>
+      {{- end }}
+      <hgroup>
+        <h1>{{ .Title }}</h1>
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+        {{ $dateHuman := .Date | time.Format ":date_long" }}
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      </hgroup>
+    </header>
 
-  {{ .Content }}
+    {{ .Content }}
+  </section>
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

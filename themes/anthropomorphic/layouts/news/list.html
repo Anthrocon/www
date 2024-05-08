@@ -1,6 +1,17 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  <section>
+    <header>
+      {{- with .Resources.Get .Params.banner }}
+      <div class="banner">
+        <div>
+          <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
+        </div>
+      </div>
+      {{- end }}
+      <h1>{{ .Title }}</h1>
+    </header>
+    {{ .Content }}
+  </section>
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
