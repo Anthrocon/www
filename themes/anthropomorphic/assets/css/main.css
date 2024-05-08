@@ -118,9 +118,23 @@ body > footer {
     color: var(--pico-color);
 }
 
+footer nav {
+    justify-content: center;
+}
+
 footer nav ul {
     flex-wrap: wrap;
     justify-content: center;
+}
+
+footer nav a:not([role=button]) {
+    --pico-color: var(--pico-contrast);
+    --pico-underline: var(--pico-contrast-underline);
+}
+
+footer nav a:not([role=button]):is(:hover, :active, :focus) {
+    --pico-color: var(--pico-contrast-hover);
+    --pico-underline: var(--pico-contrast-hover-underline);
 }
 
 .social {
