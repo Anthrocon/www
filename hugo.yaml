@@ -10,7 +10,6 @@ frontmatter:
   date:
     - ":filename"
     - ":default"
-    - ":git"
 
   lastmod:
     - "lastmod"
