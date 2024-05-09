@@ -1,6 +1,6 @@
 baseURL: "/"
 cascade:
-  _build:
+  build:
     publishResources: false
 
 copyright: "Anthrocon Inc"
@@ -8,6 +8,7 @@ disableHugoGeneratorInject: true
 enableRobotsTXT: true
 frontmatter:
   date:
+    - "date"
     - ":filename"
     - ":default"
 
@@ -35,3 +36,4 @@ theme: "anthropomorphic"
 timeout: "600s"
 timeZone: "America/New_York"
 title: "Anthrocon 2024: AnthroCoaster - July 4-7, 2024"
+titleCaseStyle: "chicago"

@@ -13,7 +13,9 @@ build:
 - [Telegram Announcements](https://t.me/anthrocon)
 - [Privacy Policy](/privacy-policy)
 - [Contact Us](/contact)
+
 </nav>
+
 <nav class="social">
 
 - [<i class="fa-brands fa-x-twitter"></i>](https://twitter.com/Anthrocon)
@@ -22,4 +24,5 @@ build:
 - [<i class="fa-brands fa-telegram"></i>](https://telegram.me/Anthrocon)
 - [<i class="fa-brands fa-flickr"></i>](https://www.flickr.com/anthrocon)
 - [<i class="fa-brands fa-discord"></i>](https://discord.com/channels/248272223868157954/249930108922626050/1212257650314584065)
+
 </nav>
