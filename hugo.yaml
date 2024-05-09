@@ -32,6 +32,16 @@ markup:
     renderer:
       unsafe: true
 
+privacy:
+  twitter:
+    enableDNT: true
+
+  vimeo:
+    enableDNT: true
+
+  youtube:
+    privacyEnhanced: true
+
 theme: "anthropomorphic"
 timeout: "600s"
 timeZone: "America/New_York"
