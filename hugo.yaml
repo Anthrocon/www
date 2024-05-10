@@ -32,6 +32,7 @@ markup:
     renderer:
       unsafe: true
 
+pluralizeListTitles: false
 privacy:
   twitter:
     enableDNT: true
