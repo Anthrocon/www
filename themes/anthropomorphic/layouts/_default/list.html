@@ -12,8 +12,5 @@
     </header>
     {{ .Content }}
   </section>
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

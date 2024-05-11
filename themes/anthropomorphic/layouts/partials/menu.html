@@ -1,6 +1,6 @@
 <ul>
-  {{- range where site.Sections.ByWeight "LinkTitle" "ne" "" }}
-  <li><a class="contrast" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  {{- range site.Sections.ByWeight }}
+  <li><a class="contrast" href="{{ with index .Pages.ByWeight 0 }}{{ .RelPermalink }}{{ end }}">{{ .File.ContentBaseName }}</a>
     {{- with .Pages.ByWeight }}
     <ul>
       {{- range where . "LinkTitle" "ne" "" }}
