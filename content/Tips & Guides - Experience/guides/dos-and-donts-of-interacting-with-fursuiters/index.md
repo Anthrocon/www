@@ -1,5 +1,5 @@
 ---
-title: "Do &#39;s and don &#39;ts of interacting with fursuiters"
+title: "Do's and don'ts of interacting with fursuiters"
 author: "Kijani Lion"
 weight: 0
 

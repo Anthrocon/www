@@ -1,5 +1,5 @@
 ---
-title: "Things you&#39;ll want to pack for Anthrocon"
+title: "Things you'll want to pack for Anthrocon"
 author: "Ronnie Noodles"
 weight: 0
 

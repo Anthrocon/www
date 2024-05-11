@@ -1,5 +1,5 @@
 ---
-title: "What Is &quot;Furry &quot;?"
+title: "What Is \"Furry\"?"
 weight: 0
 
 banner: "2023+Nightdragon+AC+180.jpg"
