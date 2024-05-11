@@ -9,7 +9,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-{{< center >}}#Accessibility at Anthrocon{{< /center >}}
+{{< center >}}# Accessibility at Anthrocon{{< /center >}}
 
 {{< center >}}Our convention strives to provide options and services to help improve your experience and create an inclusive space for all.{{< /center >}}
 
