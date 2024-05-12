@@ -314,6 +314,8 @@ Located just across the street from the Convention Center, this is Anthrocon's m
 [**Learn more about The Westin Pittsburgh**](https://www.marriott.com/hotels/travel/pitwi-the-westin-pittsburgh/)
 {{< /columns >}}
 
+***
+
 {{< columns "33%" >}}
 {{< img src="the-courtyard-by-marriott-pittsburgh.png" alt="A picture of the exterior of the Courtyard Marriott Pittsburgh." hint="photo" >}}
 
