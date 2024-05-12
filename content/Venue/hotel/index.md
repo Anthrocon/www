@@ -157,6 +157,8 @@ The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy es
 {{< columns "33%" >}}
 {{< img src="wyndham-grand-pittsburgh-downtown.jpg" hint="photo" >}}
 
+<--->
+
 ### The Wyndham Grand Pittsburgh Downtown Hotel
 
 The Wyndham Grand Pittsburgh Downtown Hotel is located where Pittsburgh's famous three rivers meet and where the energy is alive.
