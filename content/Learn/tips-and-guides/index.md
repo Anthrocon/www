@@ -130,7 +130,7 @@ If your kid (or your parent) is bringing you to your first Anthrocon, there are 
 
 Learn some tips on how to prepare for the summer weather in the Steel City, which can catch fursuiters off-guard in the heat.
 
-(Photographer: Kavaeric)
+**(Photographer: Kavaeric)**
 {{< /columns >}}
 
 {{< columns "42%" >}}
