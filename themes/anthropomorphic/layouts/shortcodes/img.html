@@ -1,92 +1,204 @@
 {{/*
-	Hugo shortcode to generate a responsive image source set and HTML picture/figure element.
+    Generate a responsive image source set and HTML figure/picture element.
 
-	src
-		Required. File location of image relative to page bundle or assets/images/.
+    src
+        Required. File location of image relative to page bundle or /assets/images/.
 
-	alt
-		Text img alt tag.
+    alt
+        img alt tag.
 
-	hint
-		One of drawing, icon, photo, picture, or text. Pre-defined WebP encoding parameters.
+    float
+        One of none, left, or right. Allow text to wrap around.
 
-	filter
-		Additional image encoding parameters.
+    hint
+        One of drawing, icon, photo, picture, or text. Pre-defined WebP processing parameters.
 
-	link
-		URL for image link.
+    filter
+        Additional image processing parameters.
 
-	caption
-		Markdown text appears centered below image.
+    link
+        URL for image link.
 
-	attr
-		Markdown text appears centered below image after caption.
+    caption
+        Markdown appears below image.
 
-	attrlink
-		URL for attr link.
+    attr
+        Markdown image attribution appears below image after caption.
+
+    attrlink
+        URL for attr link.
 */}}
 
-{{- $resWidths := slice -}}
-{{- if hugo.IsProduction }}
-	{{- $resWidths = slice "240" "480" "720" "960" "1200" "1440" "1680" "1920" "2160" "2400" "2640" "2880" "3120" "3360" "3600" "3840" -}}
+{{- $cssBreaks := slice 1536 1280 1024 768 576 }}
+{{- $cssContainers := slice 1450 1200 950 700 510 576 }}
+{{- $cssScales := slice 1.0 2.0 }}
+{{- $cssColBreak := 768 }}
+{{- $widths := slice 240 480 720 960 1200 1440 1680 1920 2160 2400 2640 2880 3120 3360 3600 3840 }}
+{{- $resCull := 0.85 }}
+
+{{- $src := "" }}
+{{- $alt := "" }}
+{{- $fClass := "" }}
+{{- $hint := "" }}
+{{- $filter := "" }}
+{{- $link := "" }}
+{{- $caption := "" }}
+{{- $attr := "" }}
+{{- $attrlink := "" }}
+{{- if .IsNamedParams }}
+    {{- $src = .Page.Resources.Get (.Get "src") }}
+    {{- if not $src }}
+        {{- $src = resources.Get (printf "images/%s" (.Get "src")) }}
+    {{- end }}
+
+    {{- $alt = .Get "alt" }}
+
+    {{- if eq (.Get "float") "left" }}
+        {{- $fClass = "float-left" }}
+    {{- else if eq (.Get "float") "right" }}
+        {{- $fClass = "float-right" }}
+    {{- end }}
+
+    {{- with .Get "hint" }}
+        {{- $hint = printf " %s" . }}
+    {{- end }}
+
+    {{- with .Get "filter" }}
+        {{- $filter = printf " %s" . }}
+    {{- end }}
+
+    {{- $link = .Get "link" }}
+
+    {{- $caption = .Get "caption" }}
+
+    {{- $attr = .Get "attr" }}
+
+    {{- $attrlink = .Get "attrlink" }}
+{{- else }}
+    {{- $src = .Page.Resources.Get (.Get 0) }}
+    {{- if not $src }}
+        {{- $src = resources.Get (printf "images/%s" (.Get 0)) }}
+    {{- end }}
+
+    {{- $alt = .Get 1 }}
 {{- end }}
 
-{{- $cssWidth := "1130" -}}
+{{- $htmlSizes := "" }}
+{{- with .Parent }}
+    {{- if eq .Name "columns" }}
+        {{- $cssScales = slice 0.5 | append $cssScales }}
 
-{{- $src := .Page.Resources.GetMatch (.Get "src") -}}
-{{- if not $src -}}
-	{{- $src = resources.Get (printf "images/%s" (.Get "src")) -}}
+        {{- range $k, $e := $cssBreaks }}
+            {{- $w := 0 }}
+            {{- if ge . $cssColBreak }}
+                {{- $w = div (index $cssContainers $k) 2.0 | math.Ceil | int }}
+            {{- else }}
+                {{- $w = index $cssContainers $k }}
+            {{- end }}
+
+            {{- $htmlSizes = printf "%s(min-width: %dpx) %dpx, " $htmlSizes . $w }}
+        {{- end }}
+    {{- end }}
+{{- end }}
+
+{{- if not $htmlSizes }}
+    {{- if $fClass }}
+        {{- $cssScales = slice 0.4 | append $cssScales }}
+
+        {{- range $k, $e := $cssBreaks }}
+            {{- $w := 0 }}
+            {{- if ge . $cssColBreak }}
+                {{- $w = mul (index $cssContainers $k) 0.4 | math.Ceil | int }}
+            {{- else }}
+                {{- $w = index $cssContainers $k }}
+            {{- end }}
+
+            {{- $htmlSizes = printf "%s(min-width: %dpx) %dpx, " $htmlSizes . $w }}
+        {{- end }}
+    {{- end }}
+{{- end }}
+
+{{- if not $htmlSizes }}
+    {{- range $k, $e := $cssBreaks }}
+        {{- $htmlSizes = printf "%s(min-width: %dpx) %dpx, " $htmlSizes . (index $cssContainers $k) }}
+    {{- end }}
+{{- end }}
+
+{{- $htmlSizes = printf "%s100vw" $htmlSizes }}
+
+{{- $resWidths := slice }}
+{{- if hugo.IsProduction }}
+    {{- range $c := $cssContainers }}
+        {{- range $s := $cssScales }}
+            {{- $widths = $widths | append (mul $c $s | math.Ceil | int) }}
+        {{- end }}
+    {{- end }}
+
+    {{- $widths = sort $widths "value" "desc" }}
+
+    {{- $widthsCull := slice $src.Width }}
+    {{- range $k, $e := $widths }}
+        {{- if lt . (mul (index $widthsCull (sub (len $widthsCull) 1)) $resCull) }}
+            {{- $widthsCull = $widthsCull | append . }}
+        {{- end }}
+    {{- end }}
+
+    {{- $widthsCull = $widthsCull | sort }}
+
+    {{- range $widthsCull }}
+        {{- $resWidths = $resWidths | append (string .) }}
+    {{- end }}
+{{- else }}
+    {{- $filter = " NearestNeighbor" }}
+{{- end }}
+
+{{- $lqip := $src.Process (printf "resize 24x jpg%s" $filter) }}
+{{- $lqipB64 := $lqip.Content | base64Encode }}
+{{- $lqipDiv := printf "background-image: url(data:image/jpeg;base64,%s);" $lqipB64 }}
+
+{{- if or $caption $attr }}
+<figure{{ with $fClass }} class="{{ . }}"{{ end }}>
+    <div class="lqip" style="{{ $lqipDiv | safeCSS }}">
+{{- else }}
+<div class="lqip{{ with $fClass }} {{ . }}{{ end }}" style="{{ $lqipDiv | safeCSS }}">
+{{- end }}
+        {{- with $link }}
+        <a href="{{ . }}">
+        {{- end }}
+            <picture>
+                <source type="image/webp" srcset="
+                    {{- range $k, $e := $resWidths }}
+                        {{- if ge $src.Width . }}
+                            {{- if $k }}, {{ end }}
+                            {{- ($src.Process (printf "resize %sx webp%s%s" . $hint $filter)).RelPermalink }} {{ . }}w
+                        {{- end }}
+                    {{- end }}" sizes="{{ $htmlSizes }}">
+                <source type="image/jpeg" srcset="
+                    {{- range $k, $e := $resWidths }}
+                        {{- if ge $src.Width . }}
+                            {{- if $k }}, {{ end }}
+                            {{- ($src.Process (printf "resize %sx jpg%s" . $filter)).RelPermalink }} {{ . }}w
+                        {{- end }}
+                    {{- end }}" sizes="{{ $htmlSizes }}">
+                <img src="
+                    {{- ($src.Process (printf "resize %dx jpg%s" (index $cssContainers 0) $filter)).RelPermalink }}" alt="
+                    {{- with $alt }}
+                        {{- . }}
+                    {{- else }}
+                        {{- $caption | markdownify | plainify }}
+                    {{- end }}" width="{{ $src.Width }}" height="{{ $src.Height }}">
+            </picture>
+        {{- if $link }}
+        </a>
+        {{- end }}
+    </div>
+{{- if or $caption $attr }}
+    <figcaption>
+        {{- $caption | markdownify }}
+        {{- with $attr }} — {{ with $attrlink }}<a href="{{ . }}">{{ end }}
+            {{- . | markdownify }}
+            {{- if $attrlink }}</a>{{ end }}
+        {{- end -}}
+    </figcaption>
+</figure>
 {{- end -}}
-
-{{- $hint := "" -}}
-{{- with .Get "hint" -}}
-	{{- $hint = printf " %s" . -}}
-{{- end -}}
-{{- $filter := "" -}}
-{{- with .Get "filter" -}}
-	{{- $filter = printf " %s" . -}}
-{{- end -}}
-
-{{- $lqipBin := $src.Resize (printf "16x jpg%s" $filter) -}}
-{{- $lqipB64 := $lqipBin.Content | base64Encode -}}
-{{- $divStyle := printf "background-image: url(data:image/jpeg;base64,%s);" $lqipB64 -}}
-
-{{- if or (.Get "caption") (.Get "attr") }}<figure>{{ end }}
-	<div class="lqip" style="{{ $divStyle | safeCSS }}">
-		{{ with .Get "link" }}<a href="{{ . }}">{{ end }}
-			<picture>
-				<source type="image/webp" srcset="
-					{{- with $resWidths -}}
-						{{- range $i, $e := . -}}
-							{{- if ge $src.Width . -}}
-								{{- if $i }}, {{ end -}}
-								{{- ($src.Resize (printf "%sx webp%s%s" . $hint $filter)).RelPermalink }} {{ . }}w
-							{{- end -}}
-						{{- end -}}
-					{{- end }}" sizes="(min-width: {{ $cssWidth }}px) {{ $cssWidth }}px, 100vw">
-				<source type="image/jpeg" srcset="
-					{{- with $resWidths -}}
-						{{- range $i, $e := . -}}
-							{{- if ge $src.Width . -}}
-								{{- if $i }}, {{ end -}}
-								{{- ($src.Resize (printf "%sx jpg%s" . $filter)).RelPermalink }} {{ . }}w
-							{{- end -}}
-						{{- end -}}
-					{{- end }}" sizes="(min-width: {{ $cssWidth }}px) {{ $cssWidth }}px, 100vw">
-				<img class="h-auto" src="
-					{{- ($src.Resize (printf "%sx jpg%s" $cssWidth $filter)).RelPermalink }}" alt="
-					{{- with .Get "alt" -}}
-						{{- . -}}
-					{{- else -}}
-						{{- .Get "caption" | markdownify | plainify -}}
-					{{- end }}" width="{{ $src.Width }}" height="{{ $src.Height }}">
-			</picture>
-		{{ if .Get "link" }}</a>{{ end }}
-	</div>
-	{{ if or (.Get "caption") (.Get "attr") }}<figcaption class="center">
-		{{- .Get "caption" | markdownify -}}
-		{{- if .Get "attr" }} — {{ with .Get "attrlink" }}<a href="{{ . }}">{{ end -}}
-			{{- .Get "attr" | markdownify -}}
-		{{- if .Get "attrlink" }}</a>{{ end }}{{ end -}}
-	</figcaption>
-</figure>{{ end -}}

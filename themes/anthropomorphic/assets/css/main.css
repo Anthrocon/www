@@ -53,9 +53,32 @@ details + hr {
 }
 
 @media (min-width: 768px) {
+    .float-left {
+        width: 40%;
+        float: left;
+        margin-right: var(--pico-spacing);
+        margin-bottom: var(--pico-spacing);
+    }
+
+    .float-right {
+        width: 40%;
+        float: right;
+        margin-bottom: var(--pico-spacing);
+        margin-left: var(--pico-spacing);
+    }
+
     .featured {
         grid-template-columns: repeat(auto-fit, minmax(max(calc(33% - 2 * var(--pico-grid-column-gap)), 18rem), 1fr));
     }
+}
+
+.lqip {
+    background-size: cover;
+    background-position: center;
+}
+
+.grid img {
+    width: 100%;
 }
 
 .grid > article {
