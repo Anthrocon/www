@@ -73,8 +73,13 @@ details + hr {
 }
 
 .lqip {
+    width: fit-content;
     background-size: cover;
     background-position: center;
+}
+
+.grid .lqip {
+    width: initial;
 }
 
 .grid img {
