@@ -177,7 +177,6 @@ footer nav a:not([role=button]):is(:hover, :active, :focus) {
 
     .nav-section {
         width: 16rem;
-        margin-top: var(--pico-typography-spacing-vertical);
         margin-right: var(--pico-grid-column-gap);
     }
 }
