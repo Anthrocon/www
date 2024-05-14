@@ -1,23 +1,34 @@
 {{ define "main" }}
-  <section>
-    <header>
-      {{- with .Resources.Get .Params.banner }}
-      <div class="banner">
-        <div>
-          <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
-        </div>
-      </div>
+<header>
+  {{- with .Resources.Get .Params.banner }}
+  <div class="banner">
+    <div class="lqip">
+      <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
+    </div>
+    {{- with $.Params.banner_title }}
+    <div>
+      <h1>{{ . }}</h1>
+      {{- with $.Params.banner_caption }}
+      {{ . | $.RenderString (dict "display" "block") }}
       {{- end }}
-      <hgroup>
-        <h1>{{ .Title }}</h1>
-
-        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-        {{ $dateHuman := .Date | time.Format ":date_long" }}
-        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-      </hgroup>
-    </header>
-
-    {{ .Content }}
-  </section>
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-{{ end }}
+      {{- with $.Params.banner_button }}
+      <p><a role="button" href="{{ $.Params.banner_button_link }}">{{ . }}</a></p>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+  {{- end }}
+</header>
+<section>
+  <header>
+    <hgroup>
+      <h1>{{ .Title }}</h1>
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format ":date_long" }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </hgroup>
+  </header>
+  {{ .Content }}
+</section>
+{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{- end -}}
