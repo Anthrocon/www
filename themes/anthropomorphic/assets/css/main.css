@@ -165,6 +165,23 @@ footer nav a:not([role=button]):is(:hover, :active, :focus) {
     --pico-underline: var(--pico-contrast-hover-underline);
 }
 
+.main-section {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 1024px) {
+    .main-section {
+        flex-direction: row;
+    }
+
+    .nav-section {
+        width: 16rem;
+        margin-top: var(--pico-typography-spacing-vertical);
+        margin-right: var(--pico-grid-column-gap);
+    }
+}
+
 .social {
     font-size: 2em;
     line-height: 0.03125em;

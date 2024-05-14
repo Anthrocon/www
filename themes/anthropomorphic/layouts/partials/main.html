@@ -1,0 +1,19 @@
+<header>
+    {{- with .Resources.Get .Params.banner }}
+    <div class="banner">
+        <div>
+            <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
+        </div>
+    </div>
+    {{- end }}
+    <h1>{{ .Title }}</h1>
+</header>
+<div class="main-section">
+    {{- partial "section.html" }}
+    <div style="flex: 1;">
+        <section>
+            {{ .Content }}
+        </section>
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    </div>
+</div>

@@ -1,16 +1,3 @@
 {{ define "main" }}
-  <section>
-    <header>
-      {{- with .Resources.Get .Params.banner }}
-      <div class="banner">
-        <div>
-          <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
-        </div>
-      </div>
-      {{- end }}
-      <h1>{{ .Title }}</h1>
-    </header>
-    {{ .Content }}
-  </section>
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-{{ end }}
+    {{- partial "main.html" }}
+{{- end -}}
