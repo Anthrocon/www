@@ -9,7 +9,7 @@
     <h1>{{ .Title }}</h1>
 </header>
 <div class="main-section">
-    {{- partial "section.html" }}
+    {{- partial "section.html" . }}
     <div style="flex: 1;">
         <section>
             {{ .Content }}
