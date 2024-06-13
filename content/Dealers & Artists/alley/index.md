@@ -9,7 +9,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-{{< center >}}#Artists Alley{{< /center >}}
+{{< center >}}# Artists Alley{{< /center >}}
 
 {{< center >}}Each year, we set aside a place for artists to showcase their talents and artistic wares. Known as the Artists Alley, this area is available to artists on a lottery basis.{{< /center >}}
 

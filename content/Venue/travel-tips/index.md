@@ -9,7 +9,7 @@ banner_author: "Caro"
 banner_url: ""
 ---
 
-{{< center >}}#Ways to travel to Anthrocon{{< /center >}}
+{{< center >}}# Ways to travel to Anthrocon{{< /center >}}
 
 {{< center >}}Whether you’re a Pittsburgh local or flying in from around the world, there are several ways you can get to our city safely and smoothly. The event is held primarily in the David L. Lawrence Convention Center, but you can also navigate to The Westin Pittsburgh (located at 1000 Penn Ave) as a destination.{{< /center >}}
 

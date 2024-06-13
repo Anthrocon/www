@@ -157,6 +157,8 @@ The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy es
 {{< columns "33%" >}}
 {{< img src="wyndham-grand-pittsburgh-downtown.jpg" hint="photo" >}}
 
+<--->
+
 ### The Wyndham Grand Pittsburgh Downtown Hotel
 
 The Wyndham Grand Pittsburgh Downtown Hotel is located where Pittsburgh's famous three rivers meet and where the energy is alive.
@@ -311,6 +313,8 @@ Located just across the street from the Convention Center, this is Anthrocon's m
 
 [**Learn more about The Westin Pittsburgh**](https://www.marriott.com/hotels/travel/pitwi-the-westin-pittsburgh/)
 {{< /columns >}}
+
+***
 
 {{< columns "33%" >}}
 {{< img src="the-courtyard-by-marriott-pittsburgh.png" alt="A picture of the exterior of the Courtyard Marriott Pittsburgh." hint="photo" >}}

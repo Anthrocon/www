@@ -53,9 +53,37 @@ details + hr {
 }
 
 @media (min-width: 768px) {
+    .float-left {
+        width: 40%;
+        float: left;
+        margin-right: var(--pico-spacing);
+        margin-bottom: var(--pico-spacing);
+    }
+
+    .float-right {
+        width: 40%;
+        float: right;
+        margin-bottom: var(--pico-spacing);
+        margin-left: var(--pico-spacing);
+    }
+
     .featured {
         grid-template-columns: repeat(auto-fit, minmax(max(calc(33% - 2 * var(--pico-grid-column-gap)), 18rem), 1fr));
     }
+}
+
+.lqip {
+    width: fit-content;
+    background-size: cover;
+    background-position: center;
+}
+
+.grid .lqip {
+    width: initial;
+}
+
+.grid img {
+    width: 100%;
 }
 
 .grid > article {
@@ -95,7 +123,7 @@ body > header nav li [role=button] {
     margin-bottom: var(--pico-block-spacing-vertical);
 }
 
-.banner div {
+.banner .lqip {
     position: absolute;
     left: 0;
     width: 100%;
@@ -109,6 +137,19 @@ body > header nav li [role=button] {
     object-fit: cover;
 }
 
+.banner > :not(.lqip) {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.banner > :not(.lqip) h1,
+.banner > :not(.lqip) p {
+    color: white;
+}
+
 footer {
     text-align: center;
 }
@@ -116,6 +157,41 @@ footer {
 body > footer {
     background-color: var(--pico-background-color);
     color: var(--pico-color);
+}
+
+footer nav {
+    justify-content: center;
+}
+
+footer nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer nav a:not([role=button]) {
+    --pico-color: var(--pico-contrast);
+    --pico-underline: var(--pico-contrast-underline);
+}
+
+footer nav a:not([role=button]):is(:hover, :active, :focus) {
+    --pico-color: var(--pico-contrast-hover);
+    --pico-underline: var(--pico-contrast-hover-underline);
+}
+
+.main-section {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 1024px) {
+    .main-section {
+        flex-direction: row;
+    }
+
+    .nav-section {
+        width: 16rem;
+        margin-right: var(--pico-grid-column-gap);
+    }
 }
 
 .social {

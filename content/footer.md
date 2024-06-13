@@ -6,7 +6,6 @@ build:
 ---
 
 <nav>
-&nbsp;
 
 - [Standards of Conduct](/standards-of-conduct)
 - [Frequently Asked Questions](/faq)
@@ -15,10 +14,9 @@ build:
 - [Privacy Policy](/privacy-policy)
 - [Contact Us](/contact)
 
-&nbsp;
 </nav>
+
 <nav class="social">
-&nbsp;
 
 - [<i class="fa-brands fa-x-twitter"></i>](https://twitter.com/Anthrocon)
 - [<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/Anthrocon)
@@ -27,5 +25,4 @@ build:
 - [<i class="fa-brands fa-flickr"></i>](https://www.flickr.com/anthrocon)
 - [<i class="fa-brands fa-discord"></i>](https://discord.com/channels/248272223868157954/249930108922626050/1212257650314584065)
 
-&nbsp;
 </nav>

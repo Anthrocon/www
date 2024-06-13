@@ -1,6 +1,6 @@
 baseURL: "/"
 cascade:
-  _build:
+  build:
     publishResources: false
 
 copyright: "Anthrocon Inc"
@@ -8,9 +8,9 @@ disableHugoGeneratorInject: true
 enableRobotsTXT: true
 frontmatter:
   date:
+    - "date"
     - ":filename"
     - ":default"
-    - ":git"
 
   lastmod:
     - "lastmod"
@@ -32,7 +32,38 @@ markup:
     renderer:
       unsafe: true
 
+permalinks:
+  page:
+    registration: "/:sections[1:]/:slugorfilename/"
+    venue: "/:sections[1:]/:slugorfilename/"
+    events: "/:sections[1:]/:slugorfilename/"
+    dealers--artists: "/:sections[1:]/:slugorfilename/"
+    get-involved: "/:sections[1:]/:slugorfilename/"
+    learn: "/:sections[1:]/:slugorfilename/"
+    about: "/:sections[1:]/:slugorfilename/"
+
+  section:
+    registration: "/:sections[1:]/"
+    venue: "/:sections[1:]/"
+    events: "/:sections[1:]/"
+    dealers--artists: "/:sections[1:]/"
+    get-involved: "/:sections[1:]/"
+    learn: "/:sections[1:]/"
+    about: "/:sections[1:]/"
+
+pluralizeListTitles: false
+privacy:
+  twitter:
+    enableDNT: true
+
+  vimeo:
+    enableDNT: true
+
+  youtube:
+    privacyEnhanced: true
+
 theme: "anthropomorphic"
 timeout: "600s"
 timeZone: "America/New_York"
 title: "Anthrocon 2024: AnthroCoaster - July 4-7, 2024"
+titleCaseStyle: "chicago"

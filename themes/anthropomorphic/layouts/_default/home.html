@@ -1,36 +1,25 @@
 {{ define "main" }}
-  <section>
+{{- partial "main.html" . }}
+<hr>
+<div style="text-align: center;">
+  <h2>Recent news</h2>
+</div>
+<div class="grid featured">
+  {{ range first 6 site.RegularPages }}
+  <article>
     <header>
-      {{- with .Resources.Get .Params.banner }}
-      <div class="banner">
-        <div>
-          <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
-        </div>
-      </div>
-      {{- end }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     </header>
-    {{ .Content }}
-  </section>
-  <hr>
-  <div style="text-align: center;">
-    <h2>Recent news</h2>
-  </div>
-  <div class="grid featured">
-    {{ range first 6 site.RegularPages }}
-    <article>
-      <header>
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-      </header>
-      <p>{{ .Summary | truncate 150 }}</p>
-      <footer>
-        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-        {{ $dateHuman := .Date | time.Format ":date_long" }}
-        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-      </footer>
-    </article>
-    {{ end }}
-  </div>
-  <div style="text-align: right;">
-    <a href="/news">Read more Recent News</a>
-  </div>
-{{ end }}
+    <p>{{ .Summary | truncate 150 }}</p>
+    <footer>
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format ":date_long" }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </footer>
+  </article>
+  {{ end }}
+</div>
+<div style="text-align: right;">
+  <a href="/news">Read more Recent News</a>
+</div>
+{{- end -}}

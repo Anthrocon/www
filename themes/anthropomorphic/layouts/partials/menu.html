@@ -1,51 +1,16 @@
-{{- /*
-  Renders a menu for the given menu ID.
-
-  @context {page} page The current page.
-  @context {string} menuID The menu ID.
-
-  @example: {{ partial "menu.html" (dict "menuID" "main" "page" .)
-}}
-*/}}
-{{- $page := .page }}
-{{- $menuID := .menuID }}
-
-{{- with index site.Menus $menuID }}
-  <ul>
-    {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-  </ul>
-{{- end }}
-
-{{- define "partials/inline/menu/walk.html" }}
-  {{- $page := .page }}
-  {{- $len := len .menuEntries }}
-  {{- range $index, $value := .menuEntries }}
-    {{- $attrs := dict "href" $value.URL }}
-    {{- if $page.IsMenuCurrent $value.Menu $value }}
-      {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
-    {{- else if $page.HasMenuCurrent $value.Menu $value }}
-      {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
-    {{- end }}
-    <li>
-      <a
-        {{- if eq (add $index 1) $len }}
-          role="button"
-        {{- else }}
-          class="contrast"
-        {{- end }}
-        {{- range $k, $v := $attrs }}
-          {{- with $v }}
-            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-          {{- end }}
-        {{- end -}}
-      >
-        {{ or (T .Identifier) .Name | safeHTML }}
-      </a>
-      {{- with .Children }}
-        <ul>
-          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-        </ul>
+<ul>
+  {{- range site.Sections.ByWeight }}
+  <li><a class="contrast" href="{{ with index .Pages.ByWeight 0 }}{{ .RelPermalink }}{{ end }}">{{ .File.ContentBaseName }}</a>
+    {{- with .Pages.ByWeight }}
+    <ul>
+      {{- range where . "LinkTitle" "ne" "" }}
+      <li><a class="contrast" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
-    </li>
+    </ul>
+    {{- end }}
+  </li>
   {{- end }}
-{{- end }}
+  {{- with site.GetPage "/news" }}
+  <li><a role="button" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  {{- end }}
+</ul>

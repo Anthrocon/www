@@ -1,5 +1,5 @@
 ---
-title: "Things you&#39;ll want to pack for Anthrocon"
+title: "Things you'll want to pack for Anthrocon"
 author: "Ronnie Noodles"
 weight: 0
 
@@ -10,7 +10,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-{{< center >}}#Things you’ll want to pack for Anthrocon{{< /center >}}
+{{< center >}}# Things you’ll want to pack for Anthrocon{{< /center >}}
 
 Packing for a furry convention can be like trying to navigate a complicated shopping list. Did you remember to pick up the water bottles? How many bars of soap do you really need? No matter how many times you think you’ve packed, there’s always a chance you could be missing something. Here’s a few helpful things to consider - consider it our handy packing guide!
 
