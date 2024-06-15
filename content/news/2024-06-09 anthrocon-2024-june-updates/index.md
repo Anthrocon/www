@@ -17,7 +17,7 @@ Time’s flown by us so quickly since the last time we had an update post here (
 
 As our community has witnessed at other furry conventions, the surge of attendance growth can result in some pretty evident challenges before and during the convention. We’re reaching some never-before-seen numbers with our 2024 membership, and with it, a great time to remind our community of how we can all help adapt to this growth!
 
-We’ll be sharing some insights and tips on how to make the best of this year’s Anthrocon not only for yourself, but for the entire furry community. We want to continue creating the best possible experiences for everyone with the community’s growth in mind. If you want to learn more, check out some of our newest articles on our [**Convention Tips &amp; Guides section**](/tips-and-guides).
+We’ll be sharing some insights and tips on how to make the best of this year’s Anthrocon not only for yourself, but for the entire furry community. We want to continue creating the best possible experiences for everyone with the community’s growth in mind. If you want to learn more, check out some of our newest articles on our [**Convention Tips & Guides section**](/tips-and-guides).
 
 ## Registration
 
@@ -71,7 +71,7 @@ Before you arrive, it’ll be good to know what kind of resources and things are
 
 **NEW FOR 2024!** This year, we’re excited to announce that we will be offering a paid locker service for attendees in partnership with Pop-up Lockers! For those that are travelling into the convention and want a place to store their belongings, including fursuit parts, this convenient option will be available on a daily or weekend basis at different price points.
 
-Have you checked out our [**Convention Tips &amp; Guides**](https://www.anthrocon.org/tips-and-guides)? If you’re headed to Anthrocon for the first time, or ANY convention for the first time, our staff writers and local contributors have tips to help make your convention experience as smooth and fun as it can be.
+Have you checked out our [**Convention Tips & Guides**](https://www.anthrocon.org/tips-and-guides)? If you’re headed to Anthrocon for the first time, or ANY convention for the first time, our staff writers and local contributors have tips to help make your convention experience as smooth and fun as it can be.
 
 ## VOLUNTEERING AND STAFFING
 
