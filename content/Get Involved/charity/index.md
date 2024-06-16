@@ -2,48 +2,87 @@
 title: "Charity"
 weight: 0
 
-banner: "_MG_2922.jpg"
+banner: "2023+Kavaeric+_DSC7804.jpg"
 banner_title: ""
 banner_caption: ""
-banner_author: "HawkPool"
-banner_url: ""
+banner_author: "Kavaeric"
+banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
 {{< center >}}# Charity{{< /center >}}
 
-{{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events.{{< /center >}}
+{{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
-{{< center >}}{{< button href="https://rabbit-wranglers.square.site" >}}Donate to charity{{< /button >}}{{< /center >}}
-
-{{< center >}}[**2023 Sponsored Charity**](#2023-sponsored-charity-rabbit-wranglers) - [**Charity Auction** **and Raffle**](#charity-auction-and-raffle) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[**202**](#2024-charity-gray-paws-sanctuary)[**4**](#2024-charity-gray-paws-sanctuary)[**Sponsored Charity**](#2024-charity-gray-paws-sanctuary) - [**Bucket Brigade**](#bucket-brigade) - [**Charity Auction**](#charity-auction-and-raffle) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
 
 ***
 
-{{< center >}}## 2023 Sponsored Charity: Rabbit Wranglers{{< /center >}}
+{{< center >}}## 2024 Charity: Gray Paws Sanctuary{{< /center >}}
 
-{{< img src="274921580_324641599702544_8546365176713337444_n.jpg" alt="The Rabbit Wranglers logo of a bunny silhouette." float="left" hint="drawing" >}}
+{{< center >}}***“To provide quality forever care to abandoned senior dogs”***{{< /center >}}
 
-**Rabbit Wranglers** is a Pittsburgh-based all-volunteer nonprofit organization. Their mission is to help abused, neglected and abandoned rabbits and educate the public to improve the lives of these companion animals.
+{{< img src="Gray+Paws+Logo+Sept+2014.jpg" float="left" hint="drawing" >}}
 
-- [**Rabbit Wranglers on Facebook**](https://www.facebook.com/RabbitWranglers/)
-- [**Rabbit Wranglers on Instagram**](https://www.instagram.com/rabbitwranglers/)
+This year, we’re delighted to be partnering with [**Gray Paws Sanctuary**](https://graypaws.org), a Pittsburgh-based 501©3 non-profit, fully volunteer organization dedicated to rescuing senior dogs.
 
-Since its inception, Rabbit Wranglers’ primary accomplishments include: rescuing abused, neglected and abandoned rabbits; assisting shelters with their high maintenance cases and overflow population; providing medical, hospice and behavior rabbits safe harbor and state of the art care; and finding them loving and permanent indoor homes. The organization has also been successful in educating the public about the unique nature and proper care of these intelligent companion animals. Additionally, Rabbit Wranglers has become a community resource by providing services or supplies that help negate the need for surrender, while also finding ways to capture abandoned rabbits.
+Most of the senior dogs rescued into sanctuary, or placed in Forever Foster Homes are from private owners in crisis. Gray Paws also sponsors dogs from local shelters, humane officers, animal control, and other partner rescues. Often times, dogs would be euthanized because of their age and veterinary care costs.
 
-In recent years, they have been heartened to extend these services not only in Pennsylvania and adjacent states, West Virginia, New York and Ohio, but also all the way to New Jersey, Florida, Missouri, Texas and Nevada. In 2021, Rabbit Wranglers took an active role in preventing the progression of the deadly Rabbit Hemorrhagic Disease in our region by educating our community about the threat and initiated low-cost clinics for vaccination services.
+{{< columns >}}
+{{< img src="20231216_113143.jpg" alt="20231216_113143.jpg" hint="picture" >}}
+
+<--->
+
+{{< img src="20240107_175016.jpg" alt="20240107_175016.jpg" hint="picture" >}}
+
+<--->
+
+{{< img src="image000000(4).jpg" alt="image000000(4).jpg" hint="picture" >}}
+
+<--->
+
+{{< img src="20231025_212000.jpg" alt="20231025_212000.jpg" hint="picture" >}}
+{{< /columns >}}
+
+Gray Paws is committed to providing the best quality of life for senior dogs with high quality care. When the time comes, they provide palliative and hospice care. With the help of our dedicated veterinary partners, Gray Paws lets senior dogs go to the “Rainbow Bridge” when they have lived the fullest life possible. Gray Paws will be using donation money to expand their endeavors in rescuing and rehoming senior dogs and providing lifetime care for their rescues, as well as support veterinary bills for additional senior dogs.
+
+{{< columns >}}
+{{< center >}}{{< button href="https://graypaws.org/" >}}Gray Paws website{{< /button >}}{{< /center >}}
+
+<--->
+
+{{< center >}}{{< button href="https://www.facebook.com/GrayPawsSanctuary/" >}}Gray Paws Facebook{{< /button >}}{{< /center >}}
+{{< /columns >}}
+
+***
+
+{{< center >}}## Bucket Brigade{{< /center >}}
+
+At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade - and we’d love you to be a part of it.
+
+{{< center >}}{{< button href="/charity-brigade" >}}Sign ups for bucket Brigade{{< /button >}}{{< /center >}}
 
 ***
 
 {{< center >}}## Charity Auction and Raffle{{< /center >}}
 
-The Anthrocon Charity Auction is an event on Sunday afternoon of the convention that offers items and products unique to the convention to bidders to raise money for a charity, chosen annually by the convention. The Raffle has the same purpose, but is a ticket-driven event over Friday and Saturday that accepts non-unique items and merchandise, with all winning ticket numbers presented during Sunday's Dealers Room hours. Higher value donations are sold at the auction. Lower value items are raffled at the charity's Dealers Room table.
+{{< columns >}}
+{{< img src="LUA_0745.jpg" hint="picture" attr="HokuloaLuau" attrlink="https://www.flickr.com/photos/hokuloaluau" >}}
+
+<--->
+
+The Anthrocon Charity Auction is an event on Sunday afternoon of the convention that offers items and products unique to the convention to bidders to raise money for a charity, chosen annually by the convention.
+{{< /columns >}}
+
+The Raffle has the same purpose, but is a ticket-driven event over Friday and Saturday that accepts non-unique items and merchandise, with all winning ticket numbers presented during Sunday's Dealers Room hours. Higher value donations are sold at the auction. Lower value items are raffled at the charity's Dealers Room table.
 
 - [**Charity Event Rules (Raffle and Auction)**](/charity-event-rules)
 - [**Charity Donation History**](/charity-event-history)
 
-### How do I participate in Anthrocon’s Live Charity Auction?
+### How do I Bid in Anthrocon’s Live Charity Auction?
 
-On Sunday of the convention, you’ll have the ability to participate in the live Charity Auction for items that are specifically presented by our auctioneer. Check the schedule on the [**Events page**](/events-panels) closer to the convention dates for the exact time of the auction.
+On Sunday of the convention, you’ll have the ability to participate as a bidder in the live Charity Auction for items that are specifically presented by our auctioneer. Check the schedule on the [**Events page**](/events-panels) closer to the convention dates for the exact time of the auction.
+
+### How do I donate items to the Charity Auction?
 
 Interested in donating to the Anthrocon Charity Auction or Raffle? Send an email to [**charity@anthrocon.org**](mailto:charity@anthrocon.org) stating what you are donating, your name, your preferred email address if it's different, and details on the donation (what is it, medium, artist/donor, etc.). This information is for approval purposes only - details should be provided with the required information card at the convention.
 
@@ -53,14 +92,14 @@ If you are donating an item (artwork, sculpture, animation cel, etc), it must be
 Additional information and more detailed rules can be found on the [**Charity Event Rules**](/charity-event-rules) page.
 {{< /details >}}
 
-**For 2023**: Donations to the Charity Auction must be submitted by **Friday, June 30th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
+**For 2024**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 
 ***
 
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
 {{< details "What's the deadline to make an item donation?" >}}
-**For 2023**: Donations to the Charity Auction must be submitted by **Friday, June 30th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
+**For 2024**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
 
 Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 {{< /details >}}

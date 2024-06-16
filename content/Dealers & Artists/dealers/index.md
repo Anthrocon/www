@@ -2,11 +2,11 @@
 title: "Dealers Room"
 weight: 0
 
-banner: "_dsc0077.jpg"
+banner: "2023+BlueHasia+Day+2-166.jpg"
 banner_title: ""
 banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+banner_author: "Blue Hasia"
+banner_url: ""
 ---
 
 {{< center >}}# Dealers Room{{< /center >}}
@@ -16,18 +16,20 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 {{< center >}}[**Important information**](#important-information-for-applying) - [**Table Pricing for 2024**](#table-pricing-for-2024) - [**Dealers Assistants**](#dealers-assistants){{< /center >}}
 
 {{< columns >}}
-### Dealers applications for Anthrocon 2024
+### Anthrocon 2024 Dealers Room List and Map
 
-Applications to vend at Anthrocon 2024 will be open from **October 15th at 11am Eastern Time** to **November 15th, 2023**. Reviews and acceptance or rejections will be finalized **by January 20th, 2024**. Apply using the button below.
+The 2024 Dealers List and Map are now available for viewing online. Check out where your favorite vendors will be located this year!
 
-If you are a Dealer’s Assistant, you must wait until your Dealer is approved before applying separately for a Dealer Assistant badge.
-
-{{< button href="https://anthrocon.regfox.com/anthroconreg" >}}Apply online{{< /button >}}
+{{< center >}}{{< button href="/dealers-list-2024" >}}View list and map{{< /button >}}{{< /center >}}
 
 <--->
 
 {{< img src="2023+Nightdragon+AC+218.jpg" alt="A vendor and a costumed customer performing a transaction in Anthrocon's Dealers Room." hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
 {{< /columns >}}
+
+### **Dealers applications for Anthrocon 2024**
+
+Applications to vend at Anthrocon 2024 will be open from **October 15th at 11am Eastern Time** to **November 15th, 2023**. Reviews and acceptance or rejections will be finalized **by January 20th, 2024**. If you are a Dealer’s Assistant, you must wait until your Dealer is approved before applying separately for a Dealer Assistant badge.
 
 ***
 
@@ -45,8 +47,6 @@ You must read and understand the [**Dealer Rules & Information Packet (DRIP)**](
 You will need your PA sales tax number (Revenue ID) to vend at Anthrocon. [**Click here to apply for a PA Sales Tax License**](https://mypath.pa.gov/_/). **Any application submitted that does not have a complete, valid PA Tax ID will not be eligible for curation until a the Tax ID has been emailed to the Anthrocon dealers staff at** [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org). This may result in your application being considered in later rounds of curation or placed on a waitlist; however, no application will be immediately rejected over a "Pending" Tax ID. It is the responsibility of the applying Dealer to submit a valid Tax ID.
 
 The passcode for RegFox for Dealers and Dealer Assistants is: **ACDealer2024**. This is case-sensitive; please enter it exactly.
-
-{{< button href="https://anthrocon.regfox.com/anthroconreg" >}}Apply online{{< /button >}}
 
 ## **WARNING: Unauthorized Service Providers**
 

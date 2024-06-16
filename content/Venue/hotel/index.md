@@ -31,10 +31,10 @@ Emails for the Anthrocon hotel reservation block will be sent to pre-registered 
 
 <--->
 
-{{< img src="2023+Nightdragon+AC+017.jpg" hint="photo" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
+{{< img src="2023+Nightdragon+AC+019.jpg" hint="photo" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
 {{< /columns >}}
 
-**Do NOT book through a hotel’s website if you want to get Anthrocon’s rates**. Reservations must be made through our booking link in order to get the convention rate - if you make a reservation outside of Anthrocon's hotel block, it cannot be transferred into Anthrocon’s block and will be ineligible for the discounted rate.
+**Do NOT book through a hotel’s website if you want to get Anthrocon’s rates (subject to availability)**. Reservations must be made through our booking link in order to get the convention rate - if you make a reservation outside of Anthrocon's hotel block, it cannot be transferred into Anthrocon’s block.
 
 - An email will be sent out to your registered email at the date/time listed above. If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. ***Anthrocon is not responsible for lost or undeliverable emails***. Check your spam or promotional folders if you do not receive the email at the listed time.
 - **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
@@ -72,7 +72,7 @@ If you have any suspicion about a room or roommate offer you receive, contact ou
 
 {{< center >}}## Hotel options{{< /center >}}
 
-These rates are exclusive to rooms booked in Anthrocon’s room block, which can only be accessed through a special link emailed to registered attendees. All nightly rates listed below are subject to applicable state and local taxes (approximately 14%), and there will be an additional hold of $50 to $100 per night at check-in as an incidentals or damages hold which will be released back to the cardholder upon checkout. Anthrocon provides shuttle service to all listed hotels outside the immediate area of the convention center.
+These rates are exclusive to rooms booked in Anthrocon’s room block (subject to availability), which can only be accessed through a special link emailed to registered attendees. All nightly rates listed below are subject to applicable state and local taxes (approximately 14%), and there will be an additional hold of $50 to $100 per night at check-in as an incidentals or damages hold which will be released back to the cardholder upon checkout. Anthrocon provides shuttle service to all listed hotels outside the immediate area of the convention center.
 
 {{< columns "33%" >}}
 {{< img src="marriott-city-center-pittsburgh.jpg" alt="A picture of the exterior of the Pittsburgh Marriott City Center" hint="photo" >}}
