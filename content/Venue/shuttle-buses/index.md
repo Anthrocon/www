@@ -24,7 +24,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM each scheduled
 
 {{< center >}}## Shuttle Routes And Schedules{{< /center >}}
 
-{{< center >}}Please note that the hotels below are confirmed to have shuttle service, but specific routes may be subject to change. Routes will be finalized by July 1st, 2024.{{< center >}}
+{{< center >}}Please note that the hotels below are confirmed to have shuttle service, but specific routes may be subject to change. Routes will be finalized by July 1st, 2024.{{< /center >}}
 
 {{< details "Arena District (Blue) - Cambria, Doubletree, Kimpton Hotel Monaco, Marriott City, Omni" >}}
 **Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
