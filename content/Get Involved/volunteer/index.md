@@ -15,16 +15,18 @@ banner_url: "https://www.randorn.com"
 
 {{< center >}}{{< button href="https://forms.gle/sDWWYA6z3vwYDaBD9" >}}Apply online{{< /button >}}{{< /center >}}
 
-{{< center >}}[**Open positions**](#) - [**Volunteer incentives**](#incentives-for-volunteering) - [**Contact volunteers team**](#contact-the-volunteers-team){{< /center >}}
+{{< center >}}[** Open positions**](#volunteer-positions) - [**Volunteer incentives**](#incentives-for-volunteering) - [**Contact volunteers team**](#contact-the-volunteers-team){{< /center >}}
+
+***
+
+{{< center >}}## Volunteer positions{{< /center >}}
 
 {{< columns >}}
 {{< img src="AC+2022-66.jpg" hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
 
 <--->
 
-**What kind of help does Anthrocon need?**
-
-Examples of at-convention volunteering could include:
+Some examples of at-convention volunteering could include:
 
 - Logistics and set-up/tear-down
 - Registration helpers
