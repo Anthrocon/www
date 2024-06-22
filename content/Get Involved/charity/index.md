@@ -46,7 +46,7 @@ Most of the senior dogs rescued into sanctuary, or placed in Forever Foster Home
 Gray Paws is committed to providing the best quality of life for senior dogs with high quality care. When the time comes, they provide palliative and hospice care. With the help of our dedicated veterinary partners, Gray Paws lets senior dogs go to the “Rainbow Bridge” when they have lived the fullest life possible. Gray Paws will be using donation money to expand their endeavors in rescuing and rehoming senior dogs and providing lifetime care for their rescues, as well as support veterinary bills for additional senior dogs.
 
 {{< columns >}}
-{{< center >}}{{< button href="https://graypaws.org/" >}}Gray Paws website{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://graypaws.org/anthrocon/" >}}Gray Paws website{{< /button >}}{{< /center >}}
 
 <--->
 
