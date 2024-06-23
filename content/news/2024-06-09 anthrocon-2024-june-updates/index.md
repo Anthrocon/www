@@ -67,7 +67,7 @@ You can learn more about Gray Paws Sanctuary, along with fun ways you can suppor
 
 ## At-convention Resources and guides
 
-Before you arrive, it’ll be good to know what kind of resources and things are around the city that could help you with things like parking, the official convention guide, and more.  View our [**At-Convention Resources page**](https://www.anthrocon.org/at-the-convention) for more details.
+Before you arrive, it’ll be good to know what kind of resources and things are around the city that could help you with things like parking, the official convention guide, and more. View our [**At-Convention Resources page**](https://www.anthrocon.org/at-the-convention) for more details.
 
 **NEW FOR 2024!** This year, we’re excited to announce that we will be offering a paid locker service for attendees in partnership with Pop-up Lockers! For those that are travelling into the convention and want a place to store their belongings, including fursuit parts, this convenient option will be available on a daily or weekend basis at different price points.
 

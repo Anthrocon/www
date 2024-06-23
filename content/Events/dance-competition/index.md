@@ -92,7 +92,6 @@ A brief example of some things that our judges look for in both the preliminarie
 
 {{< center >}}## Ready to submit your audition?{{< /center >}}
 
-
 {{< center >}}If you have your audition video **filmed** and **ready to submit**, get started with the form below. Make sure your video follows all the formats and rules outlined above.{{< /center >}}
 
 {{< center >}}{{< button href="https://forms.gle/h24qk9zGa2KKMaiV8" >}}Submit your video{{< /button >}}{{< /center >}}
