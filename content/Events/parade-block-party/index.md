@@ -1,5 +1,5 @@
 ---
-title: "Anthrocon Parade"
+title: "Anthrocon Parade & Block Party"
 weight: 0
 
 banner: "2023+Blue_parade-102.jpg"
@@ -25,7 +25,7 @@ banner_url: ""
 
 ### Parade Process
 
-- The parade will begin with the Fursuit Parade Lineup, which will be in the Convention Center Hall C. The lineup for the and parade will **start at 11 AM**, with **doors closing at 1:30 PM**.
+- The parade will begin with the Fursuit Parade Lineup, which will be in the Convention Center Hall C. The lineup for the and parade will **start at 12 PM**, with **doors closing at 1:50 PM**.
 - **There is no Fursuit Group Photo before the parade**. This was a tradition in previous years but due to the sheer size of our parade line-up, it is no longer practical nor safe to host the group photo. There will be many photographers, both amateur and professional, covering the parade for all to enjoy.
 - **The parade will begin at 2pm**, starting from Hall C and leading out onto the streets underneath the convention center. For those that need physical accommodation due to not being able to take stairs/escalators, please contact [**accessibility@anthrocon.org**](mailto:accessibility@anthrocon.org) to let us know.
 - The parade ends in Hall D, where there is cooling and hydration for fursuiters. **Once the parade is finished**, or fursuiters are feeling ready, they can take the elevators back up to the 3rd floor of the convention center, and make their way to Penn Avenue (either through the convention center, or the Westin) for the Block Party.
@@ -60,11 +60,11 @@ Things to keep in mind for the block party:
 
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
-{{< details "How early should I show up to the fursuit photo and parade lineup?" >}}
-We recommend being ready in costume before 12 PM so you can ensure enough time to walk to the Convention Center Hall C, located beside the Dealers Room. Elevators will be in high demand, so the earlier the better.
+{{< details "How early should I show up to the fursuit parade lineup?" >}}
+We recommend being ready in costume before 1 PM so you can ensure enough time to walk to the Convention Center Hall C, located beside the Dealers Room. Elevators will be in high demand, so the earlier the better.
 {{< /details >}}
 
-{{< details "I require a handler/to handle for a fursuiter. Can I join the photo/parade?" >}}
+{{< details "I require a handler/to handle for a fursuiter. Can I join the parade?" >}}
 We do allow for fursuiters that require handlers to be a part of the parade, but we will be asking all non-costumed persons to move out of the crowd for the Fursuit Group Photo. Handlers may re-join their fursuiter afterwards.
 {{< /details >}}
 
