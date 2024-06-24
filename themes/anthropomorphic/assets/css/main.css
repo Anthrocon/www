@@ -122,7 +122,9 @@ body > header nav li [role=button] {
 }
 
 body > header nav li ul {
-    display: none;
+    display: flex;
+    visibility: hidden;
+    opacity: 0;
     flex-direction: column;
     position: absolute;
     left: calc(50% + var(--pico-nav-element-spacing-horizontal));
@@ -130,11 +132,13 @@ body > header nav li ul {
     transform: translateX(-50%);
     padding: 0 var(--pico-nav-element-spacing-horizontal);
     background-color: black;
+    transition: 0.2s ease-out;
 }
 
 body > header nav li:hover ul,
 body > header nav li:focus-within ul {
-    display: flex;
+    visibility: visible;
+    opacity: 1;
 }
 
 body > header nav li:hover ul {
