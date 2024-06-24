@@ -36,7 +36,7 @@ Before applying, please ensure you read the [**Artists Alley Rules**](https://do
 - **All artists are required to obtain a license to collect local and state sales tax, as well as provide evidence of the same to Anthrocon prior to engaging in sales in the Alley**. The form for applying for a Pennsylvania Sales Tax License may be found on the [**Pennsylvania State website**.](https://mypath.pa.gov/_/)
 - If you have any questions about applying or the Artists Alley process, send us an email at [**alley@anthrocon.org**](mailto:alley@anthrocon.org)
 
-{{< center >}}{{< button href=https://docs.google.com/forms/d/e/1FAIpQLSf_5-5uFVj8j9AU1JyJNdneN6k9pWT5IIk26BTV5WgOKs3eVA/viewform" >}}Apply online{{< /button >}}{{< /center >}}
+Applications for the Artists Alley have closed as of May 30th, 2024. The lottery to determine accepted artists for each day will be conducted, and results posted closer to the convention.
 
 ***
 

@@ -34,62 +34,16 @@ If you’re driving into Pittsburgh, we recommend exploring the public parking l
 {{< center >}}## Shuttle Schedule{{< /center >}}
 
 {{< columns >}}
-Shuttles are free for all Anthrocon attendees, stopping at Anthrocon-partnered hotels (except the Westin, Courtyard, Drury and AC Hotel) with the **DLCC stop on the east side of the underpass under the convention center**.
+Shuttles are free for all Anthrocon attendees, stopping at Anthrocon-partnered hotels (except the Westin, Courtyard, Drury and AC Hotel) with the **DLCC stop on the East Lobby side of the underpass under the convention center**.
 
 On Saturday, the stop will temporarily move to the West side of the underpass, (on Ft. Duquesne Blvd), and an additional stop beside the Westin (on Liberty Ave).
 
+{{< center >}}{{< button href="https://www.anthrocon.org/shuttle-buses" >}}Shuttle information{{< /button >}}{{< /center >}}
+
 <--->
 
-{{< img src="ANA_1345.jpg" alt="An Anthrocon shuttle bus making a stop." hint="photo" >}}
+{{< img src="ANA_1345.jpg" alt="An Anthrocon shuttle bus making a stop." hint="photo" attr="Hokuloa Luau" >}}
 {{< /columns >}}
-
-### Shuttle routes and schedules
-
-Shuttles will be running on the following schedule during the convention days:
-
-- **Thursday to Saturday**: starting 8 AM to 3 AM (following day)
-- **Sunday**: starting 8 AM to 12 AM (midnight)
-
-**If a wheelchair-accessible bus is required**, please phone [**412-442-4771**](tel:412-442-4771) at least 1 hour in advance.
-
-{{< details "Red Route - Hampton, Homewood, EVEN, Embassy, Hilton Garden Inn" >}}
-**Time:** Starts at 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
-
-**Frequency:** Buses will arrive at each hotel approximately every 15-20 minutes.
-
-**Pick-up notes:**
-
-- Hilton Garden Inn picks up across the street on Forbes Ave, at the corner of Wood St.
-- EVEN Hotel picks up at the corner of Forbes Ave and Cherry Way
-{{< /details >}}
-
-{{< details "Blue Route - Omni, Marriott, Doubletree" >}}
-**Time:** Starts at 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
-
-**Frequency:** Buses will arrive at each hotel approximately every 20 minutes.
-
-**Pick-up notes**:
-
-- Omni shuttle stop will be on Grant Street entrance
-- Marriott pick up will be located near Doubletree entrance
-{{< /details >}}
-
-{{< details "Green Route - Wyndham, Renaissance" >}}
-**Time**: Starts at 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
-
-**Frequency**: Buses will arrive at each hotel approximately every 15-20 minutes.
-
-**Pick-up notes**:
-
-- Wyndham pick up will be on Commonwealth Pl in front of the main entrance
-- Renaissance pick up will be at the corner of Ft. Duquesne Blvd and 6th Street
-{{< /details >}}
-
-{{< details "Yellow Route - Hyatt Place, Holiday Inn North Shore" >}}
-**Time**: Starts at 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
-
-**Frequency**: Buses will arrive at each hotel approximately every 45 minutes.
-{{< /details >}}
 
 ***
 

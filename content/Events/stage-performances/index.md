@@ -12,25 +12,32 @@ banner_url: ""
 {{< center >}}# Stage performances at Anthrocon{{< /center >}}
 
 {{< columns >}}
-Anthrocon’s stages showcase the best of furry-centric talent in front of our attendees. Applications for Anthrocon 2024 are being taken through the Events and Panels form up until March 15, 2024.
+Anthrocon’s stages showcase the best of furry-centric talent to our attendees, from musical journeys, to comedic skits, and even high-flying acrobatics.
 
-- [**Policies and Rules**](#anthrocon-performance-policies-and-rules)
+- [**Anthrocon Tonight**](#apply-to-perform-at-anthrocon-tonight)
+- [**Stage Performance Policies**](#stage-performance-policies-and-rules)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
-
-{{< center >}}{{< button href="https://forms.gle/5DHqPboxWhYVWWLv7" >}}Apply online{{< /button >}}{{< /center >}}
 
 <--->
 
 {{< img src="LUAU-6964.jpg" alt="An otter performing the guitar on Anthrocon's performance stage." hint="picture" attr="Hokuloa Luau" >}}
 {{< /columns >}}
 
+{{< center >}}## Apply to Perform at Anthrocon Tonight{{< /center >}}
+
+Anthrocon Tonight brings together a collection of some of the fandom’s finest talents on the same stage for an evening of fun. If you’re interested in participating in this year’s Anthrocon Tonight, applications will be available on this page from **May 27th through June 9th**.
+
+Anthrocon Tonight applications have now closed for 2024. Applicants will be contacted for further details if accepted.
+
 ***
 
-{{< center >}}## Anthrocon Performance Policies and Rules{{< /center >}}
+{{< center >}}## Stage Performance Policies and Rules{{< /center >}}
+
+{{< center >}}**Stage performance applications for Anthrocon 2024 are now closed, and accepted stage performances have been contacted.**{{< /center >}}
 
 Please read the following information carefully and if there are any questions do not hesitate to send us an email at [**events@anthrocon.org**](mailto:events@anthrocon.org).
 
-**All performance requests must be processed through the application form found above. This places your request into the queue to make sure that a member of the Events Team will see your request. Any request received via direct email, Telegram, Discord, Text Message, etc. will not be answered. Thank you for your understanding and cooperation in helping us better serve you, the community, and the convention.**
+All performance requests must be processed through the application form found above. This places your request into the queue to make sure that a member of the Events Team will see your request. Any request received via direct email, Telegram, Discord, Text Message, etc. will not be answered. Thank you for your understanding and cooperation in helping us better serve you, the community, and the convention.
 
 Anthrocon **DOES NOT** provide the following items:
 

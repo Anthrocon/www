@@ -4,9 +4,7 @@ weight: 0
 
 banner: "2022+Randorn+_Z9N3518.jpg"
 banner_title: "Attend Anthrocon 2024"
-banner_caption: "Join us in Pittsburgh from July 4-7, 2024."
-banner_button: "Register online"
-banner_button_link: "https://anthrocon.regfox.com/anthroconreg"
+banner_caption: "Join us in Pittsburgh from July 4-7, 2024.<br><br>Online registration has now ended. Tickets are available starting on Thursday, July 4th at 2pm inside the David L. Lawrence Convention Center, Hall E."
 banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
 ---
@@ -26,11 +24,11 @@ banner_url: "https://www.randorn.com"
 - **You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room**. For more details on process, refer to [**our Hotels page**](/hotel).
 - In addition, we will **temporarily close online pre-registration** from February 7th at 11:59pm EST to February 8th at 5pm EST to allow for a smoother hotel booking opening. Pre-registrations will resume after February 8th at 5pm EST.
 
-### **Updates to membership availability and details**
+### **At-the-door membership availability**
 
-We’ve updated the availability and details of our Ultrasponsor, Supersponsor, and Sponsor-level memberships for 2024. More details can be found under each level in [**How to Register**](#how-to-register).
+Due to the extremely high demand and limited supply of benefits, we will NOT be selling upgraded tiers of memberships (Sponsors and above) at the door - only weekend "Attending” level and day passes will be available to purchase.
 
-### **Ultra / supersponsors only available pre-registration**
+### **Ultra/supersponsors only available pre-registration**
 
 A limited number of Ultra and Supersponsor memberships will be sold during online pre-registration only. They will not be available after pre-registration closes.
 
@@ -64,15 +62,13 @@ As an Attending member, you’ll get:
 
 - **$65: Pre-registered**
 - $80: On-site
-
-{{< center >}}{{< button href="https://anthrocon.regfox.com/anthroconreg" >}}Register online{{< /button >}}{{< /center >}}
 {{< /columns >}}
 
 ***
 
 {{< center >}}### Sponsor[](#disclaimers-for-registration-tiers){{< /center >}}
 
-{{< center >}}***Limited Availability (2200)***{{< /center >}}
+{{< center >}}***Sold Out (Limited Availability)***{{< /center >}}
 
 {{< columns >}}
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
@@ -89,15 +85,13 @@ Sponsors are generous patrons who like to help us provide even more services and
 
 - **Pre-registered: $115**
 - On-site: $130
-
-{{< center >}}{{< button href="https://anthrocon.regfox.com/anthroconreg" >}}Register online{{< /button >}}{{< /center >}}
 {{< /columns >}}
 
 ***
 
 {{< center >}}### Supersponsor{{< /center >}}
 
-{{< center >}}***Sold Out - Pre-registration only***{{< /center >}}
+{{< center >}}***Sold Out (Pre-registration only)***{{< /center >}}
 
 {{< center >}}**Pricing**[**\***](#disclaimers-for-registration-tiers)**:** $300{{< /center >}}
 
@@ -111,15 +105,13 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Our wonderful Supersponsor Brunch on Saturday
 - **If registering prior to Jan 30th:** An advance opportunity to register for a hotel room before general availability[**\*\***](#disclaimers-for-registration-tiers)
 
-{{< center >}}{{< button href="https://anthrocon.regfox.com/anthroconreg" >}}Register online{{< /button >}}{{< /center >}}
-
 ***
 
 {{< center >}}### Ultrasponsor{{< /center >}}
 
-{{< center >}}***Sold Out - Pre-registration only***{{< /center >}}
+{{< center >}}***Sold Out (Pre-registration only)***{{< /center >}}
 
-{{< center >}}**Pricing**[**\***](#disclaimers-for-registration-tiers): $1000{{< /center >}}
+{{< center >}}**Pricing**[\*](#disclaimers-for-registration-tiers): $1000{{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
 
@@ -134,8 +126,6 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Special Ultrasponsor Badge (with special customization if you register by March 1st)
 - Free access to the Anthrocon River Cruises (if cruises are available)
 - Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
-
-{{< center >}}{{< button href="https://anthrocon.regfox.com/anthroconreg" >}}Register online{{< /button >}}{{< /center >}}
 
 ***
 
@@ -220,11 +210,15 @@ Required for attendees who are under 13 years of age and attending Anthrocon 202
 {{< details "What ID do I need to bring to get my registration?" >}}
 For all attendees aged 18 years and older, we require a government-issued photo ID so that we can make sure nobody other than you is trying to pick up your badge or register in your name. Anthrocon accepts the following as a single-form ID: USA or Canada Driver's License, USA or Canada State ID, USA Military ID, or a Passport.
 
-For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well. However, we do understand that not every minor (especially the younger ones) will have an ID. If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth. Contact the Registration department at [**registration@anthrocon.org**](mailto:registration@anthrocon.org) registration@anthrocon.org if you are unsure or need assistance in determining alternate forms of acceptable ID.
+For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well. However, we do understand that not every minor (especially the younger ones) will have an ID. If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth. Contact the Registration department at [**registration@anthrocon.org**](mailto:registration@anthrocon.org) if you are unsure or need assistance in determining alternate forms of acceptable ID.
 {{< /details >}}
 
 {{< details "I don't have an ID. What should I do?" >}}
 There are multiple options for both adults and minors to get a state-issued photo ID. Please ensure that you have a valid form of ID to get your registration badge before the convention; if you need help, consult your state or province’s government services to see what options are available.
+{{< /details >}}
+
+{{< details "Can I change my badge name?" >}}
+Yes. Email registration@anthrocon.org and provide us with your name as it appears on your registration, your email address, your old badge name and the name you want it changed to. Note-badge names are limited to 20 characters including spaces.
 {{< /details >}}
 
 {{< details "Can I upgrade my membership after I've paid for it?" >}}

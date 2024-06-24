@@ -20,11 +20,11 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 <--->
 
-**Interested in submitting a panel or event for our convention?** Applications will be available until March 15, 2024.
+The full events schedule is now available through Sched. You can access the Sched below and find out all the times, locations, and details of events happening this year.
 
-The full events schedule for the convention will be available closer to Summer 2024.
+{{< center >}}{{< button href="https://anthrocon.sched.org" >}}View schedule{{< /button >}}{{< /center >}}
 
-{{< center >}}{{< button href="https://forms.gle/5DHqPboxWhYVWWLv7" >}}Apply online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="/2024-convention-map" >}}Venue maps{{< /button >}}{{< /center >}}
 {{< /columns >}}
 
 ***
@@ -78,9 +78,7 @@ If you’ve got an interesting topic or talent you’d love to share with our co
 
 {{< center >}}## Apply to host an event{{< /center >}}
 
-**Panel applications for Anthrocon 2024 will be available until March 15, 2024**. Panelists who have been approved will be receiving email confirmations. If you have any questions about your application, please reach out to [**events@anthrocon.org**](mailto:events@anthrocon.org).
-
-{{< center >}}{{< button href="https://forms.gle/5DHqPboxWhYVWWLv7" >}}Apply online{{< /button >}}{{< /center >}}
+**Panel applications for Anthrocon 2024 are now closed**. Panelists who have been approved will be receiving email confirmations. If you have any questions about your application, please reach out to [**events@anthrocon.org**](mailto:events@anthrocon.org).
 
 ***
 

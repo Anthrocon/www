@@ -2,10 +2,10 @@
 title: "Dealers Room Info Packet"
 weight: 0
 
-banner: "2023+Aisling+DSC_5284.jpg"
+banner: "2023+BlueHasia+Day+2-166.jpg"
 banner_title: ""
 banner_caption: ""
-banner_author: "Aisling Wolf"
+banner_author: "Blue Hasia"
 banner_url: ""
 ---
 

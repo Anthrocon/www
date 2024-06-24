@@ -30,7 +30,6 @@ A limited number of wheelchairs are available for loan by the Convention Center 
 Attendees can also consider renting the necessary equipment from some of these local establishments:
 
 - [**Mobility Plus**](https://mobilityplus.com/Pittsburgh) (call 1-412-426-9144 and mention **Anthrocon** for a 10% discount!)
-- [**Steel Town Mobility**](https://www.steeltownmobility.com/rentals.php)
 - [**Washington Medical Equipment**](https://www.washingtonmedical.net/rentals).
 - [**Riteway Mobility**](https://ritewaymobility.com/rentals/)
 - [**Cloud of Goods**](https://www.cloudofgoods.com/product-rentals/mobility)

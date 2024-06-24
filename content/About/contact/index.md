@@ -27,6 +27,8 @@ Dances - [**dance@anthrocon.org**](mailto:dance@anthrocon.org)
 
 Dealers Room - [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org)
 
+Events Team - [**events@anthrocon.org**](mailto:events@anthrocon.org?)
+
 Fursuit Photography - [**photo@anthrocon.org**](mailto:photo@anthrocon.org)
 
 Hotels and Suites - [**hotel@anthrocon.org**](mailto:hotel@anthrocon.org)
@@ -34,8 +36,6 @@ Hotels and Suites - [**hotel@anthrocon.org**](mailto:hotel@anthrocon.org)
 Public Relations/Press & Media - [**pr@anthrocon.org**](mailto:pr@anthrocon.org)
 
 Operations - [**operations@anthrocon.org**](mailto:operations@anthrocon.org)
-
-Programming - [**programming@anthrocon.org**](mailto:programming@anthrocon.org)
 
 Registration - [**registration@anthrocon.org**](mailto:registration@anthrocon.org)
 

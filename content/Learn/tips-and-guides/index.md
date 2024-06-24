@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< center >}}Looking for information on how to plan your convention? Going to Anthrocon for the first time? Our staff writers have some helpful topics and guides to help make your experience the best possible one.{{< /center >}}
 
-{{< center >}}[**Planning**](#planning-your-convention) - [**Budgeting**](#budgeting) - [**Experience**](#experience){{< /center >}}
+{{< center >}}[**Planning**](#planning-your-convention) - [**Budgeting**](#budgeting) - [**Con Experience**](#convention-experience) - [**Fursuiting**](#fursuiting){{< /center >}}
 
 {{< center >}}## Planning your convention{{< /center >}}
 
@@ -83,18 +83,30 @@ Learn about potential deals and services that could make your Anthrocon a little
 
 ***
 
-{{< center >}}## Experience{{< /center >}}
+{{< center >}}## Convention Experience{{< /center >}}
 
 {{< columns "42%" >}}
-{{< img src="DSC06986-ACW.jpg" alt="A fursuiter standing beside a contemporary piece of artwork featuring a Heinz ketchup bottle." hint="picture" link="/guides/dos-and-donts-of-interacting-with-fursuiters" >}}
+{{< img src="2023+Randorn+_Z9N0117-Enhanced-NR.jpg" alt="Furries walking up the waterfront path underneath the DLCC at night." hint="picture" link="/guides/furry-community-convention-growth" >}}
 
 <--->
 
-### [Do's and don'ts of interacting with fursuiters](/guides/dos-and-donts-of-interacting-with-fursuiters)
+### [Furry Community and Convention Growth](/guides/furry-community-convention-growth)
 
-While fursuiters can be awesome to see and interact with, it’s important to remember that there are common courtesies to consider.
+With how much the furry community has grown compared to just a few years ago, we share what it means for furry conventions.
 
-**(Photographer: Caro)**
+**(Photographer: Randorn)**
+{{< /columns >}}
+
+{{< columns "42%" >}}
+{{< img src="2023+Luau+5942.jpg" alt="A photo of the foyer outside the Spirit of Pittsburgh Ballroom in the DLCC filled with many fursuiters and congoers." hint="picture" link="/guides/being-a-good-guest-at-a-convention" >}}
+
+<--->
+
+### [Being a Good Guest at a convention](/guides/being-a-good-guest-at-a-convention)
+
+Every attendee plays a part in ensuring that Anthrocon is the best it can be, and there’s a few ways you can be a great ambassador for that.
+
+**(Photographer: HokuloaLuau)**
 {{< /columns >}}
 
 {{< columns "42%" >}}
@@ -119,6 +131,22 @@ As part of the convention experience, you’ll likely be standing in a long queu
 If your kid (or your parent) is bringing you to your first Anthrocon, there are a few things to keep in mind.
 
 **(Photographer: Tenn)**
+{{< /columns >}}
+
+***
+
+{{< center >}}## Fursuiting{{< /center >}}
+
+{{< columns "42%" >}}
+{{< img src="DSC06986-ACW.jpg" alt="A fursuiter standing beside a contemporary piece of artwork featuring a Heinz ketchup bottle." hint="picture" link="/guides/dos-and-donts-of-interacting-with-fursuiters" >}}
+
+<--->
+
+### [Do's and don'ts of interacting with fursuiters](/guides/dos-and-donts-of-interacting-with-fursuiters)
+
+While fursuiters can be awesome to see and interact with, it’s important to remember that there are common courtesies to consider.
+
+**(Photographer: Caro)**
 {{< /columns >}}
 
 {{< columns "42%" >}}
