@@ -2,7 +2,7 @@
 title: "Deals and Offers"
 weight: 0
 
-banner: "eufaulacoywolf-5.jpg"
+banner: "EufaulaCoywolf-5.jpg"
 banner_title: ""
 banner_caption: ""
 banner_author: "Blue Hasia"
@@ -26,7 +26,7 @@ Visit the official website to learn more about the program, view participating b
 
 <--->
 
-{{< img src="vpitt+show+your+badge.png" hint="photo" >}}
+{{< img src="VPitt+Show+Your+Badge.png" hint="photo" >}}
 
 {{< center >}}{{< button href="https://www.visitpittsburgh.com/meetings-and-events/show-your-badge/" >}}Program details{{< /button >}}{{< /center >}}
 {{< /columns >}}
@@ -52,12 +52,13 @@ Some establishments offer special Anthrocon menus and/or pricing during the conv
 
 - [**Pizza Parma**](https://maps.app.goo.gl/qgN3yESUN9Gw7Ss4A) (963 Liberty Ave): special Anthrocon menu and pricing
 - [**Freshii**](https://maps.app.goo.gl/481ALAxiegtem9Y46) (501 Grant St): 15% off any regularly-priced item
+- [**Bae Bae’s Kitchen**](https://maps.app.goo.gl/QbRnaUZK9m6bQ1wb6) (951 Liberty Ave): Special “Fur The Win” Boba drink, special $7 FURRgarita
 - [**AnthroNoms**](https://maps.app.goo.gl/MZU8qq9J6ViFkDGd9) (in the DLCC): variety of food and beverage offerings
 - and others to come!
 
 <--->
 
-{{< img src="1v6a1305_2000.jpg" hint="photo" attr="Tenn" >}}
+{{< img src="1V6A1305_2000.jpg" hint="photo" attr="Tenn" >}}
 {{< /columns >}}
 
 ***
@@ -75,7 +76,7 @@ Dive into the minds of the artists and computer scientists who help bring Pixar�
 
 <--->
 
-{{< img src="pixar_monstersu_rigging_immersive_web_small.jpg" hint="picture" attr="Michael Malyszko" >}}
+{{< img src="Pixar_MonstersU_Rigging_Immersive_web_small.jpg" hint="picture" attr="Michael Malyszko" >}}
 
 {{< center >}}{{< button href="https://carnegiesciencecenter.org/visit/pricing/" >}}Ticket website{{< /button >}}{{< /center >}}
 {{< /columns >}}
@@ -91,7 +92,44 @@ Come for an exclusive screening of the first animated feature from legendary fil
 
 <--->
 
-{{< img src="mv5bmja2mjaxnjcwof5bml5banbnxkftztcwodkwmdc2na@@._v1_.jpg" alt="A still frame from The Secret Of N.I.M.H., directed by legendary animator Don Bluth." hint="drawing" >}}
+{{< img src="MV5BMjA2MjAxNjcwOF5BMl5BanBnXkFtZTcwODkwMDc2NA@@._V1_.jpg" alt="A still frame from The Secret Of N.I.M.H., directed by legendary animator Don Bluth." hint="drawing" >}}
 
 {{< center >}}{{< button href="https://trustarts.org/production/96774" >}}Info & tickets{{< /button >}}{{< /center >}}
+{{< /columns >}}
+
+{{< columns "58%" >}}
+### [National Aviary - Anthrocon badge discount](https://www.aviary.org/)
+
+The National Aviary is THE nation’s bird zoo, with more than 500 birds and animals, including flamingos, eagles, and a sloth! Your ticket purchase goes toward the National Aviary’s conservation efforts in Pittsburgh and around the world.
+
+**Offer**: Show your Anthrocon badge (or registration confirmation) at their Visitor Services Desk and get 10% off EVERYTHING AVIARY*, including:
+
+- Admission
+- Add-ons like a Lorikeet Feeding, flying Birdly, the virtual reality simulator, and TWO different live immersive bird shows!
+- Animal Encounters with a sloth, penguin, and other feathered friends (book in advance if you can at [**aviary.org**](http://aviary.org/)).
+- Gift Shop purchases
+
+*\* Discount not available at Atria’s Kookaburra Café.*
+
+**Dates valid:** Only valid for visits between 7/1/2024–7/8/2024.
+
+<--->
+
+{{< img src="National+Aviary_Andean+Condors+Marijo+&+Illimani+(right)_Mike+Faix.jpg" alt="Two of the National Aviary's condors, Marijo (left) & Illimani (right), facing each other in their exhibit. Photography by Mike Faix." hint="photo" attr="Mike Faix" >}}
+
+{{< center >}}{{< button href="https://www.aviary.org" >}}Explore the aviary{{< /button >}}{{< /center >}}
+{{< /columns >}}
+
+{{< columns "58%" >}}
+### [Bae Bae’s Kitchen - Music Party](https://baebaes.kitchen/pittsburgh-cultural-district-bae-bae-s-kitchen-about)
+
+A local spot located on Liberty Avenue is hosting a music party on Saturday, July 6th from 6 to 9pm. A special menu will be available during Anthrocon for attendees, with some specific discounts (see the [Restaurant Offers](#restaurant-offers) section above).
+
+**Admission**: Free
+
+**Date and time**: Saturday, July 6th from 6-9pm
+
+<--->
+
+{{< img src="Furry.png.jpg" hint="drawing" >}}
 {{< /columns >}}
