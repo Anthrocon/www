@@ -54,14 +54,14 @@ details + hr {
 
 @media (min-width: 768px) {
     .float-left {
-        width: 40%;
+        width: 40% !important;
         float: left;
         margin-right: var(--pico-spacing);
         margin-bottom: var(--pico-spacing);
     }
 
     .float-right {
-        width: 40%;
+        width: 40% !important;
         float: right;
         margin-bottom: var(--pico-spacing);
         margin-left: var(--pico-spacing);
@@ -113,8 +113,36 @@ body > header nav {
     white-space: nowrap;
 }
 
+body > header nav li {
+    position: relative;
+}
+
 body > header nav li [role=button] {
     margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
+}
+
+body > header nav li ul {
+    display: flex;
+    visibility: hidden;
+    opacity: 0;
+    flex-direction: column;
+    position: absolute;
+    left: calc(50% + var(--pico-nav-element-spacing-horizontal));
+    top: 100%;
+    transform: translateX(-50%);
+    padding: 0 var(--pico-nav-element-spacing-horizontal);
+    background-color: black;
+    transition: 0.2s ease-out;
+}
+
+body > header nav li:hover ul,
+body > header nav li:focus-within ul {
+    visibility: visible;
+    opacity: 1;
+}
+
+body > header nav li:hover ul {
+    z-index: 1;
 }
 
 .banner {

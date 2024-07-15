@@ -13,7 +13,7 @@ banner_url: ""
 
 ### What is Anthrocon?
 
-{{< img src="registered_logo.png" alt="An image of Anthrocon, Inc.'s corporate logo." float="right" hint="icon" >}}
+{{< img src="registered_logo.png" alt="An image of Anthrocon, Inc.'s corporate logo." float="right" hint="drawing" >}}
 
 Anthrocon began as Albany Anthrocon in 1997, and since then has grown into one of the largest anthropomorphics conventions in the world with a membership in 2022 of over 13,600 attendees and [**over $500,000 raised for various charities**](/charity-event-history). All of the finer aspects of anthropomorphic, or more commonly, "Furry" fandom, are celebrated here. [**Learn more about "What is Furry?"**](/what-is-furry)
 
