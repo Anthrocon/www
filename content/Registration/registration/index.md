@@ -4,7 +4,7 @@ weight: 0
 
 banner: "2022+Randorn+_Z9N3518.jpg"
 banner_title: "Attend Anthrocon 2024"
-banner_caption: "Join us in Pittsburgh from July 4-7, 2024.<br><br>Online registration has now ended. Tickets are available starting on Thursday, July 4th at 2pm inside the David L. Lawrence Convention Center, Hall E."
+banner_caption: "Thank you for joining our 2024 convention. Information for 2025's event registration will be updated later in the year!"
 banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
 ---
@@ -66,7 +66,7 @@ As an Attending member, you’ll get:
 
 ***
 
-{{< center >}}### Sponsor[](#disclaimers-for-registration-tiers){{< /center >}}
+{{< center >}}### Sponsor{{< /center >}}
 
 {{< center >}}***Sold Out (Limited Availability)***{{< /center >}}
 

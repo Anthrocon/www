@@ -13,7 +13,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
-{{< center >}}[**202**](#2024-charity-gray-paws-sanctuary)[**4**](#2024-charity-gray-paws-sanctuary)[**Sponsored Charity**](#2024-charity-gray-paws-sanctuary) - [**Bucket Brigade**](#bucket-brigade) - [**Charity Auction**](#charity-auction-and-raffle) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[**202**](#2024-charity-gray-paws-sanctuary)[**4**](#2024-charity-gray-paws-sanctuary) [**Sponsored Charity**](#2024-charity-gray-paws-sanctuary) - [**Bucket Brigade**](#bucket-brigade) - [**Charity Auction**](#charity-auction-and-raffle) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
 
 ***
 
@@ -58,8 +58,6 @@ Gray Paws is committed to providing the best quality of life for senior dogs wit
 {{< center >}}## Bucket Brigade{{< /center >}}
 
 At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade - and we’d love you to be a part of it.
-
-{{< center >}}{{< button href="/charity-brigade" >}}Sign ups for bucket Brigade{{< /button >}}{{< /center >}}
 
 ***
 
