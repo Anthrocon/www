@@ -22,11 +22,11 @@ banner_url: ""
 {{< columns >}}
 If you're traveling by car, this is the address to put into your navigation system to get to the convention center:
 
-**Anthrocon Furry Convention**<br>
-1000 Fort Duquesne Boulevard<br>
-Pittsburgh, PA 15222
+&nbsp;&nbsp;&nbsp;&nbsp;**Anthrocon Furry Convention**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1000 Fort Duquesne Boulevard<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Pittsburgh, PA 15222
 
-[**View in Google Maps**](https://goo.gl/maps/mcDDHHA94Dwr3pwb9)
+&nbsp;&nbsp;&nbsp;&nbsp;[**View in Google Maps**](https://goo.gl/maps/mcDDHHA94Dwr3pwb9)
 
 <--->
 
@@ -43,7 +43,7 @@ Looking to share a ride with other attendees? Check out our [**Anthrocon Ride Sh
 
 ### Anthrocon Hotel shuttles
 
-As with previous years, we will have shuttles that will run between our Anthrocon-partnered hotels so you won’t have to walk back and forth from your hotel to our convention center. [**See our shuttle schedules**](/at-the-convention#shuttle)
+As with previous years, we will have shuttles that will run between our Anthrocon-partnered hotels so you won’t have to walk back and forth from your hotel to our convention center. [**See our shuttle schedules**](/shuttle-buses)
 
 ***
 

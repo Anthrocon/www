@@ -30,7 +30,7 @@ Anthrocon is a Pennsylvania-incorporated 501(c)7 not-for-profit organization. Th
 
 {{< center >}}**Director of Registration**{{< /center >}}
 
-{{< center >}}Thomas “Nicona” Brewer{{< /center >}}
+{{< center >}}Dr. Valentina “Nuclear Space Cat” O’Donnell{{< /center >}}
 
 <--->
 
@@ -40,9 +40,9 @@ Anthrocon is a Pennsylvania-incorporated 501(c)7 not-for-profit organization. Th
 {{< /columns >}}
 
 {{< columns >}}
-{{< center >}}**Director of Events**{{< /center >}}
+{{< center >}}**Acting Director of Events**{{< /center >}}
 
-{{< center >}}Waylon “Ashe” Darosh{{< /center >}}
+{{< center >}}Christopher “Sparf” Williams{{< /center >}}
 
 <--->
 
@@ -92,6 +92,8 @@ Anthrocon is a Pennsylvania-incorporated 501(c)7 not-for-profit organization. Th
 
 {{< center >}}Douglas “Chittebengo” Payne{{< /center >}}
 {{< /columns >}}
+
+***
 
 {{< center >}}## Mission Statement{{< /center >}}
 
