@@ -30,7 +30,7 @@ There’s a lot to be excited about when you’re planning your first furry conv
 {{< /columns >}}
 
 {{< columns "42%" >}}
-{{< img src="_DSC8558+3K.jpg" alt="A picture of a fursuit head on a luggage cart." hint="photo" link="/guides/things-to-pack-for-anthrocon" >}}
+{{< img src="_DSC8558+3K.jpg" alt="A picture of a fursuit head on a luggage cart." hint="picture" link="/guides/things-to-pack-for-anthrocon" >}}
 
 <--->
 
@@ -42,7 +42,7 @@ Check out our handy reference guide for common things that you’ll want to pack
 {{< /columns >}}
 
 {{< columns "42%" >}}
-{{< img src="28158362343_82c9252d81_k_AoLun.jpg" alt="A fursuiter sitting in the cockpit of a commercial plane." hint="picture" link="/guides/travelling-internationally-to-anthrocon" >}}
+{{< img src="28158362343_82c9252d81_k_aolun.jpg" alt="A fursuiter sitting in the cockpit of a commercial plane." hint="picture" link="/guides/travelling-internationally-to-anthrocon" >}}
 
 <--->
 
@@ -105,6 +105,18 @@ With how much the furry community has grown compared to just a few years ago, we
 ### [Being a Good Guest at a convention](/guides/being-a-good-guest-at-a-convention)
 
 Every attendee plays a part in ensuring that Anthrocon is the best it can be, and there’s a few ways you can be a great ambassador for that.
+
+**(Photographer: HokuloaLuau)**
+{{< /columns >}}
+
+{{< columns "42%" >}}
+{{< img src="2023+Luau+6885.jpg" alt="A grey wolf fursuiter in a tropical shirt and sunglasses on its brow walking down the Anthrocon Block Party, surrounded by citizens of Pittsburgh." hint="photo" link="/guides/mutual-respect-attendees-convention-public" >}}
+
+<--->
+
+### [respect between attendees, the con, and the public](/guides/mutual-respect-attendees-convention-public)
+
+As Anthrocon grows, the more important it becomes to show mutual respect within our community, and our surrounding environment.
 
 **(Photographer: HokuloaLuau)**
 {{< /columns >}}
