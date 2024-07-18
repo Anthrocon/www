@@ -196,8 +196,8 @@
     <figcaption>
         {{- $caption | markdownify }}
         {{- with $attr }}<div style="text-align: right;">
-            {{- with $attrlink }}<a href="{{ . }}">{{ end }}
-                <i class="fa-solid fa-camera"></i> {{ . | markdownify }}
+            <i class="fa-solid fa-camera"></i> {{ with $attrlink }}<a href="{{ . }}">{{ end }}
+                {{- . | markdownify }}
             {{- if $attrlink }}</a>{{ end }}
         </div>{{ end -}}
     </figcaption>
