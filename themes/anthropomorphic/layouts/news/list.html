@@ -1,24 +1,5 @@
-{{ define "main" }}
-<header>
-  {{- with .Resources.Get .Params.banner }}
-  <div class="banner">
-    <div class="lqip">
-      <img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">
-    </div>
-    {{- with $.Params.banner_title }}
-    <div>
-      <h1>{{ . }}</h1>
-      {{- with $.Params.banner_caption }}
-      {{ . | $.RenderString (dict "display" "block") }}
-      {{- end }}
-      {{- with $.Params.banner_button }}
-      <p><a role="button" href="{{ $.Params.banner_button_link }}">{{ . }}</a></p>
-      {{- end }}
-    </div>
-    {{- end }}
-  </div>
-  {{- end }}
-</header>
+{{- define "main" }}
+{{- partial "banner.html" . }}
 <section>
   {{ .Content }}
 </section>
