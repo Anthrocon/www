@@ -22,11 +22,14 @@
 <section>
   {{ .Content }}
 </section>
-{{- range .Pages }}
+{{- range .Paginator.Pages }}
 <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-{{ $dateHuman := .Date | time.Format ":date_long" }}
+{{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+{{- $dateHuman := .Date | time.Format ":date_long" }}
 <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 <p>{{ .Summary }}</p>
 {{- end }}
+<nav style="justify-content: center;">
+  {{ partial "pagination.html" . }}
+</nav>
 {{- end -}}
