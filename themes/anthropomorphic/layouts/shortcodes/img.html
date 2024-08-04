@@ -31,10 +31,10 @@
 
 {{- $cssBreaks := slice 1536 1280 1024 768 576 }}
 {{- $cssContainers := slice 1450 1200 950 700 510 576 }}
-{{- $cssScales := slice 1.0 2.0 }}
+{{- $cssScales := slice 1.00 1.25 1.50 1.75 2.00 }}
 {{- $cssColBreak := 768 }}
-{{- $widths := slice 240 480 720 960 1200 1440 1680 1920 2160 2400 2640 2880 3120 3360 3600 3840 }}
-{{- $resCull := 0.85 }}
+{{- $widths := slice 390 414 }}
+{{- $resCull := 0.75 }}
 
 {{- $src := "" }}
 {{- $alt := "" }}
@@ -83,15 +83,16 @@
     {{- $alt = .Get 1 }}
 {{- end }}
 
+{{- $cssColScale := 1.0 }}
 {{- $htmlSizes := "" }}
 {{- with .Parent }}
     {{- if eq .Name "columns" }}
-        {{- $cssScales = slice 0.5 | append $cssScales }}
+        {{- $cssColScale = 0.5 }}
 
         {{- range $k, $e := $cssBreaks }}
             {{- $w := 0 }}
             {{- if ge . $cssColBreak }}
-                {{- $w = div (index $cssContainers $k) 2.0 | math.Ceil | int }}
+                {{- $w = mul (index $cssContainers $k) $cssColScale | math.Ceil | int }}
             {{- else }}
                 {{- $w = index $cssContainers $k }}
             {{- end }}
@@ -103,12 +104,12 @@
 
 {{- if not $htmlSizes }}
     {{- if $fClass }}
-        {{- $cssScales = slice 0.4 | append $cssScales }}
+        {{- $cssColScale = 0.4 }}
 
         {{- range $k, $e := $cssBreaks }}
             {{- $w := 0 }}
             {{- if ge . $cssColBreak }}
-                {{- $w = mul (index $cssContainers $k) 0.4 | math.Ceil | int }}
+                {{- $w = mul (index $cssContainers $k) $cssColScale | math.Ceil | int }}
             {{- else }}
                 {{- $w = index $cssContainers $k }}
             {{- end }}
@@ -132,6 +133,19 @@
         {{- range $s := $cssScales }}
             {{- $widths = $widths | append (mul $c $s | math.Ceil | int) }}
         {{- end }}
+    {{- end }}
+
+    {{- if ne $cssColScale 1.0 }}
+        {{- $w := slice }}
+        {{- range $widths }}
+            {{- if ge . $cssColBreak }}
+                {{- $w = $w | append (mul $cssColScale . | math.Ceil | int) }}
+            {{- else }}
+                {{- $w = $w | append . }}
+            {{- end }}
+        {{- end }}
+
+        {{- $widths = $w }}
     {{- end }}
 
     {{- $widths = sort $widths "value" "desc" }}
