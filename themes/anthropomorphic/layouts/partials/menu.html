@@ -1,4 +1,4 @@
-<ul>
+<ul class="main-menu">
   {{- range site.Sections.ByWeight }}
   <li><a class="contrast" href="{{ with index .Pages.ByWeight 0 }}{{ .RelPermalink }}{{ end }}">{{ .File.ContentBaseName }}</a>
     {{- with .Pages.ByWeight }}

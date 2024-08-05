@@ -99,50 +99,90 @@ details + hr {
     margin-top: 0;
 }
 
-body > header {
-    position: sticky;
-    position: -webkit-sticky;
-    top: 0;
-    z-index: 1;
+.header {
     padding: 0 1rem;
     background-color: var(--pico-background-color);
     color: var(--pico-color);
 }
 
-body > header nav {
+.header.wide {
+    display: none;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 1;
     white-space: nowrap;
 }
 
-body > header nav li {
+@media (min-width: 1280px) {
+    .header:not(.wide) {
+        display: none;
+    }
+
+    .header.wide {
+        display: inherit;
+    }
+}
+
+.header li {
     position: relative;
 }
 
-body > header nav li [role=button] {
-    margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
-}
-
-body > header nav li ul {
-    display: flex;
+.header aside {
     visibility: hidden;
     opacity: 0;
-    flex-direction: column;
     position: absolute;
+    top: 100%;
+    width: max-content;
+    max-width: 40vw;
+    padding: 0 var(--pico-nav-element-spacing-horizontal);
+    background-color: black;
+    z-index: 1;
+    transition: 0.2s ease-out;
+}
+
+.header li:hover aside,
+.header li:focus-within aside {
+    visibility: visible;
+    opacity: 1;
+}
+
+.main-menu ul {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    transition: 0.2s ease-out;
+}
+
+.main-menu li:hover ul,
+.main-menu li:focus-within ul {
+    visibility: visible;
+    opacity: 1;
+}
+
+.main-menu li:hover ul {
+    z-index: 1;
+}
+
+.header:not(.wide) .main-menu ul {
+    left: calc(100% + var(--pico-nav-element-spacing-horizontal));
+    top: 0;
+    width: max-content;
+    max-width: 50vw;
+    background-color: dimgray;
+}
+
+.header.wide .main-menu ul {
+    flex-direction: column;
     left: calc(50% + var(--pico-nav-element-spacing-horizontal));
     top: 100%;
     transform: translateX(-50%);
     padding: 0 var(--pico-nav-element-spacing-horizontal);
     background-color: black;
-    transition: 0.2s ease-out;
 }
 
-body > header nav li:hover ul,
-body > header nav li:focus-within ul {
-    visibility: visible;
-    opacity: 1;
-}
-
-body > header nav li:hover ul {
-    z-index: 1;
+.header.wide [role=button] {
+    margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
 }
 
 .banner {
