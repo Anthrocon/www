@@ -8,12 +8,11 @@
   Magic separator.
 */}}
 
-<!-- themes/anthropomorphic/layouts/shortcodes/columns.html -->
-
+{{- $opts := dict "display" "block" }}
 <div class="grid">
   {{ range split .Inner "<--->" }}
     <div>
-      {{ . | $.Page.RenderString }}
+      {{ $.Page.RenderString $opts . }}
     </div>
   {{ end }}
 </div>
