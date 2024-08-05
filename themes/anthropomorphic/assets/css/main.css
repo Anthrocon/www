@@ -185,6 +185,24 @@ details + hr {
     margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
 }
 
+.touch {
+    display: none;
+}
+
+@media (pointer: coarse) {
+    .no-touch {
+        display: none;
+    }
+
+    .touch {
+        display: inline-block;
+    }
+
+    aside li .touch {
+        display: block;
+    }
+}
+
 .banner {
     height: var(--banner-height);
     margin-top: calc(0rem - var(--pico-block-spacing-vertical));

@@ -1,6 +1,8 @@
 <ul class="main-menu">
   {{- range site.Sections.ByWeight }}
-  <li><a class="contrast" href="{{ with index .Pages.ByWeight 0 }}{{ .RelPermalink }}{{ end }}">{{ .File.ContentBaseName }}</a>
+  <li>
+    <a class="touch contrast" href="#">{{ .File.ContentBaseName }}</a>
+    <a class="no-touch contrast" href="{{ with index .Pages.ByWeight 0 }}{{ .RelPermalink }}{{ end }}">{{ .File.ContentBaseName }}</a>
     {{- with .Pages.ByWeight }}
     <ul>
       {{- range where . "LinkTitle" "ne" "" }}
