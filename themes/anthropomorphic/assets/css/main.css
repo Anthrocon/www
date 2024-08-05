@@ -78,6 +78,10 @@ details + hr {
     background-position: center;
 }
 
+.grid {
+    margin-bottom: var(--pico-typography-spacing-vertical);
+}
+
 .grid .lqip {
     width: initial;
 }
