@@ -1,6 +1,8 @@
 ---
 title: "Conbook Submissions"
 weight: 0
+aliases:
+    - "/conbook-submissions-2023"
 
 banner: "35128961672_778701e1e2_k_ArcticSkyWolf.jpg"
 banner_title: ""

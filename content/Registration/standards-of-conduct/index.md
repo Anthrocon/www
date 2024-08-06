@@ -1,6 +1,8 @@
 ---
 title: "Standards of Conduct"
 weight: 0
+aliases:
+    - "/rules-conduct"
 
 banner: "19562525078_9c4333bb72_o_KotaWinter.jpg"
 banner_title: ""

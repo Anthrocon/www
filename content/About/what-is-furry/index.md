@@ -1,6 +1,8 @@
 ---
 title: "What Is \"Furry\"?"
 weight: 0
+aliases:
+    - "/about-furry"
 
 banner: "2023+Nightdragon+AC+180.jpg"
 banner_title: ""

@@ -1,6 +1,8 @@
 ---
 title: "Charity"
 weight: 0
+aliases:
+    - "/charity/summaries"
 
 banner: "2023+Kavaeric+_DSC7804.jpg"
 banner_title: ""

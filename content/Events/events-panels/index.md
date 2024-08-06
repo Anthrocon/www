@@ -1,6 +1,8 @@
 ---
 title: "Events and Panels"
 weight: 0
+aliases:
+    - "/events"
 
 banner: "2023+Kavaeric+_DSC8394.jpg"
 banner_title: ""
