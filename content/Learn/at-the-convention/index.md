@@ -1,5 +1,6 @@
 ---
 title: "Convention Guides"
+linkTitle: "At the convention"
 weight: 0
 
 banner: "2022+Luau+ANA_0004.jpg"

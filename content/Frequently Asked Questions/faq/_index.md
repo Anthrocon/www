@@ -1,5 +1,6 @@
 ---
 title: "General Questions - FAQs"
+linkTitle: "General Questions"
 weight: 0
 
 banner: "AC+2022-272.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Conbook Submissions [Closed]"
+linkTitle: "Submissions [Closed]"
 weight: 0
 
 banner: ""

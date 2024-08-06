@@ -1,5 +1,6 @@
 ---
 title: "Anthrocon Parade & Block Party"
+linkTitle: "Parade & Block Party"
 weight: 0
 
 banner: "2023+Blue_parade-102.jpg"
