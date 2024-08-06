@@ -1,6 +1,6 @@
 ---
 title: "Anthrocon 2025 Registration"
-weight: 0
+weight: 10
 
 banner: "2022+Randorn+_Z9N3518.jpg"
 banner_title: "Attend Anthrocon 2024"

@@ -1,6 +1,6 @@
 ---
 title: "Events and Panels"
-weight: 0
+weight: 10
 aliases:
     - "/events"
 
