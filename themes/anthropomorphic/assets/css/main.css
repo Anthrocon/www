@@ -173,7 +173,7 @@ details + hr {
     top: 0;
     width: max-content;
     max-width: 50vw;
-    background-color: dimgray;
+    background-color: #373C44;
 }
 
 .header.wide .main-menu ul {
