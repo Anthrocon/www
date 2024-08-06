@@ -66,7 +66,7 @@
 {{- $lqipB64 := $lqip.Content | base64Encode }}
 {{- $lqipDiv := printf "background-image: url(data:image/jpeg;base64,%s);" $lqipB64 }}
 
-<header>
+<header data-theme="dark">
     <div class="banner">
         <div class="lqip" style="{{ $lqipDiv | safeCSS }}">
             <picture>

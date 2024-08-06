@@ -235,18 +235,13 @@ details + hr {
     text-align: center;
 }
 
-.banner > :not(.lqip) h1,
-.banner > :not(.lqip) p {
-    color: white;
-}
-
 .banner .attr {
     position: relative;
     top: calc(-1lh - 2 * var(--pico-spacing));
     padding: var(--pico-spacing);
     text-align: right;
     white-space: nowrap;
-    text-shadow: white 0 0 8px;
+    text-shadow: black 0 0 1rem;
 }
 
 footer {
