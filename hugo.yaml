@@ -41,6 +41,14 @@ permalinks:
     get-involved: "/:sections[1:]/:slugorfilename/"
     learn: "/:sections[1:]/:slugorfilename/"
     about: "/:sections[1:]/:slugorfilename/"
+    tips--guides---planning: "/:sections[1:]/:slugorfilename/"
+    tips--guides---budgeting: "/:sections[1:]/:slugorfilename/"
+    tips--guides---con-experience: "/:sections[1:]/:slugorfilename/"
+    tips--guides---fursuiting: "/:sections[1:]/:slugorfilename/"
+    frequently-asked-questions: "/:sections[1:]/:slugorfilename/"
+    conbook: "/:sections[1:]/:slugorfilename/"
+    dealers: "/:sections[1:]/:slugorfilename/"
+    charity-archive: "/:sections[1:]/:slugorfilename/"
 
   section:
     registration: "/:sections[1:]/"
@@ -50,6 +58,14 @@ permalinks:
     get-involved: "/:sections[1:]/"
     learn: "/:sections[1:]/"
     about: "/:sections[1:]/"
+    tips--guides---planning: "/:sections[1:]/"
+    tips--guides---budgeting: "/:sections[1:]/"
+    tips--guides---con-experience: "/:sections[1:]/"
+    tips--guides---fursuiting: "/:sections[1:]/"
+    frequently-asked-questions: "/:sections[1:]/"
+    conbook: "/:sections[1:]/"
+    dealers: "/:sections[1:]/"
+    charity-archive: "/:sections[1:]/"
 
 pluralizeListTitles: false
 privacy:
