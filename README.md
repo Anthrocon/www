@@ -85,4 +85,4 @@ Press Ctrl + C to stop the server when you're done.
 
 ### Website content
 
-- All rights reserved. © Copyright Anthrocon, Inc., 2023.
+- All rights reserved. © Copyright Anthrocon, Inc., 2024.
