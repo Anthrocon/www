@@ -1,6 +1,9 @@
 ---
 title: "Shuttle Buses"
 weight: 0
+aliases:
+    - "/shuttle"
+    - "/shuttles"
 
 banner: "2023+BlueHasia+Day+1-102.jpg"
 banner_title: ""

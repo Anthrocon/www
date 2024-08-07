@@ -1,5 +1,6 @@
 ---
 title: "Convention Guides"
+linkTitle: "Tips and Guides"
 weight: 0
 
 banner: "_MG_3712.jpg"

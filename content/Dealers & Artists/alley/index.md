@@ -1,6 +1,9 @@
 ---
 title: "Artists Alley"
 weight: 0
+aliases:
+    - "/artists-alley"
+    - "/Alley"
 
 banner: "_DSC0003.jpg"
 banner_title: ""

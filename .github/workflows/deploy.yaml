@@ -12,4 +12,4 @@ jobs:
     name: Call workflow
     uses: Anthrocon/actions-deploy/.github/workflows/deploy.yaml@main
     with:
-      hugo-version: "0.125.7"
+      hugo-version: "0.131.0"

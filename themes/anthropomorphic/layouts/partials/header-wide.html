@@ -1,0 +1,8 @@
+<nav>
+  <ul>
+    {{ with resources.Get "logo.svg" }}
+    <li><a href="{{ site.Home.RelPermalink }}"><img src="{{ .RelPermalink }}" alt="{{ site.Copyright }}" width="194px" height="100px"></a></li>
+    {{ end }}
+  </ul>
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</nav>

@@ -1,0 +1,5 @@
+{{- define "main" }}
+    {{- with .Site.GetPage "/HTTP 404" }}
+        {{- partial "main.html" . }}
+    {{- end }}
+{{- end -}}

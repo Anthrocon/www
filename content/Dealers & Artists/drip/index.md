@@ -1,6 +1,8 @@
 ---
 title: "Dealers Room Info Packet"
 weight: 0
+aliases:
+    - "/DRIP"
 
 banner: "2023+BlueHasia+Day+2-166.jpg"
 banner_title: ""

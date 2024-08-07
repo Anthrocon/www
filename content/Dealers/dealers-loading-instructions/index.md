@@ -1,6 +1,8 @@
 ---
 title: "Driving and Loading Instructions for Dealers"
 weight: 0
+aliases:
+    - "/driving-directions-to-loading-dock"
 
 banner: "2023+Nightdragon+AC+033.jpg"
 banner_title: ""

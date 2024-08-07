@@ -1,5 +1,6 @@
 ---
 title: "Anthrocon - Our Organization"
+linkTitle: "Our Organization"
 weight: 0
 
 banner: "ac2023-lionelleupold-BU2A4555+-+Copy.jpg"

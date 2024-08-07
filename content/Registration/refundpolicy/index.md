@@ -1,8 +1,6 @@
 ---
 title: "Refund Policies"
 weight: 0
-aliases:
-    - "/refund-policy"
 
 banner: "photo_2022-07-11_20-36-05.jpg"
 banner_title: ""

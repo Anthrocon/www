@@ -1,6 +1,8 @@
 ---
 title: "Art Show"
 weight: 0
+aliases:
+    - "/art-show"
 
 banner: "2022+Randorn+_D5N0478.jpg"
 banner_title: ""

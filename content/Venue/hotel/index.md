@@ -1,6 +1,8 @@
 ---
 title: "Hotels for Anthrocon"
 weight: 0
+aliases:
+    - "/hotels"
 
 banner: "_DSC9447+3K.jpg"
 banner_title: ""

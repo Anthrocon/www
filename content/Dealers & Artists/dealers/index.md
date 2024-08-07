@@ -1,6 +1,8 @@
 ---
 title: "Dealers Room"
 weight: 0
+aliases:
+    - "/dealer"
 
 banner: "2023+BlueHasia+Day+2-166.jpg"
 banner_title: ""
