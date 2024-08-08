@@ -2,9 +2,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>
   {{- if .IsHome }}
-    {{- site.Title }}
+    {{- site.Title | title }}
   {{- else }}
-    {{- printf "%s | %s" .Title site.Title }}
+    {{- (printf "%s | %s" .Title site.Title) | title }}
   {{- end -}}
 </title>
 <link rel="icon" href="{{ site.BaseURL }}favicon.ico" type="image/x-icon" />
