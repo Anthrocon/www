@@ -1,5 +1,9 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+{{- $summary := index (split .Content "</p>") 0 }}
+{{- $summary = index (split $summary "<p>") 1 }}
+{{- $summary = $summary | plainify }}
+<meta name="description" content="{{ $summary }}" />
 <title>
   {{- if .IsHome }}
     {{- site.Title | title }}
