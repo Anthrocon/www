@@ -10,6 +10,7 @@ on:
 env:
   VERSION: '4.2'
   HUGO: '0.131.0'
+  PAGEFIND: '1.1.0'
 
 defaults:
   run:
@@ -56,6 +57,13 @@ jobs:
           || wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO }}/hugo_extended_${{ env.HUGO }}_linux-amd64.deb
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
+      - name: Install pagefind CLI
+        run: >
+          [[ -f ${{ runner.temp }}/pagefind.tar.xz ]]
+          || wget -O ${{ runner.temp }}/pagefind.tar.xz https://github.com/CloudCannon/pagefind/releases/download/v${{ env.HUGO }}/pagefind-v${{ env.PAGEFIND }}-x86_64-unknown-linux-musl.tar.gz
+          && tar -xJf ${{ runner.temp }}/pagefind.tar.xz
+          && sudo cp -r ${{ runner.temp }}/pagefind/* /usr/local
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -68,6 +76,11 @@ jobs:
           --enableGitInfo
           --gc
           --minify
+
+      - name: Build search
+        run: >
+          pagefind 
+          --site public
 
       - name: Upload artifact
         if: github.ref == 'refs/heads/main'
