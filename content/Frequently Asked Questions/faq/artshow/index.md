@@ -1,6 +1,8 @@
 ---
 title: "Art Show Questions"
 weight: 0
+aliases:
+    - "/artshow/faq"
 
 banner: "2022+Randorn+_D5N0414.jpg"
 banner_title: ""

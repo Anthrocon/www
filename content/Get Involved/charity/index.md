@@ -1,6 +1,8 @@
 ---
 title: "Charity"
 weight: 0
+aliases:
+    - "/charity/summaries"
 
 banner: "2023+Kavaeric+_DSC7804.jpg"
 banner_title: ""
@@ -13,7 +15,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
-{{< center >}}[**202**](#2024-charity-gray-paws-sanctuary)[**4**](#2024-charity-gray-paws-sanctuary)[**Sponsored Charity**](#2024-charity-gray-paws-sanctuary) - [**Bucket Brigade**](#bucket-brigade) - [**Charity Auction**](#charity-auction-and-raffle) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[**202**](#2024-charity-gray-paws-sanctuary)[**4**](#2024-charity-gray-paws-sanctuary) [**Sponsored Charity**](#2024-charity-gray-paws-sanctuary) - [**Bucket Brigade**](#bucket-brigade) - [**Charity Auction**](#charity-auction-and-raffle) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
 
 ***
 
@@ -46,7 +48,7 @@ Most of the senior dogs rescued into sanctuary, or placed in Forever Foster Home
 Gray Paws is committed to providing the best quality of life for senior dogs with high quality care. When the time comes, they provide palliative and hospice care. With the help of our dedicated veterinary partners, Gray Paws lets senior dogs go to the “Rainbow Bridge” when they have lived the fullest life possible. Gray Paws will be using donation money to expand their endeavors in rescuing and rehoming senior dogs and providing lifetime care for their rescues, as well as support veterinary bills for additional senior dogs.
 
 {{< columns >}}
-{{< center >}}{{< button href="https://graypaws.org/" >}}Gray Paws website{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://graypaws.org/anthrocon/" >}}Gray Paws website{{< /button >}}{{< /center >}}
 
 <--->
 
@@ -58,8 +60,6 @@ Gray Paws is committed to providing the best quality of life for senior dogs wit
 {{< center >}}## Bucket Brigade{{< /center >}}
 
 At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade - and we’d love you to be a part of it.
-
-{{< center >}}{{< button href="/charity-brigade" >}}Sign ups for bucket Brigade{{< /button >}}{{< /center >}}
 
 ***
 

@@ -11,10 +11,11 @@ banner_url: ""
 
 {{< center >}}# Anthrocon Charity Donation History{{< /center >}}
 
-The Charity Auction at Anthrocon started when the convention began back in 1997. Over the years, **Anthrocon has raised over $547,000 for various charities**. Anthrocon's Charity Auction has consistently been among the highest performing fandom Charity events by dollar amount annually. In 2009, a raffle was added.
+The Charity Auction at Anthrocon started when the convention began back in 1997. Over the years, **Anthrocon has raised over $647,000 for various charities**. Anthrocon's Charity Auction has consistently been among the highest performing fandom Charity events by dollar amount annually. In 2009, a raffle was added.
 
 Here are the Anthrocon charity event summaries from past years:
 
+- [2024: Gray Paws Sanctuary - $100,000+](https://x.com/anthrocon/status/1810079804781207565)
 - [2023: Rabbit Wranglers - $52,000+](https://twitter.com/anthrocon/status/1675905187301539840)
 - [2022: Wildlife Works Inc. - $41,553](https://twitter.com/anthrocon/status/1543728663212032002)
 - [2021: Wildlife Works Inc. - $25,130 (Online Event)](https://twitter.com/anthrocon/status/1411856661682262019)

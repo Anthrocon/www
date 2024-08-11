@@ -1,6 +1,8 @@
 ---
 title: "Dealers Room Info Packet"
 weight: 0
+aliases:
+    - "/DRIP"
 
 banner: "2023+BlueHasia+Day+2-166.jpg"
 banner_title: ""
@@ -398,7 +400,7 @@ All Dealerships will be given a check-out form on Saturday or Sunday of the conv
 
 ## Administrative Details
 
-- Issues arising prior to the convention should ideally be emailed to [{{< underline >}}**dealers@anthrocon.org**{{< /underline >}}](mailto:dealers@anthrocon.org). For simple questions, there is a Dealer Telegram group with several staff members present; formal business needs to be conducted by email or phone. While the Dealers Room does have a Twitter account, it is not a good primary way to make the staff aware of issues, and matters sent via Direct Message may be missed. During the convention, we recommend speaking directly to the Dealers Room Staff or other appropriate staff. After the convention ends, email again becomes the preferred method of communication.
+- Issues arising prior to the convention should ideally be emailed to [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org). For simple questions, there is a Dealer Telegram group with several staff members present; formal business needs to be conducted by email or phone. While the Dealers Room does have a Twitter account, it is not a good primary way to make the staff aware of issues, and matters sent via Direct Message may be missed. During the convention, we recommend speaking directly to the Dealers Room Staff or other appropriate staff. After the convention ends, email again becomes the preferred method of communication.
 - All decisions made by the Dealers Room Director as to the appropriateness of display, merchandise, conduct, sales, or any other issue will be final. Refusal to follow their decision may result in ejection.
 - The Dealers Room Director reserves the right to revoke Dealer status, Dealer Assistant status, Dealer Tables, entire Dealerships, Memberships, Dealers Room access, or loading dock access at any time for any reason, without refund.
 - **Any person who accepts a Dealership at Anthrocon is understood to have read the rules in the Dealer Rules & Information Packet (DRIP), as well as the complete and most recent** [**Anthrocon Standards of Conduct**](/standards-of-conduct)**, and has agreed to abide by them. Anthrocon, Inc. also reserves the right to amend these rules at any time without prior or posted notice and reserves the sole right of interpretation.**

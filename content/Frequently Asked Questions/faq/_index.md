@@ -1,6 +1,12 @@
 ---
 title: "General Questions - FAQs"
+linkTitle: "General Questions"
 weight: 0
+aliases:
+    - "/faq/date"
+    - "/faq/minors"
+    - "/help"
+    - "/faqs"
 
 banner: "AC+2022-272.jpg"
 banner_title: ""

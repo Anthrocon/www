@@ -1,12 +1,26 @@
 {{/* Shortcode renders text inside a CSS link button.
 
   relref
-  Link internal path.
+  Link internal resource.
 
   href
   Link external URL.
 */}}
 
-<a href="{{ .Get "href" }}" role="button">
+{{- $src := "" }}
+
+{{- with .Get "relref" }}
+  {{- $src = ($.Page.Resources.Get ($.Get "relref")).RelPermalink }}
+{{- end }}
+
+{{- if not $src }}
+  {{- $src = .Get "href" }}
+{{- end }}
+
+{{- if not $src }}
+  {{- $src = .Get 0 }}
+{{- end -}}
+
+<a href="{{ $src }}" role="button">
   {{- .Inner | markdownify -}}
 </a>

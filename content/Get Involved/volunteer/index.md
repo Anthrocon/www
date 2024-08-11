@@ -1,6 +1,6 @@
 ---
 title: "Volunteer"
-weight: 0
+weight: 10
 
 banner: "2022+Randorn+_Z9N3204.jpg"
 banner_title: ""
@@ -15,7 +15,7 @@ banner_url: "https://www.randorn.com"
 
 {{< center >}}{{< button href="https://forms.gle/sDWWYA6z3vwYDaBD9" >}}Apply online{{< /button >}}{{< /center >}}
 
-{{< center >}}[** Open positions**](#volunteer-positions) - [**Volunteer incentives**](#incentives-for-volunteering) - [**Contact volunteers team**](#contact-the-volunteers-team){{< /center >}}
+{{< center >}}[**Open positions**](#volunteer-positions) - [**Volunteer incentives**](#incentives-for-volunteering) - [**Contact volunteers team**](#contact-the-volunteers-team){{< /center >}}
 
 ***
 

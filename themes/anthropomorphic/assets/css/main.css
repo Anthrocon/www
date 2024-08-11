@@ -54,14 +54,14 @@ details + hr {
 
 @media (min-width: 768px) {
     .float-left {
-        width: 40%;
+        width: 40% !important;
         float: left;
         margin-right: var(--pico-spacing);
         margin-bottom: var(--pico-spacing);
     }
 
     .float-right {
-        width: 40%;
+        width: 40% !important;
         float: right;
         margin-bottom: var(--pico-spacing);
         margin-left: var(--pico-spacing);
@@ -76,6 +76,10 @@ details + hr {
     width: fit-content;
     background-size: cover;
     background-position: center;
+}
+
+.grid {
+    margin-bottom: var(--pico-typography-spacing-vertical);
 }
 
 .grid .lqip {
@@ -99,22 +103,117 @@ details + hr {
     margin-top: 0;
 }
 
-body > header {
-    position: sticky;
-    position: -webkit-sticky;
-    top: 0;
-    z-index: 1;
+.header {
     padding: 0 1rem;
     background-color: var(--pico-background-color);
     color: var(--pico-color);
 }
 
-body > header nav {
+.header.wide {
+    display: none;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 1;
     white-space: nowrap;
 }
 
-body > header nav li [role=button] {
+@media (min-width: 1280px) {
+    .header:not(.wide) {
+        display: none;
+    }
+
+    .header.wide {
+        display: inherit;
+    }
+}
+
+.header li {
+    position: relative;
+}
+
+.header aside {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    top: 100%;
+    width: max-content;
+    max-width: 40vw;
+    padding: 0 var(--pico-nav-element-spacing-horizontal);
+    background-color: black;
+    z-index: 1;
+    transition: 0.2s ease-out;
+}
+
+.header li:hover aside,
+.header li:focus-within aside {
+    visibility: visible;
+    opacity: 1;
+}
+
+.main-menu ul {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    transition: 0.2s ease-out;
+}
+
+.main-menu > li {
+    transition: 0.2s ease-out;
+}
+
+.main-menu > li:hover,
+.main-menu > li:focus-within {
+    background-color: #3B3B3B;
+}
+
+.main-menu li:hover ul,
+.main-menu li:focus-within ul {
+    visibility: visible;
+    opacity: 1;
+}
+
+.main-menu li:hover ul {
+    z-index: 1;
+}
+
+.header:not(.wide) .main-menu ul {
+    left: calc(100% + var(--pico-nav-element-spacing-horizontal));
+    top: 0;
+    width: max-content;
+    max-width: 50vw;
+    background-color: #373C44;
+}
+
+.header.wide .main-menu ul {
+    flex-direction: column;
+    left: calc(50% + var(--pico-nav-element-spacing-horizontal));
+    top: 100%;
+    transform: translateX(-50%);
+    padding: 0 var(--pico-nav-element-spacing-horizontal);
+    background-color: black;
+}
+
+.header.wide [role=button] {
     margin-bottom: calc(var(--pico-nav-link-spacing-vertical) * -1);
+}
+
+.touch {
+    display: none;
+}
+
+@media (pointer: coarse) {
+    .no-touch {
+        display: none;
+    }
+
+    .touch {
+        display: inline-block;
+    }
+
+    aside li .touch {
+        display: block;
+    }
 }
 
 .banner {
@@ -145,9 +244,13 @@ body > header nav li [role=button] {
     text-align: center;
 }
 
-.banner > :not(.lqip) h1,
-.banner > :not(.lqip) p {
-    color: white;
+.banner .attr {
+    position: relative;
+    top: calc(-1lh - 2 * var(--pico-spacing));
+    padding: var(--pico-spacing);
+    text-align: right;
+    white-space: nowrap;
+    text-shadow: black 0 0 1rem;
 }
 
 footer {

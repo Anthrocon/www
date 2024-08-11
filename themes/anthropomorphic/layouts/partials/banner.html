@@ -1,0 +1,132 @@
+{{/*
+    Partial renders banner image and header above content.
+
+    banner
+        Image resource path relative to page bundle.
+
+    banner_alt
+        img alt description.
+
+    banner_hint
+        One of drawing, icon, photo, picture, or text. Pre-defined WebP processing parameters.
+
+    banner_filter
+        Additional image processing parameters.
+
+    banner_position
+        Default "33%". One of top, center, bottom, or <length-percentage>. Vertical position of image.
+
+    banner_title
+        h1 title renders centered in banner.
+
+    banner_caption
+        Markdown renders centered in banner under title.
+
+    banner_attr
+        Image attribution appears at bottom of banner.
+
+    banner_attrlink
+        URL for image attribution.
+*/}}
+
+{{- $cssHeight := 600 }}
+{{- $widths := slice 621 1055 1366 1600 1920 2400 3840 }}
+{{- $basicWidth := "1920" }}
+
+{{- $src := "" }}
+{{- with .Resources.Get .Params.banner }}
+    {{- $src = . }}
+{{- end }}
+
+{{- if $src }}
+
+{{- $hint := "" }}
+{{- with .Params.banner_hint }}
+    {{- $hint = printf " %s" . }}
+{{- end }}
+
+{{- $filter := "" }}
+{{- if hugo.IsProduction }}
+    {{- with .Params.banner_filter }}
+        {{- $filter = printf " %s" . }}
+    {{- end }}
+{{- else }}
+    {{- $filter = " NearestNeighbor" }}
+{{- end }}
+
+{{- $position := "33%" }}
+{{- with .Params.banner_position }}
+    {{- $position = . }}
+{{- end }}
+
+{{- $cssWidth := (mul $src.Width (div (float $cssHeight) $src.Height)) | math.Ceil | int }}
+{{- $htmlSizes := printf "(min-width: %dpx) 100vw, %dpx" $cssWidth $cssWidth }}
+
+{{- $resWidths := slice }}
+{{- if hugo.IsProduction }}
+    {{- $widthsCull := slice $cssWidth }}
+    {{- range $widths }}
+        {{- if gt . $cssWidth }}
+            {{- $widthsCull = $widthsCull | append . }}
+        {{- end }}
+    {{- end }}
+
+    {{- $widthsCull = $widthsCull | sort }}
+
+    {{- range $widthsCull }}
+        {{- $resWidths = $resWidths | append (string .) }}
+    {{- end }}
+{{- end }}
+
+{{- $lqip := $src.Process (printf "resize 24x jpg%s" $filter) }}
+{{- $lqipB64 := $lqip.Content | base64Encode }}
+{{- $lqipDiv := printf "background-image: url(data:image/jpeg;base64,%s);" $lqipB64 }}
+
+<header data-theme="dark">
+    <div class="banner">
+        <div class="lqip" style="{{ $lqipDiv | safeCSS }}">
+            <picture>
+                <source type="image/webp" srcset="
+                    {{- range $k, $e := $resWidths }}
+                        {{- if ge $src.Width . }}
+                            {{- if $k }}, {{ end }}
+                            {{- ($src.Process (printf "resize %sx webp%s%s" . $hint $filter)).RelPermalink }} {{ . }}w
+                        {{- end }}
+                    {{- end }}" sizes="{{ $htmlSizes }}">
+                <source type="image/jpeg" srcset="
+                    {{- range $k, $e := $resWidths }}
+                        {{- if ge $src.Width . }}
+                            {{- if $k }}, {{ end }}
+                            {{- ($src.Process (printf "resize %sx jpg%s" . $filter)).RelPermalink }} {{ . }}w
+                        {{- end }}
+                    {{- end }}" sizes="{{ $htmlSizes }}">
+                <img style="object-position: 50% {{ $position }};" src="
+                    {{- ($src.Process (printf "resize %sx jpg%s" $basicWidth $filter)).RelPermalink }}" alt="
+                    {{- with .Params.banner_alt }}
+                        {{- . }}
+                    {{- else }}
+                        {{- .Params.banner }}
+                    {{- end }}" width="{{ $src.Width }}" height="{{ $src.Height }}">
+            </picture>
+            {{- with .Params.banner_author }}
+            <div class="attr">
+                <p><i class="fa-solid fa-camera"></i> {{ with $.Params.banner_url }}<a class="contrast" href="{{ . }}">{{ end }}
+                    {{- . | markdownify }}
+                {{- if $.Params.banner_url }}</a>{{ end }}</p>
+            </div>
+            {{- end }}
+        </div>
+        {{- with .Params.banner_title }}
+        <div>
+            <h1>{{ . }}</h1>
+            {{- with $.Params.banner_caption }}
+            {{ . | $.RenderString (dict "display" "block") }}
+            {{- end }}
+            {{- with $.Params.banner_button }}
+            <p><a role="button" href="{{ $.Params.banner_button_link }}">{{ . }}</a></p>
+            {{- end }}
+        </div>
+        {{- end }}
+    </div>
+</header>
+{{- end -}}

@@ -1,16 +1,18 @@
-<ul>
+<ul class="main-menu">
   {{- range site.Sections.ByWeight }}
-  <li><a class="contrast" href="{{ with index .Pages.ByWeight 0 }}{{ .RelPermalink }}{{ end }}">{{ .File.ContentBaseName }}</a>
+  <li>
+    <a class="touch contrast" href="#">{{ .File.ContentBaseName | title }}</a>
+    <a class="no-touch contrast" href="{{ with index .Pages.ByWeight 0 }}{{ .RelPermalink }}{{ end }}">{{ .File.ContentBaseName | title }}</a>
     {{- with .Pages.ByWeight }}
     <ul>
       {{- range where . "LinkTitle" "ne" "" }}
-      <li><a class="contrast" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      <li><a class="contrast" href="{{ .RelPermalink }}">{{ .LinkTitle | title }}</a></li>
       {{- end }}
     </ul>
     {{- end }}
   </li>
   {{- end }}
   {{- with site.GetPage "/news" }}
-  <li><a role="button" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  <li><a role="button" href="{{ .RelPermalink }}">{{ .LinkTitle | title }}</a></li>
   {{- end }}
 </ul>
