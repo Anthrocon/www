@@ -1,4 +1,0 @@
-{{ with .Site.GetPage "/footer" }}
-  {{- .Content }}
-{{- end }}
-<p>© {{ time.Now | time.Format "2006" }}{{ if .Site.Copyright }} {{ .Site.Copyright }}{{ end }}</p>
