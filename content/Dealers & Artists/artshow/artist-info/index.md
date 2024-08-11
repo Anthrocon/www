@@ -23,4 +23,4 @@ If you cannot attend Anthrocon, you may enlist a friend or acquaintance to act a
 
 If you are on a tablet or mobile device or otherwise prefer to view the document directly, [**you may do so in Google Drive**](https://docs.google.com/document/d/1nO4BCd7wqiOF_vDkgl44JAQDmUr2FCAzjvFb9XtXWwY/edit?usp=sharing)[.](https://docs.google.com/document/d/1nO4BCd7wqiOF_vDkgl44JAQDmUr2FCAzjvFb9XtXWwY/edit)
 
-{{< html >}}<iframe src="https://docs.google.com/document/d/e/2PACX-1vSv54FnYsFk11tuOQcpWcTJbnC4_70PvpyEz2zevqA6I1-cHilRc4FSCC5fB30rbLKrXHmxrpomWDOe/pub?embedded=true" width="100%" height="1024"></iframe>{{< /html >}}
+{{< html >}}<iframe src="https://docs.google.com/document/d/e/2PACX-1vSv54FnYsFk11tuOQcpWcTJbnC4_70PvpyEz2zevqA6I1-cHilRc4FSCC5fB30rbLKrXHmxrpomWDOe/pub?embedded=true" title="Art Show Reservations Information Packet (ASRIP)" width="100%" height="1024"></iframe>{{< /html >}}
