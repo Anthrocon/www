@@ -37,4 +37,4 @@ Text submissions may be sent as .TXT, .RTF, Microsoft Word .DOC, or Adobe PDF. T
 
 Your submission is tracked by your release form. Your submission and release form must be received no later than **May 1, 2024**.
 
-**The Release Form is** [**here**](https://forms.gle/MUgWJMknFyBqjrVh7)**.** *If your attachment is bigger than the form’s limit, please send a down-sized version via the Form and a full-size version to publications@anthrocon.org.*
+[**The Release Form is here**](https://forms.gle/MUgWJMknFyBqjrVh7)**.** *If your attachment is bigger than the form’s limit, please send a down-sized version via the Form and a full-size version to publications@anthrocon.org.*
