@@ -158,6 +158,15 @@ details + hr {
     transition: 0.2s ease-out;
 }
 
+.main-menu > li {
+    transition: 0.2s ease-out;
+}
+
+.main-menu > li:hover,
+.main-menu > li:focus-within {
+    background-color: #3B3B3B;
+}
+
 .main-menu li:hover ul,
 .main-menu li:focus-within ul {
     visibility: visible;
