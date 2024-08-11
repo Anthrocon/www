@@ -78,7 +78,10 @@ privacy:
   youtube:
     privacyEnhanced: true
 
-theme: "anthropomorphic"
+module:
+  imports:
+  - path: github.com/anthrocon/anthropomorphic
+
 timeout: "600s"
 timeZone: "America/New_York"
 title: "Anthrocon 2024: AnthroCoaster - July 4-7, 2024"
