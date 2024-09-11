@@ -3,6 +3,7 @@ title: "Events and Panels"
 weight: 10
 aliases:
     - "/events"
+    - "/programming"
 
 banner: "2023+Kavaeric+_DSC8394.jpg"
 banner_title: ""
