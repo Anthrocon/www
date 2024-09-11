@@ -111,8 +111,8 @@ details + hr {
 
 .header.wide {
     display: none;
-    position: sticky;
     position: -webkit-sticky;
+    position: sticky;
     top: 0;
     z-index: 1;
     white-space: nowrap;

@@ -1,7 +1,7 @@
 <nav>
     <ul>
         <li>
-            <a class="contrast" href="#"><i class="fa-solid fa-bars"></i></a>
+            <a class="contrast" href="#" title="Main Menu"><i class="fa-solid fa-bars"></i></a>
             <aside>
                 <nav>
                     {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
@@ -11,7 +11,11 @@
     </ul>
     <ul>
         {{- with resources.Get "logo.svg" }}
-        <li><a href="{{ site.Home.RelPermalink }}"><img src="{{ .RelPermalink }}" alt="{{ site.Copyright }}" width="97px" height="50px"></a></li>
+            {{- $logo := . }}
+            {{- if ne hugo.Environment "development" }}
+                {{- $logo = . | minify | fingerprint "md5" }}
+            {{- end }}
+        <li><a href="{{ site.Home.RelPermalink }}"><img src="{{ $logo.RelPermalink }}" alt="{{ site.Copyright }}" width="97px" height="50px"></a></li>
         {{- end }}
     </ul>
     <ul>
