@@ -31,7 +31,6 @@ Attendees can also consider renting the necessary equipment from some of these l
 
 - [**Mobility Plus**](https://mobilityplus.com/Pittsburgh) (call 1-412-426-9144 and mention **Anthrocon** for a 10% discount!)
 - [**Washington Medical Equipment**](https://www.washingtonmedical.net/rentals).
-- [**Riteway Mobility**](https://ritewaymobility.com/rentals/)
 - [**Cloud of Goods**](https://www.cloudofgoods.com/product-rentals/mobility)
 - [**Rent It Today**](https://www.rentittoday.com/medical-equipment-rentals/mobility-scooter-rental-pittsburgh-pa-14693)
 
