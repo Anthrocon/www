@@ -10,7 +10,7 @@
     <header>
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     </header>
-    <p>{{ .Summary | truncate 150 }}</p>
+    <p>{{ .Summary | plainify | truncate 150 }}</p>
     <footer>
       {{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{- $dateHuman := .Date | time.Format ":date_long" }}
