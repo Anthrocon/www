@@ -1,5 +1,9 @@
 ---
 title: "404: Not Found!"
+build:
+    list: never
+    render: never
+
 weight: 0
 
 banner: "44217547272_4fb8b579d0_k_exkhaniber.jpg"
