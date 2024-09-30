@@ -1,8 +1,0 @@
-baseURL: "https://example.org/"
-languageCode: "en-US"
-title: "Anthropomorphic"
-
-module:
-  hugoVersion:
-    extended: true
-    min: "0.123.0"

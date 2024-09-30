@@ -1,0 +1,3 @@
+[submodule "themes/anthropomorphic"]
+	path = themes/anthropomorphic
+	url = https://github.com/Anthrocon/hugo-anthropomorphic
