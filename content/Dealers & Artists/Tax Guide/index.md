@@ -18,9 +18,8 @@ This guide is written to help navigate the process of obtaining a “Transient V
 
 ## Applying for a new PA Tax License:
 
-- Go to MyPath: <https://mypath.pa.gov/> and find the “Pennsylvania Online Business Tax Registration” link under the “Registration” header, here:
-  {{< img src="image1.png" float="right" hint="text" >}}
-- Select “Business Tax Registration” to move to the next step
+- {{< img src="image1.png" float="right" hint="text" >}}Go to MyPath: <https://mypath.pa.gov/> and find the “Pennsylvania Online Business Tax Registration” link under the “Registration” header, here:
+- Select “Business Tax Registration” to move to the next step.
 - Review the information as needed and select “Next” in the bottom right hand corner.
 - Enter your business information in the appropriate boxes. If you are unsure as to what type of business you should apply as, please call MyPath for clarification.
 - Enter your address and click “Verify Address” when prompted and hit Next.

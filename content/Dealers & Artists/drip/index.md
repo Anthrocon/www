@@ -172,14 +172,14 @@ DA memberships may also be Sponsors, Supersponsors or Ultrasponsors. DA Membersh
 
 **Endcap tables:** These are identical to Standard tables, except they are located on the end of a row. They may be purchased in Single, Double, Quad, or Hextuple sizes.
 
-| Table Size | Space (Tables Only) | Space (Behind)* | Seats Provided |
+| Table Size | Space (Tables Only) | Space (Behind)\* | Seats Provided |
 | :----: | :----: | :----: | :----: |
 | Single | 8’x30” | 8’6”x6’ | 2 |
 | Double | 16x30” | 21’x6’ | 4 |
 | Quad | 2 sections 8’x30”<br>1 section 16’x30” | approx. 15’x21’ | 8 |
 | Hextuple | 3 sections 16’x30” | approx. 23’’x21’ | 12 |
 
-Quad and Hextuple dealerships should maintain access to the nearest egress, and if necessary may move their side tables to do so. Changes should be presented to the Dealers Room Staff for approval in advance.
+\* Quad and Hextuple dealerships should maintain access to the nearest egress, and if necessary may move their side tables to do so. Changes should be presented to the Dealers Room Staff for approval in advance.
 
 Electrical power is NOT included with Standard or Endcap tables; it must be purchased from the convention center. Information will be made available on the website, as well as by email to approved dealers, when the order forms for 2025 are available.
 
