@@ -13,8 +13,6 @@ banner_url: "https://www.randorn.com"
 
 {{< center >}}Anthrocon is made possible by the help of volunteers - every department is comprised of staff and volunteers pooling their different and unique skill sets to make sure things run smoothly, and the best they can.{{< /center >}}
 
-{{< center >}}{{< button href="https://forms.gle/sDWWYA6z3vwYDaBD9" >}}Apply online{{< /button >}}{{< /center >}}
-
 {{< center >}}[**Open positions**](#volunteer-positions) - [**Volunteer incentives**](#incentives-for-volunteering) - [**Contact volunteers team**](#contact-the-volunteers-team){{< /center >}}
 
 ***
