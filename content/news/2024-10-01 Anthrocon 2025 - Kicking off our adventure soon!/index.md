@@ -14,8 +14,6 @@ banner_author: "Kaze"
 banner_url: ""
 ---
 
-# Anthrocon 2025 - Kicking off our adventure soon!
-
 We’re excited to have you embark with us on our s-UwU-bmarine for Anthrocon 2025: Deep Sea Adventures! As our team continues to update the website in preparation of opening, here are some of the important updates to know as we start off this new convention cycle.
 
 Firstly, we want to thank everyone that took their time to provide feedback in our 2024 Attendee Survey Feedback. We had over *2,200 responses* and took away many important themes that our attendees want prioritized, and we look forward to improving as best we can with them in mind.
