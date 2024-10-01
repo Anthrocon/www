@@ -247,7 +247,7 @@ We will process the Waitlist based on the same curated criteria. Let us know you
 
 Once a table comes open, we will email the next Dealer on the waitlist that has a matching table type. There will be a limited time for response, generally a week to 14 days. Once the Dealer indicates their willingness to purchase a table, the Dealership will be approved and the payment will be required via the registration portal. All payments must be made by credit or debit card. **There is no need to email the Dealers Room staff about table openings; they will notify you when a table is available, and they will not be able to tell your position on the waitlist.**
 
-In the event you are unable to get a table from the waitlist, any Dealer or Dealer Assistant Membership can become an Attending Membership at the listed price. Similarly, Dealer-Sponsors can be Sponsors and Dealer-Supersponsors can be Supersponsors. However, we will not convert memberships unless the request is emailed prior to the close of Pre-registration on June 13th, 2025. These Memberships may also be canceled until the close of Pre-registration; please email <refunds@anthrocon.org> if a refund is needed.
+In the event you are unable to get a table from the waitlist, any Dealer or Dealer Assistant Membership can become an Attending Membership at the listed price. Similarly, Dealer-Sponsors can be Sponsors and Dealer-Supersponsors can be Supersponsors. However, we will not convert memberships unless the request is emailed prior to the close of Pre-registration on June 15th, 2025. These Memberships may also be canceled until the close of Pre-registration; please email <refunds@anthrocon.org> if a refund is needed.
 
 If you find that you will not need or cannot use any or all of your Dealership space, please inform us as soon as possible. The earlier we know, the easier it will be for a replacement Dealer to make travel plans for Anthrocon. It is against Anthrocon's policy to transfer an unwanted table to another person to bypass the waiting list.
 
@@ -255,7 +255,7 @@ Table or Memberships cancellations should be directed to both <dealers@anthrocon
 
 Full refunds will be given for 2025 tables that are canceled on or before April 30th, 2025. No refunds will be given for tables canceled after this date!
 
-Full refunds will be given for 2025 Memberships that are canceled on or before June 8th, 2025. No refunds will be given for memberships canceled after this date! Neither Memberships nor Dealerships can be ‘rolled over’ to the next year’s convention, and ‘vouchers’ are no longer provided.
+Full refunds will be given for 2025 Memberships that are canceled on or before June 13th, 2025. No refunds will be given for memberships canceled after this date! Neither Memberships nor Dealerships can be ‘rolled over’ to the next year’s convention, and ‘vouchers’ are no longer provided.
 
 There are occasionally last-minute cancellations that cannot be dealt with before the close of pre-registration. Anthrocon will offer these tables on a first-come first-serve basis to appropriate new potential Dealers or as upgrade options for Dealers seeking a larger table. These tables will be available on Thursday at noon.
 
