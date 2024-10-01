@@ -13,8 +13,6 @@ banner_url: "https://www.randorn.com"
 
 {{< center >}}Anthrocon is made possible by the help of volunteers - every department is comprised of staff and volunteers pooling their different and unique skill sets to make sure things run smoothly, and the best they can.{{< /center >}}
 
-{{< center >}}{{< button href="https://forms.gle/sDWWYA6z3vwYDaBD9" >}}Apply online{{< /button >}}{{< /center >}}
-
 {{< center >}}[**Open positions**](#volunteer-positions) - [**Volunteer incentives**](#incentives-for-volunteering) - [**Contact volunteers team**](#contact-the-volunteers-team){{< /center >}}
 
 ***
@@ -47,7 +45,7 @@ For **staff roles**, there may be additional requirements before being accepted 
 
 While we can’t pay our volunteers for their service, we can at least try to make your efforts worthwhile. You will be given a timesheet and a ribbon when you sign up, and as you work, we will ask you to keep track of your hours and return the timesheet to Room 309 of the convention center. The more you help us out, the more rewards you’ll get:
 
-- **Six (6) hours during the convention**: We’ll have some unique swag to distribute as a token of our appreciation.
+- **Six (6) hours during the convention**: We’ll give you a food or snack voucher.
 - **Twelve (12) hours during the convention**: We will give you a free Anthrocon T-shirt.
 - **Eighteen (18) hours**: We will give you a complimentary membership to Anthrocon next year.
 
@@ -60,4 +58,4 @@ If you have questions or ideas for volunteering, we’d love to hear from you!
 - [**Volunteer Email**](mailto:volunteer@anthrocon.org?subject=Volunteering%20for%20Anthrocon) - If you’re looking for information on how or what you could be involved with, let us know by emailing us!
 - At the convention - in our Convention Operations office, which is Room 309 in the convention center.
 - [**Telegram Channel**](https://t.me/acvolunteer) - When there is a need for volunteers, announcements will be made here.
-- [**@ACVolunteers**](https://twitter.com/ACVolunteers) on Twitter - The Anthrocon Volunteers Twitter feed, where volunteer announcements will be made.
+- [**Discord Server**](https://discord.gg/anthrocon-248272223868157954) - Announcements for volunteers will also be made here.
