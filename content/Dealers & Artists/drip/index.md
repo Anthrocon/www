@@ -51,7 +51,7 @@ You are required to obtain and submit a Pennsylvania Tax ID with your applicatio
 
 If you do not sell anything requiring sales tax (see Obtaining a Pennsylvania Tax ID section below for details), please note “Tax ID not required” on your application. Staff will verify your merchandise is exempt before moving to curation.
 
-A guide to obtaining a PA tax ID can be found here: [**Pennsylvania Tax ID application Guide**]({{< relref "/Tax Guide" >}})
+A guide to obtaining a PA tax ID can be found here: [**Pennsylvania Tax ID application Guide**]({{< relref "/Dealers & Artists/Tax Guide" >}})
 
 ### Dealer Setup/Teardown
 
@@ -301,7 +301,7 @@ At the scheduled times, the Dealers Room will open to Members. Each day, there i
 
 On Friday, the Dealers Room will use a “rolling queue” or “Shinjuku Method” system to manage crowds, which breaks the queue into smaller groups managed by Public Safety. At 11:30 AM, Ultrasponsors, then Supersponsors, and finally Sponsors will be allowed into Hall B via a doorway in the north-eastern corner. This will be a controlled queue, and be complete before Noon. Once that queue has been cleared, General Attendees will be allowed to enter from Hall C. There will be a strict limit on how many people can be in this queue to stay under capacity, and our Public Safety staff will be controlling how fast people can enter to avoid a mob rush. The Dealers Staff will do our very best to keep dealers informed as the rolling open proceeds.
 
-Anthrocon does not provide wireless internet service for the Dealers Room. Instead, Dealers will need to purchase either daily or weekend access from the Convention Center’s showNet service directly. More information on using showNet can be found at [https://www.anthrocon.org/wireless-internet]({{< relref "/wireless-internet" >}}). Please note that the Dealers Room Staff will not be able to provide support for showNet, and dealers with questions or issues should contact showNet support directly.
+Anthrocon does not provide wireless internet service for the Dealers Room. Instead, Dealers will need to purchase either daily or weekend access from the Convention Center’s showNet service directly. More information on using showNet can be found at [https://www.anthrocon.org/wireless-internet]({{< relref "/Frequently Asked Questions/wireless-internet" >}}). Please note that the Dealers Room Staff will not be able to provide support for showNet, and dealers with questions or issues should contact showNet support directly.
 
 While the halls are monitored by security cameras, they are covering large areas of the room from significant height and the footage does not provide much detail. Dealers are allowed to place cameras at their tables for security purposes. These cameras should not be publicly streaming, and camera footage or stills must not be posted publicly online during or after the convention. If you feel camera footage needs to be reviewed by Anthrocon, please contact the Dealers Room Staff directly. Anthrocon cannot insure lost, damaged, or stolen items or provide security for your dealership.
 
