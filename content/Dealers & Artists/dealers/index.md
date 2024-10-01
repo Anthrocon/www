@@ -29,7 +29,7 @@ The 2025 Dealers List and Map is currently not available. Please check back at a
 
 ### **Dealers applications for Anthrocon 2025**
 
-Applications to vend at Anthrocon 2025 will be open from **October 21st at 11am Eastern Time** to **November 21st, 2024**. Reviews and acceptance or rejections will be finalized **by January 27th, 2025**. If you are a Dealer’s Assistant, you must wait until your Dealer is approved before applying separately for a Dealer Assistant badge.
+Applications to vend at Anthrocon 2025 will be open from **October 21st at 12 PM Eastern Time** to **November 21st, 2024**. Reviews and acceptance or rejections will be finalized **by January 27th, 2025**. If you are a Dealer’s Assistant, you must wait until your Dealer is approved before applying separately for a Dealer Assistant badge.
 
 ***
 
