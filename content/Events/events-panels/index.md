@@ -23,11 +23,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 <--->
 
-The full events schedule is now available through Sched. You can access the Sched below and find out all the times, locations, and details of events happening this year.
-
-{{< center >}}{{< button href="https://anthrocon.sched.org" >}}View schedule{{< /button >}}{{< /center >}}
-
-{{< center >}}{{< button href="/2024-convention-map" >}}Venue maps{{< /button >}}{{< /center >}}
+The full events schedule for the convention will be available closer to summer 2025.
 {{< /columns >}}
 
 ***
@@ -36,7 +32,7 @@ The full events schedule is now available through Sched. You can access the Sche
 
 Please read the following information carefully and if there are any questions do not hesitate to send us an email.
 
-**All event requests must be processed through our submission forms. This places your request into the queue to make sure that a member of the Events Team will see your request. Any request received via direct email, Telegram, Discord, Text Message, etc. will not be answered. Thank you for your understanding and cooperation in helping us better serve you, the community, and the convention.**
+**All event requests must be processed through our submission forms. This places your request into the queue to make sure that a member of the Events Team will see your request. Any request received via direct email, Telegram, Discord, text message, etc. will not be answered. Thank you for your understanding and cooperation in helping us better serve you, the community, and the convention.**
 
 Anthrocon **DOES NOT** provide the following items:
 
@@ -63,7 +59,7 @@ In submitting my panel request for Anthrocon 2024 I accept and acknowledge the f
 8. An event may not pass out any food or drink, store bought or homemade. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
 9. Panelists may not alter a room’s fundamental layout. If a room is set up as a classroom the tables must stay put; If it is set up as a lecture hall you may not move the chairs into a circle, etc. (Seating may be moved for accessibility, accommodation of additional panelists, etc.. but it must be returned to position at the end of your panel).
 
-\*\* *If your event has an equipment cost, such as an event where you make something with the attendees, please contact the Events Director (*[**events@anthrocon.org**](mailto:events@anthrocon.org)*).*
+\*\* *If your event has an equipment cost, such as an event where you make something with the attendees, please contact the Events Director ([**events@anthrocon.org**](mailto:events@anthrocon.org)).*
 
 **Finally - for your own benefit:**
 
@@ -81,7 +77,7 @@ If you’ve got an interesting topic or talent you’d love to share with our co
 
 {{< center >}}## Apply to host an event{{< /center >}}
 
-**Panel applications for Anthrocon 2024 are now closed**. Panelists who have been approved will be receiving email confirmations. If you have any questions about your application, please reach out to [**events@anthrocon.org**](mailto:events@anthrocon.org).
+Panel applications for Anthrocon 2025 are coming November 1st. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to [**events@anthrocon.org**](mailto:events@anthrocon.org).
 
 ***
 
