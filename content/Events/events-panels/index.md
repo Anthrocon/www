@@ -47,7 +47,7 @@ Anthrocon **DOES** provides the following items **based on room assignment**:
 
 ### ACKNOWLEDGEMENTS
 
-In submitting my panel request for Anthrocon 2024 I accept and acknowledge the following:
+In submitting my panel request for Anthrocon 2025 I accept and acknowledge the following:
 
 1. Submission does not guarantee acceptance.
 2. Equipment requests are not guaranteed.
