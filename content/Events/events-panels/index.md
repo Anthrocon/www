@@ -57,7 +57,7 @@ In submitting my panel request for Anthrocon 2025 I accept and acknowledge the f
 6. You will adhere to all Convention Policies Regarding Public Health.
 7. Any host found to be charging an admissions fee or cover charge will have their event shutdown and be barred from hosting future events with Anthrocon.\*\*
 8. An event may not pass out any food or drink, store bought or homemade. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
-9. Panelists may not alter a room’s fundamental layout. If a room is set up as a classroom the tables must stay put; If it is set up as a lecture hall you may not move the chairs into a circle, etc. (Seating may be moved for accessibility, accommodation of additional panelists, etc.. but it must be returned to position at the end of your panel).
+9. Panelists may not alter a room’s fundamental layout. If a room is set up as a classroom the tables must stay put; If it is set up as a lecture hall you may not move the chairs into a circle, etc. (Seating may be moved for accessibility or accommodation of additional panelists, but it must be returned to position at the end of your panel).
 
 \*\* *If your event has an equipment cost, such as an event where you make something with the attendees, please contact the Events Director ([**events@anthrocon.org**](mailto:events@anthrocon.org)).*
 
