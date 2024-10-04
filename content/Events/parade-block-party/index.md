@@ -39,9 +39,9 @@ banner_url: ""
 
 1. **All fursuiters must hydrate** before the fursuit parade. It’s for your own safety!
 2. **No stopping in the parade route** - we require fursuiters to continue moving in the parade except in case of emergency. Staff and volunteers are positioned along the route should you require assistance.
-3. **No flags are allowed**, as they obstruct other fursuiters in the photo and/or parade.
-4. **No inappropriate costumes or accessories** are allowed in the photo or parade.
-5. Handlers are permitted for people with ADA accessibility needs and for children.
+3. **No flags are allowed**, as they obstruct other fursuiters in the parade.
+4. **No inappropriate costumes or accessories** are allowed in the parade.
+5. **People with ADA accessibility needs or young children** are permitted handlers.
 6. **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
 
 ***
@@ -72,7 +72,7 @@ We recommend being ready in costume before 1 PM so you can ensure enough time to
 {{< /details >}}
 
 {{< details "I require a handler/to handle for a fursuiter. Can I join the parade?" >}}
-We do allow for fursuiters that require handlers for ADA accessibility needs to be a part of the parade.
+We do allow for fursuiters that require handlers for ADA accessibility needs or young children to be a part of the parade.
 {{< /details >}}
 
 {{< details "How long will the block party last?" >}}
