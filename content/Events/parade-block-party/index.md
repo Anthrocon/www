@@ -16,9 +16,9 @@ banner_url: ""
 
 {{< center >}}# Anthrocon Parade & Block Party{{< /center >}}
 
-{{< center >}}### We’re taking our engagement with the city of pittsburgh to the next level!{{< /center >}}
+{{< center >}}**We’re taking our engagement with the city of pittsburgh to the next level!**{{< /center >}}
 
-{{< center >}}On Saturday July 6th, we’ll be closing down the street of Penn Avenue between 9th and 11th Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party!** We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
+{{< center >}}On Saturday July 5th, we’ll be closing down the street of Penn Avenue between 9th and 11th Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party**! We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
 
 {{< center >}}[**Fursuit Photo & Parade**](#fursuit-parade) - [**Anthrocon Block Party**](#anthrocon-block-party) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
 
@@ -30,17 +30,19 @@ banner_url: ""
 
 ### Parade Process
 
-- The parade will begin with the Fursuit Parade Lineup, which will be in the Convention Center Hall C. The lineup for the and parade will **start at 12 PM**, with **doors closing at 1:50 PM**.
-- **There is no Fursuit Group Photo before the parade**. This was a tradition in previous years but due to the sheer size of our parade line-up, it is no longer practical nor safe to host the group photo. There will be many photographers, both amateur and professional, covering the parade for all to enjoy.
-- **The parade will begin at 2pm**, starting from Hall C and leading out onto the streets underneath the convention center. For those that need physical accommodation due to not being able to take stairs/escalators, please contact [**accessibility@anthrocon.org**](mailto:accessibility@anthrocon.org) to let us know.
+- The parade will begin with the Fursuit Parade Lineup, which will be in the convention center Hall C. The lineup for the and parade will **start at 12 PM**, with **doors closing at 1:50 PM**.
+- **There is no Fursuit Group Photo before the parade.** This was a tradition in previous years but due to the sheer size of our parade line-up, it is no longer practical nor safe to host the group photo. There will be many photographers, both amateur and professional, covering the parade for all to enjoy.
+- **The parade will begin at 2 PM**, starting from Hall C and leading out onto the streets underneath the convention center. For those that need physical accommodation due to not being able to take stairs/escalators, please contact [**accessibility@anthrocon.org**](mailto:accessibility@anthrocon.org) to let us know.
 - The parade ends in Hall D, where there is cooling and hydration for fursuiters. **Once the parade is finished**, or fursuiters are feeling ready, they can take the elevators back up to the 3rd floor of the convention center, and make their way to Penn Avenue (either through the convention center, or the Westin) for the Block Party.
 
 ### Parade Rules
 
 1. **All fursuiters must hydrate** before the fursuit parade. It’s for your own safety!
 2. **No stopping in the parade route** - we require fursuiters to continue moving in the parade except in case of emergency. Staff and volunteers are positioned along the route should you require assistance.
-3. **No flags are allowed**, as they obstruct other fursuiters in the photo and/or parade.
-4. **No inappropriate costumes or accessories** are allowed in the photo or parade.
+3. **No flags are allowed**, as they obstruct other fursuiters in the parade.
+4. **No inappropriate costumes or accessories** are allowed in the parade.
+5. **People with ADA accessibility needs or young children** are permitted handlers.
+6. **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
 
 ***
 
@@ -66,11 +68,11 @@ Things to keep in mind for the block party:
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
 {{< details "How early should I show up to the fursuit parade lineup?" >}}
-We recommend being ready in costume before 1 PM so you can ensure enough time to walk to the Convention Center Hall C, located beside the Dealers Room. Elevators will be in high demand, so the earlier the better.
+We recommend being ready in costume before 1 PM so you can ensure enough time to walk to the convention center Hall C, located beside the Dealers Room. Elevators will be in high demand, so the earlier the better.
 {{< /details >}}
 
 {{< details "I require a handler/to handle for a fursuiter. Can I join the parade?" >}}
-We do allow for fursuiters that require handlers to be a part of the parade, but we will be asking all non-costumed persons to move out of the crowd for the Fursuit Group Photo. Handlers may re-join their fursuiter afterwards.
+We do allow for fursuiters that require handlers for ADA accessibility needs or young children to be a part of the parade.
 {{< /details >}}
 
 {{< details "How long will the block party last?" >}}
@@ -97,6 +99,4 @@ To make a pilot event like this successful, we’ll need a slew of volunteers th
 **At the convention** - in our Convention Operations office, which is Room 309 in the convention center.
 
 [**Volunteer Telegram Channel**](https://t.me/acvolunteer) - When there is a need for volunteers, announcements will be made here.
-
-[**@ACVolunteers on Twitter**](https://twitter.com/acvolunteers) - The Anthrocon Volunteers Twitter feed, where volunteer announcements will be made.
 {{< /details >}}
