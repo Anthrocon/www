@@ -16,6 +16,21 @@ banner_url: "https://www.youtube.com/watch?v=Wayi0jiziNI"
 
 Join us for our annual convention every summer as we celebrate anthropomorphics, which are human-like animal characters, such as have fascinated mankind since the dawn of human imagination. We are a collection of artists, animators, writers, costumers, puppeteers, and just everyday fans who enjoy cartoon animals and their kin.
 
+{{% tabs %}}
+{{% tab "tab one" %}}
+# tab one title
+tab one content
+{{% /tab %}}
+{{% tab "tab two" %}}
+# tab two title
+tab two content
+{{% /tab %}}
+{{% tab "tab three" %}}
+# tab three content
+tab three content
+{{% /tab %}}
+{{% /tabs %}}
+
 {{< columns >}}
 {{< img src="2023+Kavaeric+_DSC6257.jpg" alt="Two fursuiters at the Allegheny waterfront, giving a thumbs up to the camera." hint="photo" link="/registration" attr="Kavaeric" >}}
 
