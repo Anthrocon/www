@@ -153,9 +153,9 @@ DA memberships may also be Sponsors, Supersponsors or Ultrasponsors. DA Membersh
 
 **Dealers in The Bodega (Half Tables) are not allowed Dealer Assistants due to the limited space afforded to their dealership.**
 
-| Size | Single | Double | Triple | Quad | Quint | Hex | Small Booth | Large Booth |
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| Max DAs | 1 | 3 | 5 | 7 | 9 | 11 | 8 | 8 |
+| Size | Single | Double | Triple | Quad | Quint | Hex | Small Booth | Large Booth | Tattoo Booth |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Max DAs | 1 | 3 | 5 | 7 | 9 | 11 | 8 | 8 | 3 |
 
 ##### Types and Sizes of Dealership Tables
 
