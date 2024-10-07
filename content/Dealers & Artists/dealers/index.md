@@ -87,15 +87,21 @@ The following options **do not include power (electricity)**. Requests for power
 
 ### Booths
 
-**Small Booth**: $1400
+**Tattoo Booth:** $600
 
-- 16’x16’ partially enclosed with four 8'x30" tables
-- includes 20A electrical power
+- 10’x10’ partially enclosed with two 8’x30" tables
+- Includes 20A electrical power
+- At convention tattoos may only happen in tattoo booths, not in any other areas of the dealers room
 
-**Large Booth**: $2200
+**Small Booth:** $1400
 
-- 20’x24’ partially enclosed with six 8'x30" tables
-- includes 20A electrical power
+- 16’x16’ partially enclosed with four 8’x30" tables
+- Includes 20A electrical power
+
+**Large Booth:** $2200
+
+- 20’x24’ partially enclosed with six 8’x30" tables
+- Includes 20A electrical power
 
 {{< center >}}## Dealers Assistants{{< /center >}}
 
