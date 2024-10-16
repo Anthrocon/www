@@ -4,10 +4,6 @@ author: "Ronnie"
 draft: false
 keywords:
     - "Convention Information"
-    - "Educational"
-    - "Special Event"
-    - "Charity"
-    - "Emergency Notice"
 
 banner: "2024 Kaze-8167.jpg"
 banner_author: "Kaze"
