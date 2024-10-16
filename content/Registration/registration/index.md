@@ -44,6 +44,92 @@ There are several levels of memberships available for purchase. We recommend reg
 
 **If you will be a minor at Anthrocon** (under the age of 18 by July 3, 2025), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [**Minor Forms section**](#minor-forms).
 
+{{% tabs %}}
+{{% tab "Attending" %}}
+{{< center >}}### Attending{{< /center >}}
+
+As an Attending member, you’ll get:
+
+- Access to the convention space and activities for its duration (Thursday through Sunday)
+- Our souvenir con book and other publications
+- A weekend of fun
+{{% /tab %}}
+{{% tab "Sponsor" %}}
+{{< center >}}### Sponsor{{< /center >}}
+
+{{< center >}}***Limited Availability (2200) - Pre-registration only***{{< /center >}}
+
+{{< center >}}**Pricing[\*](#disclaimers-for-registration-tiers):** $140{{< /center >}}
+
+Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
+
+- A nifty Sponsor ribbon
+- A free Anthrocon t-shirt
+- A small gift to show our appreciation
+- An expedited pick-up line on site
+- Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
+{{% /tab %}}
+{{% tab "Supersponsor" %}}
+{{< center >}}### Supersponsor{{< /center >}}
+
+{{< center >}}***Limited Availability (700) - Pre-registration only***{{< /center >}}
+
+{{< center >}}**Pricing[\*](#disclaimers-for-registration-tiers):** $350{{< /center >}}
+
+Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
+
+- A nifty Supersponsor ribbon
+- An invitation to the Artists & Dealers reception on Friday evening
+- Earlier admission into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor)
+- Advance admission to selected main ballroom events
+- A unique gift available to Supersponsors
+- Our wonderful Supersponsor Brunch on Saturday
+- An advance opportunity to book select hotel rooms before general availability[**\*\***](#disclaimers-for-registration-tiers)
+{{% /tab %}}
+{{% tab "Ultrasponsor" %}}
+{{< center >}}### Ultrasponsor{{< /center >}}
+
+{{< center >}}***Limited Availability (30) - Pre-registration only***{{< /center >}}
+
+{{< center >}}**Pricing[\*](#disclaimers-for-registration-tiers):** $1200{{< /center >}}
+
+{{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
+
+- A nifty Ultrasponsor ribbon
+- VIP badge pick up at registration
+- First opportunity to register for a hotel room, based on availability[**\*\***](#disclaimers-for-registration-tiers)
+- Front-of-line privileges for early admission into the Dealers Room on Friday
+- Front-of-line privileges to main ballroom events (plus 1 guest if desired)
+- An exclusive gift available only to Anthrocon Ultrasponsors
+- Our wonderful Supersponsor Brunch on Saturday
+- An exclusive Sunday Ultrasponsor Brunch
+- Special Ultrasponsor Badge
+- Free access to the Anthrocon River Cruises (if cruises are available)
+- Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
+{{% /tab %}}
+{{% tab "PUP Badges (12 and under)" %}}
+{{< center >}}### PUP Membership (Ages 12 and under){{< /center >}}
+
+Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
+
+{{< center >}}**Pricing**{{< /center >}}
+
+- PUP: $5
+- PUP/Sponsor: $60
+
+{{< center >}}**(On-site purchase only)**{{< /center >}}
+
+***Please note that children 12 and under must be accompanied by an adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian, a signed and notarized “[Parental Assignment for Supervision of Minor Child](#minor-forms)” form must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent/guardian will need to be purchased separately.***
+{{% /tab %}}
+{{% tab "Dealers" %}}
+{{< center >}}### Dealer and Dealer Assistant membership{{< /center >}}
+
+A Dealer membership allows a member all the benefits of an Attending membership, as well as the ability to purchase a Dealer Table, and admission to the Artists & Dealers Social on Friday night. Dealer+Sponsor and Dealer+Supersponsor memberships are also available, giving the benefits of Sponsor and Supersponsor levels to Dealers!
+
+***Dealer Assistants will purchase their own badges separately.*** Dealer Registration for 2025 requires a passcode, which is available on [**our Dealers page**](https://www.anthrocon.org/dealers). Without this passcode, you will be unable to apply for a Dealer Membership or Table.
+{{% /tab %}}
+{{% /tabs %}}
+
 {{< center >}}[**Attending**](#attending) - [**Sponsor**](#sponsor) - [**Supersponsor**](#supersponsor) - [**Ultrasponsor**](#ultrasponsor) - [**Day Passes**](#day-memberships) - [**PUP (12 and under)**](#pup-membership-ages-12-and-under) - [**Dealers and Assistants**](#dealer-and-dealer-assistant-membership) - [**Membership disclaimers**](#disclaimers-for-registration-tiers){{< /center >}}
 
 {{< center >}}### Attending{{< /center >}}
