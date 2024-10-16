@@ -53,6 +53,7 @@ As an Attending member, you’ll get:
 - Access to the convention space and activities for its duration (Thursday through Sunday)
 - Our souvenir con book and other publications
 - A weekend of fun
+{{< center >}}{{< button href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >}}Register online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Sponsor" %}}
 {{< center >}}### Sponsor{{< /center >}}
@@ -68,6 +69,8 @@ Sponsors are generous patrons who like to help us provide even more services and
 - A small gift to show our appreciation
 - An expedited pick-up line on site
 - Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
+
+{{< center >}}{{< button href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >}}Register online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Supersponsor" %}}
 {{< center >}}### Supersponsor{{< /center >}}
@@ -85,6 +88,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - A unique gift available to Supersponsors
 - Our wonderful Supersponsor Brunch on Saturday
 - An advance opportunity to book select hotel rooms before general availability[**\*\***](#disclaimers-for-registration-tiers)
+{{< center >}}{{< button href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >}}Register online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Ultrasponsor" %}}
 {{< center >}}### Ultrasponsor{{< /center >}}
@@ -106,6 +110,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Special Ultrasponsor Badge
 - Free access to the Anthrocon River Cruises (if cruises are available)
 - Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
+{{< center >}}{{< button href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >}}Register online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "PUP Badges (12 and under)" %}}
 {{< center >}}### PUP Membership (Ages 12 and under){{< /center >}}
