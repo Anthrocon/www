@@ -183,7 +183,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 This form is required for any minor attending the convention, either with or without the supervision of their parent or legal guardian.
 
-We're working hard to update this form. Please check back soon.
+{{< center >}}{{< button relref="minor-consent-2025.pdf" >}}Download form{{< /button >}}{{< /center >}}
 
 <--->
 
@@ -191,7 +191,7 @@ We're working hard to update this form. Please check back soon.
 
 Required for attendees who are under 13 years of age and attending Anthrocon 2025 with an adult other than their parent or legal guardian.
 
-We're working hard to update this form. Please check back soon.
+{{< center >}}{{< button relref="minor-assignment-2025.pdf" >}}Download form{{< /button >}}{{< /center >}}
 {{< /columns >}}
 
 ***
