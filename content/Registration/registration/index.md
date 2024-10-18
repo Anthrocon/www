@@ -49,7 +49,7 @@ A limited number of Ultrasponsor, Supersponsor, and Sponsor memberships will be 
 There are several levels of memberships available for purchase. We recommend registering online as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2025 registration are:
 
 - **Online Pre-registration:** October 21, 2024 - June 15, 2025
-- **On-site registration:** July 3-6, 2025
+- **On-site registration:** July 4-6, 2025
 
 {{< center >}}### Registering as a minor?{{< /center >}}
 
