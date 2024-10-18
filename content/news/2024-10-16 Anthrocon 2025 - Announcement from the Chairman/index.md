@@ -16,10 +16,10 @@ Please watch/listen to the video below as Uncle Kage, the Chairman of Anthrocon,
 
 ## Summary of key points
 
-* Attendance numbers for Anthrocon 2025 will be monitored and, if necessary, will be capped should the number exceed the acceptable safety standards for our venue and our operations. Any confirmed registration cap will be announced in advance of pre-registration closure.
-* Thursday Registration will be pre-registration pick up only; no Thursday passes will be available, and on-site registration will start on the Friday of the event
-* Hotel Shuttles are being improved to accommodate wheelchair/ADA needs on all buses, rather than an on-call bus
-* The Fursuit Parade will be exploring a limit to participants, and standards for participation to help manage the parade safely (more details to be announced at a later date)
+- Attendance numbers for Anthrocon 2025 will be monitored and, if necessary, will be capped should the number exceed the acceptable safety standards for our venue and our operations. Any confirmed registration cap will be announced in advance of pre-registration closure.
+- Thursday Registration will be pre-registration pick up only; no Thursday passes will be available, and on-site registration will start on the Friday of the event
+- Hotel Shuttles are being improved to accommodate wheelchair/ADA needs on all buses, rather than an on-call bus
+- The Fursuit Parade will be exploring a limit to participants, and standards for participation to help manage the parade safely (more details to be announced at a later date)
 
 {{< youtube id="K0aVEir00f0" title="Uncle Kage's 2025 Convention Update" >}}
 
