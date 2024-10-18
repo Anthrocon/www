@@ -26,9 +26,9 @@ Anthrocon has the following policies in place for Membership refunds, including 
 | Membership Level |   | Amount Considered a Donation |
 | --- | --- | --- |
 | Attending |   | $0 |
-| Sponsor |   | $25 |
-| Supersponsor |   | $125 |
-| Ultrasponsor |   | $750 |
+| Sponsor |   | $30 |
+| Supersponsor |   | $155 |
+| Ultrasponsor |   | $880 |
 {{< /center >}}
 
 {{< center >}}## Rollovers & Deferrals{{< /center >}}
