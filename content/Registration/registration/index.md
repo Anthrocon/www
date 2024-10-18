@@ -21,7 +21,7 @@ banner_url: "https://www.randorn.com"
 
 ### New Registration Process for 2025
 
-Our Registration system has now changed. To ensure you have a smooth registration experience, please read over our [updated How to Register section](#how-to-register) below these updates.
+Our Registration system has now changed. To ensure you have a smooth registration experience, please read over our **[updated How to Register section](#how-to-register)** below these updates.
 
 ### Hotel Booking Registration Policy
 
@@ -41,7 +41,7 @@ A limited number of Ultrasponsor, Supersponsor, and Sponsor memberships will be 
 
 **New for Anthrocon 2025:** Our Registration system has now changed! Please read the following instructions in order to successfully purchase your conbadge for Anthrocon 2025.
 * Register for an account by visiting our new Registration portal on October 21st, selecting “Register”, and following the instructions.
-* Once your account is registered and verified, select "Register for AC 2025" from the menu and select your desired level. Available levels will be displayed starting at 12pm Eastern Time. Sold out levels will not be visible.
+* Once your account is registered and verified, select "Register for AC 2025" from the menu and select your desired level. Available levels will be displayed starting October 21st at 12pm Eastern Time. Sold out levels will not be visible.
 * Fill out the form and select "Register". Your registration is now held in stock, but not completed.
 * Select "View Cart" and complete checkout. (important, as your membership is NOT confirmed until you check out)
 * For Ultrasponsors and Supersponsors, additional ticketed event options will be visible once your registration is held in stock.
