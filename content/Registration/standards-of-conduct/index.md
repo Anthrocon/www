@@ -11,7 +11,9 @@ banner_author: "KotaWinter"
 banner_url: "https://flickr.com/photos/131696694@N04/19562525078/in/album-72157655959057531/"
 ---
 
-Quick TL;DR written in non-legalese plain English:
+{{< center >}}# Quick TL;DR{{< /center >}}
+
+Written in non-legalese plain English:
 
 *(Full Standards of Conduct must be agreed to below)*
 
