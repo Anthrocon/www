@@ -11,6 +11,29 @@ banner_author: "KotaWinter"
 banner_url: "https://flickr.com/photos/131696694@N04/19562525078/in/album-72157655959057531/"
 ---
 
+{{< center >}}# Quick TL;DR{{< /center >}}
+
+Written in non-legalese plain English:
+
+*(Full Standards of Conduct must be agreed to below)*
+
+We're all here to have fun and enjoy the company of likeminded individuals, some of which may never have met in-person, or at least see each other in real life very infrequently.
+
+Furries are a diverse selection of individuals from all walks of life with various aspects of origin, nationality, creed, identity, neurology, interest, and belief. What an individual knows or holds dear and valuable may or may not precisely match with yours.
+
+Some point at a familiar franchise, art style, species, or interest and identify or bond with it, while others take to various artistic medium to express and create their own vision. This variety is what makes our fandom that much more special and different than others.
+
+That said, this is also a place of community, so we ask that all in attendance conduct themselves in a respectful manner, and not go out of their way to maliciously wreck somebody's day.
+
+This is some people's hard-earned Paid Time Off, or maybe even their one annual vacation from the mundane world. Please don't ruin that for them. Please don't be the problem. Please be considerate of others.
+
+**Don't be "That Guy".**
+
+Lastly, Staff are unpaid volunteers who are trying their best to put on an event they think a large crowd of likeminded individuals will enjoy. This fandom is their home as much as it is yours. Please treat them with respect and they will strive to return that in kind.
+
+But most importantly, be safe and have fun.<br>
+:3
+
 {{< center >}}# Standards of Conduct{{< /center >}}
 
 This is the Standards of Conduct for Anthrocon, Inc. and all events sponsored by Anthrocon, Inc.; these entities are referred to as ‘Anthrocon’ henceforth.
@@ -93,6 +116,12 @@ Anyone providing false documentation of identity or age will be denied membershi
 
 Pets are not permitted in convention space. Service dogs (as defined by the Americans with Disabilities Act or ADA, Title II) are permitted in convention space provided that they are under appropriate control. *Emotional Support Animals and Therapy Animals are NOT considered service dogs by the ADA, and are not permitted in convention space.*
 
+<https://www.ada.gov/topics/service-animals/>
+
+### Hotel Matters
+
+Anthrocon partner hotels will have their own rules, policies, and terms and conditions customers of those hotels will be expected to abide by. These rules, policies, and terms and conditions may be more stringent than those set forth here. Where the rules, policies, or terms and conditions of a partner hotel differ from or are more stringent than those set forth herein, those policies control all conduct in that space. Attendees are expected to abide by such policies as if they are set forth herein at length. If attendees have issues or concerns with such policies, they should raise them with Anthrocon, Inc. so Anthrocon may address such concerns with our partner hotels as necessary.
+
 ### Hotel Party Policy
 
 Gatherings in hotel rooms must not make noise that can be heard in neighboring rooms during nighttime hours. Hotel doors must be kept shut during such gatherings and guests are not permitted to congregate in the hotel corridors.
@@ -123,9 +152,13 @@ Smoking is not permitted in any area inside the Westin or the Convention Center.
 
 Anthrocon asks that any bottled alcoholic beverages be brought promptly to hotel rooms for storage or responsible consumption. No alcoholic beverages may be brought into nor consumed in convention space unless said beverage has been approved by Convention Center management as part of a programming event.
 
+Any possession or use of alcoholic beverages in the convention center without the explicit permission of the staff of the David L. Lawrence Convention Center is grounds for the immediate revocation of membership without further warning. If membership is revoked for such reason, no refund will be considered or given.
+
 Anyone knowingly or unknowingly providing alcohol to anyone under the age of 21 may be removed from the convention and be reported to the authorities. It is the sole responsibility of persons serving alcohol in room parties to ensure that every person in attendance is over the age of 21, even if that person is not drinking alcohol. The Pennsylvania Liquor Control Board is extremely serious about this law and we ask our members to respect it.
 
 The sale, distribution, or use of any illegal or controlled substances is not welcome at Anthrocon. Any individual found to be distributing such substances will be removed and reported directly to the authorities. For safety, any obviously intoxicated or impaired attendees will be asked to return to their room or seek medical attention until the effects have passed.
+
+The possession and use of any controlled substance which is legal in the Commonwealth of Pennsylvania must be done in accordance with the law of the Commonwealth of Pennsylvania, Allegheny County, the City of Pittsburgh, and the rules and policies of the venue, partner hotel, or other such location.
 
 ### Weapons Policy
 
@@ -145,9 +178,9 @@ The name "Anthrocon" and the Anthrocon logo are registered service marks of Anth
 
 Anthrocon receives requests each year for Press/Media Passes from personal bloggers as well as journalistic media. Please note that Anthrocon does not require a press pass for individual bloggers or podcasters so long as they are not attempting to:
 
-- A. Conduct recorded interviews of any type with any Anthrocon attendee or member in Anthrocon space.
-- B. Film documentary footage of Anthrocon spaces, events, or attendees.
-- C. Exhibiting or recording behavior that is in violation of the Anthrocon Standards of Conduct.
+A. Conduct recorded interviews of any type with any Anthrocon attendee or member in Anthrocon space.<br>
+B. Film documentary footage of Anthrocon spaces, events, or attendees.<br>
+C. Exhibiting or recording behavior that is in violation of the Anthrocon Standards of Conduct.
 
 Anthrocon considers recorded interviews of any type performed in Anthrocon spaces to be a form of media representation and requires an approved Anthrocon Press Pass. Please note that if determined necessary, an Anthrocon Press Pass may require an escort and can be revoked at any time. An Anthrocon Press Pass is not a substitute for a membership. Determination as to whether or not a Press Pass is required rests solely with Anthrocon.
 
@@ -165,7 +198,7 @@ Anthrocon cannot involve itself in financial disputes between individual members
 
 ### Technology Policy
 
-The usage of any technology or device in a way that is malicious in nature will not be tolerated, regardless of the reason - there are no exceptions. Examples of usage defined as "malicious" include, but are not limited to:
+The usage of any technology or device in a way that is malicious in nature will not be tolerated, regardless of the reason — there are no exceptions. Examples of usage defined as "malicious" include, but are not limited to:
 
 - Disrupting or interrupting any digital signal or frequency
 - Stealing, duplicating, or reading/sniffing other signals or frequencies
