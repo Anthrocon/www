@@ -33,10 +33,10 @@ Applications to vend at Anthrocon 2025 will be open from **October 21st at 12 PM
 
 **New for Anthrocon 2025:** Dealers will apply through our new registration system. Follow these steps to apply.
 
-- Read [**the Dealers Room Information Packet**]({{< relref "/Dealers & Artists/drip" >}}) before you begin.
+- Read [**the Dealer Rules & Information Packet**]({{< relref "/Dealers & Artists/drip" >}}) before you begin.
 - Register for an account by visiting [**our new registration portal**]({{< relref "/Registration/registration" >}}) on October 21, selecting "Register", and following the instructions.
 - Once your account is registered and verified, select "Vendor" from the left menu.
-- Enter your business information including your Pennsylvania tax ID, then select and complete your application for the appropriate areas.
+- Enter your business information including your Pennsylvania tax ID, then select and complete your application for one area only.
 - You will also need to register for Anthrocon 2025. Select "Register for AC2025" from the left menu.
 - Fill out the form and select "Register". You may complete your registration, or leave it in your cart pending approval of your dealer application.
 
