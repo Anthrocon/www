@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< center >}}In partnership with the Gateway Clipper Fleet, Anthrocon is offering River Cruises during the convention with options for sightseeing and/or cocktail cruises.{{< /center >}}
 
-{{< center >}}[**Cruise options**](#anthrocon-2024-cruise-options) - [**Boarding process**](#boarding-process) - [**FAQs**](#frequently-asked-questions) - [**Refund policy**](#refund-policy-for-cruises){{< /center >}}
+{{< center >}}[**Cruise options**](#anthrocon-2025-cruise-options) - [**Boarding process**](#boarding-process) - [**FAQs**](#frequently-asked-questions) - [**Refund policy**](#refund-policy-for-cruises){{< /center >}}
 
 {{< columns >}}
 {{< img src="2023+Randorn+_Z9N9451-Enhanced-NR.jpg" alt="The Gateway Clipper Fleet's ship &quot;The Princess&quot; with fursuiters on board." hint="photo" attr="Randorn Canis" attrlink="https://www.randorn.com" >}}
@@ -29,87 +29,9 @@ Boarding takes place at the Convention Center Riverfront Plaza, right outside th
 
 ***
 
-{{< center >}}## Anthrocon 2024 Cruise Options{{< /center >}}
+{{< center >}}## Anthrocon 2025 Cruise Options{{< /center >}}
 
-{{< center >}}There are several cruise options from Thursday to Sunday of the convention. For more information about the cruise ships, visit the [**Gateway Clipper Fleet website**](https://www.gatewayclipper.com/about-us/boats/).{{< /center >}}
-
-- **Only buy tickets using the button link below**. Do not buy from the Gateway Clipper Fleet website, or any other sources that claim to have tickets.
-- **The cruises will only board at the convention center**. There are no other boarding or drop-off points.
-- **Ultrasponsors that plan on attending** a cruise as part of Ultrasponsor perks will be contacted separately to confirm their options. Please do not purchase a ticket separately.
-
-{{< center >}}{{< button href="https://anthrocon.ticketspice.com/ac-fursuit-friendly-cruise" >}}Buy tickets{{< /button >}}{{< /center >}}
-
-{{< columns >}}
-{{< center >}}### **Thursday, July 4th**{{< /center >}}
-
-{{< center >}}**Sightseeing Cruise**{{< /center >}}
-
-**Boarding Time:** Boarding begins at **12:30 PM**
-
-**Cruise Time:** Cruise sails from **1 to 2 PM**
-
-**Price:** $25
-
-**Boat:** [***The Queen***](https://www.gatewayclipper.com/about-us/boats/)
-
-**Available tickets:** 200
-
-**Amenities:** Bottled Water and Fursuit Friendly Straws
-
-<--->
-
-{{< center >}}### **Friday, July 5th**{{< /center >}}
-
-{{< center >}}**Sightseeing Cruise**{{< /center >}}
-
-**Boarding Time:** Boarding begins at **2:30 PM**
-
-**Cruise Time:** Cruise sails from **3 to 4 PM**
-
-**Price:** $25
-
-**Boat:** [***The Princess***](https://www.gatewayclipper.com/about-us/boats/)
-
-**Available tickets:** 200
-
-**Amenities:** Bottled Water and Fursuit Friendly Straws
-
-<--->
-
-{{< center >}}### **Saturday, July 6th**{{< /center >}}
-
-{{< center >}}**Evening Cocktail Cruise**{{< /center >}}
-
-**Boarding Time:** Boarding begins at **6:30 PM**
-
-**Cruise Time:** Cruise sails from **7 to 9 PM**
-
-**Price:** $65
-
-**Boat:** [***The Princess***](https://www.gatewayclipper.com/about-us/boats/)
-
-**Available tickets:** 200
-
-**Amenities:** Hors d'oeuvre, light snacks, drink tickets + cash bar
-
-<--->
-
-{{< center >}}### **Sunday, July 7th**{{< /center >}}
-
-{{< center >}}**Sightseeing Cruise**{{< /center >}}
-
-**Boarding Time:** Boarding begins at **12:30 PM**
-
-**Cruise Time:** Cruise sails from **1 to 2 PM**
-
-**Price:** $25
-
-**Boat:** [***The Princess***](https://www.gatewayclipper.com/about-us/boats/)
-
-**Available tickets:** 200
-
-**Amenities:** Bottled Water and Fursuit Friendly Straws
-{{< /columns >}}
+River Cruise options for Anthrocon 2025 are still being determined. We thank you for your patience and will announce further updates for cruise offerings on our social media and website once available.
 
 ***
 
