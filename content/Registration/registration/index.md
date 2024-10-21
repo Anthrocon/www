@@ -43,7 +43,7 @@ A limited number of Ultrasponsor, Supersponsor, and Sponsor memberships will be 
 
 **New for Anthrocon 2025:** Our Registration system has now changed! Please read the following instructions in order to successfully purchase your conbadge for Anthrocon 2025.
 
-- Register for an account by visiting [**our new Registration portal**](https://reg.anthrocon.org/) on October 21st, selecting “Register”, and following the instructions.
+- Register for an account by visiting [**our new Registration portal**](https://reg.anthrocon.org/) on October 21st, selecting “Register”, and following the instructions — including verifying your email.
 - Once your account is registered and verified, select "Register for AC2025" from the menu and select your desired level. Available levels will be displayed starting October 21st at 12 PM Eastern Daylight Time. Sold out levels will not be visible.
 - Fill out the form and select "Register". Your registration is now held in stock, but not completed.
 - Select "View Cart" and complete checkout. (important, as your membership is NOT confirmed until you check out)
@@ -146,7 +146,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Saturday: $50
 - Sunday: $50
 
-Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration!
+Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
 {{% /tab %}}
 {{% tab "PUP Membership (Ages 12 and under)" %}}
 {{< center >}}### PUP Membership (Ages 12 and under){{< /center >}}
@@ -220,11 +220,11 @@ Yes. Log in to your registration at <https://reg.anthrocon.org/>, then select "U
 {{< /details >}}
 
 {{< details "Can I upgrade my membership after I've paid for it?" >}}
-Absolutely! All you need to do is click on the link that was emailed to you with your registration confirmation. It will take you to your registration summary, and you need only click "Sponsor" or "Supersponsor" at the top and then "Update My Info" at the bottom.
+Yes! All you need to do is log in to your registration at <https://reg.anthrocon.org/>, then select "Update registration". From here, you can upgrade your membership and update your details. Remember that quantities are limited, so they may sell out.
 {{< /details >}}
 
 {{< details "I am unable to stand in long lines. What can I do?" >}}
-Anthrocon will have ADA lines that are available at registration for those who are unable to stand in line, for whatever reason.
+Anthrocon will have an ADA line that is available at registration for those who are unable to stand in line for whatever reason.
 {{< /details >}}
 
 {{< details "I have paid for a membership but cannot attend. Can I get a refund or rollover to next year?" >}}
@@ -234,5 +234,5 @@ We understand that circumstances may arise that prevent you from attending our c
 {{< details "I'm buying a registration badge for my child. Do I need one myself?" >}}
 If your child is between the ages of 13 to 17, they do not require accompaniment within the convention space as long as they have a valid Minor badge (which requires the completion of a [**Minor Consent form**](#minor-forms)). If you wish to accompany them, you will need to purchase a registration badge for yourself.
 
-Please note that children 12 and under must be accompanied by an adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian a signed and notarized [**Parental Assignment for Supervision of Minor Child form**](#minor-forms) must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent/guardian will need to be purchased separately.
+Please note that children 12 and under must be accompanied by a badged adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian a signed and notarized [**Parental Assignment for Supervision of Minor Child form**](#minor-forms) must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent/guardian will need to be purchased separately.
 {{< /details >}}
