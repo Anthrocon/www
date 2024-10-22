@@ -107,7 +107,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Earlier admission into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor)
 - Advance admission to selected main ballroom events
 - A unique gift available to Supersponsors
-- Our wonderful Supersponsor Brunch on Saturday
+- Our wonderful Supersponsor Brunch on Sunday
 - An advance opportunity to book select hotel rooms before general availability[**\*\***](#disclaimers-for-registration-tiers)
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register online{{< /button >}}{{< /center >}}
@@ -127,8 +127,8 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Front-of-line privileges for early admission into the Dealers Room on Friday
 - Front-of-line privileges to main ballroom events (plus 1 guest if desired)
 - An exclusive gift available only to Anthrocon Ultrasponsors
-- Our wonderful Supersponsor Brunch on Saturday
-- An exclusive Sunday Ultrasponsor Brunch
+- Our wonderful Supersponsor Brunch on Sunday
+- An exclusive Saturday Ultrasponsor and VIP Cocktail Reception
 - Special Ultrasponsor Badge
 - Free access to the Anthrocon River Cruises (if cruises are available)
 - Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
