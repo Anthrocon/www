@@ -20,10 +20,10 @@ banner_url: "https://www.flickr.com/photos/hokuloaluau"
 
 **Anthrocon 2024** will be using online video submissions to qualify for the Main Event. For group performances, there will be an option to do the audition in-person (more information below).
 
-- **[Audition process](#audition-process)**
-- **[Competition Format & Rules](#competition-format)**
-- **[Submit your audition](#ready-to-submit-your-audition)**
-- **[Frequently Asked Questions](#frequently-asked-questions)**
+- [Audition process](#audition-process)
+- [Competition Format & Rules](#competition-format)
+- [Submit your audition](#ready-to-submit-your-audition)
+- [Frequently Asked Questions](#frequently-asked-questions)
 {{< /columns >}}
 
 ***
