@@ -13,7 +13,7 @@ banner_url: "https://www.randorn.com"
 
 As much as we hope everyone planning to come to Anthrocon can attend, we understand that people have events in their life that make them unable to attend even after they have registered as Members.
 
-{{< center >}}[**Refunds**](#refunds) - [**Rollovers**](#rollovers--deferrals) - [**Requirements and policies for requests**](#requirements-and-policies-for-requests){{< /center >}}
+{{< center >}}[Refunds](#refunds) - [Rollovers](#rollovers--deferrals) - [Requirements and policies for requests](#requirements-and-policies-for-requests){{< /center >}}
 
 {{< center >}}## Refunds{{< /center >}}
 
@@ -44,4 +44,4 @@ For those who find that they will be unable to attend the convention after the r
 - Anthrocon will generally attempt to refund a Membership in the manner it was paid for. Due to the policies of credit card companies, any refund requests received 60 days or more after payment may not be able to be refunded by credit cards. Anthrocon will mail a check in these instances.
 - You may request a transfer of Membership, before the refund deadline. When transferring, the original membership will be canceled and a coupon code will be issued for the transferee to use to register. The transfer request must be requested by the holder of the original Membership. Once transferred, the Membership is the property of the Member whose name it is now in.
 - Memberships may be downgraded (Supersponsor to Sponsor, for example) if a request is made before the refund deadline and the desired membership is not sold out. The difference in the donation portion is not refundable as outlined above. This may not be used to game or exploit the early hotel booking benefit of Ultrasponsor or Supersponsor. **Any Ultrasponsor or Supersponsor who books their hotel before general availability, then downgrades or cancels their membership, will have their hotel room reservation cancelled.**
-- Refunds for Dealers Room Tables must be handled via the Dealers Room Director, and follow the guidelines expressed in the [**Dealers Room Information Packet**](https://www.anthrocon.org/drip). Dealer and Dealer Assistant Membership Refunds must also be relayed to the Dealers Room Director at [**dealers@anthrocon.org**](mailto:dealers@anthrocon.org).
+- Refunds for Dealers Room Tables must be handled via the Dealers Room Director, and follow the guidelines expressed in the [Dealers Room Information Packet](https://www.anthrocon.org/drip). Dealer and Dealer Assistant Membership Refunds must also be relayed to the Dealers Room Director at [dealers@anthrocon.org](mailto:dealers@anthrocon.org).

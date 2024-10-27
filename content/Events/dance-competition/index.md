@@ -20,10 +20,10 @@ banner_url: "https://www.flickr.com/photos/hokuloaluau"
 
 **Anthrocon 2024** will be using online video submissions to qualify for the Main Event. For group performances, there will be an option to do the audition in-person (more information below).
 
-- **[Audition process](#audition-process)**
-- **[Competition Format & Rules](#competition-format)**
-- **[Submit your audition](#ready-to-submit-your-audition)**
-- **[Frequently Asked Questions](#frequently-asked-questions)**
+- [Audition process](#audition-process)
+- [Competition Format & Rules](#competition-format)
+- [Submit your audition](#ready-to-submit-your-audition)
+- [Frequently Asked Questions](#frequently-asked-questions)
 {{< /columns >}}
 
 ***
@@ -102,7 +102,7 @@ A brief example of some things that our judges look for in both the preliminarie
 
 **Am I allowed to participate if I’m a minor? Are there any age restrictions to the competition?**
 
-No, there are no longer any age restrictions for our Dance Competition. However if you are a minor, you will need to follow the rules for minors requiring chaperones as outlined in our [**Minors 12 and Under section**](/faq/minors-questions).
+No, there are no longer any age restrictions for our Dance Competition. However if you are a minor, you will need to follow the rules for minors requiring chaperones as outlined in our [Minors 12 and Under section](/faq/minors-questions).
 
 In addition, if you are a minor and you qualify to perform in the Main Event (on stage at the convention), you will need to have your parent/legal guardian print out and complete the performance waiver that will be provided to all qualified performers by email. Paper copies will also be available at the convention.
 
@@ -130,4 +130,4 @@ By signing up for the Anthrocon Fursuit Dance Competition, you agree to adhere t
 
 All competitors also acknowledge and understand that their image, or likeness of image, may be used in media representations whether by individuals or media corporations that have been given explicit permission by Anthrocon Inc. during the Main Event. These representations will not be used for monetary profit, and simply for the promotion of Anthrocon and its affiliated events. Questions or concerns may be directed to the address below.
 
-In addition to adhering to the rules of the Anthrocon Fursuit Dance Competition, all registered participants also agree to adhere by all rules set forth by the [**Anthrocon Attendee Code of Conduct**](https://www.anthrocon.org/standards-of-conduct). All participants must be in good standing with Anthrocon Inc. and be registered with the convention in order to participate. Furthermore, all participants of the dance competition shall not hold Anthrocon liable for any damages/injuries to participants incurred at the convention and its events, including the Dance Competition. Any complaints or concerns regarding this event, or with the venue hosted in, can be made to [**dancecomp@anthrocon.org**](mailto:dancecomp@anthrocon.org).
+In addition to adhering to the rules of the Anthrocon Fursuit Dance Competition, all registered participants also agree to adhere by all rules set forth by the [Anthrocon Attendee Code of Conduct](https://www.anthrocon.org/standards-of-conduct). All participants must be in good standing with Anthrocon Inc. and be registered with the convention in order to participate. Furthermore, all participants of the dance competition shall not hold Anthrocon liable for any damages/injuries to participants incurred at the convention and its events, including the Dance Competition. Any complaints or concerns regarding this event, or with the venue hosted in, can be made to [dancecomp@anthrocon.org](mailto:dancecomp@anthrocon.org).

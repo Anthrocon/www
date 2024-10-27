@@ -13,7 +13,7 @@ banner_url: "https://www.randorn.com"
 
 {{< center >}}Anthrocon is made possible by the help of volunteers - every department is comprised of staff and volunteers pooling their different and unique skill sets to make sure things run smoothly, and the best they can.{{< /center >}}
 
-{{< center >}}[**Open positions**](#volunteer-positions) - [**Volunteer incentives**](#incentives-for-volunteering) - [**Contact volunteers team**](#contact-the-volunteers-team){{< /center >}}
+{{< center >}}[Open positions](#volunteer-positions) - [Volunteer incentives](#incentives-for-volunteering) - [Contact volunteers team](#contact-the-volunteers-team){{< /center >}}
 
 ***
 
@@ -55,7 +55,7 @@ While we can’t pay our volunteers for their service, we can at least try to ma
 
 If you have questions or ideas for volunteering, we’d love to hear from you!
 
-- [**Volunteer Email**](mailto:volunteer@anthrocon.org?subject=Volunteering%20for%20Anthrocon) - If you’re looking for information on how or what you could be involved with, let us know by emailing us!
+- [Volunteer Email](mailto:volunteer@anthrocon.org?subject=Volunteering%20for%20Anthrocon) - If you’re looking for information on how or what you could be involved with, let us know by emailing us!
 - At the convention - in our Convention Operations office, which is Room 309 in the convention center.
-- [**Telegram Channel**](https://t.me/acvolunteer) - When there is a need for volunteers, announcements will be made here.
-- [**Discord Server**](https://discord.gg/anthrocon-248272223868157954) - Announcements for volunteers will also be made here.
+- [Telegram Channel](https://t.me/acvolunteer) - When there is a need for volunteers, announcements will be made here.
+- [Discord Server](https://discord.gg/anthrocon-248272223868157954) - Announcements for volunteers will also be made here.

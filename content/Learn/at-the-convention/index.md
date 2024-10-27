@@ -17,7 +17,7 @@ banner_url: ""
 
 {{< center >}}We’ve got a few helpful resources to help you get around the city of Pittsburgh, and to places you’ll want to check out.{{< /center >}}
 
-{{< center >}}[**Parking Lot Map**](#parking-at-the-convention) - [**Hotel Shuttle Schedule**](#shuttle-schedule) - [**Convention Guides**](#convention-guide){{< /center >}}
+{{< center >}}[Parking Lot Map](#parking-at-the-convention) - [Hotel Shuttle Schedule](#shuttle-schedule) - [Convention Guides](#convention-guide){{< /center >}}
 
 ***
 
@@ -58,5 +58,5 @@ On Saturday, the stop will temporarily move to the West side of the underpass, (
 
 <--->
 
-Our official Convention Guide is updated for each year and contains some handy information on everything related to the convention. For information regarding local businesses such as restaurants or services, we recommend online services such as [**Yelp**](https://yelp.com) and [**Google**](https://www.google.com/maps).
+Our official Convention Guide is updated for each year and contains some handy information on everything related to the convention. For information regarding local businesses such as restaurants or services, we recommend online services such as [Yelp](https://yelp.com) and [Google](https://www.google.com/maps).
 {{< /columns >}}

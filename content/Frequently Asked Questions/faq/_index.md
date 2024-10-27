@@ -19,19 +19,19 @@ banner_url: "https://nightdragon0.smugmug.com/2022/Anthrocon-2022/"
 
 ### Does Anthrocon provide wi-fi for its attendees?
 
-We have worked out a deal with the convention center’s internet provider to have discounted wi-fi available for purchase within the convention center space. Check out our [**Wireless Internet Questions page**](/wireless-internet) for more details.
+We have worked out a deal with the convention center’s internet provider to have discounted wi-fi available for purchase within the convention center space. Check out our [Wireless Internet Questions page](/wireless-internet) for more details.
 
 ### Do I need a visa to enter the United States?
 
-If you are coming from a country that participates in the [**Visa Waiver Program**](https://visaguide.world/us-visa/nonimmigrant/visitor/visa-waiver-program/), then no.
+If you are coming from a country that participates in the [Visa Waiver Program](https://visaguide.world/us-visa/nonimmigrant/visitor/visa-waiver-program/), then no.
 
-You can also [**try the Visa Wizard**](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html) on the State Department's website to find out what visa you may potentially require, based on your citizenship.
+You can also [try the Visa Wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html) on the State Department's website to find out what visa you may potentially require, based on your citizenship.
 
 ### What documentation do I need to cross the border?
 
 If you are flying in to the United States from any other country, you MUST have a valid passport for your country of nationality.
 
-If you are driving into the United States from Canada or Mexico, or are coming in by boat from Bermuda, check the requirements at the [**Department of Homeland Security website**](https://www.dhs.gov/)[.](https://www.dhs.gov/)
+If you are driving into the United States from Canada or Mexico, or are coming in by boat from Bermuda, check the requirements at the [Department of Homeland Security website](https://www.dhs.gov/)[.](https://www.dhs.gov/)
 
 ### In my country I am of legal age even though I'm under 18. Am I still considered a minor in the USA?
 

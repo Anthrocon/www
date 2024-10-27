@@ -21,6 +21,6 @@ If you cannot attend Anthrocon, you may enlist a friend or acquaintance to act a
 
 (For artists who have participated in the Art Show in past years, please note that we are no longer set up in the exhibition hall with the Dealers Room and Artists Alley, and for the most part we will not be using pegboard panels for display. The Art Show takes place in several meeting rooms on the third floor of the convention center, in an atmosphere more reminiscent of an art gallery. Flat art will be hung on the walls of the rooms. Tables for 3–D artwork will be set up in the center of each room.)
 
-If you are on a tablet or mobile device or otherwise prefer to view the document directly, [**you may do so in Google Drive**](https://docs.google.com/document/d/1nO4BCd7wqiOF_vDkgl44JAQDmUr2FCAzjvFb9XtXWwY/edit?usp=sharing)[.](https://docs.google.com/document/d/1nO4BCd7wqiOF_vDkgl44JAQDmUr2FCAzjvFb9XtXWwY/edit)
+If you are on a tablet or mobile device or otherwise prefer to view the document directly, [you may do so in Google Drive](https://docs.google.com/document/d/1nO4BCd7wqiOF_vDkgl44JAQDmUr2FCAzjvFb9XtXWwY/edit?usp=sharing)[.](https://docs.google.com/document/d/1nO4BCd7wqiOF_vDkgl44JAQDmUr2FCAzjvFb9XtXWwY/edit)
 
 {{< html >}}<iframe src="https://docs.google.com/document/d/e/2PACX-1vSv54FnYsFk11tuOQcpWcTJbnC4_70PvpyEz2zevqA6I1-cHilRc4FSCC5fB30rbLKrXHmxrpomWDOe/pub?embedded=true" title="Art Show Reservations Information Packet (ASRIP)" width="100%" height="1024"></iframe>{{< /html >}}

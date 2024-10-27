@@ -13,7 +13,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}Our convention strives to provide options and services to help improve your experience and create an inclusive space for all.{{< /center >}}
 
-{{< center >}}[**Wheelchairs & Mobility**](#wheelchairs--mobility-scooters) - [**Accessibility at the Venue**](#accessibility-at-the-dlcc-and-hotels) - [**Service Animals**](#service-animals) - [**Sign Language Interpreters**](#sign-language-interpreters) - [**Accessibility Requests**](#additional-accessibility-requests){{< /center >}}
+{{< center >}}[Wheelchairs & Mobility](#wheelchairs--mobility-scooters) - [Accessibility at the Venue](#accessibility-at-the-dlcc-and-hotels) - [Service Animals](#service-animals) - [Sign Language Interpreters](#sign-language-interpreters) - [Accessibility Requests](#additional-accessibility-requests){{< /center >}}
 
 ***
 
@@ -29,10 +29,10 @@ A limited number of wheelchairs are available for loan by the Convention Center 
 
 Attendees can also consider renting the necessary equipment from some of these local establishments:
 
-- [**Mobility Plus**](https://mobilityplus.com/Pittsburgh) (call 1-412-426-9144 and mention **Anthrocon** for a 10% discount!)
-- [**Washington Medical Equipment**](https://www.washingtonmedical.net/rentals).
-- [**Cloud of Goods**](https://www.cloudofgoods.com/product-rentals/mobility)
-- [**Rent It Today**](https://www.rentittoday.com/medical-equipment-rentals/mobility-scooter-rental-pittsburgh-pa-14693)
+- [Mobility Plus](https://mobilityplus.com/Pittsburgh) (call 1-412-426-9144 and mention **Anthrocon** for a 10% discount!)
+- [Washington Medical Equipment](https://www.washingtonmedical.net/rentals).
+- [Cloud of Goods](https://www.cloudofgoods.com/product-rentals/mobility)
+- [Rent It Today](https://www.rentittoday.com/medical-equipment-rentals/mobility-scooter-rental-pittsburgh-pa-14693)
 
 For wheelchair/mobility device attendees that want to utilize our shuttle service between the convention center and their hotel, **a wheelchair-accessible bus is available on an on-demand basis**. Further information and instructions will be available closer to the convention.
 
@@ -42,14 +42,14 @@ For wheelchair/mobility device attendees that want to utilize our shuttle servic
 
 The David L. Lawrence Convention Center, the Westin Convention Center, and all of Anthrocon's partner hotels are fully accessible and compliant with the Americans with Disabilities Act.
 
-- For Accessibility information at the David L. Lawrence Center, please see the [**DLCC Accessibility page**](https://www.pittsburghcc.com/dlcc-accessibility-info/).
+- For Accessibility information at the David L. Lawrence Center, please see the [DLCC Accessibility page](https://www.pittsburghcc.com/dlcc-accessibility-info/).
 - For Accessibility information at the hotel or accommodation you are staying at, please visit the hotel’s website.
 
 ***
 
 {{< center >}}## Service Animals{{< /center >}}
 
-Service animals are welcome in the David L. Lawrence Convention Center provided that they are in compliance with regulations established by the U.S. Dept. of Justice, [**as defined in the ADA (Service Animals)**](https://www.ada.gov/service_animals_2010.htm). All service animals must remain on a leash or in a harness, and be under control of the guest with a disability or a designee.
+Service animals are welcome in the David L. Lawrence Convention Center provided that they are in compliance with regulations established by the U.S. Dept. of Justice, [as defined in the ADA (Service Animals)](https://www.ada.gov/service_animals_2010.htm). All service animals must remain on a leash or in a harness, and be under control of the guest with a disability or a designee.
 
 **Please note:** animals whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA.
 

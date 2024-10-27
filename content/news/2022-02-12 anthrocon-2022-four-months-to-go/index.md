@@ -15,7 +15,7 @@ It’s already been more than a month into the new year, and we’ll hopefully s
 
 ### Hotel bookings
 
-Our hotel bookings are now available through the [**Hotel page**](/hotel) on our website, having opened to general public booking on February 2nd. As we’ve seen before, the initial rush to book the closest hotels has filled up many of our popular hotels, but many are still rooms available at these locations:
+Our hotel bookings are now available through the [Hotel page](/hotel) on our website, having opened to general public booking on February 2nd. As we’ve seen before, the initial rush to book the closest hotels has filled up many of our popular hotels, but many are still rooms available at these locations:
 
 - Renaissance
 - Homewood
@@ -29,18 +29,18 @@ If you have an existing reservation and are looking to make changes, you can do 
 
 ### Travel
 
-We know that figuring out your travel plans to Anthrocon will be a priority soon, and we’ll be making updates to our [**Travel section**](/travel) to provide as many helpful resources as we can. Remember to plan your trips accordingly based on the current COVID restrictions and policies that your originating country might impose.
+We know that figuring out your travel plans to Anthrocon will be a priority soon, and we’ll be making updates to our [Travel section](/travel) to provide as many helpful resources as we can. Remember to plan your trips accordingly based on the current COVID restrictions and policies that your originating country might impose.
 
 ### Programming
 
-Programming submissions are still open for 2022, and we will be looking to receive all panels and event ideas once more regardless whether or not it was accepted for 2020 or previous years. Head over to our [**Programming page**](/programming) for more information.
+Programming submissions are still open for 2022, and we will be looking to receive all panels and event ideas once more regardless whether or not it was accepted for 2020 or previous years. Head over to our [Programming page](/programming) for more information.
 
 ### Conbook & Advertising
 
-Our conbook submissions are now open. Visit our [**Conbook page**](/conbook) for details on what we’re looking for, and how to submit for our 2022 conbook.
+Our conbook submissions are now open. Visit our [Conbook page](/conbook) for details on what we’re looking for, and how to submit for our 2022 conbook.
 
-Advertising opportunities are also available through our [**advertising page**](/advertising), with other options that can be discussed with our Publications team.
+Advertising opportunities are also available through our [advertising page](/advertising), with other options that can be discussed with our Publications team.
 
 ---
 
-As always, we will continue to provide as many updates as possible on our website and social media. Make sure you follow us on our [**Twitter**](https://twitter.com/anthrocon) and [**Facebook**](https://www.facebook.com/Anthrocon) for the latest updates.
+As always, we will continue to provide as many updates as possible on our website and social media. Make sure you follow us on our [Twitter](https://twitter.com/anthrocon) and [Facebook](https://www.facebook.com/Anthrocon) for the latest updates.

@@ -15,7 +15,7 @@ banner_url: ""
 
 Anthrocon is July 3rd-July 6th, 2025. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
 
-[**The Short Version**](#the-short-version) | [**Dealers Room Schedule**](#dealers-room-schedule) | [**Getting your Dealership**](#getting-your-dealership) | [**Before the Dealers Room Opens**](#before-the-dealers-room-opens) | [**The Dealers Room is Open!**](#the-dealers-room-is-open) | [**After the Dealer's Room Closes**](#after-the-dealers-room-closes) | [**Administrative Details**](#administrative-details)
+[The Short Version](#the-short-version) | [Dealers Room Schedule](#dealers-room-schedule) | [Getting your Dealership](#getting-your-dealership) | [Before the Dealers Room Opens](#before-the-dealers-room-opens) | [The Dealers Room is Open!](#the-dealers-room-is-open) | [After the Dealer's Room Closes](#after-the-dealers-room-closes) | [Administrative Details](#administrative-details)
 
 This is the Dealer Rules & Information Packet (the DRIP) which contains rules, instructions and important information for dealers. Any person who accepts a Dealership at Anthrocon is understood to have read the complete and most recent Dealer rules and Anthrocon Standards of Conduct and has agreed to abide by them. Anthrocon, Inc. also reserves the right to amend these rules at any time without prior or posted notice and reserves the sole right of interpretation.
 
@@ -51,7 +51,7 @@ You are required to obtain and submit a Pennsylvania Tax ID with your applicatio
 
 If you do not sell anything requiring sales tax (see Obtaining a Pennsylvania Tax ID section below for details), please note “Tax ID not required” on your application. Staff will verify your merchandise is exempt before moving to curation.
 
-A guide to obtaining a PA tax ID can be found here: [**Pennsylvania Tax ID application Guide**]({{< relref "/Dealers & Artists/Tax Guide" >}})
+A guide to obtaining a PA tax ID can be found here: [Pennsylvania Tax ID application Guide]({{< relref "/Dealers & Artists/Tax Guide" >}})
 
 ### Dealer Setup/Teardown
 

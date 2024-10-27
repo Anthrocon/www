@@ -13,15 +13,15 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533/121369"
 
 {{< center >}}# Hotels for Anthrocon{{< /center >}}
 
-{{< center >}}Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees. **A** **valid Anthrocon registration is required to make an Anthrocon-hotel block reservation** - without it, your reservation may not be honored. Register for the con on [**our Registration page**](/registration).{{< /center >}}
+{{< center >}}Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees. **A** **valid Anthrocon registration is required to make an Anthrocon-hotel block reservation** - without it, your reservation may not be honored. Register for the con on [our Registration page](/registration).{{< /center >}}
 
-{{< center >}}[**Booking process**](#booking-process) - [**Tips for Finding Rooms**](#tips-for-finding-rooms) - [**Hotel options**](#hotel-options) - [**FAQs**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Booking process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
 
 ***
 
 {{< center >}}## Booking process{{< /center >}}
 
-{{< center >}}**UPDATE - Our General Hotel opening will be sent out to registered attendees via email on February 8th at 5pm Eastern Time.** [**Read our latest announcement for more details**](https://www.anthrocon.org/news/2024/2/5/anthrocon-2024-general-hotel-booking-revised-date){{< /center >}}
+{{< center >}}**UPDATE - Our General Hotel opening will be sent out to registered attendees via email on February 8th at 5pm Eastern Time.** [Read our latest announcement for more details](https://www.anthrocon.org/news/2024/2/5/anthrocon-2024-general-hotel-booking-revised-date){{< /center >}}
 
 {{< columns >}}
 Emails for the Anthrocon hotel reservation block will be sent to pre-registered members as follows:
@@ -68,7 +68,7 @@ The only place that you can get an “Anthrocon room” that is within our block
 An important thing to look out for is anyone that attempts to persuade you, by any means, to accept an offer - that’s normally a sign that the offer isn’t as good as it seems. **Anthrocon staff nor hotel employees will never try to coerce, bribe, or intimidate you with accepting an offer**.
 {{< /columns >}}
 
-If you have any suspicion about a room or roommate offer you receive, contact our Hotel team which can be found on our [**Contact Us page**](/contact).
+If you have any suspicion about a room or roommate offer you receive, contact our Hotel team which can be found on our [Contact Us page](/contact).
 
 ***
 
@@ -91,7 +91,7 @@ The award-winning Pittsburgh Marriott City Center effortlessly blends style & su
 
 **Shuttle Service:** Yes
 
-[**Learn more about the Pittsburgh Marriott City Center**](https://www.marriott.com/en-us/hotels/pitdt-pittsburgh-marriott-city-center/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
+[Learn more about the Pittsburgh Marriott City Center](https://www.marriott.com/en-us/hotels/pitdt-pittsburgh-marriott-city-center/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
 {{< /columns >}}
 
 ***
@@ -111,7 +111,7 @@ The hotel is walking distance to PNC Park, PPG Paints Arena, and Acrisure Stadiu
 
 **Shuttle Service:** Yes
 
-[**Learn more about the Hyatt Place Pittsburgh-North Shore**](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-place-pittsburgh-north-shore/pitzn?src=corp_lclb_gmb_seo_pitzn)
+[Learn more about the Hyatt Place Pittsburgh-North Shore](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-place-pittsburgh-north-shore/pitzn?src=corp_lclb_gmb_seo_pitzn)
 {{< /columns >}}
 
 ***
@@ -131,7 +131,7 @@ The Hilton Garden Inn Pittsburgh Downtown enjoys a central spot in the heart of 
 
 **Shuttle Service:** Yes
 
-[**Learn more about the Hilton Garden Inn Pittsburgh Downtown**](https://www.hilton.com/en/hotels/pitfagi-hilton-garden-inn-pittsburgh-downtown/)
+[Learn more about the Hilton Garden Inn Pittsburgh Downtown](https://www.hilton.com/en/hotels/pitfagi-hilton-garden-inn-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***
@@ -151,7 +151,7 @@ The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy es
 
 **Shuttle Service:** Yes
 
-[**Learn more about the H**](https://www.hilton.com/en/hotels/pitfagi-hilton-garden-inn-pittsburgh-downtown/)[**oliday Inn Express Pittsburgh North Shore**](https://www.ihg.com/holidayinnexpress/hotels/us/en/pittsburgh/pitns/hoteldetail)
+[Learn more about the H](https://www.hilton.com/en/hotels/pitfagi-hilton-garden-inn-pittsburgh-downtown/)[oliday Inn Express Pittsburgh North Shore](https://www.ihg.com/holidayinnexpress/hotels/us/en/pittsburgh/pitns/hoteldetail)
 {{< /columns >}}
 
 ***
@@ -171,7 +171,7 @@ The Wyndham Grand Pittsburgh Downtown Hotel is located where Pittsburgh's famous
 
 **Shuttle Service:** Yes
 
-[**Learn more about the Wyndham Grand Pittsburgh Downtown**](https://www.wyndhamhotels.com/en-ca/wyndham-grand/pittsburgh-pennsylvania/wyndham-grand-pittsburgh-downtown/overview)
+[Learn more about the Wyndham Grand Pittsburgh Downtown](https://www.wyndhamhotels.com/en-ca/wyndham-grand/pittsburgh-pennsylvania/wyndham-grand-pittsburgh-downtown/overview)
 {{< /columns >}}
 
 ***
@@ -191,7 +191,7 @@ Located in the historic Kaufmann Building in Downtown Pittsburgh, approximately 
 
 **Shuttle Service:** Yes
 
-[**Learn more about the EVEN Hotel Downtown Pittsburgh**](https://www.ihg.com/evenhotels/hotels/us/en/pittsburgh/pitev/hoteldetail?cm_mmc=GoogleMaps-_-VN-_-US-_-PITEV)
+[Learn more about the EVEN Hotel Downtown Pittsburgh](https://www.ihg.com/evenhotels/hotels/us/en/pittsburgh/pitev/hoteldetail?cm_mmc=GoogleMaps-_-VN-_-US-_-PITEV)
 {{< /columns >}}
 
 ***
@@ -211,7 +211,7 @@ Located a few blocks from the Convention Center in the heart of the Cultural Dis
 
 **Shuttle Service:** Yes
 
-[**Learn more about The Renaissance Pittsburgh**](https://www.marriott.com/hotels/travel/pitbr-renaissance-pittsburgh-hotel/)
+[Learn more about The Renaissance Pittsburgh](https://www.marriott.com/hotels/travel/pitbr-renaissance-pittsburgh-hotel/)
 {{< /columns >}}
 
 ***
@@ -233,7 +233,7 @@ Located a few blocks from the Convention Center, the sleek Doubletree Hotel is a
 
 **Shuttle Service:** Yes
 
-[**Learn more about The Doubletree Pittsburgh**](https://www.hilton.com/en/hotels/pitdtdt-doubletree-hotel-and-suites-pittsburgh-downtown/)
+[Learn more about The Doubletree Pittsburgh](https://www.hilton.com/en/hotels/pitdtdt-doubletree-hotel-and-suites-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***
@@ -253,7 +253,7 @@ Located a few blocks from the Convention Center, the breathtakingly luxurious Om
 
 **Shuttle Service:** Yes
 
-[**Learn more about The Omni William Penn Hotel**](https://www.omnihotels.com/hotels/pittsburgh-william-penn)
+[Learn more about The Omni William Penn Hotel](https://www.omnihotels.com/hotels/pittsburgh-william-penn)
 {{< /columns >}}
 
 ***
@@ -273,7 +273,7 @@ All of the rooms in our block are King Studio Suites. They are fully equipped wi
 
 **Shuttle Service:** Yes
 
-[**Learn more about Homewood Suites by Hilton Pittsburgh**](https://www.hilton.com/en/hotels/pitdohw-homewood-suites-pittsburgh-downtown/)
+[Learn more about Homewood Suites by Hilton Pittsburgh](https://www.hilton.com/en/hotels/pitdohw-homewood-suites-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***
@@ -293,7 +293,7 @@ Experience the distinctive ambiance of our Embassy Suites by Hilton Pittsburgh D
 
 **Shuttle Service:** Yes
 
-[**Learn more about the Embassy Suites by Hilton Pittsburgh**](https://www.hilton.com/en/hotels/pitsmes-embassy-suites-pittsburgh-downtown/)
+[Learn more about the Embassy Suites by Hilton Pittsburgh](https://www.hilton.com/en/hotels/pitsmes-embassy-suites-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***
@@ -313,7 +313,7 @@ Located just across the street from the Convention Center, this is Anthrocon's m
 
 **Walking Distance:** 0.1 mile
 
-[**Learn more about The Westin Pittsburgh**](https://www.marriott.com/hotels/travel/pitwi-the-westin-pittsburgh/)
+[Learn more about The Westin Pittsburgh](https://www.marriott.com/hotels/travel/pitwi-the-westin-pittsburgh/)
 {{< /columns >}}
 
 ***
@@ -331,7 +331,7 @@ Located just across the street from the Convention Center (but with no access wi
 
 **Walking Distance:** 0.1 mile
 
-[**Learn more about The Courtyard Pittsburgh Downtown**](https://www.marriott.com/hotels/travel/pitcy-courtyard-pittsburgh-downtown/)
+[Learn more about The Courtyard Pittsburgh Downtown](https://www.marriott.com/hotels/travel/pitcy-courtyard-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***
@@ -351,7 +351,7 @@ Located on Grant St just around the corner from the Westin, The Drury is a histo
 
 **Walking Distance:** 0.3 miles
 
-[**Learn more about The Drury Plaza Pittsburgh Downtown**](https://www.druryhotels.com/locations/pittsburgh-pa/drury-plaza-hotel-pittsburgh-downtown)
+[Learn more about The Drury Plaza Pittsburgh Downtown](https://www.druryhotels.com/locations/pittsburgh-pa/drury-plaza-hotel-pittsburgh-downtown)
 {{< /columns >}}
 
 ***
@@ -373,7 +373,7 @@ The AC Hotel Pittsburgh Downtown reflects smart, timeless European design guests
 
 **Walking Distance:** 0.2 miles
 
-[**Learn more about the AC Hotel Pittsburgh Downtown**](https://www.marriott.com/hotels/travel/pitar-ac-hotel-pittsburgh-downtown/)
+[Learn more about the AC Hotel Pittsburgh Downtown](https://www.marriott.com/hotels/travel/pitar-ac-hotel-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***
@@ -395,7 +395,7 @@ This is the only hotel in the Golden Triangle whose room rate includes parking, 
 
 **Shuttle Service:** Yes
 
-[**Learn more about The Hampton In & Suites Pittsburgh**](https://www.hilton.com/en/hotels/pitdnhx-hampton-suites-pittsburgh-downtown/)
+[Learn more about The Hampton In & Suites Pittsburgh](https://www.hilton.com/en/hotels/pitdnhx-hampton-suites-pittsburgh-downtown/)
 {{< /columns >}}
 
 ***
@@ -421,7 +421,7 @@ Rooms are booked very quickly due to high demand, and we try to make as many roo
 
 If you’re unable to get the reservation you want, we would recommend securing a room at other hotels to ensure you have a place to stay during the convention. Alternatively, you can also try and find rooming arrangements with other attendees that have space (you can find these on various forums and websites).
 
-A room may show as "not available" when only one of the nights is truly not available. This is likely to happen for the first or last night of your stay, or If you try to book a date outside the convention time frame. Try requesting a shorter stay, and if you are then able to make a successful reservation, contact [**help@orchid.events**](mailto:help@orchid.events) (or call **+1-800-470-8077**) and indicate that you're looking to add additional nights.
+A room may show as "not available" when only one of the nights is truly not available. This is likely to happen for the first or last night of your stay, or If you try to book a date outside the convention time frame. Try requesting a shorter stay, and if you are then able to make a successful reservation, contact [help@orchid.events](mailto:help@orchid.events) (or call **+1-800-470-8077**) and indicate that you're looking to add additional nights.
 
 **Please note:** The higher demand hotels (such as the Westin, Courtyard, and the Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. As such you may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations.
 {{< /details >}}
@@ -431,13 +431,13 @@ Yes, shuttle service will be provided to all partner hotels, with the exception 
 {{< /details >}}
 
 {{< details "I'm trying to find roommates, where should I start asking?" >}}
-Drop by our [**Anthrocon Room Share** **group on Facebook**](https://www.facebook.com/groups/AnthroconRoomShare) to get started! Or, if Facebook is not your thing, we also have our Discord channel #roomshare on the [**Official Anthrocon Discord Server**](https://discord.gg/SUHnJD72JC).
+Drop by our [Anthrocon Room Share** **group on Facebook](https://www.facebook.com/groups/AnthroconRoomShare) to get started! Or, if Facebook is not your thing, we also have our Discord channel #roomshare on the [Official Anthrocon Discord Server](https://discord.gg/SUHnJD72JC).
 
 Please note that Anthrocon cannot help arrange, verify, or mediate any disputes with your chosen roommates - exercise caution when interacting with new potential roommates, verify all the details are accurate on room reservations, and make sure payments made are legitimate.
 {{< /details >}}
 
 {{< details "I'm having trouble with my reservation, who should I contact?" >}}
-If you encounter any issues while trying to reserve a hotel room, please contact [**help@orchid.events**](mailto:help@orchid.events). They can also be contacted by phone at **+1-800-470-8077**. Anthrocon cannot address issues with the reservation system as it is operated and maintained by Orchid Events.
+If you encounter any issues while trying to reserve a hotel room, please contact [help@orchid.events](mailto:help@orchid.events). They can also be contacted by phone at **+1-800-470-8077**. Anthrocon cannot address issues with the reservation system as it is operated and maintained by Orchid Events.
 {{< /details >}}
 
 {{< details "Is there a one-night deposit to book a room at Anthrocon's hotels?" >}}
@@ -465,5 +465,5 @@ Suites that are part of the Anthrocon block at our partnered hotels will be offe
 {{< details "If I cancel my Anthrocon registration, do I get to keep my hotel reservation?" >}}
 No, as your hotel reservation is linked to your registration. You must have a valid Anthrocon registration to keep your reservation.
 
-In the event that you wish to transfer your room reservation to another person staying in your room, please contact [**help@orchid.events**](mailto:help@orchid.events?subject=Anthrocon%20reservation%20change%20request) to inform them of the transfer request.
+In the event that you wish to transfer your room reservation to another person staying in your room, please contact [help@orchid.events](mailto:help@orchid.events?subject=Anthrocon%20reservation%20change%20request) to inform them of the transfer request.
 {{< /details >}}

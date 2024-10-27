@@ -17,7 +17,7 @@ banner_url: "https://www.flickr.com/photos/9989346@N04/"
 
 {{< center >}}# Convention Map{{< /center >}}
 
-{{< center >}}You can find a layout of the David L. Lawrence Convention Center (DLCC), and the Westin Pittsburgh event spaces below. For the complete schedule of events and services, check out our [**online schedule on Sched**](https://anthrocon.sched.com).{{< /center >}}
+{{< center >}}You can find a layout of the David L. Lawrence Convention Center (DLCC), and the Westin Pittsburgh event spaces below. For the complete schedule of events and services, check out our [online schedule on Sched](https://anthrocon.sched.com).{{< /center >}}
 
 {{< center >}}If you have questions about any of the spaces, drop by our Con Ops information desk in the DLCC 309.{{< /center >}}
 

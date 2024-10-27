@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< center >}}The Dealers list and map below are for reference only - changes may happen last-minute. Please watch for announcements on our social media for any changes.{{< /center >}}
 
-{{< center >}}[**Dealers Room Schedule**](#) - [**Dealers Room Map**](#) - [**Dealers List**](#dealers-list) - [**Back to main Dealers Room page**](/dealers){{< /center >}}
+{{< center >}}[Dealers Room Schedule](#) - [Dealers Room Map](#) - [Dealers List](#dealers-list) - [Back to main Dealers Room page](/dealers){{< /center >}}
 
 The schedule for the Dealers Room will be as follows:
 

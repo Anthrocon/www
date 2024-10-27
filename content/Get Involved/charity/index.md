@@ -15,7 +15,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
-{{< center >}}[**202**](#2024-charity-gray-paws-sanctuary)[**4**](#2024-charity-gray-paws-sanctuary) [**Sponsored Charity**](#2024-charity-gray-paws-sanctuary) - [**Bucket Brigade**](#bucket-brigade) - [**Charity Auction**](#charity-auction-and-raffle) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[202](#2024-charity-gray-paws-sanctuary)[4](#2024-charity-gray-paws-sanctuary) [Sponsored Charity](#2024-charity-gray-paws-sanctuary) - [Bucket Brigade](#bucket-brigade) - [Charity Auction](#charity-auction-and-raffle) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
 ***
 
@@ -25,7 +25,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< img src="Gray+Paws+Logo+Sept+2014.jpg" float="left" hint="drawing" >}}
 
-This year, we’re delighted to be partnering with [**Gray Paws Sanctuary**](https://graypaws.org), a Pittsburgh-based 501©3 non-profit, fully volunteer organization dedicated to rescuing senior dogs.
+This year, we’re delighted to be partnering with [Gray Paws Sanctuary](https://graypaws.org), a Pittsburgh-based 501©3 non-profit, fully volunteer organization dedicated to rescuing senior dogs.
 
 Most of the senior dogs rescued into sanctuary, or placed in Forever Foster Homes are from private owners in crisis. Gray Paws also sponsors dogs from local shelters, humane officers, animal control, and other partner rescues. Often times, dogs would be euthanized because of their age and veterinary care costs.
 
@@ -75,21 +75,21 @@ The Anthrocon Charity Auction is an event on Sunday afternoon of the convention 
 
 The Raffle has the same purpose, but is a ticket-driven event over Friday and Saturday that accepts non-unique items and merchandise, with all winning ticket numbers presented during Sunday's Dealers Room hours. Higher value donations are sold at the auction. Lower value items are raffled at the charity's Dealers Room table.
 
-- [**Charity Event Rules (Raffle and Auction)**](/charity-event-rules)
-- [**Charity Donation History**](/charity-event-history)
+- [Charity Event Rules (Raffle and Auction)](/charity-event-rules)
+- [Charity Donation History](/charity-event-history)
 
 ### How do I Bid in Anthrocon’s Live Charity Auction?
 
-On Sunday of the convention, you’ll have the ability to participate as a bidder in the live Charity Auction for items that are specifically presented by our auctioneer. Check the schedule on the [**Events page**](/events-panels) closer to the convention dates for the exact time of the auction.
+On Sunday of the convention, you’ll have the ability to participate as a bidder in the live Charity Auction for items that are specifically presented by our auctioneer. Check the schedule on the [Events page](/events-panels) closer to the convention dates for the exact time of the auction.
 
 ### How do I donate items to the Charity Auction?
 
-Interested in donating to the Anthrocon Charity Auction or Raffle? Send an email to [**charity@anthrocon.org**](mailto:charity@anthrocon.org) stating what you are donating, your name, your preferred email address if it's different, and details on the donation (what is it, medium, artist/donor, etc.). This information is for approval purposes only - details should be provided with the required information card at the convention.
+Interested in donating to the Anthrocon Charity Auction or Raffle? Send an email to [charity@anthrocon.org](mailto:charity@anthrocon.org) stating what you are donating, your name, your preferred email address if it's different, and details on the donation (what is it, medium, artist/donor, etc.). This information is for approval purposes only - details should be provided with the required information card at the convention.
 
 {{< details "Rules for donating items" >}}
-If you are donating an item (artwork, sculpture, animation cel, etc), it must be G to PG rated (PG13- or R-rated items accepted only with prior permission). You may either bring it to Anthrocon if you are attending or you may send it via postal mail. Write to [**charity@anthrocon.org**](mailto:charity@anthrocon.org) to receive the address that postal mail items should be sent to. If delivered by mail, the item must include a 3x5 card with pertinent, legible information such as the donor, artist, medium, and any other important information a bidder or ticket-holder should know so that the item may be properly auctioned or raffled. If delivered at the convention, please do so at the charity's Dealers' Room table during Dealers' Room Setup hours on Friday. You will be required to fill out a 3x5 card with the aforementioned information for display and/or auction purposes. Items donated for the auction must be unique - they cannot be available anywhere else at the convention. And please: we appreciate your generosity, but do not donate multiple copies of the same item!
+If you are donating an item (artwork, sculpture, animation cel, etc), it must be G to PG rated (PG13- or R-rated items accepted only with prior permission). You may either bring it to Anthrocon if you are attending or you may send it via postal mail. Write to [charity@anthrocon.org](mailto:charity@anthrocon.org) to receive the address that postal mail items should be sent to. If delivered by mail, the item must include a 3x5 card with pertinent, legible information such as the donor, artist, medium, and any other important information a bidder or ticket-holder should know so that the item may be properly auctioned or raffled. If delivered at the convention, please do so at the charity's Dealers' Room table during Dealers' Room Setup hours on Friday. You will be required to fill out a 3x5 card with the aforementioned information for display and/or auction purposes. Items donated for the auction must be unique - they cannot be available anywhere else at the convention. And please: we appreciate your generosity, but do not donate multiple copies of the same item!
 
-Additional information and more detailed rules can be found on the [**Charity Event Rules**](/charity-event-rules) page.
+Additional information and more detailed rules can be found on the [Charity Event Rules](/charity-event-rules) page.
 {{< /details >}}
 
 **For 2024**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.

@@ -12,7 +12,7 @@ banner_url: ""
 
 {{< center >}}# Being a Good Guest at a Convention{{< /center >}}
 
-For convention attendees, it’s reasonable to say they have a common sense obligation to treat the host venues, and their staff, with respect and integrity. It’s a simple request that is often taken for granted, but is a vital part of the relationship between Anthrocon and its host facilities, namely the David L. Lawrence Convention Center (DLCC) which houses the majority of Anthrocon’s programming, and [**22 partner hotels**](https://www.anthrocon.org/hotel).
+For convention attendees, it’s reasonable to say they have a common sense obligation to treat the host venues, and their staff, with respect and integrity. It’s a simple request that is often taken for granted, but is a vital part of the relationship between Anthrocon and its host facilities, namely the David L. Lawrence Convention Center (DLCC) which houses the majority of Anthrocon’s programming, and [22 partner hotels](https://www.anthrocon.org/hotel).
 
 ### Practicing good Sticker Etiquette
 
@@ -22,7 +22,7 @@ To help encourage proper use of stickers in 2024, Anthrocon has introduced stick
 
 ### Keeping hotel rooms clean
 
-Another aspect of being a good guest is maintaining an orderly hotel room. Room parties are great social fun, but they tend to generate a lot of trash – please dispose of it in proper receptacles. If you need extra bags, housekeeping will be happy to provide them. As detailed in the [**Anthrocon Standards of Conduct**](https://www.anthrocon.org/standards-of-conduct), rooms must be inspected at least once a day, even if the door has a “Do Not Disturb” sign; you can decline the cleaning service as long as housekeepers are able to inspect. Similarly, if you enjoy a meal or beverage inside convention space, please clean up after yourself.
+Another aspect of being a good guest is maintaining an orderly hotel room. Room parties are great social fun, but they tend to generate a lot of trash – please dispose of it in proper receptacles. If you need extra bags, housekeeping will be happy to provide them. As detailed in the [Anthrocon Standards of Conduct](https://www.anthrocon.org/standards-of-conduct), rooms must be inspected at least once a day, even if the door has a “Do Not Disturb” sign; you can decline the cleaning service as long as housekeepers are able to inspect. Similarly, if you enjoy a meal or beverage inside convention space, please clean up after yourself.
 
 ### Demonstrating courtesy and appreciation
 
@@ -30,6 +30,6 @@ Good convention guests are kind and courteous to one other. Remember that we’v
 
 ### Showing empathy for services and businesses
 
-Finally, being a good guest also involves showing kindness and empathy to those who are working to give you the best possible experience, from hotel and con staff, to waitstaff at downtown Pittsburgh’s many restaurants. As detailed in the [**first guide of this series**](/guides/furry-community-convention-growth/) pertaining to convention growth, Anthrocon will be experiencing unprecedented numbers in 2024, including bringing in six new hotels that previously were not partnered with the convention. Anthrocon has [**expanded its shuttle bus service**](https://www.anthrocon.org/shuttle-buses) to serve each of its 22 hotels across six routes, so attendees can safely and easily get to the DLCC and back to your room at any time the convention is running.
+Finally, being a good guest also involves showing kindness and empathy to those who are working to give you the best possible experience, from hotel and con staff, to waitstaff at downtown Pittsburgh’s many restaurants. As detailed in the [first guide of this series](/guides/furry-community-convention-growth/) pertaining to convention growth, Anthrocon will be experiencing unprecedented numbers in 2024, including bringing in six new hotels that previously were not partnered with the convention. Anthrocon has [expanded its shuttle bus service](https://www.anthrocon.org/shuttle-buses) to serve each of its 22 hotels across six routes, so attendees can safely and easily get to the DLCC and back to your room at any time the convention is running.
 
 It’s important to remember that while the con has done all it could with existing resources, our newest partner hotels, as well as restaurants that have recently opened, may not be as prepared for the impact of this year’s growth. While we hope everything runs smoothly, service levels may be impacted due to the sheer number of attendees overwhelming available staffing resources. If this happens to you, a little understanding and compassion, and “thank yous” go a long way to foster a positive, long-lasting relationship between the event and our host venues that Anthrocon strives for.

@@ -11,7 +11,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}# 2024 Charity Bucket Brigade{{< /center >}}
 
-{{< center >}}[**Back to Charity main page**](/charity){{< /center >}}
+{{< center >}}[Back to Charity main page](/charity){{< /center >}}
 
 {{< columns "42%" >}}
 {{< img src="2023+Nightdragon+AC+209.jpg" alt="Two bunny fursuiters, one in black and green and another in black and pink, patrolling the Anthrocon Dealers Room with a charity bucket soliciting donations for the Anthrocon 2023 Charity Bucket Brigade." hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com/" >}}
@@ -27,4 +27,4 @@ We encourage fursuiters to participate in the bucket brigade, but if you’ve al
 
 {{< center >}}If you’re interested in volunteering, fill out the form below. The potential hours we’re looking for would be Friday between 12-5pm, Saturday 10am-5pm, Sunday 10am-3pm.{{< /center >}}
 
-{{< center >}}Please note for minors, you will need to be accompanied by a parent/guardian to participate as a charity brigade volunteer. If you have questions, contact [**charity@anthrocon.org**](mailto:charity@anthrocon.org?subject=Anthrocon%202024%20Bucket%20Brigade).{{< /center >}}
+{{< center >}}Please note for minors, you will need to be accompanied by a parent/guardian to participate as a charity brigade volunteer. If you have questions, contact [charity@anthrocon.org](mailto:charity@anthrocon.org?subject=Anthrocon%202024%20Bucket%20Brigade).{{< /center >}}

@@ -19,11 +19,11 @@ Now that we’ve had some time to rest, recuperate, and read all the wonderful f
 
 ## Registration
 
-Online pre-registration will be available **starting on October 15th** at 11am Eastern Time. There are many changes to take note of for 2024, including the availability of Ultrasponsor, Supersponsor, and Sponsor memberships. Pre-registering online is cheaper than waiting to register on-site, and will be important for booking a hotel room within Anthrocon’s block. Learn more on our [**Registration page**](/registration).
+Online pre-registration will be available **starting on October 15th** at 11am Eastern Time. There are many changes to take note of for 2024, including the availability of Ultrasponsor, Supersponsor, and Sponsor memberships. Pre-registering online is cheaper than waiting to register on-site, and will be important for booking a hotel room within Anthrocon’s block. Learn more on our [Registration page](/registration).
 
 ## Dealers Room
 
-Our Dealers Room applications will be **opening on October 15th** at 11am Eastern Time and **closing on November 15th**, using the same link as the Attendee registration. However, make sure that you read over the [**Dealers Room Information Package**](/drip) (which will be finalized by opening) as it will contain important changes to note along with the passcode to apply as a Dealer. Learn more about Dealer table pricing and more on our [**Dealers page**](/dealers).
+Our Dealers Room applications will be **opening on October 15th** at 11am Eastern Time and **closing on November 15th**, using the same link as the Attendee registration. However, make sure that you read over the [Dealers Room Information Package](/drip) (which will be finalized by opening) as it will contain important changes to note along with the passcode to apply as a Dealer. Learn more about Dealer table pricing and more on our [Dealers page](/dealers).
 
 ## Hotels
 
@@ -34,14 +34,14 @@ Hotel bookings will be available to pre-registered attendees starting in:
 
 As with last year, the booking link will be sent out to all pre-registered attendees’ emails. We will also be temporarily shutting down online pre-registration between January 30th and February 2nd in preparation for the General booking - if you register after January 30th, the booking link will be included in your registration confirmation email.
 
-Specific hotel rates and information will continue to be updated on our website in the next couple of weeks, and we will continue to work on improving the booking experience. Learn more about hotel options on our [**Hotel page**](/hotel).
+Specific hotel rates and information will continue to be updated on our website in the next couple of weeks, and we will continue to work on improving the booking experience. Learn more about hotel options on our [Hotel page](/hotel).
 
 ## Volunteering
 
-With a convention growing as quickly as ours, we’ve updated our Volunteer page form for 2024 - if you’ve ever wondered what it takes to make a convention happen, or want to learn some new skills with a great team, there’s no better opportunity than with Anthrocon. Visit the [**Volunteer page**](/volunteer) for more details.
+With a convention growing as quickly as ours, we’ve updated our Volunteer page form for 2024 - if you’ve ever wondered what it takes to make a convention happen, or want to learn some new skills with a great team, there’s no better opportunity than with Anthrocon. Visit the [Volunteer page](/volunteer) for more details.
 
 ## Website Updates
 
 We’d like to remind everyone that our website is being gradually transitioned and updated from 2023 to 2024 content, so if you see information that looks outdated or strange, check back later or keep an eye on our social media for updates!
 
-We’ll be back soon with more updates and information for everyone, but if you have any questions in the meantime, don’t forget that you can reach out to us at [**info@anthrocon.org**](mailto:info@anthrocon.org), or at @anthrocon on most social media platforms (just make sure that it’s a legitimate channel).
+We’ll be back soon with more updates and information for everyone, but if you have any questions in the meantime, don’t forget that you can reach out to us at [info@anthrocon.org](mailto:info@anthrocon.org), or at @anthrocon on most social media platforms (just make sure that it’s a legitimate channel).
