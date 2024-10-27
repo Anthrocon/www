@@ -15,17 +15,17 @@ It’s been some time since many of us have attended a convention, let alone one
 
 ### 1) Get your COVID and Registration Documents
 
-**Remember that with this year’s** [**COVID policy**](/covidpolicy), you’ll need to have one of our accepted documentations to get your registration: a digital or physical proof of full vaccination with approved vaccines, or a certified negative COVID test from a proctored test (not a home test kit). **If you’re showing a test, make sure it’s within the timeframe allowed** - one day for antigen tests, and three days for PCR tests.
+**Remember that with this year’s** [COVID policy](/covidpolicy), you’ll need to have one of our accepted documentations to get your registration: a digital or physical proof of full vaccination with approved vaccines, or a certified negative COVID test from a proctored test (not a home test kit). **If you’re showing a test, make sure it’s within the timeframe allowed** - one day for antigen tests, and three days for PCR tests.
 
-**To pick up your badge**, you’ll need your government-issued photo ID (such as a driver’s license or passport) with your name and date of birth. **If you’re a minor (under 18) and unaccompanied by parent**, make sure you have your [**Minor Consent form**](/s/minor-consent-2022-cfbz.pdf) **filled out and notarized** to show at Registration. Make sure you’ve got everything handy to help speed up the process!
+**To pick up your badge**, you’ll need your government-issued photo ID (such as a driver’s license or passport) with your name and date of birth. **If you’re a minor (under 18) and unaccompanied by parent**, make sure you have your [Minor Consent form](/s/minor-consent-2022-cfbz.pdf) **filled out and notarized** to show at Registration. Make sure you’ve got everything handy to help speed up the process!
 
 ### 2) Learn what’s changed for 2022
 
-**Read up on the changes** to locations that you may be familiar with for things such as Registration, which is now in Hall E and accessed from the street-level. We’ve provided a summary of these changes on our [**Planning Your Arrival page**](/planning-your-arrival).
+**Read up on the changes** to locations that you may be familiar with for things such as Registration, which is now in Hall E and accessed from the street-level. We’ve provided a summary of these changes on our [Planning Your Arrival page](/planning-your-arrival).
 
 ### 3) plan your travel (and backup plans)
 
-**If you’re arriving by car**, make sure to plan your routes and stops ahead of time to ensure you’ll have areas to rest, re-fuel, and get assistance if needed. **If you’re flying into Pittsburgh**, make sure you stay informed of your local airport and airline’s travel conditions as you may encounter delays and/or cancellations due to various reasons. Don’t forget our other travel tips on [**our Travel page**](/travel).
+**If you’re arriving by car**, make sure to plan your routes and stops ahead of time to ensure you’ll have areas to rest, re-fuel, and get assistance if needed. **If you’re flying into Pittsburgh**, make sure you stay informed of your local airport and airline’s travel conditions as you may encounter delays and/or cancellations due to various reasons. Don’t forget our other travel tips on [our Travel page](/travel).
 
 ### 4) Confirm your rooming arrangements
 
@@ -41,15 +41,15 @@ It’s been some time since many of us have attended a convention, let alone one
 
 ### 7) Make a schedule
 
-**Make a handy schedule** with all the places and events you want to see at the convention, whether it’s through the [**official Sched application**](https://anthrocon2022.sched.com) or with your own planning method. It’ll save you time and stress doing it at the convention.
+**Make a handy schedule** with all the places and events you want to see at the convention, whether it’s through the [official Sched application](https://anthrocon2022.sched.com) or with your own planning method. It’ll save you time and stress doing it at the convention.
 
 ### 8) Familiarize with Pittsburgh’s local area
 
-**Learn what’s nearby the convention center and your hotel**, such as where the nearest pharmacy or bank is, so you won’t be wondering where to pick up that toothpaste you forgot to pack (see tip #6!). A great place to start is by looking at what’s near the [**David L. Lawrence Convention Center**](https://goo.gl/maps/LNUxJ21DnsNCy2YbA).
+**Learn what’s nearby the convention center and your hotel**, such as where the nearest pharmacy or bank is, so you won’t be wondering where to pick up that toothpaste you forgot to pack (see tip #6!). A great place to start is by looking at what’s near the [David L. Lawrence Convention Center](https://goo.gl/maps/LNUxJ21DnsNCy2YbA).
 
 ### 9) Follow Anthrocon's official update channels
 
-**Follow our main announcement channels for Anthrocon**, which are primarily through [**Twitter**](https://twitter.com/anthrocon) and [**Telegram**](https://t.me/anthrocon). Throughout the convention, we’ll be sharing important updates and changes through these channels, but they will not be the only source of information. Refer to our online schedule for panel times, and our website for other details.
+**Follow our main announcement channels for Anthrocon**, which are primarily through [Twitter](https://twitter.com/anthrocon) and [Telegram](https://t.me/anthrocon). Throughout the convention, we’ll be sharing important updates and changes through these channels, but they will not be the only source of information. Refer to our online schedule for panel times, and our website for other details.
 
 ### 10) Share these tips with your friends
 

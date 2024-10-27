@@ -13,7 +13,7 @@ banner_url: "https://www.flickr.com/photos/lionelleupold"
 
 ### Why don't you have more programming involving puppets (or costumes, or writing, or...)?
 
-Anthrocon strives to provide a variety of programming events so that there is something for everyone. Our programming space is limited and we have only so many hours in the weekend; thus, if we were cater too strongly to one particular programming track, we would have to take programming space away from other tracks. If you have ideas for programming, please submit an idea through [**our Events page**](/programming), but please also understand that we cannot use every idea we receive.
+Anthrocon strives to provide a variety of programming events so that there is something for everyone. Our programming space is limited and we have only so many hours in the weekend; thus, if we were cater too strongly to one particular programming track, we would have to take programming space away from other tracks. If you have ideas for programming, please submit an idea through [our Events page](/programming), but please also understand that we cannot use every idea we receive.
 
 ### Can I hold my wedding at Anthrocon?
 
@@ -31,4 +31,4 @@ Again, sorry, but no. Anthrocon needs all of its programming space. Even space t
 
 ### Does Anthrocon provide wi-fi for event hosts/panelists?
 
-We don’t provide internet for our event hosts. However, we have worked out a deal with the convention center’s internet provider to have discounted wi-fi available for purchase within the convention center space. Check out our [**Wireless Internet Questions page**](/wireless-internet) for more details.
+We don’t provide internet for our event hosts. However, we have worked out a deal with the convention center’s internet provider to have discounted wi-fi available for purchase within the convention center space. Check out our [Wireless Internet Questions page](/wireless-internet) for more details.

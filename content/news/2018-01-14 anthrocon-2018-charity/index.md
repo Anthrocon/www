@@ -21,4 +21,4 @@ _Today, South Hills Pet Rescue (SHPR), an independent 501(c)3 nonprofit organiza
 
 South Hills Pet Rescue will be at the Charity Auction and will have a table in the Dealers' Room where you can meet them and peruse information about their organization.
 
-More information about South Hills Pet Rescue can be found at their website, [southhillspetrescue.org](http://southhillspetrescue.org/). If you have any questions regarding South Hills Pet Rescue, they can be reached at **shpr88(at)**[**yahoo.com**](http://yahoo.com/).
+More information about South Hills Pet Rescue can be found at their website, [southhillspetrescue.org](http://southhillspetrescue.org/). If you have any questions regarding South Hills Pet Rescue, they can be reached at **shpr88(at)**[yahoo.com](http://yahoo.com/).

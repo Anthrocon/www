@@ -15,7 +15,7 @@ banner_url: "https://www.randorn.com"
 
 {{< center >}}We’re excited to have you join us for Anthrocon. Find out information on how you can register, what you’ll need in order to register, and other important information.{{< /center >}}
 
-{{< center >}}[**Registration Updates**](#2025-registration-updates) - [**How to Register**](#how-to-register) - [**Minor Forms**](#minor-forms) - [**FAQs**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Registration Updates](#2025-registration-updates) - [How to Register](#how-to-register) - [Minor Forms](#minor-forms) - [FAQs](#frequently-asked-questions){{< /center >}}
 
 ***
 
@@ -23,11 +23,11 @@ banner_url: "https://www.randorn.com"
 
 ### New Registration Process for 2025
 
-Our Registration system has now changed. To ensure you have a smooth registration experience, please read over our [**updated How to Register section**](#how-to-register) below these updates.
+Our Registration system has now changed. To ensure you have a smooth registration experience, please read over our [updated How to Register section](#how-to-register) below these updates.
 
 ### Hotel Booking Registration Policy
 
-**You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room**. For more details on process, refer to [**our Hotels page**](/hotel).
+**You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room**. For more details on process, refer to [our Hotels page](/hotel).
 
 ### At-the-door membership availability
 
@@ -43,7 +43,7 @@ A limited number of Ultrasponsor, Supersponsor, and Sponsor memberships will be 
 
 **New for Anthrocon 2025:** Our Registration system has now changed! Please read the following instructions in order to successfully purchase your conbadge for Anthrocon 2025.
 
-- Register for an account by visiting [**our new Registration portal**](https://reg.anthrocon.org/) on October 21st, selecting “Register”, and following the instructions — including verifying your email.
+- Register for an account by visiting [our new Registration portal](https://reg.anthrocon.org/) on October 21st, selecting “Register”, and following the instructions — including verifying your email.
 - Once your account is registered and verified, select "Register for AC2025" from the menu and select your desired level. Available levels will be displayed starting October 21st at 12 PM Eastern Daylight Time. Sold out levels will not be visible.
 - Fill out the form and select "Register". Your registration is now held in stock, but not completed.
 - Select "View Cart" and complete checkout. (important, as your membership is NOT confirmed until you check out)
@@ -56,7 +56,7 @@ There are several levels of memberships available for purchase. We recommend reg
 
 {{< center >}}### Registering as a minor?{{< /center >}}
 
-**If you will be a minor at Anthrocon** (under the age of 18 by July 3, 2025), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [**Minor Forms section**](#minor-forms).
+**If you will be a minor at Anthrocon** (under the age of 18 by July 3, 2025), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [Minor Forms section](#minor-forms).
 
 {{< center >}}### Registration Levels{{< /center >}}
 
@@ -108,7 +108,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Advance admission to selected main ballroom events
 - A unique gift available to Supersponsors
 - Our wonderful Supersponsor Brunch on Sunday
-- An advance opportunity to book select hotel rooms before general availability[**\*\***](#disclaimers-for-registration-tiers)
+- An advance opportunity to book select hotel rooms before general availability[\*\*](#disclaimers-for-registration-tiers)
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register online{{< /button >}}{{< /center >}}
 {{% /tab %}}
@@ -123,7 +123,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 
 - A nifty Ultrasponsor ribbon
 - VIP badge pick up at registration
-- First opportunity to register for a hotel room, based on availability[**\*\***](#disclaimers-for-registration-tiers)
+- First opportunity to register for a hotel room, based on availability[\*\*](#disclaimers-for-registration-tiers)
 - Front-of-line privileges for early admission into the Dealers Room on Friday
 - Front-of-line privileges to main ballroom events (plus 1 guest if desired)
 - An exclusive gift available only to Anthrocon Ultrasponsors
@@ -175,9 +175,9 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 {{< center >}}## Disclaimers for registration tiers{{< /center >}}
 
-**\* Note for Sponsor, Supersponsor, and Ultrasponsor:** A portion of this membership constitutes a donation to Anthrocon which, by law, is not tax-deductible and is not refundable if your registration is canceled. For more information, please see [**our refund policy**](/refundpolicy).
+**\* Note for Sponsor, Supersponsor, and Ultrasponsor:** A portion of this membership constitutes a donation to Anthrocon which, by law, is not tax-deductible and is not refundable if your registration is canceled. For more information, please see [our refund policy](/refundpolicy).
 
-**\*\* Note for Advance Hotel Reservations:** The higher demand hotels (such as the Westin, Courtyard and the Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. You may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations. For more information about available hotels, see [**our hotels page**](/hotel).
+**\*\* Note for Advance Hotel Reservations:** The higher demand hotels (such as the Westin, Courtyard and the Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. You may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations. For more information about available hotels, see [our hotels page](/hotel).
 
 ***
 
@@ -208,7 +208,7 @@ Required for attendees who are under 13 years of age and attending Anthrocon 202
 {{< details "What ID do I need to bring to get my registration?" >}}
 For all attendees aged 18 years and older, we require a government-issued photo ID so that we can make sure nobody other than you is trying to pick up your badge or register in your name. Anthrocon accepts the following as a single-form ID: USA or Canada driver's license, USA or Canada state ID, USA military ID, or a passport.
 
-For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well. However, we do understand that not every minor (especially the younger ones) will have an ID. If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth. Contact the Registration department at [**registration@anthrocon.org**](mailto:registration@anthrocon.org) if you are unsure or need assistance in determining alternate forms of acceptable ID.
+For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well. However, we do understand that not every minor (especially the younger ones) will have an ID. If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth. Contact the Registration department at [registration@anthrocon.org](mailto:registration@anthrocon.org) if you are unsure or need assistance in determining alternate forms of acceptable ID.
 {{< /details >}}
 
 {{< details "I don't have an ID. What should I do?" >}}
@@ -228,11 +228,11 @@ Anthrocon will have an ADA line that is available at registration for those who 
 {{< /details >}}
 
 {{< details "I have paid for a membership but cannot attend. Can I get a refund or rollover to next year?" >}}
-We understand that circumstances may arise that prevent you from attending our convention. Requests for refunds must be received before the close of pre-registration. Requests for rollovers must be received before the Monday prior to the convention. For more information please visit our [**refund policy page**](/refundpolicy).
+We understand that circumstances may arise that prevent you from attending our convention. Requests for refunds must be received before the close of pre-registration. Requests for rollovers must be received before the Monday prior to the convention. For more information please visit our [refund policy page](/refundpolicy).
 {{< /details >}}
 
 {{< details "I'm buying a registration badge for my child. Do I need one myself?" >}}
-If your child is between the ages of 13 to 17, they do not require accompaniment within the convention space as long as they have a valid Minor badge (which requires the completion of a [**Minor Consent form**](#minor-forms)). If you wish to accompany them, you will need to purchase a registration badge for yourself.
+If your child is between the ages of 13 to 17, they do not require accompaniment within the convention space as long as they have a valid Minor badge (which requires the completion of a [Minor Consent form](#minor-forms)). If you wish to accompany them, you will need to purchase a registration badge for yourself.
 
-Please note that children 12 and under must be accompanied by a badged adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian a signed and notarized [**Parental Assignment for Supervision of Minor Child form**](#minor-forms) must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent/guardian will need to be purchased separately.
+Please note that children 12 and under must be accompanied by a badged adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian a signed and notarized [Parental Assignment for Supervision of Minor Child form](#minor-forms) must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent/guardian will need to be purchased separately.
 {{< /details >}}

@@ -13,11 +13,11 @@ banner_url: "https://nightdragon0.smugmug.com"
 
 {{< center >}}# Driving and Loading Instructions for Dealers{{< /center >}}
 
-{{< center >}}[**Back to the Dealers page**](/dealers){{< /center >}}
+{{< center >}}[Back to the Dealers page](/dealers){{< /center >}}
 
 {{< center >}}Address for the Loading Dock:{{< /center >}}
 
-{{< center >}}**David L. Lawrence Convention Center Loading Dock** [**(View on Google)**](https://goo.gl/maps/1ZHvu8Qwozz)<br>
+{{< center >}}**David L. Lawrence Convention Center Loading Dock** [(View on Google)](https://goo.gl/maps/1ZHvu8Qwozz)<br>
 1000 Ft. Duquesne Blvd. (10th & Ft. Duquesne)<br>
 Pittsburgh, PA 15222<br>
 +1-412-565-6000{{< /center >}}

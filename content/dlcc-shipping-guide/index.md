@@ -11,11 +11,11 @@ banner_url: "https://nightdragon0.smugmug.com/2022/Anthrocon-2022/i-N2nBXpM/A"
 
 {{< center >}}# Shipping to the Dealers Room{{< /center >}}
 
-{{< center >}}[**Back to the Dealers page**](/dealers){{< /center >}}
+{{< center >}}[Back to the Dealers page](/dealers){{< /center >}}
 
 **Downloads:**
 
-- [**DLCC Freight Manual (2022)**](2022+ANTHROCON+SHIPPING.pdf)
+- [DLCC Freight Manual (2022)](2022+ANTHROCON+SHIPPING.pdf)
 
 With the current trend among airlines for charging higher and higher fees for baggage, you may find it advantageous to ship items directly to the Convention Center. Be advised, however, that **there is a charge to receive and handle any boxes, and that there are very specific rules to follow.** Anthrocon has helped to arrange this service and done its best to negotiate reasonable rates and rules, but that is as far as we can go. We take no responsibility for misdirected shipments, neither does any location offer any guarantees. It is *strongly* recommended that you choose a carrier that offers tracking services such as DHL, UPS, Fedex, and the like. Remember, there is a charge to receive ALL boxes. In the past there were some misunderstandings on our part that resulted in some very unexpected fees that Anthrocon paid itself, but now that the rules are clear we are passing them along to you.
 
@@ -27,7 +27,7 @@ The charges for shipments to the Dealers' Room at the DLCC are as follows:
 
 These charges cover receipt, storage, and delivery of packages to your dealer table by Thursday, June 30th. The advantage is that you will not have to drag them over to the loading dock yourself on Thursday morning! And, with our new agreement with APA Exposition Services, you can start sending things as soon as June 1, 2022.
 
-Step 1) **Download and complete the** [**2022 Freight Manual**](2022+ANTHROCON+SHIPPING.pdf). Select Option A, B, or C on Page 2.
+Step 1) **Download and complete the** [2022 Freight Manual](2022+ANTHROCON+SHIPPING.pdf). Select Option A, B, or C on Page 2.
 
 Step 2) If your shipment is going to arrive on or before June 27, please use the "Ship to warehouse" option. The DLCC is not receiving shipments for us this year. IF the shipment is going to arrive on or after June 28th, please use the "Ship to Show Site" option.
 

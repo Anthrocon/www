@@ -17,10 +17,10 @@ banner_url: "https://flic.kr/p/2anmuhG"
 
 Here are some places you might be looking for:
 
-- [**Our latest news**](/news)
-- [**Registration**](/registration)
-- [**Events**](/events-panels)
-- [**Dealers Room**](/dealers)
-- [**Hotels**](/hotel)
+- [Our latest news](/news)
+- [Registration](/registration)
+- [Events](/events-panels)
+- [Dealers Room](/dealers)
+- [Hotels](/hotel)
 
-If you still can't find what you're looking for, please [**contact us**](/contact)!
+If you still can't find what you're looking for, please [contact us](/contact)!

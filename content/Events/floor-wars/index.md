@@ -13,7 +13,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}In partnership with Last-Fur-One Dance Crew, we’re bringing together the furry fandom’s most talented dancers in the ultimate battle event: **Floor Wars**!{{< /center >}}
 
-{{< center >}}[**Competition Format**](#competition-format) - [**Competition Rules**](#competition-rules) - [**Frequently Asked Questions**](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Competition Format](#competition-format) - [Competition Rules](#competition-rules) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
 {{< columns >}}
 {{< img src="2023+LionelLeupold+ac2023-6R1A3328.jpg" alt="Furries and fursuiters battling each other on the floor during Floor Wars." hint="picture" attr="LionelLeupold" attrlink="https://flic.kr/p/2gZhFoJ" >}}
@@ -89,7 +89,7 @@ A brief example of some things that our judges look for in both the Preliminarie
 
 **Am I allowed to participate if I’m a minor? Are there any age restrictions to the competition?**
 
-No, there are no longer any age restrictions for Floor Wars. However if you are a minor, you will need to follow the rules for minors requiring chaperones as outlined in our [**Minors 13 and Under section**](/faq/minors-questions).
+No, there are no longer any age restrictions for Floor Wars. However if you are a minor, you will need to follow the rules for minors requiring chaperones as outlined in our [Minors 13 and Under section](/faq/minors-questions).
 
 **I don’t know who all the members of my crew will be. Can I still sign up, or do I have to find my crew first?**
 
@@ -127,4 +127,4 @@ By signing up for the Anthrocon Floor Wars competition, you agree to adhere to a
 
 All competitors also acknowledge and understand that their image, or likeness of image, may be used in media representations whether by individuals or media corporations that have been given explicit permission by Anthrocon Inc. during the Main Event. These representations will not be used for monetary profit, and simply for the promotion of Anthrocon and its affiliated events. Questions or concerns may be directed to the address below.
 
-In addition to adhering to the rules of the Anthrocon Floor Wars competition, all registered participants also agree to adhere by all rules set forth by the [**Anthrocon Attendee Code of Conduct**](https://www.anthrocon.org/standards-of-conduct). All participants must be in good standing with Anthrocon Inc. and be registered with the convention in order to participate. Furthermore, all participants of the dance competition shall not hold Anthrocon liable for any damages/injuries to participants incurred at the convention and its events, including Floor Wars. Any complaints or concerns regarding this event, or with the venue hosted in, can be made to [**dancecomp@anthrocon.org**](mailto:dancecomp@anthrocon.org).
+In addition to adhering to the rules of the Anthrocon Floor Wars competition, all registered participants also agree to adhere by all rules set forth by the [Anthrocon Attendee Code of Conduct](https://www.anthrocon.org/standards-of-conduct). All participants must be in good standing with Anthrocon Inc. and be registered with the convention in order to participate. Furthermore, all participants of the dance competition shall not hold Anthrocon liable for any damages/injuries to participants incurred at the convention and its events, including Floor Wars. Any complaints or concerns regarding this event, or with the venue hosted in, can be made to [dancecomp@anthrocon.org](mailto:dancecomp@anthrocon.org).

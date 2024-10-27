@@ -14,7 +14,7 @@ banner_url: ""
 
 {{< center >}}Looking for information on how to plan your convention? Going to Anthrocon for the first time? Our staff writers have some helpful topics and guides to help make your experience the best possible one.{{< /center >}}
 
-{{< center >}}[**Planning**](#planning-your-convention) - [**Budgeting**](#budgeting) - [**Con Experience**](#convention-experience) - [**Fursuiting**](#fursuiting){{< /center >}}
+{{< center >}}[Planning](#planning-your-convention) - [Budgeting](#budgeting) - [Con Experience](#convention-experience) - [Fursuiting](#fursuiting){{< /center >}}
 
 {{< center >}}## Planning your convention{{< /center >}}
 
@@ -191,7 +191,7 @@ Learn some tips on how to prepare for the summer weather in the Steel City, whic
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
 {{< details "Where can I find information regarding topics like transportation around the city, or dining options?" >}}
-We’ve got our [**At The Convention page**](/at-the-convention) which has many resources related to shuttles, dining, and much more.
+We’ve got our [At The Convention page](/at-the-convention) which has many resources related to shuttles, dining, and much more.
 {{< /details >}}
 
 {{< details "Where can I find information when I'm at the convention?" >}}
@@ -199,5 +199,5 @@ Our Convention Operations room, located in Room 309 of the David L. Lawrence Con
 {{< /details >}}
 
 {{< details "Can you provide more tips/different topics that aren't covered here?" >}}
-We’re always happy to help. If you’re looking for other information or tips regarding Anthrocon, let us know by emailing [**info@anthrocon.org**](mailto:info@anthrocon.org).
+We’re always happy to help. If you’re looking for other information or tips regarding Anthrocon, let us know by emailing [info@anthrocon.org](mailto:info@anthrocon.org).
 {{< /details >}}

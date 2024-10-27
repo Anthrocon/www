@@ -11,7 +11,7 @@ banner_url: ""
 
 {{< center >}}# Minors and age-related questions{{< /center >}}
 
-{{< center >}}[**General Age Questions**](#) - [**Minors Under 17**](#) - [**Minors Under 13**](#){{< /center >}}
+{{< center >}}[General Age Questions](#) - [Minors Under 17](#) - [Minors Under 13](#){{< /center >}}
 
 ***
 
@@ -23,23 +23,23 @@ If you cannot get government-issued ID in time, then you should bring as many pi
 
 ### My parents don't understand what Furries are (or have gotten a bad impression). How can I explain it to them?
 
-There are two pages on this site that can help. The first is [**What is Furry**](/what-is-furry), and the second is [**About Anthrocon**](/about). Show these to your parents.
+There are two pages on this site that can help. The first is [What is Furry](/what-is-furry), and the second is [About Anthrocon](/about). Show these to your parents.
 
 A lot of young folks take the wrong tactic when trying to explain Furry Fandom to their parents, in that they spend so much time concentrating on what our fandom is not that they wind up giving a very bad impression. Tell them instead what it is. If you have any questions, you can [contact us](/contact) - or better still, have your parents [email us](/contact). We'd be happy to explain to them what we are all about.
 
 You can also show your parents some of our featured guests from past years, and use their works to explain the furry fandom’s inspirations and models:
 
-- [**Kevin And Kell, the World’s Longest Running Webcomic**](http://www.kevinandkell.com)
-- [**Andy Runton, creator of the children-favorite Owly books**](http://andyrunton.com)
-- [**James Gurney, creator of *Dinotopia* and *Color and Light***](http://jamesgurney.com)
-- [**Charlie Adler, prominent voice actor in film and television**](https://www.behindthevoiceactors.com/Charlie-Adler/)
-- [**The San Diego Chicken, nationally-recognized mascot and performer**](https://famouschicken.com/biography/)
+- [Kevin And Kell, the World’s Longest Running Webcomic](http://www.kevinandkell.com)
+- [Andy Runton, creator of the children-favorite Owly books](http://andyrunton.com)
+- [James Gurney, creator of *Dinotopia* and *Color and Light*](http://jamesgurney.com)
+- [Charlie Adler, prominent voice actor in film and television](https://www.behindthevoiceactors.com/Charlie-Adler/)
+- [The San Diego Chicken, nationally-recognized mascot and performer](https://famouschicken.com/biography/)
 
 ### My parents do not want to let me attend by myself. Now what?
 
 Why not ask your parents to come to the convention with you? The convention is attended by people of all ages, including those that your parents may be closely aligned to. These folks occasionally have get-togethers and other events for other parents of furries. If they worry that they might be bored at the convention, the Pittsburgh area has plenty of things to see and do. Most parents that attend the convention with their children end up having a great time, and even return in future years!
 
-For Anthrocon 2024, a new option is being offered for children under 13 to attend with another parent or legal guardian as their chaperone. A specific Assignment of Responsibility form is required in addition to the Minor Consent form, which can be downloaded on our [**Registration page**](/registration#forms) under “Minor Forms”.
+For Anthrocon 2024, a new option is being offered for children under 13 to attend with another parent or legal guardian as their chaperone. A specific Assignment of Responsibility form is required in addition to the Minor Consent form, which can be downloaded on our [Registration page](/registration#forms) under “Minor Forms”.
 
 ### My friends all think I am weird because I am a Furry. Am I?
 
@@ -65,7 +65,7 @@ From 13 to 17, minors may feel free to enjoy the convention on their own, with o
 
 Yes. If you are under 18 years old at the time of the convention, you need permission from your parents or a legal guardian in order to attend. This rule is necessary due to unfortunate situations in years past.
 
-Permission is obtained by downloading and printing out the Minor Consent form, which can be found on our [**Registration page**](/registration). Your parent or legal guardian must fill out the form, and then have it taken to a notary and signed in the notary's presence. The other way permission can be obtained is to have your parents come to Registration with you and fill out the parental consent form on site.
+Permission is obtained by downloading and printing out the Minor Consent form, which can be found on our [Registration page](/registration). Your parent or legal guardian must fill out the form, and then have it taken to a notary and signed in the notary's presence. The other way permission can be obtained is to have your parents come to Registration with you and fill out the parental consent form on site.
 
 ### I AM NOT YET 18, BUT I WILL BE 18 BEFORE OR DURING THE CONVENTION. DO I HAVE TO WAIT UNTIL I TURN 18 BEFORE I CAN REGISTER?
 
@@ -87,7 +87,7 @@ Emancipated minors need to bring court documents that prove their legal status. 
 
 ### I AM A MINOR FROM OUTSIDE THE USA, AND NOTARIZATION DOES NOT EXIST OR IS INCREDIBLY EXPENSIVE IN MY COUNTRY. WHAT SHOULD I DO?
 
-[**Contact us ahead of time**](https://www.anthrocon.org/contact) and we'll discuss your options.
+[Contact us ahead of time](https://www.anthrocon.org/contact) and we'll discuss your options.
 
 ***
 
@@ -97,4 +97,4 @@ Minors from ages birth to 12 do not need to pay for a Membership to the conventi
 
 ### CAN AN OLDER BROTHER/UNCLE/FAMILY FRIEND ACCOMPANY ME?
 
-For Anthrocon 2024, a new option is being offered for children under 13 to attend with another parent or legal guardian as their chaperone. A specific **Assignment of Minor Responsibility form** is required in addition to the Minor Consent form, which can be downloaded on our [**Registration page**](https://ac2018test.squarespace.com/registration#forms) under “Minor Forms”.
+For Anthrocon 2024, a new option is being offered for children under 13 to attend with another parent or legal guardian as their chaperone. A specific **Assignment of Minor Responsibility form** is required in addition to the Minor Consent form, which can be downloaded on our [Registration page](https://ac2018test.squarespace.com/registration#forms) under “Minor Forms”.

@@ -16,7 +16,7 @@ Your plane ticket is booked, your hotel is reserved, and your brand new fursuit 
 
 I was fortunate to interview two friends of mine who are experienced Anthrocon fursuiters, **CooperTom** and **Gale Frostbane**, who will provide their input and suggestions on their recommended experiences at Anthrocon. Additionally, the city of Pittsburgh is home to many furries and many unique fursuiting opportunities, and we’ve gotten some additional tips from locals **Sebastian Silverfox**, **Johann Faust,** and **Goku the Fox**.
 
-{{< center >}}[**Fursuiting at the convention**](#fursuiting-around-anthrocon) - [**Fursuiting around Pittsburgh**](#fursuiting-around-pittsburgh){{< /center >}}
+{{< center >}}[Fursuiting at the convention](#fursuiting-around-anthrocon) - [Fursuiting around Pittsburgh](#fursuiting-around-pittsburgh){{< /center >}}
 
 ***
 
@@ -34,7 +34,7 @@ This is one of my personal favorite locations in all of the convention space, as
 
 While many other conventions have done away with their Fursuit Parade, Anthrocon’s is here to stay, and for good reason. If you’ve ever wondered what it would be like to walk the furry fandom equivalent of the “red carpet” with thousands of people cheering, taking photos and video of you, that’s the experience of the Anthrocon Fursuit Parade. What makes it unique is that since it goes outdoors, outside of convention space, local Pittsburghers come down in droves to witness this spectacle!
 
-Beginning last year, Anthrocon began a tradition of hosting a [**Block Party**](/parade-block-party) on Penn Avenue in front of the DLCC after the Fursuit Parade. It’s a chance for fursuiters to interact with the hundreds of locals that come down watch the parade. . It’s a rare opportunity to share the creativity, fun and magic of our fandom with others and part of what makes the Anthrocon experience special.
+Beginning last year, Anthrocon began a tradition of hosting a [Block Party](/parade-block-party) on Penn Avenue in front of the DLCC after the Fursuit Parade. It’s a chance for fursuiters to interact with the hundreds of locals that come down watch the parade. . It’s a rare opportunity to share the creativity, fun and magic of our fandom with others and part of what makes the Anthrocon experience special.
 
 “If you are a fursuiter, the parade and block party are must-do events,” Gale noted, adding that it’s important to eat a healthy meal and hydrate beforehand. “The best part about Anthrocon is the city and getting to interact with the people of Pittsburgh.”
 
@@ -87,4 +87,4 @@ These are just a fraction of the ever-fantastic sights and scenes that Pittsburg
 
 ***
 
-Hopefully these suggestions help you, and who knows, maybe you’ll discover your own favorite place to fursuit while attending Anthrocon. We also would like to remind everyone to fursuit safely, as the hot summer heat can catch many newer fursuiters off-guard (we’ve got some good tips on how to stay cool in our [**Fursuiting In The Summer article**](/guides/fursuiting-in-the-summer)). Most areas of the DLCC are air-conditioned and kept cool for everyone’s comfort - if the temperatures rise outside, try to fursuit indoors as much as possible. ***Be safe out there and most importantly, have fun!***
+Hopefully these suggestions help you, and who knows, maybe you’ll discover your own favorite place to fursuit while attending Anthrocon. We also would like to remind everyone to fursuit safely, as the hot summer heat can catch many newer fursuiters off-guard (we’ve got some good tips on how to stay cool in our [Fursuiting In The Summer article](/guides/fursuiting-in-the-summer)). Most areas of the DLCC are air-conditioned and kept cool for everyone’s comfort - if the temperatures rise outside, try to fursuit indoors as much as possible. ***Be safe out there and most importantly, have fun!***

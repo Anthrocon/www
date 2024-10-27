@@ -16,7 +16,7 @@ banner_url: ""
 
 Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday, July 4th to Sunday, July 7th, and ends 3 AM the following morning. It will end on 11:59 PM on Sunday evening.
 
-{{< center >}}[**Important Notes and Updates**](#important-notes-and-updates) - [**Routes & Stops Schedules**](#shuttle-routes-and-schedules){{< /center >}}
+{{< center >}}[Important Notes and Updates](#important-notes-and-updates) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
 
 {{< center >}}## Important notes and updates{{< /center >}}
 
@@ -26,7 +26,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 - **On Saturday July 6th**, due to road closures for the parade and Block Party, the drop-off stop will move to the West side of 10th Street on Fort Duquesne Blvd. The pick-up stop will be on the East side of 10th Street on Fort Duquesne Blvd. Signs will be available to help mark the locations.
 - **Buses will come** **every 20-30 minutes** for hotels within downtown and **every 45 minutes** for North Shore and South Shore hotels, depending on route and traffic conditions.
 - **If a shuttle bus is full**, it will NOT stop until passengers offload.
-- **If a wheelchair-accessible bus is required**, please phone [**412-442-4771**](tel:412-442-4771) at least 1 hour in advance.
+- **If a wheelchair-accessible bus is required**, please phone [412-442-4771](tel:412-442-4771) at least 1 hour in advance.
 
 {{< center >}}## Shuttle Routes And Schedules{{< /center >}}
 

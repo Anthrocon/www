@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< center >}}In partnership with the Gateway Clipper Fleet, Anthrocon is offering River Cruises during the convention with options for sightseeing and/or cocktail cruises.{{< /center >}}
 
-{{< center >}}[**Cruise options**](#anthrocon-2025-cruise-options) - [**Boarding process**](#boarding-process) - [**FAQs**](#frequently-asked-questions) - [**Refund policy**](#refund-policy-for-cruises){{< /center >}}
+{{< center >}}[Cruise options](#anthrocon-2025-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
 
 {{< columns >}}
 {{< img src="2023+Randorn+_Z9N9451-Enhanced-NR.jpg" alt="The Gateway Clipper Fleet's ship &quot;The Princess&quot; with fursuiters on board." hint="photo" attr="Randorn Canis" attrlink="https://www.randorn.com" >}}
@@ -41,7 +41,7 @@ River Cruise options for Anthrocon 2025 are still being determined. We thank you
 
 ### Boarding process
 
-Boarding will take place at the [**Convention Center Riverfront Plaza**](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557){{< underline >}},{{< /underline >}} in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
+Boarding will take place at the [Convention Center Riverfront Plaza](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557){{< underline >}},{{< /underline >}} in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
 
 - The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
 - You **do not** need a con badge to board the cruise. However, you will need your cruise tickets for boarding, in either printed or electronic format.
@@ -61,7 +61,7 @@ Boarding will begin at the earliest time listed for each cruise. We recommend yo
 {{< /details >}}
 
 {{< details "What boats are being used for the river cruises?" >}}
-The Gateway Clipper Fleet has three boats that will be servicing our cruises, depending on the type: The Princess, The Three Rivers Queen, and The Duchess. More information about the boats can be found on the [**Gateway Clipper Fleet website**](https://www.gatewayclipper.com/about-us/boats/).
+The Gateway Clipper Fleet has three boats that will be servicing our cruises, depending on the type: The Princess, The Three Rivers Queen, and The Duchess. More information about the boats can be found on the [Gateway Clipper Fleet website](https://www.gatewayclipper.com/about-us/boats/).
 {{< /details >}}
 
 {{< details "Can I take my fursuit onto the cruise?" >}}
@@ -85,5 +85,5 @@ Unfortunately, no. Once the boat has set sailed, it will not be able to change i
 - The deadline to request a refund for an Anthrocon River Cruise is **June 14th, 2024** at 11:59pm EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.
 - Refunds will not be issued if you miss the boarding time for your cruise.
-- Refund requests must made by email to [**refunds@anthrocon.org**](mailto:refunds@anthrocon.org). We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
+- Refund requests must made by email to [refunds@anthrocon.org](mailto:refunds@anthrocon.org). We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
 - Refunds must be approved/requested by the person who purchased the tickets.

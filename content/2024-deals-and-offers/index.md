@@ -13,7 +13,7 @@ banner_url: ""
 
 {{< center >}}Check out the offers that Pittsburgh’s establishments and attractions have to offer for Anthrocon attendees. We’ll be continuing to add more deals and offers as they are arranged all the way to the convention’s start.{{< /center >}}
 
-{{< center >}}[**Show Your Badge Program**](#show-your-badge-program) - [**Restaurant Offers**](#restaurant-offers) - [**Attractions and Entertainment Offers**](#attractions-and-entertainment-offers){{< /center >}}
+{{< center >}}[Show Your Badge Program](#show-your-badge-program) - [Restaurant Offers](#restaurant-offers) - [Attractions and Entertainment Offers](#attractions-and-entertainment-offers){{< /center >}}
 
 ***
 
@@ -50,10 +50,10 @@ No - the Show Your Badge program provided by VisitPittsburgh is a separate and u
 {{< columns "58%" >}}
 Some establishments offer special Anthrocon menus and/or pricing during the convention’s main days, such as:
 
-- [**Pizza Parma**](https://maps.app.goo.gl/qgN3yESUN9Gw7Ss4A) (963 Liberty Ave): special Anthrocon menu and pricing
-- [**Freshii**](https://maps.app.goo.gl/481ALAxiegtem9Y46) (501 Grant St): 15% off any regularly-priced item
-- [**Bae Bae’s Kitchen**](https://maps.app.goo.gl/QbRnaUZK9m6bQ1wb6) (951 Liberty Ave): Special “Fur The Win” Boba drink, special $7 FURRgarita
-- [**AnthroNoms**](https://maps.app.goo.gl/MZU8qq9J6ViFkDGd9) (in the DLCC): variety of food and beverage offerings
+- [Pizza Parma](https://maps.app.goo.gl/qgN3yESUN9Gw7Ss4A) (963 Liberty Ave): special Anthrocon menu and pricing
+- [Freshii](https://maps.app.goo.gl/481ALAxiegtem9Y46) (501 Grant St): 15% off any regularly-priced item
+- [Bae Bae’s Kitchen](https://maps.app.goo.gl/QbRnaUZK9m6bQ1wb6) (951 Liberty Ave): Special “Fur The Win” Boba drink, special $7 FURRgarita
+- [AnthroNoms](https://maps.app.goo.gl/MZU8qq9J6ViFkDGd9) (in the DLCC): variety of food and beverage offerings
 - and others to come!
 
 <--->
@@ -106,7 +106,7 @@ The National Aviary is THE nation’s bird zoo, with more than 500 birds and ani
 
 - Admission
 - Add-ons like a Lorikeet Feeding, flying Birdly, the virtual reality simulator, and TWO different live immersive bird shows!
-- Animal Encounters with a sloth, penguin, and other feathered friends (book in advance if you can at [**aviary.org**](http://aviary.org/)).
+- Animal Encounters with a sloth, penguin, and other feathered friends (book in advance if you can at [aviary.org](http://aviary.org/)).
 - Gift Shop purchases
 
 *\* Discount not available at Atria’s Kookaburra Café.*
