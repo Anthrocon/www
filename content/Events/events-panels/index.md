@@ -77,7 +77,9 @@ If you’ve got an interesting topic or talent you’d love to share with our co
 
 {{< center >}}## Apply to host an event{{< /center >}}
 
-Panel applications for Anthrocon 2025 are coming November 1st. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to [events@anthrocon.org](mailto:events@anthrocon.org).
+Panel applications for Anthrocon 2025 are open now until March 15, 2025. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to [events@anthrocon.org](mailto:events@anthrocon.org).
+
+{{< center >}}{{< button href="/event-submission/" >}}Apply now{{< /button >}}{{< /center >}}
 
 ***
 
