@@ -23,12 +23,6 @@ Anthrocon’s stages showcase the best of furry-centric talent to our attendees,
 {{< img src="LUAU-6964.jpg" alt="An otter performing the guitar on Anthrocon's performance stage." hint="picture" attr="Hokuloa Luau" >}}
 {{< /columns >}}
 
-{{< center >}}## Apply to Perform at Anthrocon Tonight{{< /center >}}
-
-Anthrocon Tonight brings together a collection of some of the fandom’s finest talents on the same stage for an evening of fun. If you’re interested in participating in this year’s Anthrocon Tonight, applications will be available on this page from **May 27th through June 9th**.
-
-Anthrocon Tonight applications have now closed for 2024. Applicants will be contacted for further details if accepted.
-
 ***
 
 {{< center >}}## Stage Performance Policies and Rules{{< /center >}}
@@ -64,6 +58,8 @@ In submitting your performance application for Anthrocon 2024, you accept and ac
 8. Performers may not alter a stage’s fundamental layout. If a stage is set up it must remain in that fashion unless given explicit permission by Events staff; if accommodations are required to assist with your performance, please let us know in your application.
 
 If you’ve got an interesting performance or talent you’d love to share with our community, we’d love to hear from you! For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
+
+**[Fill out this form to apply for a stage performance](https://forms.gle/XWTRRjaFvSE756tH7).**
 
 ***
 
