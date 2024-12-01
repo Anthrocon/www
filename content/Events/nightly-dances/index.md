@@ -25,7 +25,13 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
 
 ***
 
-{{< img src="AC+2024+Poster+final.png" alt="A poster displaying the scheduled DJs for each night of Anthrocon 2024." hint="text" >}}
+**Applying to DJ for the dances**
+
+* DJs will be compensated with free registration for Anthrocon.
+  * If you've already pre-registered, you will be refunded.
+* By applying to perform, you agree to abide by [the Performer Code of Conduct](https://docs.google.com/document/d/1ncm9i0UvAYuXLp4U1FtyLN0A4jpL_RwetOlAikHdm_0/edit?usp=sharing).
+
+**[Fill out this form to apply to be a DJ for the nightly dances](https://forms.gle/RWCbWvwbJ99oTTAd6).**
 
 ***
 
