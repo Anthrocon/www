@@ -37,7 +37,9 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
   * Be on time for sound checks. If the crew does not have enough time to prepare for your show, we reserve the right to strike it from the line-up.
 
 
-**[Fill out this form to apply to be a DJ for the nightly dances](https://forms.gle/RWCbWvwbJ99oTTAd6).**
+{{< center >}}Fill out this form to apply to be a DJ for the nightly dances:
+
+{{< button href="https://forms.gle/RWCbWvwbJ99oTTAd6" >}}Apply to be a DJ{{< /button >}}{{< /center >}}
 
 ***
 
