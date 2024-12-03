@@ -59,7 +59,9 @@ In submitting your performance application for Anthrocon 2024, you accept and ac
 
 If you’ve got an interesting performance or talent you’d love to share with our community, we’d love to hear from you! For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
 
-**[Fill out this form to apply for a stage performance](https://forms.gle/XWTRRjaFvSE756tH7).**
+{{< center >}}Fill out this form to apply for a stage performance:
+
+{{< button href="https://forms.gle/XWTRRjaFvSE756tH7" >}}Apply to perform{{< /button >}}{{< /center >}}
 
 ***
 
