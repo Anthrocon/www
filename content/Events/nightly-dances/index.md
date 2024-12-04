@@ -25,7 +25,21 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
 
 ***
 
-{{< img src="AC+2024+Poster+final.png" alt="A poster displaying the scheduled DJs for each night of Anthrocon 2024." hint="text" >}}
+**Applying to DJ for the dances**
+
+* DJs will be compensated with free registration for Anthrocon.
+  * If you've already pre-registered, you will be refunded.
+* By applying to perform, you agree to abide by [the Performer Code of Conduct](https://docs.google.com/document/d/1ncm9i0UvAYuXLp4U1FtyLN0A4jpL_RwetOlAikHdm_0/edit?usp=sharing):
+  * The convention is staffed by human beings (or very convincing animals) who work very hard to make your show go well. Be respectful of the staff and other attendees at all times.
+  * Alcoholic beverages are not permitted on any stage at the convention.
+  * We often must establish restrictions regarding who is allowed on stage for safety reasons. Please be respectful of those rules during your performance and check with staff before inviting anyone on with you.
+  * We understand that musical self-expression can sometimes include coarse language and mature content. We don’t have specific rules against this, but ask that you don’t take advantage of that fact for shock value. Most performances (including the dances) at Anthrocon are all-ages - use your best judgment.
+  * Be on time for sound checks. If the crew does not have enough time to prepare for your show, we reserve the right to strike it from the line-up.
+
+
+{{< center >}}Fill out this form to apply to be a DJ for the nightly dances:
+
+{{< button href="https://forms.gle/RWCbWvwbJ99oTTAd6" >}}Apply to be a DJ{{< /button >}}{{< /center >}}
 
 ***
 
