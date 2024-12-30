@@ -3,7 +3,7 @@ title: "Anthrocon 2025 - Updates for the Holidays"
 author: "Ronnie"
 draft: false
 keywords:
-    - "Convention Information"
+  - "Convention Information"
 
 banner: "2024 Tobee 20240706_185835.jpg"
 banner_author: "Tobee"
@@ -44,8 +44,8 @@ We know you’re itching to find out when hotel bookings will be available, and 
 
 1. **Ultrasponsors:** February 4th, 2025 at 12 PM Eastern Time
 2. **Dealers:** February 11th, 2025 at 12 PM Eastern Time
-3. **Supersponsors:** February 21st, 2025 at 12 PM Eastern Time
-4. **General (everyone):** February 28th, 2025 at 12 PM Eastern Time
+3. **Supersponsors:** February 18th, 2025 at 12 PM Eastern Time
+4. **General (everyone):** February 25th, 2025 at 12 PM Eastern Time
 
 Each of the openings above will have rooms available at every hotel to ensure that there is a chance for each group, but we do ask for the fandom’s understanding as there are many more attendees than there are rooms at our most popular hotels. Similar to our registration system, we’re taking steps to improve the process of the hotel booking experience to ensure that it is as smooth as possible given the massive demand.
 
