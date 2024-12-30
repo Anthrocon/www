@@ -379,7 +379,7 @@ Located a few blocks from the Convention Center in the heart of the Cultural Dis
 ***
 
 {{< columns "33%" >}}
-{{< img src="pitrn-exterior-0055-hor-wide.avif" hint="photo" >}}
+{{< img src="pitrn-exterior-0055-hor-wide.jpg" hint="photo" >}}
 
 <--->
 
