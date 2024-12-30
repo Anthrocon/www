@@ -12,5 +12,5 @@ jobs:
     name: Call workflow
     uses: Anthrocon/actions-deploy/.github/workflows/deploy.yaml@main
     with:
-      hugo-version: '0.131.0'
+      hugo-version: '0.140.2'
       enforce-https: true
