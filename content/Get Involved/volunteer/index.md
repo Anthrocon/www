@@ -15,6 +15,10 @@ banner_url: "https://www.randorn.com"
 
 {{< center >}}[Open positions](#volunteer-positions) - [Volunteer incentives](#incentives-for-volunteering) - [Contact volunteers team](#contact-the-volunteers-team){{< /center >}}
 
+Looking to volunteer for Anthrocon? Log into our registration system (or create an account, if you haven't already) and click on the "Volunteering" option in the Applications section of the Menu. The menu is accessible through the blue "Open menu" button on Mobile or on the left side of the screen on Desktop. You can also click the following link to access the form directly:
+
+{{< center >}}{{< button href="https://reg.anthrocon.org/apply/volunteer" >}}Apply to volunteer{{< /button >}}{{< /center >}}
+
 ***
 
 {{< center >}}## Volunteer positions{{< /center >}}
