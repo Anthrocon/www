@@ -13,7 +13,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}# Hotels for Anthrocon{{< /center >}}
 
-{{< center >}}Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees. **A** **valid Anthrocon registration is required to make an Anthrocon-hotel block reservation** - without it, your reservation may not be honored. Register for the con on [our Registration page](/registration).{{< /center >}}
+{{< center >}}Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees. **A** **valid Anthrocon registration is required to make an Anthrocon-hotel block reservation** — without it, your reservation may not be honored. Register for the con on [our Registration page](/registration).{{< /center >}}
 
 {{< center >}}[Booking process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
 
@@ -34,12 +34,13 @@ Email notifications and links for the Anthrocon hotel reservation block will be 
 {{< img src="2024 Kaze-6533.jpg" hint="picture" attr="Kaze" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 {{< /columns >}}
 
-**Do NOT book through a hotel’s website if you want to get Anthrocon’s rates (subject to availability)**. Reservations must be made through our booking link in order to get the convention rate - if you make a reservation outside of Anthrocon's hotel block, it cannot be transferred into Anthrocon’s block.
+**A limited number of rooms will be set aside for people who are eligible for advance hotel booking (such as Ultrasponsors/Supersponsors)**. This is to allow attendees a chance to reserve a room at each hotel without having a hotel fill up before general opening. We will send the general hotel reservation link to all registered attendees on February 25th, so you will have a second chance if you do not get the hotel room of your choice during advance booking.
 
-- An email will be sent out to your registered email at the date/time listed above. If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. ***Anthrocon is not responsible for lost or undeliverable emails***. Check your spam or promotional folders if you do not receive the email at the listed time.
+**Do NOT book through a hotel’s website if you want to get Anthrocon’s rates (subject to availability)**. Reservations must be made through our booking link in order to get the convention rate — if you make a reservation outside of Anthrocon's hotel block, it cannot be transferred into Anthrocon’s block.
+
+- An email will be sent out to your registered email at the date/time listed above. If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. ***Anthrocon is not responsible for lost or undeliverable emails***. Check your spam and promotional folders if you do not receive the email at the listed time.
 - **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
 - **Only one room may be booked per registered attendee**, as it is linked to the registration.
-- **A limited number of rooms will be set aside for people who are eligible for advance hotel booking (such as Ultrasponsors/Supersponsors)**. This is to allow attendees a chance to reserve a room at each hotel without having a hotel fill up before general opening. We will send the general hotel reservation link to all registered attendees on February 2nd, so you will have a second chance if you do not get the hotel room of your choice during advance booking.
 - A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 16th, 2025 — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
 
 ***
@@ -63,7 +64,7 @@ The only place that you can get an “Anthrocon room” that is within our block
 
 ### Being pressured into an offer
 
-An important thing to look out for is anyone that attempts to persuade you, by any means, to accept an offer - that’s normally a sign that the offer isn’t as good as it seems. **Anthrocon staff nor hotel employees will never try to coerce, bribe, or intimidate you with accepting an offer**.
+An important thing to look out for is anyone that attempts to persuade you, by any means, to accept an offer — that’s normally a sign that the offer isn’t as good as it seems. **Anthrocon staff and hotel employees will never try to coerce, bribe, or intimidate you with accepting an offer**.
 {{< /columns >}}
 
 If you have any suspicion about a room or roommate offer you receive, contact our Hotel team which can be found on our [Contact Us page](/contact).
@@ -72,7 +73,7 @@ If you have any suspicion about a room or roommate offer you receive, contact ou
 
 {{< center >}}## Hotel options{{< /center >}}
 
-These rates are exclusive to rooms booked in Anthrocon’s room block (subject to availability), which can only be accessed through a special link emailed to registered attendees. All nightly rates listed below are subject to applicable state and local taxes (approximately 14%), and there will be an additional hold of $50 to $100 per night at check-in as an incidentals or damages hold which will be released back to the cardholder upon checkout. Anthrocon provides shuttle service to all listed hotels outside the immediate area of the convention center.
+These rates are exclusive to rooms booked in Anthrocon’s room block (subject to availability), which can only be accessed through a special link emailed to registered attendees. All nightly rates listed below are subject to applicable state and local taxes (approximately 14%), and there will be an additional hold of $50 to $100 per night at check-in as an incidentals or damages hold which will be released back to the cardholder after checkout. Anthrocon provides shuttle service to all listed hotels outside the immediate area of the convention center.
 
 {{< columns "33%" >}}
 {{< img src="AC-Hotel-Pittsburgh.jpg" hint="photo" >}}
@@ -123,7 +124,7 @@ Located near the PPG Paints Arena, all rooms have a double size pullout bed, mic
 
 ### Courtyard Pittsburgh Downtown
 
-Located just across the street from the Convention Center (but with no access without going outdoors), the Courtyard Downtown Pittsburgh is just as close as the Westin.
+Located just across the street from the Convention Center (but with no access without going outdoors), the Courtyard Downtown Pittsburgh is just as close as The Westin.
 
 **1 King Bed or 2 Queen Bed:** $229/night
 
@@ -141,7 +142,7 @@ Located just across the street from the Convention Center (but with no access wi
 
 ### DoubleTree Pittsburgh Downtown
 
-Located a few blocks from the Convention Center, the sleek Doubletree Hotel is a leisurely 5-6 minute walk away. For those on a budget, it features a 7-11 store right in the lobby.
+Located a few blocks from the convention center, the sleek DoubleTree Hotel is a leisurely 5-6 minute walk away. For those on a budget, it features a 7-11 store right in the lobby.
 
 **1 King Bed or 2 Double Bed Room:** $189/night
 
@@ -163,7 +164,7 @@ Located a few blocks from the Convention Center, the sleek Doubletree Hotel is a
 
 ### Drury Plaza Hotel Pittsburgh Downtown
 
-Located on Grant St just around the corner from the Westin, The Drury is a historic renovation of the Federal Reserve Bank building. Anthrocon guests will enjoy free wi-fi, free hot breakfast, free 5:30 Kickback (hot food and drinks) and more.
+Located on Grant St just around the corner from The Westin, the Drury is a historic renovation of the Federal Reserve Bank building. Anthrocon guests will enjoy free wi-fi, free hot breakfast, free 5:30 Kickback (hot food and drinks) and more.
 
 **1 King Bed or 2 Queen Bed Room:** $214/night
 
@@ -273,7 +274,7 @@ The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy es
 
 **Shuttle Service:** Yes
 
-[Learn more about the H](https://www.hilton.com/en/hotels/pitfagi-hilton-garden-inn-pittsburgh-downtown/)[oliday Inn Express Pittsburgh North Shore](https://www.ihg.com/holidayinnexpress/hotels/us/en/pittsburgh/pitns/hoteldetail)
+[Learn more about the Holiday Inn Express Pittsburgh North Shore](https://www.ihg.com/holidayinnexpress/hotels/us/en/pittsburgh/pitns/hoteldetail)
 {{< /columns >}}
 
 ***
@@ -325,7 +326,7 @@ A historical, boutique hotel in Pittsburgh located close to plenty of dining opt
 
 ### Omni William Penn Hotel
 
-Located a few blocks from the Convention Center, the breathtakingly luxurious Omni William Penn is a leisurely 5-6 minute walk away. This grand hotel is world-famous for its majestic atmosphere and the superior comfort of its rooms. **NOTE: This hotel has a minimum check-in age of 21 years old**.
+Located a few blocks from the convention center, the breathtakingly luxurious Omni William Penn is a leisurely 5-6 minute walk away. This grand hotel is world-famous for its majestic atmosphere and the superior comfort of its rooms. **NOTE: This hotel has a minimum check-in age of 21 years old**.
 
 **1 King Bed or 2 Double Bed Room:** $209/night
 
@@ -365,7 +366,7 @@ The award-winning Pittsburgh Marriott City Center effortlessly blends style & su
 
 ### Renaissance Pittsburgh Hotel
 
-Located a few blocks from the Convention Center in the heart of the Cultural District, this is one of the more luxurious hotels in the downtown area.
+Located a few blocks from the convention center in the heart of the Cultural District, this is one of the more luxurious hotels in the downtown area.
 
 **1 King Bed or 2 Queen Bed Room:** $215/night
 
@@ -445,7 +446,7 @@ Ideal for sports fans, this hotel is right next to PNC Park and a half mile away
 
 ### The Westin Pittsburgh
 
-Located just across the street from the Convention Center, this is Anthrocon's main hotel which also hosts certain programming and events.
+Located just across the street from the convention center, this is Anthrocon's main hotel that also hosts certain programming and events.
 
 **1 King Bed or 2 Double Bed:** $229/night
 
@@ -481,7 +482,7 @@ The Wyndham Grand Pittsburgh Downtown Hotel is located where Pittsburgh's famous
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
 {{< details "Am I required to book a hotel room in order to attend Anthrocon?" >}}
-A hotel room booking is not a requirement for attending our convention. However, make sure you’ve got a place to stay while you’re attending - we don’t want anyone to be without accommodations.
+A hotel room booking is not a requirement for attending our convention. However, make sure you’ve got a place to stay while you’re attending — we don’t want anyone to be without accommodations.
 
 You can also consider other alternative accommodations should you not find any room within Anthrocon’s block, such as a short-term rental or a local boutique hotel.
 {{< /details >}}
@@ -495,23 +496,23 @@ Only certain hotels within our hotel block allow for primary guests under the ag
 {{< /details >}}
 
 {{< details "I'm not seeing rooms appear for the hotels/nights I want, are they unavailable?" >}}
-Rooms are booked very quickly due to high demand, and we try to make as many rooms available on the opening date. There are separate advance blocks depending on your registration type - if you are unable to secure a room in an earlier block, you can try again when the general block opens.
+Rooms are booked very quickly due to high demand, and we try to make as many rooms available on the opening date. There are separate advance blocks depending on your registration type — if you are unable to secure a room in an earlier block, you can try again when the general block opens.
 
 If you’re unable to get the reservation you want, we would recommend securing a room at other hotels to ensure you have a place to stay during the convention. Alternatively, you can also try and find rooming arrangements with other attendees that have space (you can find these on various forums and websites).
 
 A room may show as "not available" when only one of the nights is truly not available. This is likely to happen for the first or last night of your stay, or If you try to book a date outside the convention time frame. Try requesting a shorter stay, and if you are then able to make a successful reservation, contact [help@orchid.events](mailto:help@orchid.events) (or call **+1-800-470-8077**) and indicate that you're looking to add additional nights.
 
-**Please note:** The higher demand hotels (such as the Westin, Courtyard, and the Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. As such you may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations.
+**Please note:** The higher demand hotels (such as The Westin, Courtyard, and Drury) will have a number of rooms set aside for the general reservation opening. This is done to ensure that no hotel sells out completely before the general opening and to give all attendees a chance to reserve a room in the higher demand hotels. As such you may see a hotel sell out during the advanced reservation period but once again have rooms available during general reservations.
 {{< /details >}}
 
 {{< details "Is there a shuttle service between the hotels?" >}}
-Yes, shuttle service will be provided to all partner hotels, with the exception of the Westin, Drury, Courtyard, and AC Hotel. A shuttle route and schedule will be available closer to the event.
+Yes, shuttle service will be provided to all partner hotels, with the exception of The Westin, Drury, Courtyard, and AC Hotel. A shuttle route and schedule will be available closer to the event.
 {{< /details >}}
 
 {{< details "I'm trying to find roommates, where should I start asking?" >}}
-Drop by our [Anthrocon Room Share** **group on Facebook](https://www.facebook.com/groups/AnthroconRoomShare) to get started! Or, if Facebook is not your thing, we also have our Discord channel #roomshare on the [Official Anthrocon Discord Server](https://discord.gg/SUHnJD72JC).
+Drop by our [Anthrocon Room Share group on Facebook](https://www.facebook.com/groups/AnthroconRoomShare) to get started! If Facebook is not your thing, we also have our Discord channel #roomshare on the [Official Anthrocon Discord Server](https://discord.gg/SUHnJD72JC).
 
-Please note that Anthrocon cannot help arrange, verify, or mediate any disputes with your chosen roommates - exercise caution when interacting with new potential roommates, verify all the details are accurate on room reservations, and make sure payments made are legitimate.
+Please note that Anthrocon cannot help arrange, verify, or mediate any disputes with your chosen roommates — exercise caution when interacting with new potential roommates, verify all the details are accurate on room reservations, and make sure payments made are legitimate.
 {{< /details >}}
 
 {{< details "I'm having trouble with my reservation, who should I contact?" >}}
@@ -521,7 +522,7 @@ If you encounter any issues while trying to reserve a hotel room, please contact
 {{< details "Is there a one-night deposit to book a room at Anthrocon's hotels?" >}}
 There will not be a deposit taken this year; instead, we are giving people until May 16th, 2025 to cancel a reservation without penalty. After that date, any cancellations will be assessed a one-night cancellation fee at the hotel’s rate. **A credit card number is still required to make a reservation**.
 
-A valid Anthrocon registration ID is required to make a hotel reservation - you will NOT be able to access the hotel booking system without it.
+A valid Anthrocon registration ID is required to make a hotel reservation — you will NOT be able to access the hotel booking system without it.
 {{< /details >}}
 
 {{< details "What other fees or charges should I expect with my hotel booking?" >}}
