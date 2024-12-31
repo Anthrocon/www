@@ -368,7 +368,7 @@ The award-winning Pittsburgh Marriott City Center effortlessly blends style & su
 
 Located a few blocks from the convention center in the heart of the Cultural District, this is one of the more luxurious hotels in the downtown area.
 
-**1 King Bed or 2 Queen Bed Room:** $215/night
+**1 King Bed or 2 Queen Bed Room:** $224/night
 
 **Walking Distance:** 0.5 miles
 
