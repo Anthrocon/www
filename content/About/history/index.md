@@ -26,7 +26,8 @@ Pittsburgh, PA
 
 ### **2024 - AnthroCoaster**
 
-July 4th-July 7th, 2024
+July 4th-July 7th, 2024<br>
+Pittsburgh, PA
 
 **Charity:** [Over $100,000 for Gray Paws Sanctuary](/charity-event-history)<br>
 **Attendance:** 17,639<br>
