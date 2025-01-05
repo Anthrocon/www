@@ -25,6 +25,9 @@ banner_url: "https://www.furtrack.com/index/photographer:tobee"
 The River Cruises are a great way to enjoy the sights and scenery around Pittsburgh while gently cruising along the Allegheny River.
 
 Boarding takes place at the Convention Center Riverfront Plaza, right outside the convention center. Fursuits are welcome aboard any cruise, and there will be water provided on-board.
+
+You **do not** need a con badge to board the cruise. However, you will need your cruise tickets for boarding, in either printed or electronic format.
+
 {{< /columns >}}
 
 ***
@@ -48,7 +51,7 @@ Boarding takes place at the Convention Center Riverfront Plaza, right outside th
 {{% tab "Friday, July 4"%}}
 {{< center >}}
 ### Friday Sightseeing Cruise #1
-12:30pm to 1:30pm
+12:30pm to 2:30pm
 {{< /center >}}
 * **Boarding Time:** 12:30pm
 * **Cruise Time:** 1-2:30pm
@@ -110,7 +113,6 @@ Boarding takes place at the Convention Center Riverfront Plaza, right outside th
 Boarding will take place at the [Convention Center Riverfront Plaza](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557) in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
 The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
 
-You **do not** need a con badge to board the cruise. However, you will need your cruise tickets for boarding, in either printed or electronic format.
 {{< /columns >}}
 
 ***
