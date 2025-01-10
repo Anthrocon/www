@@ -44,9 +44,11 @@ You **do not** need a con badge to board the cruise. However, you will need your
 * **Cruise Time:** 7-8:30pm
 * **Price:** $25
 * **Boat:** The Duchess
-* **Capacity:** 200
+* **Capacity:** 175
 * **Amenities:** Bottled water and straws
-{{< center >}}{{< button href="https://www.youtube.com/watch?v=avaSdC0QOUM" >}}Buy tickets{{< /button >}}{{< /center >}}
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
 {{% /tab %}}
 {{% tab "Friday, July 4"%}}
 {{< center >}}
@@ -57,9 +59,11 @@ You **do not** need a con badge to board the cruise. However, you will need your
 * **Cruise Time:** 1-2:30pm
 * **Price:** $25
 * **Boat:** The Queen
-* **Capacity:** 200
+* **Capacity:** 175
 * **Amenities:** Bottled water and straws
-{{< center >}}{{< button href="https://www.youtube.com/watch?v=avaSdC0QOUM" >}}Buy tickets{{< /button >}}{{< /center >}}
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
 {{< center >}}
 ---
 ### Friday Sightseeing Cruise #2
@@ -69,9 +73,11 @@ You **do not** need a con badge to board the cruise. However, you will need your
 * **Cruise Time:** 3:00-4:30pm
 * **Price:** $25
 * **Boat:** The Queen
-* **Capacity:** 200
+* **Capacity:** 175
 * **Amenities:** Bottled water and straws
-{{< center >}}{{< button href="https://www.youtube.com/watch?v=avaSdC0QOUM" >}}Buy tickets{{< /button >}}{{< /center >}}
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
 {{% /tab %}}
 {{% tab "Saturday, July 5" %}}
 {{< center >}}
@@ -82,9 +88,11 @@ You **do not** need a con badge to board the cruise. However, you will need your
 * **Cruise Time:** 7-9pm
 * **Price:** $65
 * **Boat:** The Princess
-* **Capacity:** 200
+* **Capacity:** 175
 * **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
-{{< center >}}{{< button href="https://www.youtube.com/watch?v=avaSdC0QOUM" >}}Buy tickets{{< /button >}}{{< /center >}}
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
 {{% /tab %}}
 {{% tab "Sunday, July 6" %}}
 {{< center >}}
@@ -95,9 +103,11 @@ You **do not** need a con badge to board the cruise. However, you will need your
 * **Cruise Time:** 1-2:30pm
 * **Price:** $25
 * **Boat:** The Duchess
-* **Capacity:** 200
+* **Capacity:** 175
 * **Amenities:** Bottled water and straws
-{{< center >}}{{< button href="https://www.youtube.com/watch?v=avaSdC0QOUM" >}}Buy tickets{{< /button >}}{{< /center >}}
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
 {{% /tab %}}
 {{% /tabs %}}
 
