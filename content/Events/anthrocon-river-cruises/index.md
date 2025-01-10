@@ -2,11 +2,11 @@
 title: "Anthrocon River Cruises"
 weight: 0
 
-banner: "2023+BlueHasia+Day+1-136.jpg"
+banner: "2024+Tobee+20240704_131101.jpg"
 banner_title: ""
 banner_caption: ""
-banner_author: "Blue Hasia"
-banner_url: ""
+banner_author: "Tobee"
+banner_url: "https://www.furtrack.com/index/photographer:tobee"
 ---
 
 {{< center >}}# Anthrocon River Cruises{{< /center >}}
@@ -16,7 +16,7 @@ banner_url: ""
 {{< center >}}[Cruise options](#anthrocon-2025-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
 
 {{< columns >}}
-{{< img src="2023+Randorn+_Z9N9451-Enhanced-NR.jpg" alt="The Gateway Clipper Fleet's ship &quot;The Princess&quot; with fursuiters on board." hint="photo" attr="Randorn Canis" attrlink="https://www.randorn.com" >}}
+{{< img src="2024+Doktor+20240704_135829.jpg" alt="The Gateway Clipper Fleet's ship &quot;3 Rivers Queen&quot; with fursuiters on board." hint="photo" attr="Doktor" attrlink="https://www.furtrack.com/index/photographer:doktor" >}}
 
 <--->
 
@@ -25,26 +25,105 @@ banner_url: ""
 The River Cruises are a great way to enjoy the sights and scenery around Pittsburgh while gently cruising along the Allegheny River.
 
 Boarding takes place at the Convention Center Riverfront Plaza, right outside the convention center. Fursuits are welcome aboard any cruise, and there will be water provided on-board.
+
+You **do not** need a con badge to board the cruise. However, you will need your cruise tickets for boarding, in either printed or electronic format.
+
 {{< /columns >}}
 
 ***
 
 {{< center >}}## Anthrocon 2025 Cruise Options{{< /center >}}
 
-River Cruise options for Anthrocon 2025 are still being determined. We thank you for your patience and will announce further updates for cruise offerings on our social media and website once available.
+{{% tabs %}}
+{{% tab "Thursday, July 3"%}}
+{{< center >}}
+### Thursday Sightseeing Cruise
+6:30pm to 8:30pm
+{{< /center >}}
+* **Boarding Time:** 6:30pm
+* **Cruise Time:** 7-8:30pm
+* **Price:** $25
+* **Boat:** The Duchess
+* **Capacity:** 175
+* **Amenities:** Bottled water and straws
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
+{{% /tab %}}
+{{% tab "Friday, July 4"%}}
+{{< center >}}
+### Friday Sightseeing Cruise #1
+12:30pm to 2:30pm
+{{< /center >}}
+* **Boarding Time:** 12:30pm
+* **Cruise Time:** 1-2:30pm
+* **Price:** $25
+* **Boat:** The Queen
+* **Capacity:** 175
+* **Amenities:** Bottled water and straws
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
+{{< center >}}
+---
+### Friday Sightseeing Cruise #2
+2:30pm to 4:30pm
+{{< /center >}}
+* **Boarding Time:** 2:30pm
+* **Cruise Time:** 3:00-4:30pm
+* **Price:** $25
+* **Boat:** The Queen
+* **Capacity:** 175
+* **Amenities:** Bottled water and straws
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
+{{% /tab %}}
+{{% tab "Saturday, July 5" %}}
+{{< center >}}
+### Saturday Cocktail Cruise
+6:30pm to 9pm
+{{< /center >}}
+* **Boarding Time:** 6:30pm
+* **Cruise Time:** 7-9pm
+* **Price:** $65
+* **Boat:** The Princess
+* **Capacity:** 175
+* **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
+{{% /tab %}}
+{{% tab "Sunday, July 6" %}}
+{{< center >}}
+### Sunday Sightseeing Cruise
+12:30pm to 2:30pm
+{{< /center >}}
+* **Boarding Time:** 12:30pm
+* **Cruise Time:** 1-2:30pm
+* **Price:** $25
+* **Boat:** The Duchess
+* **Capacity:** 175
+* **Amenities:** Bottled water and straws
+
+Tickets will be available to purchase through our Registration system starting on January 26th.
+
+{{% /tab %}}
+{{% /tabs %}}
 
 ***
 
 {{< center >}}## Boarding process{{< /center >}}
+{{< columns >}}
 
-{{< img src="2023+BlueHasia+Day+1-253.jpg" hint="photo" attr="Blue Hasia" >}}
+{{< img src="2024+Luau--21.jpg" hint="photo" attr="Luau" attrlink="https://www.furtrack.com/index/photographer:luau" >}}
 
-### Boarding process
+<--->
 
-Boarding will take place at the [Convention Center Riverfront Plaza](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557){{< underline >}},{{< /underline >}} in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
+Boarding will take place at the [Convention Center Riverfront Plaza](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557) in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
+The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
 
-- The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
-- You **do not** need a con badge to board the cruise. However, you will need your cruise tickets for boarding, in either printed or electronic format.
+{{< /columns >}}
 
 ***
 
@@ -82,7 +161,7 @@ Unfortunately, no. Once the boat has set sailed, it will not be able to change i
 
 {{< center >}}## Refund policy for cruises{{< /center >}}
 
-- The deadline to request a refund for an Anthrocon River Cruise is **June 14th, 2024** at 11:59pm EDT. Refund requests after this time will not be granted.
+- The deadline to request a refund for an Anthrocon River Cruise is **June 14th, 2025** at 11:59pm EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.
 - Refunds will not be issued if you miss the boarding time for your cruise.
 - Refund requests must made by email to [refunds@anthrocon.org](mailto:refunds@anthrocon.org). We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
