@@ -126,7 +126,7 @@ Located near the PPG Paints Arena, all rooms have a double size pullout bed, mic
 
 Located just across the street from the Convention Center (but with no access without going outdoors), the Courtyard Downtown Pittsburgh is just as close as The Westin.
 
-**1 King Bed or 2 Queen Bed:** $229/night
+**1 King Bed or 2 Queen Bed:** $239/night
 
 **Walking Distance:** 0.1 mile
 
@@ -268,7 +268,7 @@ The Hilton Garden Inn Pittsburgh Downtown enjoys a central spot in the heart of 
 
 The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy establishments and is a short walk from Heinz Field, where the Pittsburgh Steelers and the Panthers play.
 
-**Two Queen Bed:** $199/night
+**Two Queen Bed:** $229/night
 
 **Walking Distance:** 0.7 miles
 
@@ -295,6 +295,26 @@ All of the rooms in our block are King Studio Suites. They are fully equipped wi
 **Shuttle Service:** Yes
 
 [Learn more about Homewood Suites by Hilton Pittsburgh](https://www.hilton.com/en/hotels/pitdohw-homewood-suites-pittsburgh-downtown/)
+{{< /columns >}}
+
+***
+
+{{< columns "33%" >}}
+{{< img src="joinery-hotel-pittsburgh.jpg" hint="picture" >}}
+
+<--->
+
+### Joinery Hotel Pittsburgh, Curio Collection by Hilton
+
+Located in Downtown Pittsburgh’s Golden Triangle, the Joinery Hotel boasts a unique modern edge, including an experiential lobby with ‘offering table’ check-in experience and library.
+
+**1 King Bed:** $259/night
+
+**Walking Distance:** 0.7 miles
+
+**Shuttle Service:** Yes
+
+[Learn more about the Joinery Hotel Pittsburgh](https://www.joineryhotel.com/)
 {{< /columns >}}
 
 ***
