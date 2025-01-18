@@ -23,7 +23,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 <--->
 
-**Artist Alley Lottery sign-up are now open until May 30th, 2024**. Please ensure that you read the [Artists Information section](#artists-information) before applying further below on the page.
+**Artist Alley Lottery sign-up are now open until May 30th, 2025**. Please ensure that you read the [Artists Information section](#artists-information) before applying further below on the page.
 
 The Artists Alley is *not* the Dealers Room, and is not intended to be used as a free alternative to it. Space is limited, but we do our best to accommodate as many artists as possible.
 {{< /columns >}}
@@ -32,14 +32,16 @@ The Artists Alley is *not* the Dealers Room, and is not intended to be used as a
 
 {{< center >}}## Artists information{{< /center >}}
 
-Before applying, please ensure you read the [Artists Alley Rules](https://docs.google.com/document/d/1Qfw91eU6ZWXM93WbBTMn6fL84eKFIHjtDC9gA2okV84/view).
+Before applying, please ensure you read the [Artists Alley Rules](https://docs.google.com/document/d/1VrFyOnx6v_Kvmjy5r56zJRpWQkyMCsG0_EQbe8sXNeQ/edit?usp=drivesdk).
 
-- For the application process, find out more in the [Artists Alley Lottery Process](https://docs.google.com/document/d/1j4gbHiKjXAl0h25BMgD5yEx6HZvQxHSe2wF1WS8XuJc/edit)
+- For the application process, find out more in the [Artists Alley Lottery Process](https://docs.google.com/document/d/1j4gbHiKjXAl0h25BMgD5yEx6HZvQxHSe2wF1WS8XuJc/edit?usp=drivesdk)
 - All artists must abide by the [Anthrocon Standards of Conduct](https://www.anthrocon.org/standards-of-conduct)
 - **All artists are required to obtain a license to collect local and state sales tax, as well as provide evidence of the same to Anthrocon prior to engaging in sales in the Alley**. The form for applying for a Pennsylvania Sales Tax License may be found on the [**Pennsylvania State website**.](https://mypath.pa.gov/_/)
 - If you have any questions about applying or the Artists Alley process, send us an email at [alley@anthrocon.org](mailto:alley@anthrocon.org)
 
-Applications for the Artists Alley have closed as of May 30th, 2024. The lottery to determine accepted artists for each day will be conducted, and results posted closer to the convention.
+The lottery to determine accepted artists for each day will be conducted, and results posted closer to the convention.
+
+{{< center >}}{{< button href="https://docs.google.com/forms/d/1FiZIax0ulkG1b0L33p0-gO_gyUImS9RfecpkhM31P-0" >}}Sign up online{{< /button >}}{{< /center >}}
 
 ***
 
@@ -54,13 +56,13 @@ We're constantly working to improve our event for our artists, attendees, vendor
 {{< /details >}}
 
 {{< details "Where/when is check-in each day?" >}}
-This information is to be determined as we plan out our point-of-entry and access control processes for 2024. Generally, check-in for lottery winners will be about an hour prior to opening to general attendees. Lottery winners will be notified of the exact details via email when the lottery results are provided. On-site sign-ups will be able to enter the exhibit hall via the normal attendee entrances.
+This information is to be determined as we plan out our point-of-entry and access control processes for 2025. Generally, check-in for lottery winners will be about an hour prior to opening to general attendees. Lottery winners will be notified of the exact details via email when the lottery results are provided. On-site sign-ups will be able to enter the exhibit hall via the normal attendee entrances.
 {{< /details >}}
 
 {{< details "I'm not an artist, but I want to help. How can I help out?" >}}
 We have a constant need for staffing and volunteers. Contact our volunteer coordinator and let them know you want to work for Artists Alley/Con Store. They'll send you where you need to be. You can also apply online in advance on our [Volunteer page](/volunteer) so our team has your information on-hand.
 {{< /details >}}
 
-{{< details "I'm mashing that "Would You Like To Know More" button, but nothing is happening. What should I do?" >}}
+{{< details "Where can I get more information about the Artists Alley?" >}}
 Contact us! You can reach the Artists Alley director at [alley@anthrocon.org](mailto:alley@anthrocon.org)
 {{< /details >}}
