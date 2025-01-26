@@ -7,6 +7,10 @@ banner_title: ""
 banner_caption: ""
 banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
+
+build:
+    list: "never"
+    render: "never"
 ---
 
 {{< center >}}# Art Show Info Packet{{< /center >}}
