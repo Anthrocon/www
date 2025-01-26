@@ -21,8 +21,10 @@ Artists offer works in various media, both flat (sketches, pen-and-ink drawings,
 
 Check back here in February when reservations open for a link to the packet and an online reservation form. To receive this information by postal mail, or to be notified by e–mail when reservations open, please send your full (legal) name and postal address to artshow@anthrocon.org.
 
-If you are interested in purchasing artwork at the Art Show, information for bidders will be available as the date of the convention approaches.
-Answers to many common questions are on the Art Show Frequently Asked Questions page. Other inquiries may be sent to artshow@anthrocon.org, phone [+1 307 278 9387](tel:+13072789387) (307-ARTYFUR), or by postal mail to:
+**If you are interested in purchasing artwork at the Art Show,** information for bidders will be available as the date of the convention approaches.
+
+Answers to many common questions are on the [Art Show Frequently Asked Questions](https://www.anthrocon.org/faq/artshow) page. Other inquiries may be sent to artshow@anthrocon.org, phone [+1 307 278 9387](tel:+13072789387) (307-ARTYFUR), or by postal mail to:
+
 {{< center >}}
 **Anthrocon Art Show**<br>
 **PO Box 6095**<br>
