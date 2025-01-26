@@ -184,7 +184,9 @@ Located on Grant St just around the corner from The Westin, the Drury is a histo
 
 ### Embassy Suites Hotel Downtown Pittsburgh
 
-Experience the distinctive ambiance of our Embassy Suites by Hilton Pittsburgh Downtown hotel situated on the top floors of the historic Henry W. Oliver building. **NOTE: This hotel has a minimum check-in age of 21 years old**.
+Experience the distinctive ambiance of our Embassy Suites by Hilton Pittsburgh Downtown hotel situated on the top floors of the historic Henry W. Oliver building.
+
+**NOTE: This hotel has a minimum check-in age of 21 years old.**
 
 **1 King Bed or 2 Queen Bed Parlor Suites:** $202/night for 2 guests (increases by $15 for each additional guest up to 4)
 
@@ -247,6 +249,8 @@ This is the only hotel in the Golden Triangle whose room rate includes parking, 
 ### Hilton Garden Inn Hotel Downtown Pittsburgh
 
 The Hilton Garden Inn Pittsburgh Downtown enjoys a central spot in the heart of Market Square, surrounded by beautiful cityscapes and close to many restaurants and amenities.
+
+**NOTE: This hotel has a minimum check-in age of 21 years old.**
 
 **1 King Bed or 2 Queen:** $225/night
 
@@ -346,7 +350,9 @@ A historical, boutique hotel in Pittsburgh located close to plenty of dining opt
 
 ### Omni William Penn Hotel
 
-Located a few blocks from the convention center, the breathtakingly luxurious Omni William Penn is a leisurely 5-6 minute walk away. This grand hotel is world-famous for its majestic atmosphere and the superior comfort of its rooms. **NOTE: This hotel has a minimum check-in age of 21 years old**.
+Located a few blocks from the convention center, the breathtakingly luxurious Omni William Penn is a leisurely 5-6 minute walk away. This grand hotel is world-famous for its majestic atmosphere and the superior comfort of its rooms.
+
+**NOTE: This hotel has a minimum check-in age of 21 years old.**
 
 **1 King Bed or 2 Double Bed Room:** $209/night
 
