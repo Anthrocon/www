@@ -1,5 +1,6 @@
 ---
 title: "Art Show Info Packet"
+draft: true
 weight: 0
 
 banner: "2022+Randorn+_Z9N4258.jpg"
@@ -7,10 +8,6 @@ banner_title: ""
 banner_caption: ""
 banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
-
-build:
-    list: "never"
-    render: "never"
 ---
 
 {{< center >}}# Art Show Info Packet{{< /center >}}

@@ -1,5 +1,5 @@
 ---
-title: "Partner With Us"
+title: "Partner with Us"
 weight: 0
 
 banner: "2024+Kavaeric+DSC03986.jpg"
@@ -13,11 +13,11 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}We're proud to work with a wide variety of institutions and businesses in and around Pittsburgh, and the furry fandom. If you have something that you think would benefit our community, we'd be happy to hear from your business or organization.{{< /center >}}
 
-{{< center >}}[Partnership opportunities](#partnership-opportunities) - [How to apply](#how-to-apply-as-a-partner) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Partnership Opportunities](#partnership-opportunities) - [How to Apply](#how-to-apply-as-a-partner) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
 ***
 
-{{< center >}}## Partnership opportunities{{< /center >}}
+{{< center >}}## Partnership Opportunities{{< /center >}}
 
 {{< columns >}}
 {{< img src="2024+Nightdragon+AC+2024+ND-164.jpg" hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
@@ -26,20 +26,19 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 Our convention covers a wide variety of activities over the course of four days, which potentially opens up opportunities to connect Anthrocon with partners that align with our community. Examples of partnerships that our attendees lean toward include:
 
-* Food and Beverage Partnerships
-* Sightseeing and Attraction Discounts
-* Entertainment and Performance Discounts
-* ...and more!
-
+- Food and Beverage Partnerships
+- Sightseeing and Attraction Discounts
+- Entertainment and Performance Discounts
+- …and more!
 {{< /columns >}}
 
-{{< center >}}## How to apply as a partner{{< /center >}}
+{{< center >}}## How to Apply as a Partner{{< /center >}}
 
 If you have a proposal that you think would benefit our community, we’d be happy to hear from you. Please note the following details before you apply.
 
-* You must be the owner or an authorized business representative of the business or organization that is named in the application to apply as a partner. We will not accept applications made by unauthorized persons.
-* Anthrocon will make an attempt to review partner applications in a timely fashion, but only those that Anthrocon identifies as a partner opportunity will be responded to via email.
-* **Hotel proposals:** we are unable to consider hotel proposals that are not within the Golden Triangle neighborhood of Pittsburgh due to transportation challenges.
+- You must be the owner or an authorized business representative of the business or organization that is named in the application to apply as a partner. We will not accept applications made by unauthorized persons.
+- Anthrocon will make an attempt to review partner applications in a timely fashion, but only those that Anthrocon identifies as a partner opportunity will be responded to via email.
+- **Hotel proposals:** we are unable to consider hotel proposals that are not within the Golden Triangle neighborhood of Pittsburgh due to transportation challenges.
 
 {{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSfHFr-rloOK694yVg1rTlJuQV-GdeUBZZYB_JdRHu5qgPof0Q/viewform?usp=sharing" >}}Apply online{{< /button >}}{{< /center >}}
 
@@ -64,5 +63,5 @@ While we prefer partners that are local to the Pittsburgh area, we would still g
 {{< /details >}}
 
 {{< details "I have a question regarding partnerships, who can I contact?" >}}
-You can reach out by email to [partner@anthrocon.org](mailto:partner@anthrocon.org) and our team will respond to you within a few business days.
+You can reach out by email to <partner@anthrocon.org> and our team will respond to you within a few business days.
 {{< /details >}}

@@ -1,9 +1,10 @@
 ---
 title: "Art Show Info Packet"
 build:
-    list: "never"
-    render: "never"
+    list: "local"
+    render: "link"
 
+draft: true
 url: "/artshow/artist-info"
 weight: 0
 ---

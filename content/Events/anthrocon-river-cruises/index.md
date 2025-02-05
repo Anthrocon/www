@@ -27,7 +27,6 @@ The River Cruises are a great way to enjoy the sights and scenery around Pittsbu
 Boarding takes place at the Convention Center Riverfront Plaza, right outside the convention center. Fursuits are welcome aboard any cruise, and there will be water provided on-board.
 
 You **do not** need a con badge to board the cruise. However, you will need your cruise tickets for boarding, in either printed or electronic format.
-
 {{< /columns >}}
 
 ***
@@ -35,94 +34,104 @@ You **do not** need a con badge to board the cruise. However, you will need your
 {{< center >}}## Anthrocon 2025 Cruise Options{{< /center >}}
 
 {{% tabs %}}
-{{% tab "Thursday, July 3"%}}
+{{% tab "Thursday, July 3" %}}
 {{< center >}}
 ### Thursday Sightseeing Cruise
-6:30pm to 8:30pm
+
+6:30 PM to 8:30 PM
 {{< /center >}}
-* **Boarding Time:** 6:30pm
-* **Cruise Time:** 7-8:30pm
-* **Price:** $25
-* **Boat:** The Duchess
-* **Capacity:** 175
-* **Amenities:** Bottled water and straws
+
+- **Boarding Time:** 6:30 PM
+- **Cruise Time:** 7:00 - 8:30 PM
+- **Price:** $25
+- **Boat:** The Duchess
+- **Capacity:** 175
+- **Amenities:** Bottled water and straws
 
 Tickets will be available to purchase through our Registration system starting on January 26th.
-
 {{% /tab %}}
-{{% tab "Friday, July 4"%}}
+
+{{% tab "Friday, July 4" %}}
 {{< center >}}
 ### Friday Sightseeing Cruise #1
-12:30pm to 2:30pm
+
+12:30 PM to 2:30 PM
 {{< /center >}}
-* **Boarding Time:** 12:30pm
-* **Cruise Time:** 1-2:30pm
-* **Price:** $25
-* **Boat:** The Queen
-* **Capacity:** 175
-* **Amenities:** Bottled water and straws
+
+- **Boarding Time:** 12:30 PM
+- **Cruise Time:** 1:00 - 2:30 PM
+- **Price:** $25
+- **Boat:** The Queen
+- **Capacity:** 175
+- **Amenities:** Bottled water and straws
 
 Tickets will be available to purchase through our Registration system starting on January 26th.
+
+***
 
 {{< center >}}
----
 ### Friday Sightseeing Cruise #2
-2:30pm to 4:30pm
+
+2:30 PM to 4:30 PM
 {{< /center >}}
-* **Boarding Time:** 2:30pm
-* **Cruise Time:** 3:00-4:30pm
-* **Price:** $25
-* **Boat:** The Queen
-* **Capacity:** 175
-* **Amenities:** Bottled water and straws
+
+- **Boarding Time:** 2:30 PM
+- **Cruise Time:** 3:00 - 4:30 PM
+- **Price:** $25
+- **Boat:** The Queen
+- **Capacity:** 175
+- **Amenities:** Bottled water and straws
 
 Tickets will be available to purchase through our Registration system starting on January 26th.
-
 {{% /tab %}}
+
 {{% tab "Saturday, July 5" %}}
 {{< center >}}
 ### Saturday Cocktail Cruise
-6:30pm to 9pm
+
+6:30 PM to 9:00 PM
 {{< /center >}}
-* **Boarding Time:** 6:30pm
-* **Cruise Time:** 7-9pm
-* **Price:** $65
-* **Boat:** The Princess
-* **Capacity:** 175
-* **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
+
+- **Boarding Time:** 6:30 PM
+- **Cruise Time:** 7:00 - 9:00 PM
+- **Price:** $65
+- **Boat:** The Princess
+- **Capacity:** 175
+- **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
 
 Tickets will be available to purchase through our Registration system starting on January 26th.
-
 {{% /tab %}}
+
 {{% tab "Sunday, July 6" %}}
 {{< center >}}
 ### Sunday Sightseeing Cruise
-12:30pm to 2:30pm
+
+12:30 PM to 2:30 PM
 {{< /center >}}
-* **Boarding Time:** 12:30pm
-* **Cruise Time:** 1-2:30pm
-* **Price:** $25
-* **Boat:** The Duchess
-* **Capacity:** 175
-* **Amenities:** Bottled water and straws
+
+- **Boarding Time:** 12:30 PM
+- **Cruise Time:** 1:00 - 2:30 PM
+- **Price:** $25
+- **Boat:** The Duchess
+- **Capacity:** 175
+- **Amenities:** Bottled water and straws
 
 Tickets will be available to purchase through our Registration system starting on January 26th.
-
 {{% /tab %}}
 {{% /tabs %}}
 
 ***
 
 {{< center >}}## Boarding process{{< /center >}}
-{{< columns >}}
 
+{{< columns >}}
 {{< img src="2024+Luau--21.jpg" hint="photo" attr="Luau" attrlink="https://www.furtrack.com/index/photographer:luau" >}}
 
 <--->
 
 Boarding will take place at the [Convention Center Riverfront Plaza](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557) in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
-The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
 
+The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
 {{< /columns >}}
 
 ***

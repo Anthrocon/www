@@ -13,9 +13,10 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}# Hotels for Anthrocon{{< /center >}}
 
-{{< center >}}Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees.
+{{< center >}}
+Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees.
 
-**Online pre-registration will temporarily pause between February 23rd to 26th, 2025 to improve the General hotel booking experience, and re-open on February 27th.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
+**Online pre-registration will temporarily pause between February 23rd to 26th, 2025, to improve the general hotel booking experience, and reopen on February 27th.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
 {{< /center >}}
 
 {{< center >}}[Booking process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
