@@ -17,7 +17,7 @@ On behalf of participating artists, Anthrocon’s Art Show exhibits and sells or
 
 Artists offer works in various media, both flat (sketches, pen-and-ink drawings, paintings, etc.) and 3-dimensional (sculpture, masks, costumes, etc.) for display and sale. Artwork is sold by written bid, with a voice auction taking place Sunday for those pieces which receive enough written bids. We will also have a separate area for mature artwork, inaccessible to minors, with a separate voice auction Saturday night.
 
-**If you are an artist,** please read the [Art Show Reservations Information Packet (ASRIP)]({{< relref "/Dealers & Artists/artshow/artist-info" >}}), which includes the display rules and a link to the reservation form. To receive this information by postal mail, please send your full (legal) name and postal address to <artshow@anthrocon.org>.
+**If you are an artist,** please read the [Art Show Reservations Information Packet (ASRIP)]({{< relref "/Dealers & Artists/Art Show Info Packet" >}}), which includes the display rules and a link to the reservation form. To receive this information by postal mail, please send your full (legal) name and postal address to <artshow@anthrocon.org>.
 
 There is a lot of information included, so please allow yourself a few days to go over it and prepare your reservation. Start thinking now about how many pieces you wish to show, and how much room you'll need to display them.
 
@@ -49,6 +49,6 @@ Reservations timestamped or postmarked by **March 31** are guaranteed space, whi
 
 [Art Show Frequently Asked Questions]({{< relref "/Frequently Asked Questions/faq/artshow" >}})
 
-[Art Show Reservations Information Packet]({{< relref "/Dealers & Artists/artshow/artist-info" >}}) (ASRIP) and reservation form
+[Art Show Reservations Information Packet]({{< relref "/Dealers & Artists/Art Show Info Packet" >}}) (ASRIP) and reservation form
 
 Art Show Bidder Information Details (ASBID) [available later]
