@@ -4,8 +4,8 @@ weight: 10
 
 banner: "2022+Randorn+_Z9N3518.jpg"
 banner_title: "Attend Anthrocon 2025"
-banner_caption: "Online registration will be temporarily paused between February 23rd to 26th, 2025, and will reopen on February 27th."
-banner_button: "Register online"
+banner_caption: "Online registration is temporarily paused between February 23 to 26, 2025, and will reopen on February 27."
+banner_button: "Check registration"
 banner_button_link: "https://reg.anthrocon.org/"
 banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
@@ -27,13 +27,13 @@ Our Registration system has now changed. To ensure you have a smooth registratio
 
 ### Hotel Booking Registration Policy
 
-**Online pre-registration will temporarily pause between February 23rd to 26th, 2025, to improve the general hotel booking experience, and reopen on February 27th.**
+**Online pre-registration is temporarily paused between February 23 to 26, 2025, to improve the general hotel booking experience, and reopens on February 27.**
 
 You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room. For more details on process, refer to [our Hotels page](/hotel).
 
 ### At-the-door membership availability
 
-Due to the extremely high demand and limited supply of benefits, we will NOT be selling upgraded tiers of memberships (Sponsors and above) at the door - only weekend "Attending” level and day passes will be available to purchase while availability lasts.
+Due to the extremely high demand and limited supply of benefits, we will NOT be selling upgraded tiers of memberships (Sponsors and above) at the door — only weekend "Attending” level and day passes will be available to purchase while availability lasts.
 
 ### Ultrasponsor/Supersponsor/Sponsor only available pre-registration
 
@@ -76,7 +76,7 @@ As an Attending member, you’ll get:
 - Our souvenir con book and other publications
 - A weekend of fun
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Check registration{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Sponsor" %}}
 {{< center >}}### Sponsor{{< /center >}}
@@ -93,7 +93,7 @@ Sponsors are generous patrons who like to help us provide even more services and
 - An expedited pick-up line on site
 - Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Check registration{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Supersponsor" %}}
 {{< center >}}### Supersponsor{{< /center >}}
@@ -112,7 +112,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Our wonderful Supersponsor Brunch on Sunday
 - An advance opportunity to book select hotel rooms before general availability[\*\*](#disclaimers-for-registration-tiers)
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Check registration{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Ultrasponsor" %}}
 {{< center >}}### Ultrasponsor{{< /center >}}
@@ -135,7 +135,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Free access to the Anthrocon River Cruises (if cruises are available)
 - Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Check registration{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Day Membership" %}}
 {{< center >}}### Day membership{{< /center >}}
@@ -169,7 +169,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ***Dealer Assistants will purchase their own badges separately.*** Read [the Dealers Room page]({{< relref "/Dealers & Artists/dealers" >}}) for rules and information.
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Check registration{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% /tabs %}}
 
