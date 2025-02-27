@@ -15,45 +15,46 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 {{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
-{{< center >}}[202](#2024-charity-gray-paws-sanctuary)[4](#2024-charity-gray-paws-sanctuary) [Sponsored Charity](#2024-charity-gray-paws-sanctuary) - [Bucket Brigade](#bucket-brigade) - [Charity Auction](#charity-auction-and-raffle) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
+{{< center >}}[2025 Sponsored Charity](#2025-charity-nose-2-tail-cat-rescue) - [Bucket Brigade](#bucket-brigade) - [Charity Auction](#charity-auction-and-raffle) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
 ***
 
-{{< center >}}## 2024 Charity: Gray Paws Sanctuary{{< /center >}}
+{{< center >}}## 2025 Charity: Nose 2 Tail Cat Rescue{{< /center >}}
 
-{{< center >}}***“To provide quality forever care to abandoned senior dogs”***{{< /center >}}
+{{< center >}}***“Our mission is to reduce overpopulation and euthanasia rates of cats through education, adoption, and providing a safe, loving environment for our furry friends.”***{{< /center >}}
 
-{{< img src="Gray+Paws+Logo+Sept+2014.jpg" float="left" hint="drawing" >}}
+{{< img src="N2T_Official-Logo-2color.png" float="left" hint="drawing" >}}
 
-This year, we’re delighted to be partnering with [Gray Paws Sanctuary](https://graypaws.org), a Pittsburgh-based 501©3 non-profit, fully volunteer organization dedicated to rescuing senior dogs.
+This year, we’re delighted to be partnering with [Nose 2 Tail Cat Rescue](https://www.nose2tailcatrescue.org/), a 501(c)(3) non-profit, 100% donation and volunteer-run, no-kill cat rescue located in McDonald, PA.
 
-Most of the senior dogs rescued into sanctuary, or placed in Forever Foster Homes are from private owners in crisis. Gray Paws also sponsors dogs from local shelters, humane officers, animal control, and other partner rescues. Often times, dogs would be euthanized because of their age and veterinary care costs.
-
-{{< columns >}}
-{{< img src="20231216_113143.jpg" alt="20231216_113143.jpg" hint="picture" >}}
-
-<--->
-
-{{< img src="20240107_175016.jpg" alt="20240107_175016.jpg" hint="picture" >}}
-
-<--->
-
-{{< img src="image000000(4).jpg" alt="image000000(4).jpg" hint="picture" >}}
-
-<--->
-
-{{< img src="20231025_212000.jpg" alt="20231025_212000.jpg" hint="picture" >}}
-{{< /columns >}}
-
-Gray Paws is committed to providing the best quality of life for senior dogs with high quality care. When the time comes, they provide palliative and hospice care. With the help of our dedicated veterinary partners, Gray Paws lets senior dogs go to the “Rainbow Bridge” when they have lived the fullest life possible. Gray Paws will be using donation money to expand their endeavors in rescuing and rehoming senior dogs and providing lifetime care for their rescues, as well as support veterinary bills for additional senior dogs.
+Nose 2 Tail Cat Rescue cares for 20-40 homeless cats and kittens at any given time at our rescue facility and in foster homes. Since becoming a non-profit in 2018, Nose 2 Tail Cat Rescue has rescued and found homes for more than 700 cats (less than 10 of those have ever been returned to them!), helping countless families experience the joy of adoption! Their dedicated team consists of about 40 volunteers and foster families who help make their mission possible.
 
 {{< columns >}}
-{{< center >}}{{< button href="https://graypaws.org/anthrocon/" >}}Gray Paws website{{< /button >}}{{< /center >}}
+{{< img src="IMG_0249.JPEG" alt="A picture of an orange cat walking through the grass." hint="picture" >}}
 
 <--->
 
-{{< center >}}{{< button href="https://www.facebook.com/GrayPawsSanctuary/" >}}Gray Paws Facebook{{< /button >}}{{< /center >}}
+{{< img src="IMG_1778.JPEG" alt="A picture of a black cat with a white spot on its chest being held in someone's hands." hint="picture" >}}
+
+<--->
+
+{{< img src="IMG_6790.JPEG" alt="A picture of three cats (two orange cats and one black cat) sitting on a yellow blanket." hint="picture" >}}
+
+<--->
+
+{{< img src="IMG_7865.JPEG" alt="A picture of two cats sitting in an alcove of a scratching post tower." hint="picture" >}}
 {{< /columns >}}
+
+All donations to Nose 2 Tail Cat Rescue help cover essential costs such as medical treatments, food, shelter, and other supplies, ensuring that every cat receives the care and love they need until they find their forever home. They host various events at their facility to raise money and encourage community engagement. These events include Storytime Snuggles — an opportunity for children to read to the cats in a relaxed setting; Pinot &
+Paws — a wine night for cat lovers; Mystic Meows — tarot readings with a feline twist; Cozy Cat Chapters — an adult silent reading program that promotes a peaceful environment for book lovers; Be in the Meow Cat Yoga, and more! In 2024 Nose 2 Tail Cat Rescue hosted their first big off-site event, “Put Your Paws Up,” an amateur charity boxing event sanctioned by USA Boxing. Every dollar raised at these events goes directly toward supporting the rescue and helping cats in need.
+
+In addition to their rescue efforts, Nose 2 Tail Cat Rescue operates a mini community pet pantry called the Kitty Take-Out Pantry, located on the corner of Arabella St and E. Lincoln Ave in McDonald, right next to the rescue building. The pantry allows neighbors to give what they can and take what they need for pets in the community. Nose 2 Tail's aim is to help keep pets in their homes and discourage abandonment when pet owners face hardships.
+
+Over the years Nose 2 Tail Cat Rescue has been honored with recognition for their efforts: they were named one of City Paper “Best Places to Adopt a Pet” in 2019 and one of the Observer Reporter’s “Best Animal Rescue/Advocacy Groups” in Washington County, Greene County, and the Mon Valley in 2024. Nose 2 Tail Cat Rescue was also named “Shelter of the Month” by Kitty Kasa in April 2019.
+
+While Nose 2 Tail Cat Rescue currently rents their space, they dream of building and owning a permanent cat rescue facility to help even more cats in need and expand within the community. With your support, we can make that dream a reality!
+
+{{< center >}}{{< button href="https://www.nose2tailcatrescue.org/" >}}Nose 2 Tail Cat Rescue website{{< /button >}}{{< /center >}}
 
 ***
 
@@ -92,14 +93,14 @@ If you are donating an item (artwork, sculpture, animation cel, etc), it must be
 Additional information and more detailed rules can be found on the [Charity Event Rules](/charity-event-rules) page.
 {{< /details >}}
 
-**For 2024**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
+**For 2025**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 
 ***
 
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
 {{< details "What's the deadline to make an item donation?" >}}
-**For 2024**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
+**For 2025**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
 
 Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 {{< /details >}}
