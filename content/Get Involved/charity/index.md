@@ -93,14 +93,14 @@ If you are donating an item (artwork, sculpture, animation cel, etc), it must be
 Additional information and more detailed rules can be found on the [Charity Event Rules](/charity-event-rules) page.
 {{< /details >}}
 
-**For 2024**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
+**For 2025**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 
 ***
 
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
 {{< details "What's the deadline to make an item donation?" >}}
-**For 2024**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
+**For 2025**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
 
 Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 {{< /details >}}
