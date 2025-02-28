@@ -4,7 +4,7 @@ weight: 10
 
 banner: "2022+Randorn+_Z9N3518.jpg"
 banner_title: "Attend Anthrocon 2025"
-banner_caption: "Online registration will be temporarily paused between February 23rd to 26th, 2025, and will reopen on February 27th."
+banner_caption: "Join us for our next Anthrocon, happening July 3-6, 2025"
 banner_button: "Register online"
 banner_button_link: "https://reg.anthrocon.org/"
 banner_author: "Randorn Canis"
@@ -27,9 +27,7 @@ Our Registration system has now changed. To ensure you have a smooth registratio
 
 ### Hotel Booking Registration Policy
 
-**Online pre-registration will temporarily pause between February 23rd to 26th, 2025, to improve the general hotel booking experience, and reopen on February 27th.**
-
-You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room. For more details on process, refer to [our Hotels page](/hotel).
+**You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room**. For more details on process, refer to [our Hotels page](/hotel).
 
 ### At-the-door membership availability
 
