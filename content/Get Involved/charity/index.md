@@ -30,7 +30,7 @@ This year, we’re delighted to be partnering with [Nose 2 Tail Cat Rescue](http
 Nose 2 Tail Cat Rescue cares for 20-40 homeless cats and kittens at any given time at our rescue facility and in foster homes. Since becoming a non-profit in 2018, Nose 2 Tail Cat Rescue has rescued and found homes for more than 700 cats (less than 10 of those have ever been returned to them!), helping countless families experience the joy of adoption! Their dedicated team consists of about 40 volunteers and foster families who help make their mission possible.
 
 {{< columns >}}
-{{< img src="IMG_0249.JPEG" alt="A picture of an orange cat walking through the grass." hint="picture" >}}
+{{< img src="IMG_0249.JPEG" alt="A picture of an orange cat walking through the grass." hint="photo" >}}
 
 <--->
 
@@ -45,8 +45,7 @@ Nose 2 Tail Cat Rescue cares for 20-40 homeless cats and kittens at any given ti
 {{< img src="IMG_7865.JPEG" alt="A picture of two cats sitting in an alcove of a scratching post tower." hint="picture" >}}
 {{< /columns >}}
 
-All donations to Nose 2 Tail Cat Rescue help cover essential costs such as medical treatments, food, shelter, and other supplies, ensuring that every cat receives the care and love they need until they find their forever home. They host various events at their facility to raise money and encourage community engagement. These events include Storytime Snuggles — an opportunity for children to read to the cats in a relaxed setting; Pinot &
-Paws — a wine night for cat lovers; Mystic Meows — tarot readings with a feline twist; Cozy Cat Chapters — an adult silent reading program that promotes a peaceful environment for book lovers; Be in the Meow Cat Yoga, and more! In 2024 Nose 2 Tail Cat Rescue hosted their first big off-site event, “Put Your Paws Up,” an amateur charity boxing event sanctioned by USA Boxing. Every dollar raised at these events goes directly toward supporting the rescue and helping cats in need.
+All donations to Nose 2 Tail Cat Rescue help cover essential costs such as medical treatments, food, shelter, and other supplies, ensuring that every cat receives the care and love they need until they find their forever home. They host various events at their facility to raise money and encourage community engagement. These events include Storytime Snuggles — an opportunity for children to read to the cats in a relaxed setting; Pinot & Paws — a wine night for cat lovers; Mystic Meows — tarot readings with a feline twist; Cozy Cat Chapters — an adult silent reading program that promotes a peaceful environment for book lovers; Be in the Meow Cat Yoga, and more! In 2024 Nose 2 Tail Cat Rescue hosted their first big off-site event, “Put Your Paws Up,” an amateur charity boxing event sanctioned by USA Boxing. Every dollar raised at these events goes directly toward supporting the rescue and helping cats in need.
 
 In addition to their rescue efforts, Nose 2 Tail Cat Rescue operates a mini community pet pantry called the Kitty Take-Out Pantry, located on the corner of Arabella St and E. Lincoln Ave in McDonald, right next to the rescue building. The pantry allows neighbors to give what they can and take what they need for pets in the community. Nose 2 Tail's aim is to help keep pets in their homes and discourage abandonment when pet owners face hardships.
 
@@ -60,7 +59,7 @@ While Nose 2 Tail Cat Rescue currently rents their space, they dream of building
 
 {{< center >}}## Bucket Brigade{{< /center >}}
 
-At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade - and we’d love you to be a part of it.
+At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade — and we’d love you to be a part of it.
 
 ***
 
@@ -85,32 +84,32 @@ On Sunday of the convention, you’ll have the ability to participate as a bidde
 
 ### How do I donate items to the Charity Auction?
 
-Interested in donating to the Anthrocon Charity Auction or Raffle? Send an email to [charity@anthrocon.org](mailto:charity@anthrocon.org) stating what you are donating, your name, your preferred email address if it's different, and details on the donation (what is it, medium, artist/donor, etc.). This information is for approval purposes only - details should be provided with the required information card at the convention.
+Interested in donating to the Anthrocon Charity Auction or Raffle? Send an email to <charity@anthrocon.org> stating what you are donating, your name, your preferred email address if it's different, and details on the donation (what is it, medium, artist/donor, etc.). This information is for approval purposes only — details should be provided with the required information card at the convention.
 
 {{< details "Rules for donating items" >}}
-If you are donating an item (artwork, sculpture, animation cel, etc), it must be G to PG rated (PG13- or R-rated items accepted only with prior permission). You may either bring it to Anthrocon if you are attending or you may send it via postal mail. Write to [charity@anthrocon.org](mailto:charity@anthrocon.org) to receive the address that postal mail items should be sent to. If delivered by mail, the item must include a 3x5 card with pertinent, legible information such as the donor, artist, medium, and any other important information a bidder or ticket-holder should know so that the item may be properly auctioned or raffled. If delivered at the convention, please do so at the charity's Dealers' Room table during Dealers' Room Setup hours on Friday. You will be required to fill out a 3x5 card with the aforementioned information for display and/or auction purposes. Items donated for the auction must be unique - they cannot be available anywhere else at the convention. And please: we appreciate your generosity, but do not donate multiple copies of the same item!
+If you are donating an item (artwork, sculpture, animation cel, etc), it must be G to PG rated (PG13- or R-rated items accepted only with prior permission). You may either bring it to Anthrocon if you are attending or you may send it via postal mail. Write to <charity@anthrocon.org> to receive the address that postal mail items should be sent to. If delivered by mail, the item must include a 3×5 card with pertinent, legible information such as the donor, artist, medium, and any other important information a bidder or ticket-holder should know so that the item may be properly auctioned or raffled. If delivered at the convention, please do so at the charity's Dealers Room table during Dealers Room Setup hours on Friday. You will be required to fill out a 3×5 card with the aforementioned information for display and/or auction purposes. Items donated for the auction must be unique — they cannot be available anywhere else at the convention. And please: we appreciate your generosity, but do not donate multiple copies of the same item!
 
 Additional information and more detailed rules can be found on the [Charity Event Rules](/charity-event-rules) page.
 {{< /details >}}
 
-**For 2025**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
+**For 2025:** Donations to the Charity Auction must be submitted by **Friday, July 4** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 
 ***
 
 {{< center >}}## Frequently Asked Questions{{< /center >}}
 
 {{< details "What's the deadline to make an item donation?" >}}
-**For 2025**: Donations to the Charity Auction must be submitted by **Friday, July 5th** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
+**For 2025:** Donations to the Charity Auction must be submitted by **Friday, July 4** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
 
 Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 {{< /details >}}
 
 {{< details "What will happen to my item donation at Anthrocon?" >}}
-Your donation will be on public display at the charity's Dealers' Room table. Less-expensive items will be raffled, with drawing results displayed on Sunday. High-value items will be auctioned one at a time at Sunday's auction event. Once the convention is over, you will be emailed with the price your item sold for if you have provided an email address.
+Your donation will be on public display at the charity's Dealers Room table. Less-expensive items will be raffled, with drawing results displayed on Sunday. High-value items will be auctioned one at a time at Sunday's auction event. Once the convention is over, you will be emailed with the price your item sold for if you have provided an email address.
 {{< /details >}}
 
 {{< details "Can I make a cash donation?" >}}
-If you would like to donate to the charity before or after the convention, please visit their website for instructions. If you wish to make a cash donation at the convention, the Charity will be present in the Dealers' Room during scheduled hours.
+If you would like to donate to the charity before or after the convention, please visit their website for instructions. If you wish to make a cash donation at the convention, the Charity will be present in the Dealers Room during scheduled hours.
 {{< /details >}}
 
 {{< details "Is my donation tax-deductible?" >}}
@@ -118,7 +117,7 @@ If you have made a donation that has a cash value, it may be. Please contact the
 {{< /details >}}
 
 {{< details "Will the convention handle the charity auction's proceeds?" >}}
-Except for cash donations sent before the convention date, no. Unless the Charity is unable to attend the convention, a representative from the Charity will be present at the Charity Auction and their Dealers' Room table and will collect the funds as the items, services, and tickets are purchased. The proceeds will, at no time, be in the possession of Anthrocon staff.
+Except for cash donations sent before the convention date, no. Unless the Charity is unable to attend the convention, a representative from the Charity will be present at the Charity Auction and their Dealers Room table and will collect the funds as the items, services, and tickets are purchased. The proceeds will, at no time, be in the possession of Anthrocon staff.
 {{< /details >}}
 
 {{< details "Is this affiliated with the Anthrocon Art Auction?" >}}
@@ -128,7 +127,7 @@ Only in that it is at the same convention. The Art Show auctions will feature on
 {{< details "How are sponsored charities selected each year?" >}}
 In order to support local nonprofits in a way that best relates to the convention's overall theme, the following criteria are required for an organization to be added to Anthrocon's list of candidates for consideration:
 
-**A currently valid 501(c)3.**
+**A currently valid 501(c)(3).**
 
 **An organization related to or associated with helping animals.**
 
@@ -136,5 +135,5 @@ In order to support local nonprofits in a way that best relates to the conventio
 
 **Incorporated in the state of Pennsylvania.**
 
-To be considered, simply contact charity@anthrocon.org expressing interest. Candidacy means that the organization has been added to the list of available options for consideration in any given future year, as long as the organization remains active. The convention's Board considers candidates in December and makes a selection in January. Anthrocon's charity staff representatives make a site visit to the selected charity in February/March to validate legitimacy.
+To be considered, simply contact <charity@anthrocon.org> expressing interest. Candidacy means that the organization has been added to the list of available options for consideration in any given future year, as long as the organization remains active. The convention's board considers candidates in December and makes a selection in January. Anthrocon's charity staff representatives make a site visit to the selected charity in February/March to validate legitimacy.
 {{< /details >}}
