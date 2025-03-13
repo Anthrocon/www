@@ -2,11 +2,11 @@
 title: "Fursuit Dance Competition"
 weight: 0
 
-banner: "2023+Luau+8292.jpg"
+banner: "2024-Kaze-0161.jpg"
 banner_title: ""
 banner_caption: ""
-banner_author: "Hokuloa Luau"
-banner_url: "https://www.flickr.com/photos/hokuloaluau"
+banner_author: "Kaze Shiba"
+banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
 ---
 
 {{< center >}}# Fursuit Dance Competition{{< /center >}}
@@ -14,13 +14,12 @@ banner_url: "https://www.flickr.com/photos/hokuloaluau"
 {{< center >}}Anthrocon’s biggest and most-exciting event takes to the stage! Join us for the Fursuit Dance Competition filled with high-energy action, zany jokes, and some of the furry fandom’s most talented performers.{{< /center >}}
 
 {{< columns >}}
-{{< img src="2023+LionelLeupold+ac2023-6R1A3688.jpg" alt="A group of four fursuit dancers perfoming at the Anthrocon 2023 Dance Competition." hint="picture" attr="LionelLeupold" attrlink="https://flickr.com/photos/lionelleupold" >}}
+{{< img src="2024-LionelLeupold-6R1A4868.jpg" alt="A photograph of a fursuiter dancing." hint="picture" attr="LionelLeupold" attrlink="https://flickr.com/photos/lionelleupold" >}}
 
 <--->
 
-**Anthrocon 2024** will be using online video submissions to qualify for the Main Event. For group performances, there will be an option to do the audition in-person (more information below).
+**Anthrocon 2025** will be using online video submissions to qualify for the Main Event.
 
-- [Audition process](#audition-process)
 - [Competition Format & Rules](#competition-format)
 - [Submit your audition](#ready-to-submit-your-audition)
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -28,25 +27,13 @@ banner_url: "https://www.flickr.com/photos/hokuloaluau"
 
 ***
 
-{{< center >}}## Audition process{{< /center >}}
-
-The audition form will be available online starting March 2024, and will remain open until **June 23rd, 2024**. There are **no in-person sign ups** and we encourage all interested participants to start planning early so you can submit your audition in time.
-
-For Anthrocon 2024, we will be using the following system:
-
-- **All dancers will submit their audition with the same form, regardless of individual or team performances**. However, you are only allowed to participate in one act – you can’t sign up for both a solo and team performance.
-- **You will be submitting a video as part of the audition process.** The video must be an original choreography or performance done specifically for Anthrocon 2024 (no old videos) and while wearing a fursuit (see requirements below). If you qualify, you may use the same dance routine or an alternative for the in-person competition.
-- **Participants that qualify for the Main Event will be required to print and sign a performance waiver**. Printed waivers can be made available at the convention, should you qualify for the main event.
-
-***
-
 {{< center >}}## Competition format{{< /center >}}
 
 Please read through each section carefully, as it will help you with what to expect and prepare for.
 
-### Online Video Audition - March 2024 until June 23rd, 2024 at the end of day (Eastern time)
+### Online Video Audition - March 2025 until June 23rd, 2025 at the end of day (Eastern time)
 
-You will be uploading your audition video at the same time as your sign up. Competitors are responsible for including their music with their video submission.
+You will be submitting a video as part of the audition process. The video must be an original choreography or performance done specifically for Anthrocon 2025 (no old videos) and while wearing a fursuit (see requirements below). If you qualify, you may use the same dance routine or an alternative for the in-person competition. There are **no in-person sign ups** and we encourage all interested participants to start planning early so you can submit your audition in time.
 
 - **The audition must be done in fursuit**. Please see the “Rules” section below on the requirements for fursuits.
 - **Please submit your video in as high quality as possible**, in a widely-accepted video format such as MP4, MOV, AVI, or by uploading them to a platform like YouTube. We also encourage all competitors to submit videos that are filmed horizontally, or “landscape”, instead of a vertical fashion if you are filming with your phone.
@@ -55,14 +42,14 @@ You will be uploading your audition video at the same time as your sign up. Comp
 - **All songs must be PG-13 censored -** a radio edit “clean” rating in other words. Please remove/minimize any profanity that is in your song or mix.
 - **Groups have the option** to have an in-person preliminary tryout at the convention during the Floor Wars Preliminaries panel. ***If your group would like an in-person tryout***, please fill out the sign up form and indicate “in-person tryout” in the special accommodations field. Please note that this will only be granted on a case-by-case basis. Group auditions will be limited to 1 minute, but will have a larger time allowance for the Main Event.
 
-### Main Event - Sunday, July 7th
+### Main Event - Sunday, July 6th
 
 If you qualify through to the Main Event, you will be expected to performing a routine live on-stage on Sunday of the convention as part of the Main Event. The exact time of the Main Event, and any other related event, will be posted here.
 
 - You will be contacted via the email you signed up with. The email will contain instructions on how to submit your final material, such as your final chosen song.
 - You may use the same routine or choose a different one.
 - Your in-person performance will have a time limit of **2** **minutes**. If your performance is a few seconds over, we will not penalize you but any excessive overage will result in us fading out the performance.
-- Groups will be granted an **additional 30 seconds** for each group member**,** up to a maximum performance of 3 minutes.
+- Groups will be granted an **additional 30 seconds** for each group member, up to a maximum performance of 3 minutes.
 
 ### Judging guidelines
 
@@ -94,7 +81,7 @@ A brief example of some things that our judges look for in both the preliminarie
 
 {{< center >}}If you have your audition video **filmed** and **ready to submit**, get started with the form below. Make sure your video follows all the formats and rules outlined above.{{< /center >}}
 
-{{< center >}}{{< button href="https://forms.gle/h24qk9zGa2KKMaiV8" >}}Submit your video{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSd_SRoQYi70i_yZNBjqjD1IB2vox9GvpJ1H2tWOVrkosaE2rA/viewform?usp=dialog" >}}Submit your video{{< /button >}}{{< /center >}}
 
 ***
 
