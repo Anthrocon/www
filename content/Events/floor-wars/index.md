@@ -2,7 +2,7 @@
 title: "Floor Wars"
 weight: 0
 
-banner: "2024-LionelLeupold-BU2A5407.jpg"
+banner: "2024-LionelLeupold-BU2A5407-crop.png"
 banner_title: ""
 banner_caption: ""
 banner_author: "LionelLeupold"
