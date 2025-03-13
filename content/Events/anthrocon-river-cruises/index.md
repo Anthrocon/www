@@ -48,7 +48,8 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
-Tickets will be available to purchase through our Registration system starting on January 26th.
+{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
+
 {{% /tab %}}
 
 {{% tab "Friday, July 4" %}}
@@ -65,7 +66,7 @@ Tickets will be available to purchase through our Registration system starting o
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
-Tickets will be available to purchase through our Registration system starting on January 26th.
+{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 
 ***
 
@@ -82,7 +83,8 @@ Tickets will be available to purchase through our Registration system starting o
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
-Tickets will be available to purchase through our Registration system starting on January 26th.
+{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
+
 {{% /tab %}}
 
 {{% tab "Saturday, July 5" %}}
@@ -99,7 +101,8 @@ Tickets will be available to purchase through our Registration system starting o
 - **Capacity:** 175
 - **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
 
-Tickets will be available to purchase through our Registration system starting on January 26th.
+{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
+
 {{% /tab %}}
 
 {{% tab "Sunday, July 6" %}}
@@ -116,7 +119,8 @@ Tickets will be available to purchase through our Registration system starting o
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
-Tickets will be available to purchase through our Registration system starting on January 26th.
+{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
+
 {{% /tab %}}
 {{% /tabs %}}
 
