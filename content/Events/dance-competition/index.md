@@ -18,7 +18,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
 
 <--->
 
-**Anthrocon 2025** will be using online video submissions to qualify for the Main Event. For group performances, there will be an option to do the audition in-person (more information below).
+**Anthrocon 2025** will be using online video submissions to qualify for the Main Event. 
 
 - [Competition Format & Rules](#competition-format)
 - [Submit your audition](#ready-to-submit-your-audition)
@@ -33,7 +33,7 @@ Please read through each section carefully, as it will help you with what to exp
 
 ### Online Video Audition - March 2025 until June 23rd, 2025 at the end of day (Eastern time)
 
-You will be submitting a video as part of the audition process. The video must be an original choreography or performance done specifically for Anthrocon 2024 (no old videos) and while wearing a fursuit (see requirements below). If you qualify, you may use the same dance routine or an alternative for the in-person competition. There are **no in-person sign ups** and we encourage all interested participants to start planning early so you can submit your audition in time.
+You will be submitting a video as part of the audition process. The video must be an original choreography or performance done specifically for Anthrocon 2025 (no old videos) and while wearing a fursuit (see requirements below). If you qualify, you may use the same dance routine or an alternative for the in-person competition. There are **no in-person sign ups** and we encourage all interested participants to start planning early so you can submit your audition in time.
 
 - **The audition must be done in fursuit**. Please see the “Rules” section below on the requirements for fursuits.
 - **Please submit your video in as high quality as possible**, in a widely-accepted video format such as MP4, MOV, AVI, or by uploading them to a platform like YouTube. We also encourage all competitors to submit videos that are filmed horizontally, or “landscape”, instead of a vertical fashion if you are filming with your phone.
