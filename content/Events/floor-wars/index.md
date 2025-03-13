@@ -2,11 +2,11 @@
 title: "Floor Wars"
 weight: 0
 
-banner: "2023+Kavaeric+_DSC4360.jpg"
+banner: "2024-LionelLeupold-BU2A5407-crop.png"
 banner_title: ""
 banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+banner_author: "LionelLeupold"
+banner_url: "https://www.furtrack.com/index/photographer:lionelleupold"
 ---
 
 {{< center >}}# Floor Wars{{< /center >}}
@@ -16,7 +16,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 {{< center >}}[Competition Format](#competition-format) - [Competition Rules](#competition-rules) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
 {{< columns >}}
-{{< img src="2023+LionelLeupold+ac2023-6R1A3328.jpg" alt="Furries and fursuiters battling each other on the floor during Floor Wars." hint="picture" attr="LionelLeupold" attrlink="https://flic.kr/p/2gZhFoJ" >}}
+{{< img src="2024-Kavaeric-DSC09471.jpg" alt="Furries and fursuiters battling each other on the floor during Floor Wars." hint="picture" attr="Kavaeric" attrlink="https://www.furtrack.com/index/photographer:kavaeric" >}}
 
 <--->
 
@@ -29,19 +29,19 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 {{< center >}}## Competition format{{< /center >}}
 
-{{< center >}}### Floor Wars 2024: Furry Crew Battles{{< /center >}}
+{{< center >}}### Floor Wars 2025: Furry Crew Battles{{< /center >}}
 
-For Anthrocon 2024, we’re introducing a single crew battle division: bring your furry “crew” together of **3 to 5 members each**, with at least **ONE fursuit dancer** in a crew. There’s no telling what will happen, but don’t get cozy if you have a full house - your crew might just get upstaged by a small-but-mighty crew!
+For Anthrocon 2025, we’re bringing back the highly-demanded crew battles! Bring your furry “crew” together of 3 to 5 members each, with at least ONE permanent fursuit dancer in the crew. There’s no telling what will happen, but don’t get cozy if you have a full house - your crew might just get upstaged by a small-but-mighty crew!
 
-Sign ups for this event will be open until **June 23rd, 2024**. There are no in-person sign ups.
+Sign ups for this event will be open until **June 23rd, 2025**. There are no in-person sign ups.
 
-{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSf1bs8hbAQTLHGbKHTBagOXg_QkBDKltVQQLyB23N6iV1dwcQ/viewform?usp=sf_link" >}}Register your crew{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSfOVMvWN_1feYr2K9eg48jKN725_rRTUTB6QN57qXSDSjHbuQ/viewform?usp=dialog" >}}Register your crew{{< /button >}}{{< /center >}}
 
-### preliminaries event - Friday, JUly 5TH
+### Preliminaries Event - Friday, July 4TH
 
 **All crews will compete in a “showcase round”** where we see the raw skill and talent of each team to a non-stop, continuous mix of music that can be any genre. These skill rounds will be between 30-45 seconds for each dancer in the team, so make sure you come ready to impress if your crew wants to qualify.
 
-### Main Event - Saturday, July 6th
+### Main Event - Saturday, July 5th
 
 If your crew qualifies for the Main Event, you will be automatically slotted into a battle bracket for the division.
 
@@ -69,7 +69,7 @@ A brief example of some things that our judges look for in both the Preliminarie
 
 **The competition has been designated as a PG-13 event**, due to the nature of Floor Wars and its audience. Please keep in mind that content may be rated as such, from music selection to theming. Malicious, inappropriate, or disrespectful content or behavior past the accepted PG-13 rating is **not allowed** under any circumstances.
 
-1. For Anthrocon 2024’s Crew Battles, at least ONE member in each crew needs to be a **fursuit dancer**. This means a minimum costume of a fursuit head, hands, feet, and tail (unless your character does not have a tail by design).
+1. For Anthrocon 2025’s Crew Battles, at least ONE member in each crew needs to be a fursuit dancer. This means a minimum costume of a fursuit head, hands, feet, and tail (unless your character does not have a tail by design). The member must compete in fursuit for the entire duration of the competition, but may take the costume off when not actively competing.
 2. No excessive, provocative or inappropriate contact with other competitors.
 3. No interrupting other dancers’ sets (taking up floor space, interfering with their turn).
 4. No props allowed (other than clothing on you).
