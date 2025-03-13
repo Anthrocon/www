@@ -49,7 +49,7 @@ If you qualify through to the Main Event, you will be expected to performing a r
 - You will be contacted via the email you signed up with. The email will contain instructions on how to submit your final material, such as your final chosen song.
 - You may use the same routine or choose a different one.
 - Your in-person performance will have a time limit of **2** **minutes**. If your performance is a few seconds over, we will not penalize you but any excessive overage will result in us fading out the performance.
-- Groups will be granted an **additional 30 seconds** for each group member**,** up to a maximum performance of 3 minutes.
+- Groups will be granted an **additional 30 seconds** for each group member, up to a maximum performance of 3 minutes.
 
 ### Judging guidelines
 
