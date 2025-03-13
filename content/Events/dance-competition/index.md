@@ -18,7 +18,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
 
 <--->
 
-**Anthrocon 2025** will be using online video submissions to qualify for the Main Event. 
+**Anthrocon 2025** will be using online video submissions to qualify for the Main Event.
 
 - [Competition Format & Rules](#competition-format)
 - [Submit your audition](#ready-to-submit-your-audition)
@@ -42,7 +42,7 @@ You will be submitting a video as part of the audition process. The video must b
 - **All songs must be PG-13 censored -** a radio edit “clean” rating in other words. Please remove/minimize any profanity that is in your song or mix.
 - **Groups have the option** to have an in-person preliminary tryout at the convention during the Floor Wars Preliminaries panel. ***If your group would like an in-person tryout***, please fill out the sign up form and indicate “in-person tryout” in the special accommodations field. Please note that this will only be granted on a case-by-case basis. Group auditions will be limited to 1 minute, but will have a larger time allowance for the Main Event.
 
-### Main Event - Sunday, July 7th
+### Main Event - Sunday, July 6th
 
 If you qualify through to the Main Event, you will be expected to performing a routine live on-stage on Sunday of the convention as part of the Main Event. The exact time of the Main Event, and any other related event, will be posted here.
 
