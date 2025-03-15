@@ -49,7 +49,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Amenities:** Bottled water and straws
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
-
 {{% /tab %}}
 
 {{% tab "Friday, July 4" %}}
@@ -84,7 +83,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Amenities:** Bottled water and straws
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
-
 {{% /tab %}}
 
 {{% tab "Saturday, July 5" %}}
@@ -102,7 +100,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
-
 {{% /tab %}}
 
 {{% tab "Sunday, July 6" %}}
@@ -120,7 +117,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Amenities:** Bottled water and straws
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
-
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -174,8 +170,8 @@ Unfortunately, no. Once the boat has set sailed, it will not be able to change i
 
 {{< center >}}## Refund policy for cruises{{< /center >}}
 
-- The deadline to request a refund for an Anthrocon River Cruise is **June 14th, 2025** at 11:59pm EDT. Refund requests after this time will not be granted.
+- The deadline to request a refund for an Anthrocon River Cruise is **June 14, 2025** at 11:59 PM EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.
 - Refunds will not be issued if you miss the boarding time for your cruise.
-- Refund requests must made by email to [refunds@anthrocon.org](mailto:refunds@anthrocon.org). We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
+- Refund requests must made by email to <refunds@anthrocon.org>. We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR, and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
 - Refunds must be approved/requested by the person who purchased the tickets.
