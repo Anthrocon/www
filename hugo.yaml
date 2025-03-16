@@ -71,10 +71,10 @@ permalinks:
 
 pluralizeListTitles: false
 privacy:
-  twitter:
+  vimeo:
     enableDNT: true
 
-  vimeo:
+  x:
     enableDNT: true
 
   youtube:
