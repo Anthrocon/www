@@ -54,4 +54,4 @@ For more examples and details about being a volunteer, or how to contact us for 
 
 ## Stay Up to Date with Our Announcements
 
-Our social media and community announcement channels are the best place to get the quickest updates as they’re available — don’t forget to follow us on all our official platforms including Bluesky, X (Formerly known as Twitter), Facebook, Instagram, Discord, and our official Telegram Announcement Group — all of which can be found in the footer of our site. If you subscribed to Anthrocon’s newsletters during your registration, you’ll receive email updates directly to your inbox.
+Our social media and community announcement channels are the best place to get the quickest updates as they’re available — don’t forget to follow us on all our official platforms including Bluesky, X (formerly known as Twitter), Facebook, Instagram, Discord, and our official Telegram Announcement Group — all of which can be found in the footer of our site. If you subscribed to Anthrocon’s newsletters during your registration, you’ll receive email updates directly to your inbox.
