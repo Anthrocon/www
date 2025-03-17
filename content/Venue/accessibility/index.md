@@ -58,7 +58,7 @@ Service animals are welcome in the David L. Lawrence Convention Center provided 
 {{< center >}}## Sign Language Interpreters{{< /center >}}
 
 {{< columns >}}
-Most main stage events and select smaller events are accompanied by professional sign language interpreters using American Sign Language (ASL). If you have questions regarding interpreting services or would like to request an accommodation, please let us know by emailing **<accessibility@anthrocon.org>**.
+Most main stage events and select smaller events are accompanied by professional sign language interpreters using American Sign Language (ASL). If you have questions regarding interpreting services or would like to request an accommodation, please let us know by emailing <accessibility@anthrocon.org>.
 
 <--->
 
@@ -69,4 +69,4 @@ Most main stage events and select smaller events are accompanied by professional
 
 {{< center >}}## Additional Accessibility Requests{{< /center >}}
 
-If you have a request that you would like us to consider, please let us know by emailing **<accessibility@anthrocon.org>**. While in some cases we may be able to provide additional accommodation and will give every request very careful consideration, we cannot guarantee that individual requests can be accommodated.
+If you have a request that you would like us to consider, please let us know by emailing <accessibility@anthrocon.org>. While in some cases we may be able to provide additional accommodation and will give every request very careful consideration, we cannot guarantee that individual requests can be accommodated.
