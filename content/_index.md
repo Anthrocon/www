@@ -37,7 +37,7 @@ Join us for our annual convention every summer as we celebrate anthropomorphics,
 
 {{< img src="_MG_3712.jpg" alt="Two fursuiters reading the convention guide at Anthrocon 2022.." hint="picture" link="/tips-and-guides" attr="Hokuloa Luau" >}}
 
-{{< center >}}### [TIPS & GUIDES](https://www.anthrocon.org/tips-and-guides){{< /center >}}
+{{< center >}}### [Tips & Guides](https://www.anthrocon.org/tips-and-guides){{< /center >}}
 
 {{< center >}}Learn about helpful topics and guides to help make your convention experience.{{< /center >}}
 {{< /columns >}}
