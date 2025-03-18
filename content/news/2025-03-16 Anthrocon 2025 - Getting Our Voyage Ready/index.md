@@ -42,7 +42,7 @@ Hotel bookings are available to registered and paid attendees through our regist
 
 **Hotel shuttles:** shuttle maps for 2025 will be updated in the month of May, and all shuttle buses will be ADA-accessible for mobility users courtesy of our 2025 service provider. Live tracking will be available for shuttles and route times, which will be announced closer to the convention. Stay tuned for more updates in May!
 
-## Events, Panels, Stages Performances, and DJs
+## Events, Panels, Stage Performances, and DJs
 
 - **Convention schedule:** we know that attendees are eagerly awaiting our official 2025 convention schedule to be available, and our teams will be working as efficiently as possible to have an online version available around the month of May. Changes that are made beyond May will also be reflected on the live schedule, so you’ll want to check the official schedule once the convention gets here.
 - **Events and panels:** applications have now closed as of March 15, 2025 and our Events team will be working hard to curate panelists and event hosts which align with our attendee interests and our hosting capabilities for this year. If you applied, you can expect to hear back from the Events team by email regarding your application status once they’ve gone through all submissions.
