@@ -10,7 +10,7 @@ banner_author: "AoLun"
 banner_url: ""
 ---
 
-{{< center >}}# Travelling internationally to Anthrocon{{< /center >}}
+# Travelling internationally to Anthrocon
 
 As someone who travels internationally every year to attend Anthrocon, and has helped many furries from other continents do the same, I’d like to share some considerations and best practices for making sure you get here smoothly and with as few hiccups as possible. ***Remember that these are just general guidelines*** and may not apply to same to everyone, depending on your situation. Consult your government’s travel directions or guidelines if you have specific concerns!
 

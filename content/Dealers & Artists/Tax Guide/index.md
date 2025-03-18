@@ -12,7 +12,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-{{< center >}}# Pennsylvania Tax ID application Guide{{< /center >}}
+# Pennsylvania Tax ID application Guide
 
 This guide is written to help navigate the process of obtaining a “Transient Vendor” tax license in Pennsylvania and is not intended as tax or legal advice and should not be interpreted as such. For any questions regarding specifics not found in this document or any issues not covered below, reach out to MyPath directly at <myPATH@pa.gov> or 717-787-1064. If you are an international vendor without a FEIN, you must call MyPath directly at 717-425-2495, ext 72100 to register. Anthrocon Staff is not able to help with PA tax applications outside of the information found below.
 

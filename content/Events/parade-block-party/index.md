@@ -14,7 +14,7 @@ banner_author: "Blue Hasia"
 banner_url: ""
 ---
 
-{{< center >}}# Anthrocon Parade & Block Party{{< /center >}}
+# Anthrocon Parade & Block Party
 
 {{< center >}}**We’re taking our engagement with the city of pittsburgh to the next level!**{{< /center >}}
 
@@ -24,7 +24,7 @@ banner_url: ""
 
 ***
 
-{{< center >}}## Fursuit Parade{{< /center >}}
+## Fursuit Parade
 
 {{< center >}}Our annual fursuit parade will once again be going out into the streets of Pittsburgh for everyone to see!{{< /center >}}
 
@@ -46,7 +46,7 @@ banner_url: ""
 
 ***
 
-{{< center >}}## Anthrocon Block Party{{< /center >}}
+## Anthrocon Block Party
 
 {{< columns >}}
 {{< img src="2023+Kavaeric+_DSC1267.jpg" alt="A fursuiter celebrating with their hands in the air at the Anthrocon 2023 Block Party." hint="photo" attr="Kavaeric" attrlink="https://www.furtrack.com/user/Kavaeric/album-2068" >}}
@@ -65,7 +65,7 @@ Things to keep in mind for the block party:
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "How early should I show up to the fursuit parade lineup?" >}}
 We recommend being ready in costume before 1 PM so you can ensure enough time to walk to the convention center Hall C, located beside the Dealers Room. Elevators will be in high demand, so the earlier the better.

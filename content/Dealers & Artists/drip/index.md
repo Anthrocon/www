@@ -11,7 +11,7 @@ banner_author: "Blue Hasia"
 banner_url: ""
 ---
 
-{{< center >}}# Anthrocon 2025 Dealer Rules & Information Packet{{< /center >}}
+# Anthrocon 2025 Dealer Rules & Information Packet
 
 Anthrocon is July 3rd-July 6th, 2025. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
 

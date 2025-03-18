@@ -11,7 +11,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-{{< center >}}# Anthrocon Art Show{{< /center >}}
+# Anthrocon Art Show
 
 On behalf of participating artists, Anthrocon’s Art Show exhibits and sells original artworks of a science fiction, fantasy and/or fannish nature, especially relating to anthropomorphics. It takes place on the third floor (river side) of the David L. Lawrence Convention Center.
 

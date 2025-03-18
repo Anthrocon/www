@@ -9,7 +9,7 @@ banner_author: "Caro"
 banner_url: ""
 ---
 
-{{< center >}}# Contact Us{{< /center >}}
+# Contact Us
 
 If you know which department you’d like to contact, find them in the list below. If you’re not sure who to ask, send us an email to [info@anthrocon.org](mailto:info@anthrocon.org) and we’ll direct it the right way.
 

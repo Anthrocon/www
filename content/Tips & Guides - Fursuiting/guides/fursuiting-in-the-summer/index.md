@@ -10,7 +10,7 @@ banner_author: "Tenn"
 banner_url: ""
 ---
 
-{{< center >}}# Fursuiting safely in the hot summer weather{{< /center >}}
+# Fursuiting safely in the hot summer weather
 
 {{< center >}}*Disclaimer: Kijani is a veteran fursuiter who has attended and fursuited at Anthrocon since 2010, and has performed in parades and at community events in 90+ degree temperatures. Statements in this guide are merely suggestions from his and others’ experiences and do not constitute official medical advice.*{{< /center >}}
 

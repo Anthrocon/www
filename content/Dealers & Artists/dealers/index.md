@@ -11,7 +11,7 @@ banner_author: "Blue Hasia"
 banner_url: ""
 ---
 
-{{< center >}}# Dealers Room{{< /center >}}
+# Dealers Room
 
 {{< center >}}Anthrocon 2025's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 4th to Sunday July 6th. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
 
@@ -42,7 +42,7 @@ Applications to vend at Anthrocon 2025 will be open from **October 21st at 12 PM
 
 ***
 
-{{< center >}}## Important information for applying{{< /center >}}
+## Important information for applying
 
 All tables are 8 feet wide and 30 inches deep, with 7 feet of space behind each table and large aisles for customers to navigate, as well as a dealers-only aisle between the backs of tables to make it easier to move around during the day.
 
@@ -68,7 +68,7 @@ Additional information:
 
 ***
 
-{{< center >}}## Table Pricing for 2025{{< /center >}}
+## Table Pricing for 2025
 
 Our table prices for the Dealers Room are listed below. **Please note: ELECTRICAL POWER IS NOT INCLUDED, except for Booths**. If your table has a need for power, please contact our Dealers team once you have been confirmed for a space.
 
@@ -112,7 +112,7 @@ The following options **do not include power (electricity)**. Requests for power
 - 20’x24’ partially enclosed with six 8’x30" tables
 - Includes 20A electrical power
 
-{{< center >}}## Dealers Assistants{{< /center >}}
+## Dealers Assistants
 
 Dealer Assistants must purchase their badges separately once the Dealer application has been approved. This option will become available starting on **January 2025**. Please see the DRIP on restrictions on DA numbers for table sizes.
 

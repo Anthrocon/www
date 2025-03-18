@@ -11,7 +11,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
-{{< center >}}# Hotels for Anthrocon{{< /center >}}
+# Hotels for Anthrocon
 
 {{< center >}}
 Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees.
@@ -23,7 +23,7 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 
 ***
 
-{{< center >}}## Booking process{{< /center >}}
+## Booking process
 
 {{< columns >}}
 Email notifications and links for the Anthrocon hotel reservation block will be sent to pre-registered members through both the Registration portal and direct email as follows (all opening times will be approximately 12 PM Eastern Time):
@@ -49,7 +49,7 @@ Email notifications and links for the Anthrocon hotel reservation block will be 
 
 ***
 
-{{< center >}}## Tips for finding rooms{{< /center >}}
+## Tips for finding rooms
 
 Are you looking for a room or roomshare offer for Anthrocon? We’ve got some important tips to remember as the process of finding a room can be tricky.
 
@@ -75,7 +75,7 @@ If you have any suspicion about a room or roommate offer you receive, contact ou
 
 ***
 
-{{< center >}}## Hotel options{{< /center >}}
+## Hotel options
 
 These rates are exclusive to rooms booked in Anthrocon’s room block (subject to availability), which can only be accessed through a special link emailed to registered attendees. All nightly rates listed below are subject to applicable state and local taxes (approximately 14%), and there will be an additional hold of $50 to $100 per night at check-in as an incidentals or damages hold which will be released back to the cardholder after checkout. Anthrocon provides shuttle service to all listed hotels outside the immediate area of the convention center.
 
@@ -509,7 +509,7 @@ The Wyndham Grand Pittsburgh Downtown Hotel is located where Pittsburgh's famous
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "Am I required to book a hotel room in order to attend Anthrocon?" >}}
 A hotel room booking is not a requirement for attending our convention. However, make sure you’ve got a place to stay while you’re attending — we don’t want anyone to be without accommodations.

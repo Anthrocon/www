@@ -12,13 +12,13 @@ banner_author: "Blue Hasia"
 banner_url: ""
 ---
 
-{{< center >}}# Shuttle Buses for Anthrocon Hotels{{< /center >}}
+# Shuttle Buses for Anthrocon Hotels
 
 Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday, July 4th to Sunday, July 7th, and ends 3 AM the following morning. It will end on 11:59 PM on Sunday evening.
 
 {{< center >}}[Important Notes and Updates](#important-notes-and-updates) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
 
-{{< center >}}## Important notes and updates{{< /center >}}
+## Important notes and updates
 
 - The **Convention Center stop** is located on 10th Street underneath the convention center on the East Lobby side. Signage will indicate where passengers are dropped off and picked up.
 - There is **no shuttle bus service for the** **Westin**, **Courtyard**, **Drury**, or **AC Hotel** as they are directly in proximity of the convention center.
@@ -28,7 +28,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 - **If a shuttle bus is full**, it will NOT stop until passengers offload.
 - **If a wheelchair-accessible bus is required**, please phone [412-442-4771](tel:412-442-4771) at least 1 hour in advance.
 
-{{< center >}}## Shuttle Routes And Schedules{{< /center >}}
+## Shuttle Routes And Schedules
 
 {{< center >}}Please note that the hotels below are confirmed to have shuttle service, but specific routes may be subject to change. Routes will be finalized by July 1st, 2024.{{< /center >}}
 

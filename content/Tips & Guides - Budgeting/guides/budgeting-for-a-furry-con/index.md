@@ -10,7 +10,7 @@ banner_author: "Aisling Wolf"
 banner_url: ""
 ---
 
-{{< center >}}# Budgeting for a furry con{{< /center >}}
+# Budgeting for a furry con
 
 {{< center >}}*Please note that the following content does not constitute as financial advice and should not be treated as such, and are only tips based on our personal experiences.*{{< /center >}}
 

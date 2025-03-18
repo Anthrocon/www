@@ -10,7 +10,7 @@ banner_author: "Nightdragon"
 banner_url: "https://nightdragon0.smugmug.com"
 ---
 
-{{< center >}}# Deals and services to help cut costs{{< /center >}}
+# Deals and services to help cut costs
 
 There are some deals and services that can help make your Anthrocon experience a little easier on the wallet. Though this isn’t an exhaustive list of deals and services, these are some typical ones we’d recommend taking advantage of!
 

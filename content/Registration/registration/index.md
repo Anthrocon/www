@@ -11,7 +11,7 @@ banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
 ---
 
-{{< center >}}# Registration for Anthrocon 2025{{< /center >}}
+# Registration for Anthrocon 2025
 
 {{< center >}}We’re excited to have you join us for Anthrocon. Find out information on how you can register, what you’ll need in order to register, and other important information.{{< /center >}}
 
@@ -19,7 +19,7 @@ banner_url: "https://www.randorn.com"
 
 ***
 
-{{< center >}}## 2025 Registration Updates{{< /center >}}
+## 2025 Registration Updates
 
 ### New Registration Process for 2025
 
@@ -39,7 +39,7 @@ A limited number of Ultrasponsor, Supersponsor, and Sponsor memberships will be 
 
 ***
 
-{{< center >}}## How to Register{{< /center >}}
+## How to Register
 
 **New for Anthrocon 2025:** Our Registration system has now changed! Please read the following instructions in order to successfully purchase your conbadge for Anthrocon 2025.
 
@@ -173,7 +173,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ***
 
-{{< center >}}## Disclaimers for registration tiers{{< /center >}}
+## Disclaimers for registration tiers
 
 **\* Note for Sponsor, Supersponsor, and Ultrasponsor:** A portion of this membership constitutes a donation to Anthrocon which, by law, is not tax-deductible and is not refundable if your registration is canceled. For more information, please see [our refund policy](/refundpolicy).
 
@@ -181,7 +181,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ***
 
-{{< center >}}## Minor Forms{{< /center >}}
+## Minor Forms
 
 {{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 3rd, 2025**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
 
@@ -203,7 +203,7 @@ Required for attendees who are under 13 years of age and attending Anthrocon 202
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "What ID do I need to bring to get my registration?" >}}
 For all attendees aged 18 years and older, we require a government-issued photo ID so that we can make sure nobody other than you is trying to pick up your badge or register in your name. Anthrocon accepts the following as a single-form ID: USA or Canada driver's license, USA or Canada state ID, USA military ID, or a passport.

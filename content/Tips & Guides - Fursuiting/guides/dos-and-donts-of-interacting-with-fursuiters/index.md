@@ -10,7 +10,7 @@ banner_author: "Caro"
 banner_url: ""
 ---
 
-{{< center >}}# Do’s and Don'ts of interacting with fursuiters{{< /center >}}
+# Do’s and Don'ts of interacting with fursuiters
 
 Fursuiting is one of the biggest draws to fur cons and the furry fandom as a whole, particularly in the last five to 10 years. In fact, Anthrocon 2023 had a record 3,217 fursuiters attend the fursuit parade alone! If this is your first con, chances are you've never seen or interacted with giant costumed fursona characters before, so here are some guidelines that attendees should follow for everyone's safety and well-being. It's easy to forget there are people underneath these wearable works of art, and we don't want anyone committing accidental “faux paws”!
 

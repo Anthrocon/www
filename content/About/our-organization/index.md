@@ -10,13 +10,13 @@ banner_author: "LionelLeupold"
 banner_url: ""
 ---
 
-{{< center >}}# Our Organization{{< /center >}}
+# Our Organization
 
 Anthrocon is a Pennsylvania-incorporated 501(c)7 not-for-profit organization. The staff and volunteers who put on the event do so entirely on a volunteer basis, with the primary motivation being a mutual desire to foster the growth of the furry community. The organization is overseen by a Board of Directors, who help provide governance and direction on key functions and areas of the annual event.
 
 ***
 
-{{< center >}}## Board of Directors{{< /center >}}
+## Board of Directors
 
 {{< center >}}**Chairman and CEO**{{< /center >}}
 
@@ -96,7 +96,7 @@ Anthrocon is a Pennsylvania-incorporated 501(c)7 not-for-profit organization. Th
 
 ***
 
-{{< center >}}## Mission Statement{{< /center >}}
+## Mission Statement
 
 The sole purpose of the organization is to operate a yearly convention in order to bring together devotees of anthropomorphics from near and far, in a relaxed social atmosphere where fans of all ages may feel welcome.
 

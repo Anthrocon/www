@@ -10,7 +10,7 @@ banner_author: "HokuloaLuau"
 banner_url: ""
 ---
 
-{{< center >}}# Mutual respect between attendees, the convention, and the public{{< /center >}}
+# Mutual respect between attendees, the convention, and the public
 
 “R-E-S-P-E-C-T”: Not only a memorable lyric from Aretha Franklin’s 1967 hit song, but also a basic tenet for convention attendees to follow. As Anthrocon grows, the more important it becomes to show mutual respect within our large, diverse community, the environment surrounding the convention, as well as the public.
 

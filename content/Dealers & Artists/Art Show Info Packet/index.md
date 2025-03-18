@@ -11,7 +11,7 @@ banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
 ---
 
-{{< center >}}# Art Show Info Packet{{< /center >}}
+# Art Show Info Packet
 
 The Art Show Reservations Information Packet (aka the ASRIP) contains rules, instructions, and important information for artists who want to participate in the Art Show. Please read it carefully.
 

@@ -13,7 +13,7 @@ banner_author: "HokuloaLuau"
 banner_url: ""
 ---
 
-{{< center >}}# At-Convention Resources{{< /center >}}
+# At-Convention Resources
 
 {{< center >}}We’ve got a few helpful resources to help you get around the city of Pittsburgh, and to places you’ll want to check out.{{< /center >}}
 
@@ -21,7 +21,7 @@ banner_url: ""
 
 ***
 
-{{< center >}}## Parking at the convention{{< /center >}}
+## Parking at the convention
 
 {{< columns >}}
 If you’re driving into Pittsburgh, we recommend exploring the public parking lots and garages that are scattered throughout the city. Anthrocon does not have any partnerships nor special rates with the listed parking lots. Always check the individual parking lots and garages for information accuracy.
@@ -35,7 +35,7 @@ If you’re driving into Pittsburgh, we recommend exploring the public parking l
 
 ***
 
-{{< center >}}## Shuttle Schedule{{< /center >}}
+## Shuttle Schedule
 
 {{< columns >}}
 Shuttles are free for all Anthrocon attendees, stopping at Anthrocon-partnered hotels (except the Westin, Courtyard, Drury and AC Hotel) with the **DLCC stop on the East Lobby side of the underpass under the convention center**.
@@ -51,7 +51,7 @@ On Saturday, the stop will temporarily move to the West side of the underpass, (
 
 ***
 
-{{< center >}}## Convention Guide{{< /center >}}
+## Convention Guide
 
 {{< columns >}}
 {{< img src="_DSC9589+3K.jpg" alt="Two fursuiters sitting at a patio on Penn Avenue." hint="photo" attr="Kavaeric" attrlink="https://www.furtrack.com/user/Kavaeric/album-582/121368" >}}

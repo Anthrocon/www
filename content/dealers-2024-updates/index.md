@@ -9,11 +9,11 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-{{< center >}}# Dealers Room Updates for 2024{{< /center >}}
+# Dealers Room Updates for 2024
 
 {{< center >}}[Return to main Dealers Room page](/dealers){{< /center >}}
 
-{{< center >}}## **Changes and New Things Hall A/B at Anthrocon 2024**{{< /center >}}
+## **Changes and New Things Hall A/B at Anthrocon 2024**
 
 **The Art Show and the Con Store are moving!** Con Store will be located at the East Lobby Information Desk, and Art Show will be located upstairs in rooms 323 through 330. With all that extra space...
 
@@ -43,7 +43,7 @@ Located between the Dealers Room and the Artists Alley in rows Q and R, The Bode
 
 ***
 
-{{< center >}}## Table Pricing for 2024{{< /center >}}
+## Table Pricing for 2024
 
 Our table prices for the Dealers Room are listed below. **Please note: ELECTRICAL POWER IS NOT INCLUDED, except for Booths**. If your table has a need for power, please contact our Dealers team once you have been confirmed for a space.
 
@@ -82,7 +82,7 @@ The following options **do not include power (electricity)**. Requests for power
 - 20’x24’ partially enclosed with six 8'x30" tables
 - includes 20A electrical power
 
-{{< center >}}## Dealers Assistants{{< /center >}}
+## Dealers Assistants
 
 Dealer Assistants must purchase their badges separately once the Dealer application has been approved. This option will become available starting on **January 9th, 2024**. We STRONGLY recommend Dealer Assistants be named before the close of pre-registration; handling them on-site is slower for us, you, and them.
 

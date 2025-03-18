@@ -11,7 +11,7 @@ banner_author: "Nightdragon"
 banner_url: "https://nightdragon0.smugmug.com"
 ---
 
-{{< center >}}# What is “Furry”?{{< /center >}}
+# What is “Furry”?
 
 {{< center >}}*"If you as an adult still occasionally like to flip to the old cartoons, or have a stuffed animal sitting on the dashboard of your car, or buy cereal because it has a cool tiger on the box, you may well enjoy what our fandom has to offer."*{{< /center >}}
 

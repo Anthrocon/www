@@ -9,7 +9,7 @@ banner_author: "Tenn"
 banner_url: ""
 ---
 
-{{< center >}}# Minors and age-related questions{{< /center >}}
+# Minors and age-related questions
 
 {{< center >}}[General Age Questions](#) - [Minors Under 17](#) - [Minors Under 13](#){{< /center >}}
 

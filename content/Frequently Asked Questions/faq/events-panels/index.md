@@ -9,7 +9,7 @@ banner_author: "LionelLeupold"
 banner_url: "https://www.flickr.com/photos/lionelleupold"
 ---
 
-{{< center >}}# Events and panels questions{{< /center >}}
+# Events and panels questions
 
 ### Why don't you have more programming involving puppets (or costumes, or writing, or...)?
 

@@ -9,7 +9,7 @@ banner_author: "Kaze Shiba"
 banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
 ---
 
-{{< center >}}# Fursuit Dance Competition{{< /center >}}
+# Fursuit Dance Competition
 
 {{< center >}}Anthrocon’s biggest and most-exciting event takes to the stage! Join us for the Fursuit Dance Competition filled with high-energy action, zany jokes, and some of the furry fandom’s most talented performers.{{< /center >}}
 
@@ -27,7 +27,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
 
 ***
 
-{{< center >}}## Competition Format{{< /center >}}
+## Competition Format
 
 Please read through each section carefully, as it will help you with what to expect and prepare for.
 
@@ -77,7 +77,7 @@ A brief example of some things that our judges look for in both the preliminarie
 5. Songs must be a radio-friendly or radio-version, meaning no vulgarity.
 6. **The event organizers reserve the right to make decisions for any performances in the event where necessary.**
 
-{{< center >}}## Ready to submit your audition?{{< /center >}}
+## Ready to submit your audition?
 
 {{< center >}}If you have your audition video **filmed** and **ready to submit**, get started with the form below. Make sure your video follows all the formats and rules outlined above.{{< /center >}}
 
@@ -85,7 +85,7 @@ A brief example of some things that our judges look for in both the preliminarie
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 **Am I allowed to participate if I’m a minor? Are there any age restrictions to the competition?**
 

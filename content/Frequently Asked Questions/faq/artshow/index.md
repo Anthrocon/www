@@ -11,7 +11,7 @@ banner_author: "Randorn"
 banner_url: "https://www.randorn.com"
 ---
 
-{{< center >}}# Art Show Questions{{< /center >}}
+# Art Show Questions
 
 ### I'm not an artist—can I resell previously-purchased artwork in the Art Show?
 

@@ -9,7 +9,7 @@ banner_author: "Hokuloa Luau"
 banner_url: ""
 ---
 
-{{< center >}}# Our History{{< /center >}}
+# Our History
 
 Anthrocon began as “Albany Anthrocon” in 1997, and has since grown into one of the largest furry conventions in the world, appearing in the 2008 Guinness Book of World Records. Having outgrown its previous venues in Valley Forge (PA), Albany (NY), and Philadelphia (PA), Anthrocon has made the David L. Lawrence Convention Center its new home, where it has prospered since 2006. In 2024, the convention contributed an estimated $18 million to the local economy.
 

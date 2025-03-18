@@ -12,7 +12,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-{{< center >}}# Events and panels at Anthrocon{{< /center >}}
+# Events and panels at Anthrocon
 
 {{< center >}}Anthrocon features a variety of events and panels over the weekend. From outdoor parades to learning new crafts and social meetups, you’ll have plenty to do!{{< /center >}}
 
@@ -28,7 +28,7 @@ The full events schedule for the convention will be available closer to summer 2
 
 ***
 
-{{< center >}}## Anthrocon Event Policies and Rules{{< /center >}}
+## Anthrocon Event Policies and Rules
 
 Please read the following information carefully and if there are any questions do not hesitate to send us an email.
 
@@ -75,7 +75,7 @@ If you’ve got an interesting topic or talent you’d love to share with our co
 
 ***
 
-{{< center >}}## Apply to host an event{{< /center >}}
+## Apply to host an event
 
 Panel applications for Anthrocon 2025 are open now until March 15, 2025. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to [events@anthrocon.org](mailto:events@anthrocon.org).
 
@@ -83,7 +83,7 @@ Panel applications for Anthrocon 2025 are open now until March 15, 2025. Keep an
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "Do I need an Anthrocon registration to host an event?" >}}
 Yes, a valid Anthrocon membership is required to be able to host an event at the convention. We do not provide complimentary membership for panel hosts, but do show our appreciation with other rewards!

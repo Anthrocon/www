@@ -9,7 +9,7 @@ banner_author: "HawkPool"
 banner_url: ""
 ---
 
-{{< center >}}# About Anthrocon{{< /center >}}
+# About Anthrocon
 
 ### What is Anthrocon?
 

@@ -10,7 +10,7 @@ banner_author: "Randorn"
 banner_url: ""
 ---
 
-{{< center >}}# Fursuiting opportunities and activities around Anthrocon and Pittsburgh{{< /center >}}
+# Fursuiting opportunities and activities around Anthrocon and Pittsburgh
 
 Your plane ticket is booked, your hotel is reserved, and your brand new fursuit is safely packed for its journey to Anthrocon. If it’s your first time, or first time in a while, figuring out how to best maximize your fursuiting time can be daunting. The con space, even just in the DLCC, encompasses a very large area, and the Downtown area itself has many prime locations too. If you were wondering about some of the best places to fursuit for interactions, scenic spots for photographs, or just plain fun things to do cavorting as a giant Anthro animal, this guide is for you!
 
@@ -20,7 +20,7 @@ I was fortunate to interview two friends of mine who are experienced Anthrocon f
 
 ***
 
-{{< center >}}## Fursuiting around Anthrocon{{< /center >}}
+## Fursuiting around Anthrocon
 
 ### DEALER’S ROOM
 
@@ -59,7 +59,7 @@ CooperTom also offered some more general advice for performing in fursuit in con
 
 ***
 
-{{< center >}}## Fursuiting around Pittsburgh{{< /center >}}
+## Fursuiting around Pittsburgh
 
 Why stop the fun at just the convention center and the surrounding areas? Pittsburgh is a diverse and beautiful city that has plenty in store for fursuiters (or just congoers) looking for new sights to see! Some of the local Pittsburgh furries have provided a great list both closer and farther from the convention.
 

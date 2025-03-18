@@ -10,7 +10,7 @@ banner_author: "HokuloaLuau"
 banner_url: ""
 ---
 
-{{< center >}}# Being a Good Guest at a Convention{{< /center >}}
+# Being a Good Guest at a Convention
 
 For convention attendees, it’s reasonable to say they have a common sense obligation to treat the host venues, and their staff, with respect and integrity. It’s a simple request that is often taken for granted, but is a vital part of the relationship between Anthrocon and its host facilities, namely the David L. Lawrence Convention Center (DLCC) which houses the majority of Anthrocon’s programming, and [22 partner hotels](https://www.anthrocon.org/hotel).
 

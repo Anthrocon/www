@@ -13,7 +13,7 @@ banner_author: "Exkhaniber"
 banner_url: "https://flic.kr/p/2anmuhG"
 ---
 
-{{< center >}}# This page or information doesn’t exist here. Sorry about that!{{< /center >}}
+# This page or information doesn’t exist here. Sorry about that!
 
 Here are some places you might be looking for:
 

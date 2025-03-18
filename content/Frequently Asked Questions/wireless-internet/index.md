@@ -9,7 +9,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-{{< center >}}# Wireless Internet Questions{{< /center >}}
+# Wireless Internet Questions
 
 The David L. Lawrence Convention Center is offering wireless internet access for a fee, which is per device, accessible anywhere within the building. The wireless options include:
 

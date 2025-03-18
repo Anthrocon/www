@@ -12,7 +12,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-{{< center >}}# Artists Alley{{< /center >}}
+# Artists Alley
 
 {{< center >}}Each year, we set aside a place for artists to showcase their talents and artistic wares. Known as the Artists Alley, this area is available to artists on a lottery basis.{{< /center >}}
 
@@ -30,7 +30,7 @@ The Artists Alley is *not* the Dealers Room, and is not intended to be used as a
 
 ***
 
-{{< center >}}## Artists information{{< /center >}}
+## Artists information
 
 Before applying, please ensure you read the [Artists Alley Rules](https://docs.google.com/document/d/1VrFyOnx6v_Kvmjy5r56zJRpWQkyMCsG0_EQbe8sXNeQ/edit?usp=drivesdk).
 
@@ -45,7 +45,7 @@ The lottery to determine accepted artists for each day will be conducted, and re
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "Do I need a sales tax license before the event?" >}}
 Yes, you should [apply for your PA Sales Tax License](https://mypath.pa.gov/_/) or Transient Vendor Certificate as soon as practical. we'll ask for your license ID number in the application. Additionally, you'll need to show us a copy when you first sign in, to validate you have one available.

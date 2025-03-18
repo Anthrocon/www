@@ -9,13 +9,13 @@ banner_author: "Randorn Canis"
 banner_url: "https://www.randorn.com"
 ---
 
-{{< center >}}# Membership Refunds and Deferrals{{< /center >}}
+# Membership Refunds and Deferrals
 
 As much as we hope everyone planning to come to Anthrocon can attend, we understand that people have events in their life that make them unable to attend even after they have registered as Members.
 
 {{< center >}}[Refunds](#refunds) - [Rollovers](#rollovers--deferrals) - [Requirements and policies for requests](#requirements-and-policies-for-requests){{< /center >}}
 
-{{< center >}}## Refunds{{< /center >}}
+## Refunds
 
 Anthrocon has the following policies in place for Membership refunds, including when we *can* and *cannot* grant them:
 
@@ -31,11 +31,11 @@ Anthrocon has the following policies in place for Membership refunds, including 
 | Ultrasponsor |   | $880 |
 {{< /center >}}
 
-{{< center >}}## Rollovers & Deferrals{{< /center >}}
+## Rollovers & Deferrals
 
 For those who find that they will be unable to attend the convention after the refund deadline you may request that your membership be deferred to the following year. Deferred memberships have no cash value, cannot be refunded at any time, and will only be good for the following convention year. Deferred memberships cannot be downgraded to another membership type. If the deferred membership is not used the following year, it will be forfeited. Requests for deferral must be received from the time pre-registration closes until the Monday before the convention. For Anthrocon 2025 that date is **June 30th, 2025 at 11:59 PM EDT**. Deferral requests after this time will not be granted.
 
-{{< center >}}## Requirements and Policies for requests{{< /center >}}
+## Requirements and Policies for requests
 
 - Refund requests should be made online. Log in through the registration portal at <https://reg.anthrocon.org/>, select `Order History` from the left menu, `{{< html >}}<i class="fa-solid fa-ellipsis"></i>{{< /html >}}` and `Request Refund` from the top of your order, and enter a quantity and additional information for your request. Requests must be submitted before the deadline above.
 - Deferral requests should be made by email to <refunds@anthrocon.org>. Include your **legal name**, **badge name**, and **email address used to register** to properly identify you for your request. Requests must be submitted before the deferral deadline above.

@@ -9,7 +9,7 @@ banner_author: "Blue Hasia"
 banner_url: ""
 ---
 
-{{< center >}}# 2024 Dealers Room Information & Map{{< /center >}}
+# 2024 Dealers Room Information & Map
 
 {{< center >}}The Dealers list and map below are for reference only - changes may happen last-minute. Please watch for announcements on our social media for any changes.{{< /center >}}
 
@@ -25,7 +25,7 @@ The schedule for the Dealers Room will be as follows:
 
 {{< img src="floorplan+2024+for+pubs.png" alt="A diagram of the Anthrocon 2024 Dealers Room where different vendors are located." hint="drawing" caption="Anthrocon 2024 Dealers Room Layout" >}}
 
-{{< center >}}## Dealers List{{< /center >}}
+## Dealers List
 
 {{< center >}}**NOTE**: The effective date for this Dealers List is **June 10, 2024**, and table assignments may change before the convention. Rows A to D are designated for the Artists Alley.{{< /center >}}
 

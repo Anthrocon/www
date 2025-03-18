@@ -11,7 +11,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
-{{< center >}}# Charity{{< /center >}}
+# Charity
 
 {{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
@@ -19,7 +19,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 ***
 
-{{< center >}}## 2025 Charity: Nose 2 Tail Cat Rescue{{< /center >}}
+## 2025 Charity: Nose 2 Tail Cat Rescue
 
 {{< center >}}***“Our mission is to reduce overpopulation and euthanasia rates of cats through education, adoption, and providing a safe, loving environment for our furry friends.”***{{< /center >}}
 
@@ -57,13 +57,13 @@ While Nose 2 Tail Cat Rescue currently rents their space, they dream of building
 
 ***
 
-{{< center >}}## Bucket Brigade{{< /center >}}
+## Bucket Brigade
 
 At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade — and we’d love you to be a part of it.
 
 ***
 
-{{< center >}}## Charity Auction and Raffle{{< /center >}}
+## Charity Auction and Raffle
 
 {{< columns >}}
 {{< img src="LUA_0745.jpg" hint="picture" attr="HokuloaLuau" attrlink="https://www.flickr.com/photos/hokuloaluau" >}}
@@ -96,7 +96,7 @@ Additional information and more detailed rules can be found on the [Charity Even
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "What's the deadline to make an item donation?" >}}
 **For 2025:** Donations to the Charity Auction must be submitted by **Friday, July 4** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.

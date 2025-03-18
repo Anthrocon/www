@@ -11,7 +11,7 @@ banner_author: "ArcticSkyWolf"
 banner_url: "https://flic.kr/p/VztgZR"
 ---
 
-{{< center >}}# Conbook Submissions & Advertising{{< /center >}}
+# Conbook Submissions & Advertising
 
 Looking for a place to express your creativity in printed format, or advertise your business? Our official convention book is a great place to feature your skills and brand.
 

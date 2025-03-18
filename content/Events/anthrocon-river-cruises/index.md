@@ -9,7 +9,7 @@ banner_author: "Tobee"
 banner_url: "https://www.furtrack.com/index/photographer:tobee"
 ---
 
-{{< center >}}# Anthrocon River Cruises{{< /center >}}
+# Anthrocon River Cruises
 
 {{< center >}}In partnership with the Gateway Clipper Fleet, Anthrocon is offering River Cruises during the convention with options for sightseeing and/or cocktail cruises.{{< /center >}}
 
@@ -31,7 +31,7 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 ***
 
-{{< center >}}## Anthrocon 2025 Cruise Options{{< /center >}}
+## Anthrocon 2025 Cruise Options
 
 {{% tabs %}}
 {{% tab "Thursday, July 3" %}}
@@ -122,7 +122,7 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 ***
 
-{{< center >}}## Boarding process{{< /center >}}
+## Boarding process
 
 {{< columns >}}
 {{< img src="2024+Luau--21.jpg" hint="photo" attr="Luau" attrlink="https://www.furtrack.com/index/photographer:luau" >}}
@@ -136,7 +136,7 @@ The boats have both open decks and closed air conditioned decks so the cruises w
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "Do I need my Anthrocon registration to board the cruise?" >}}
 You can board the cruise without needing to show your Anthrocon badge. However, please remember to bring your confirmed ticket with you in either electronic or printed format.
@@ -168,7 +168,7 @@ The drink tickets are redeemable on board for any drink up to $8.50 in value. Ad
 Unfortunately, no. Once the boat has set sailed, it will not be able to change its course. Please ensure that you have everything with you and do not have any scheduling conflicts while you are on board the cruise.
 {{< /details >}}
 
-{{< center >}}## Refund policy for cruises{{< /center >}}
+## Refund policy for cruises
 
 - The deadline to request a refund for an Anthrocon River Cruise is **June 14, 2025** at 11:59 PM EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.

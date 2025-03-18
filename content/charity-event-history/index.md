@@ -9,7 +9,7 @@ banner_author: "Aisling Wolf"
 banner_url: ""
 ---
 
-{{< center >}}# Anthrocon Charity Donation History{{< /center >}}
+# Anthrocon Charity Donation History
 
 The Charity Auction at Anthrocon started when the convention began back in 1997. Over the years, **Anthrocon has raised over $647,000 for various charities**. Anthrocon's Charity Auction has consistently been among the highest performing fandom Charity events by dollar amount annually. In 2009, a raffle was added.
 

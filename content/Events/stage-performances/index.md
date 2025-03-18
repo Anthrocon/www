@@ -9,7 +9,7 @@ banner_author: "HokuloaLuau"
 banner_url: ""
 ---
 
-{{< center >}}# Stage performances at Anthrocon{{< /center >}}
+# Stage performances at Anthrocon
 
 {{< columns >}}
 Anthrocon’s stages showcase the best of furry-centric talent to our attendees, from musical journeys, to comedic skits, and even high-flying acrobatics.
@@ -25,7 +25,7 @@ Anthrocon’s stages showcase the best of furry-centric talent to our attendees,
 
 ***
 
-{{< center >}}## Stage Performance Policies and Rules{{< /center >}}
+## Stage Performance Policies and Rules
 
 Please read the following information carefully and if there are any questions do not hesitate to send us an email at [events@anthrocon.org](mailto:events@anthrocon.org).
 
@@ -65,7 +65,7 @@ Fill out this form to apply for a stage performance:
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "What kinds of performances are accepted?" >}}
 We welcome (and have hosted) a variety of performance types including music, dance, skits, acrobatics, stand-up comedy, magic and illusions, and many others. If you’re not sure whether or not your performance would be accepted, send us an email at [events@anthrocon.org](mailto:events@anthrocon.org).

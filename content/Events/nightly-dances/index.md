@@ -9,7 +9,7 @@ banner_author: "Randorn"
 banner_url: "https://randorn.com"
 ---
 
-{{< center >}}# Nightly Dances{{< /center >}}
+# Nightly Dances
 
 {{< center >}}Every night of the convention, our main stage transforms into a world of lights, effects, and electronic music. Celebrate the night away with our community.{{< /center >}}
 
@@ -44,7 +44,7 @@ Fill out this form to apply to be a DJ for the nightly dances:
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 **What is the clothing policy/rating at the nightly dances?**
 

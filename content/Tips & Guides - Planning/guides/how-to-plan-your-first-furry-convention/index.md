@@ -10,7 +10,7 @@ banner_author: "Tenn"
 banner_url: ""
 ---
 
-{{< center >}}# How to plan your first furry convention{{< /center >}}
+# How to plan your first furry convention
 
 No matter how long you’ve been in the fandom, or how many cons you’ve been to, we were all new to furry (and furry cons) at one point! I remember vividly how overwhelmed I felt prior to my first one – all the fun and fascinating panels, events and activities on the schedule and how I was going to fit it all in one weekend while also being able to explore the Dealers Room, Art Show, fursuit, and hang out with my friends. Oh yeah, and finding time to eat. Food is important, too!
 

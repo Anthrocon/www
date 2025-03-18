@@ -10,7 +10,7 @@ banner_author: "Tenn"
 banner_url: ""
 ---
 
-{{< center >}}# Anthrocon 101 for kids and parents{{< /center >}}
+# Anthrocon 101 for kids and parents
 
 Fun fact: I was fortunate to go to my first Anthrocon when I was barely a teenager, dragging my mom to Pittsburgh without a clue about what to expect. Now, you might find yourself bringing your parent (or bringing your kid) to Anthrocon. Here’s a few tips to prepare yourself, and/or your kid.
 

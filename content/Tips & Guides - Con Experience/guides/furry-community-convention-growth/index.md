@@ -10,7 +10,7 @@ banner_author: "Randorn"
 banner_url: ""
 ---
 
-{{< center >}}# Furry Community and Convention Growth{{< /center >}}
+# Furry Community and Convention Growth
 
 While the landscape of furry fandom has evolved significantly over recent years, one thing is for certain: our community has experienced unprecedented growth lately. Take the numbers from recently-held Furry Weekend Atlanta, for example: In just their last three conventions, attendance numbers have more than doubled, from 7,212 in 2022 to a staggering 15,021 this year. Anthrocon has seen it too, recording a more than 40% increase in attendance from 2022 (9,702) to 2023 (13,644). According to official records, there have now been seven conventions with more than 5,000 registered furries – a mark that 10 years ago was only eclipsed by Anthrocon, and soon after by Midwest FurFest.
 

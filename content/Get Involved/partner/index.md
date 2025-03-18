@@ -9,7 +9,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
-{{< center >}}# Partner with Anthrocon{{< /center >}}
+# Partner with Anthrocon
 
 {{< center >}}We're proud to work with a wide variety of institutions and businesses in and around Pittsburgh, and the furry fandom. If you have something that you think would benefit our community, we'd be happy to hear from your business or organization.{{< /center >}}
 
@@ -17,7 +17,7 @@ banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 
 ***
 
-{{< center >}}## Partnership Opportunities{{< /center >}}
+## Partnership Opportunities
 
 {{< columns >}}
 {{< img src="2024+Nightdragon+AC+2024+ND-164.jpg" hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
@@ -32,7 +32,7 @@ Our convention covers a wide variety of activities over the course of four days,
 - …and more!
 {{< /columns >}}
 
-{{< center >}}## How to Apply as a Partner{{< /center >}}
+## How to Apply as a Partner
 
 If you have a proposal that you think would benefit our community, we’d be happy to hear from you. Please note the following details before you apply.
 
@@ -44,7 +44,7 @@ If you have a proposal that you think would benefit our community, we’d be hap
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "What kinds of partnerships does Anthrocon usually consider?" >}}
 We normally receive requests in the form of discounts for our attendees when visiting restaurants or establishments, show-your-badge programs that offer discounts or unique experiences, and appearances at our major spaces such as the Block Party (occurring on the Saturday of our convention weekend).

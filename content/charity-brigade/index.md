@@ -9,7 +9,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
-{{< center >}}# 2024 Charity Bucket Brigade{{< /center >}}
+# 2024 Charity Bucket Brigade
 
 {{< center >}}[Back to Charity main page](/charity){{< /center >}}
 
@@ -23,7 +23,7 @@ Do you like interacting with others and are willing to donate a couple hours of 
 We encourage fursuiters to participate in the bucket brigade, but if you’ve also got a costume or cosplay that would be interesting or cute, we’d still encourage you to apply.
 {{< /columns >}}
 
-{{< center >}}# Sign-ups for the Bucket Brigade{{< /center >}}
+# Sign-ups for the Bucket Brigade
 
 {{< center >}}If you’re interested in volunteering, fill out the form below. The potential hours we’re looking for would be Friday between 12-5pm, Saturday 10am-5pm, Sunday 10am-3pm.{{< /center >}}
 

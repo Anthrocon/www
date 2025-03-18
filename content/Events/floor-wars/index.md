@@ -9,7 +9,7 @@ banner_author: "LionelLeupold"
 banner_url: "https://www.furtrack.com/index/photographer:lionelleupold"
 ---
 
-{{< center >}}# Floor Wars{{< /center >}}
+# Floor Wars
 
 {{< center >}}In partnership with Last-Fur-One Dance Crew, we’re bringing together the furry fandom’s most talented dancers in the ultimate battle event: **Floor Wars**!{{< /center >}}
 
@@ -27,7 +27,7 @@ banner_url: "https://www.furtrack.com/index/photographer:lionelleupold"
 
 ***
 
-{{< center >}}## Competition Format{{< /center >}}
+## Competition Format
 
 {{< center >}}### Floor Wars 2025: Furry Crew Battles{{< /center >}}
 
@@ -65,7 +65,7 @@ A brief example of some things that our judges look for in both the Preliminarie
 
 ***
 
-{{< center >}}## Competition Rules{{< /center >}}
+## Competition Rules
 
 **The competition has been designated as a PG-13 event,** due to the nature of Floor Wars and its audience. Please keep in mind that content may be rated as such, from music selection to theming. Malicious, inappropriate, or disrespectful content or behavior past the accepted PG-13 rating is **not allowed** under any circumstances.
 
@@ -85,7 +85,7 @@ A brief example of some things that our judges look for in both the Preliminarie
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 **Am I allowed to participate if I’m a minor? Are there any age restrictions to the competition?**
 

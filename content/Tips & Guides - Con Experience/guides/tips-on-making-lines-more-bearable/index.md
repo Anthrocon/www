@@ -10,7 +10,7 @@ banner_author: "Aisling Wolf"
 banner_url: ""
 ---
 
-{{< center >}}# Tips on making lines more bearable{{< /center >}}
+# Tips on making lines more bearable
 
 As part of the convention experience, particularly at larger ones like Anthrocon, you’ll likely standing in a long queue line at some point during the weekend – it’s inevitable when an event has that many people standing together each with the same goal (to register, enter the ballroom for a main event, etc.) and a finite number of hard-working volunteer staff.
 

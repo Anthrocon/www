@@ -11,7 +11,7 @@ banner_author: "KotaWinter"
 banner_url: "https://flickr.com/photos/131696694@N04/19562525078/in/album-72157655959057531/"
 ---
 
-{{< center >}}# Quick TL;DR{{< /center >}}
+# Quick TL;DR
 
 Written in non-legalese plain English:
 
@@ -34,7 +34,7 @@ Lastly, Staff are unpaid volunteers who are trying their best to put on an event
 But most importantly, be safe and have fun.<br>
 :3
 
-{{< center >}}# Standards of Conduct{{< /center >}}
+# Standards of Conduct
 
 This is the Standards of Conduct for Anthrocon, Inc. and all events sponsored by Anthrocon, Inc.; these entities are referred to as ‘Anthrocon’ henceforth.
 

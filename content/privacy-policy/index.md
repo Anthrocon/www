@@ -9,7 +9,7 @@ banner_author: ""
 banner_url: ""
 ---
 
-{{< center >}}# Privacy Policy{{< /center >}}
+# Privacy Policy
 
 Anthrocon, Inc. ("us", "we", or "our") operates the http://www.anthrocon.org/ website (the "Service").
 

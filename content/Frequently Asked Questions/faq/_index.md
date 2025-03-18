@@ -15,7 +15,7 @@ banner_author: "Nightdragon"
 banner_url: "https://nightdragon0.smugmug.com/2022/Anthrocon-2022/"
 ---
 
-{{< center >}}# General questions{{< /center >}}
+# General questions
 
 ### Does Anthrocon provide wi-fi for its attendees?
 

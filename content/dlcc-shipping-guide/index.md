@@ -9,7 +9,7 @@ banner_author: "Nightdragon"
 banner_url: "https://nightdragon0.smugmug.com/2022/Anthrocon-2022/i-N2nBXpM/A"
 ---
 
-{{< center >}}# Shipping to the Dealers Room{{< /center >}}
+# Shipping to the Dealers Room
 
 {{< center >}}[Back to the Dealers page](/dealers){{< /center >}}
 

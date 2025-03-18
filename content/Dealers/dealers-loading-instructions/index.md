@@ -11,7 +11,7 @@ banner_author: "Nightdragon"
 banner_url: "https://nightdragon0.smugmug.com"
 ---
 
-{{< center >}}# Driving and Loading Instructions for Dealers{{< /center >}}
+# Driving and Loading Instructions for Dealers
 
 {{< center >}}[Back to the Dealers page](/dealers){{< /center >}}
 

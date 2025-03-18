@@ -9,7 +9,7 @@ banner_author: "Kavaeric"
 banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-{{< center >}}# Accessibility at Anthrocon{{< /center >}}
+# Accessibility at Anthrocon
 
 {{< center >}}Our convention strives to provide options and services to help improve your experience and create an inclusive space for all.{{< /center >}}
 
@@ -17,7 +17,7 @@ banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 
 ***
 
-{{< center >}}## Wheelchairs & Mobility Scooters{{< /center >}}
+## Wheelchairs & Mobility Scooters
 
 {{< columns >}}
 A limited number of wheelchairs are available for loan by the Convention Center on a first-come, first-served basis. They are available at the East Lobby security desk, West Lobby security desk, and the Spirit of Pittsburgh Ballroom, *Presented by Dollar Bank,* security desk. Wheelchairs are not permitted to leave the property.
@@ -38,7 +38,7 @@ For wheelchair/mobility device attendees that want to utilize our shuttle servic
 
 ***
 
-{{< center >}}## Accessibility at the DLCC and hotels{{< /center >}}
+## Accessibility at the DLCC and hotels
 
 The David L. Lawrence Convention Center, the Westin Convention Center, and all of Anthrocon's partner hotels are fully accessible and compliant with the Americans with Disabilities Act.
 
@@ -47,7 +47,7 @@ The David L. Lawrence Convention Center, the Westin Convention Center, and all o
 
 ***
 
-{{< center >}}## Service Animals{{< /center >}}
+## Service Animals
 
 Service animals are welcome in the David L. Lawrence Convention Center provided that they are in compliance with regulations established by the U.S. Dept. of Justice, [as defined in the ADA (Service Animals)](https://www.ada.gov/service_animals_2010.htm). All service animals must remain on a leash or in a harness, and be under control of the guest with a disability or a designee.
 
@@ -55,7 +55,7 @@ Service animals are welcome in the David L. Lawrence Convention Center provided 
 
 ***
 
-{{< center >}}## Sign Language Interpreters{{< /center >}}
+## Sign Language Interpreters
 
 {{< columns >}}
 Most main stage events and select smaller events are accompanied by professional sign language interpreters using American Sign Language (ASL). If you have questions regarding interpreting services or would like to request an accommodation, please let us know by emailing <accessibility@anthrocon.org>.
@@ -67,6 +67,6 @@ Most main stage events and select smaller events are accompanied by professional
 
 ***
 
-{{< center >}}## Additional Accessibility Requests{{< /center >}}
+## Additional Accessibility Requests
 
 If you have a request that you would like us to consider, please let us know by emailing <accessibility@anthrocon.org>. While in some cases we may be able to provide additional accommodation and will give every request very careful consideration, we cannot guarantee that individual requests can be accommodated.

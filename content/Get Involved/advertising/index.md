@@ -9,7 +9,7 @@ banner_author: "ArcticSkyWolf"
 banner_url: "https://flic.kr/p/VztgZR"
 ---
 
-{{< center >}}# **Advertising at Anthrocon**{{< /center >}}
+# **Advertising at Anthrocon**
 
 Thank you for your interest in advertising with Anthrocon for our 2024 convention! The convention takes place at the David L. Lawrence Convention Center in Pittsburgh, PA from July 4-7, 2024. The convention caters to furries and furry fans from around the world.
 

@@ -10,13 +10,13 @@ banner_author: "HawkPool"
 banner_url: ""
 ---
 
-{{< center >}}# Convention Tips & Guides{{< /center >}}
+# Convention Tips & Guides
 
 {{< center >}}Looking for information on how to plan your convention? Going to Anthrocon for the first time? Our staff writers have some helpful topics and guides to help make your experience the best possible one.{{< /center >}}
 
 {{< center >}}[Planning](#planning-your-convention) - [Budgeting](#budgeting) - [Con Experience](#convention-experience) - [Fursuiting](#fursuiting){{< /center >}}
 
-{{< center >}}## Planning your convention{{< /center >}}
+## Planning your convention
 
 {{< columns "42%" >}}
 {{< img src="1V6A1440.jpg" alt="Two fursuiters on Penn Avenue walking across the street." hint="photo" link="/guides/how-to-plan-your-first-furry-convention" >}}
@@ -56,7 +56,7 @@ Whether you’re crossing a border or crossing an ocean, keep yourself prepared 
 
 ***
 
-{{< center >}}## Budgeting{{< /center >}}
+## Budgeting
 
 {{< columns "42%" >}}
 {{< img src="2022+Aisling_sDSC_6751.jpg" alt="Anthrocon attendees lining up at a food vendor cashier inside the convention center." hint="picture" link="/guides/budgeting-for-a-furry-con" >}}
@@ -84,7 +84,7 @@ Learn about potential deals and services that could make your Anthrocon a little
 
 ***
 
-{{< center >}}## Convention Experience{{< /center >}}
+## Convention Experience
 
 {{< columns "42%" >}}
 {{< img src="2023+Randorn+_Z9N0117-Enhanced-NR.jpg" alt="Furries walking up the waterfront path underneath the DLCC at night." hint="picture" link="/guides/furry-community-convention-growth" >}}
@@ -148,7 +148,7 @@ If your kid (or your parent) is bringing you to your first Anthrocon, there are 
 
 ***
 
-{{< center >}}## Fursuiting{{< /center >}}
+## Fursuiting
 
 {{< columns "42%" >}}
 {{< img src="DSC06986-ACW.jpg" alt="A fursuiter standing beside a contemporary piece of artwork featuring a Heinz ketchup bottle." hint="picture" link="/guides/dos-and-donts-of-interacting-with-fursuiters" >}}
@@ -188,7 +188,7 @@ Learn some tips on how to prepare for the summer weather in the Steel City, whic
 
 ***
 
-{{< center >}}## Frequently Asked Questions{{< /center >}}
+## Frequently Asked Questions
 
 {{< details "Where can I find information regarding topics like transportation around the city, or dining options?" >}}
 We’ve got our [At The Convention page](/at-the-convention) which has many resources related to shuttles, dining, and much more.
