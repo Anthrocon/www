@@ -14,7 +14,9 @@ Things have finally started to warm up in the new year, both above the waters of
 
 ## Registration
 
-Online registration continues to remain open for the 2025 convention until June 15, 2025. You’ll need a registration in order to book an Anthrocon 2025 hotel block room through our registration system, using a unique link generated once paid (subject to availability). Please note that our higher level memberships are sold out at this time, but cancellations may occur from time to time. For more information about registration accommodations and other related questions, check out the FAQ on our [Registration page]({{< relref "/Registration/registration" >}}).
+Online registration continues to remain open for the 2025 convention until June 15, 2025. As we’ve announced in October, we are continuing to monitor our registration numbers to ensure we can safely host our event for all attendees, staff, and business partners. We will provide updates on when registration is getting close to our maximum capacity through our social media and website updates, but we encourage anyone planning to attend to register in advance to ensure you’ve got a membership for the weekend.
+
+You’ll need a registration in order to book an Anthrocon 2025 hotel block room through our registration system, using a unique link generated once paid (subject to availability). Please note that our higher level memberships are sold out at this time, but cancellations may occur from time to time. For more information about registration accommodations and other related questions, check out the FAQ on our [Registration page]({{< relref "/Registration/registration" >}}).
 
 ## Art Show
 
