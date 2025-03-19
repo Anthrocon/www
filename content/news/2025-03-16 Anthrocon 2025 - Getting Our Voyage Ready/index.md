@@ -20,7 +20,7 @@ You’ll need a registration in order to book an Anthrocon 2025 hotel block room
 
 ## Art Show
 
-The Anthrocon Art Show is now accepting applications! For artists that are interested in submitting artwork, make sure you read over the rules carefully and find the link at the bottom of the information documentation to sign up. Artists that sign up by March 31 are guaranteed a space in the Art Show! Details can be found on our [Art Show page]({{< relref "/Dealers & Artists/artshow" >}}), and the rules and sign-up link can be found on the [Art Show Info Packet page]({{< relref "/Dealers & Artists/Art Show Info Packet" >}}).
+The Anthrocon Art Show is now accepting space reservations! For artists that are interested in submitting artwork, make sure you read over the rules carefully and find the link at the bottom of the information documentation to sign up. Artists that sign up by March 31 are guaranteed a space in the Art Show! Details can be found on our [Art Show page]({{< relref "/Dealers & Artists/artshow" >}}), and the rules and sign-up link can be found on the [Art Show Info Packet page]({{< relref "/Dealers & Artists/Art Show Info Packet" >}}).
 
 ## Artists Alley
 
