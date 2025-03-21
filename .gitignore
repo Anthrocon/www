@@ -1,16 +1,11 @@
-# Generated files by hugo
-/public/
+/public/**
 /resources/
-/assets/jsconfig.json
-/hugo_stats.json
 
-# Executable may be added to repository
+/.hugo_build.lock
+hugo_stats.json
+/assets/jsconfig.json
+
 /hugo.exe
 /hugo
-
-# Temporary lock file while building
-/.hugo_build.lock
-
-# Exclude VSCode Workspaces
 
 /*.code-workspace
