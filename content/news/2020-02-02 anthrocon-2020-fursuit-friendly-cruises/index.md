@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2020 Fursuit-Friendly Cruises"
-author: "Nicona Shadowwolf"
-date: "2020-02-02T17:36:09-0500"
-draft: false
 aliases:
-  - "/news/2020/2/2/anthrocon-2020-fursuit-friendly-cruises"
+    - "/news/2020/2/2/anthrocon-2020-fursuit-friendly-cruises"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2020-02-02T17:36:09-0500"
+params:
+    author: "Nicona Shadowwolf"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 In conjunction with the Gateway Clipper Fleet, Anthrocon is once again offering two Fursuit-Friendly Cruises.

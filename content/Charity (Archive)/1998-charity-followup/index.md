@@ -1,12 +1,11 @@
 ---
 title: "1998 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "1998 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "1998 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 The following is the sales record for the AAC98 Charity Auction. It is as close to the order of sale as I remember it. I'm including notes about fun stuff that happened at the Charity Auction.
@@ -18,8 +17,7 @@ McKinley "Daniel" (Lance Rund) - $80<br>
 Dragon puppet (Marc Lacouciere) - $47<br>
 Inherit The Earth PC CD-ROM game (David Piccola) - $55<br>
 Untitled artwork (Cecil) - $30<br>
-Kagemushi's Story Hour Card (Dr Samuel Conway) - $60 + $60 matching<br>
-Feral! Registration (Dan Markey) - $60<br>
+Kagemushi's Story Hour Card (Dr Samuel Conway) - $60 + $60 matching Feral! Registration (Dan Markey) - $60<br>
 CF9 artjam (Paul Salivar) - $99<br>
 MS Sidewinder Force-Feedback Pro joystick & game bundle (Paul Seid) - $100<br>
 Electronic "Rumble & Roar" Power Blast Godzilla (Dr. Samuel Conway) - $20<br>

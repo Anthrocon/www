@@ -1,14 +1,14 @@
 ---
 title: "Hotel Opening: Anthrocon 2019 Report"
-author: "Guest User"
-date: "2019-02-02T17:19:52-0500"
-draft: false
 aliases:
-  - "/news/2019/2/2/hotel-opening-anthrocon-2019-report"
+    - "/news/2019/2/2/hotel-opening-anthrocon-2019-report"
 
-banner: "pittsburgh-at-night-small.jpg"
-banner_author: ""
-banner_url: ""
+date: "2019-02-02T17:19:52-0500"
+params:
+    author: "Guest User"
+    banner: "pittsburgh-at-night-small.jpg"
+    banner_author: ""
+    banner_url: ""
 ---
 
 Yesterday, we [opened general hotel reservations](/hotel), and that resulted in a huge rush of members booking hotel rooms. **1,000 rooms were booked in the first 15 minutes!** This was completely expected, and we kept track of how things played out on social media, and also took a survey of members who booked hotel rooms to see how things went. In this post, we’re going to share what we learned based on those survey results and Twitter activity.

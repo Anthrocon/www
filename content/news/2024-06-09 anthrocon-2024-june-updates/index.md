@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2024: June Updates"
-author: "Ronnie Noodles"
 date: "2024-06-09T21:54:52-0400"
-draft: false
-
-banner: "2023+Kavaeric+_DSC7117.jpg"
-banner_author: "Kavaeric"
-banner_url: ""
+params:
+    author: "Ronnie Noodles"
+    banner: "2023+Kavaeric+_DSC7117.jpg"
+    banner_author: "Kavaeric"
+    banner_url: ""
 ---
 
 Time’s flown by us so quickly since the last time we had an update post here (we didn’t forget about you, we promise). With Anthrocon on the horizon, let’s recap the important things you’ll need ready for the summer’s biggest furry event.

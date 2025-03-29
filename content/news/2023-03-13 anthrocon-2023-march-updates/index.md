@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: March Updates"
-author: "Ronnie Noodles"
 date: "2023-03-13T21:46:17-0400"
-draft: false
-
-banner: "52195661370_fae13cee47_k.jpg"
-banner_author: "Alysterwolf"
-banner_url: "https://www.flickr.com/photos/129237139@N06/"
+params:
+    author: "Ronnie Noodles"
+    banner: "52195661370_fae13cee47_k.jpg"
+    banner_author: "Alysterwolf"
+    banner_url: "https://www.flickr.com/photos/129237139@N06/"
 ---
 
 Now that we’re three months out from Anthrocon, we’re getting close to the home stretch of our different departmental openings!

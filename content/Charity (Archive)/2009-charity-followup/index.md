@@ -1,12 +1,11 @@
 ---
 title: "2009 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2009 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2009 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Hi, and welcome to the 2009 edition of the Anthrocon Charity Auction Followup!

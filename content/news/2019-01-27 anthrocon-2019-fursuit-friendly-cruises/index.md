@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2019 Fursuit-Friendly Cruises"
-author: "Nicona Shadowwolf"
-date: "2019-01-27T19:11:54-0500"
-draft: false
 aliases:
-  - "/news/2019/1/27/anthrocon-2019-fursuit-friendly-cruises"
+    - "/news/2019/1/27/anthrocon-2019-fursuit-friendly-cruises"
 
-banner: "Gateway-Clipper-Maniac-Magazine.jpg"
-banner_author: ""
-banner_url: ""
+date: "2019-01-27T19:11:54-0500"
+params:
+    author: "Nicona Shadowwolf"
+    banner: "Gateway-Clipper-Maniac-Magazine.jpg"
+    banner_author: ""
+    banner_url: ""
 ---
 
 ## Anthrocon 2019 Fursuit-Friendly Cruises

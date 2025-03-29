@@ -1,12 +1,11 @@
 ---
 title: "Accessibility at Anthrocon"
-weight: 0
-
-banner: "_DSC0112.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+params:
+    banner: "_DSC0112.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
 # Accessibility at Anthrocon
@@ -38,7 +37,7 @@ For wheelchair/mobility device attendees that want to utilize our shuttle servic
 
 ***
 
-## Accessibility at the DLCC and hotels
+## Accessibility at the DLCC and Hotels
 
 The David L. Lawrence Convention Center, the Westin Convention Center, and all of Anthrocon's partner hotels are fully accessible and compliant with the Americans with Disabilities Act.
 

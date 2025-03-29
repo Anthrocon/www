@@ -1,14 +1,14 @@
 ---
 title: "What To Expect When Hotels Open"
-author: "Guest User"
-date: "2019-01-23T19:19:14-0500"
-draft: false
 aliases:
-  - "/news/2019/1/14/what-to-expect-when-hotels-open"
+    - "/news/2019/1/14/what-to-expect-when-hotels-open"
 
-banner: "wesa-dot-fm-westin.jpg"
-banner_author: "WESA FM"
-banner_url: "http://wesa.fm/post/pittsburgh-welcome-first-ever-public-furry-parade-saturday#stream/0"
+date: "2019-01-23T19:19:14-0500"
+params:
+    author: "Guest User"
+    banner: "wesa-dot-fm-westin.jpg"
+    banner_author: "WESA FM"
+    banner_url: "http://wesa.fm/post/pittsburgh-welcome-first-ever-public-furry-parade-saturday#stream/0"
 ---
 
 **NOTE: Hotel opening will be delayed 1 hour, to 12 Noon EST. Treacherous weather in Pittsburgh is making it difficult for Visit Pittsburgh Housing Services employees to get to work, and we are not about to put them at risk trying to hurry into the office. We apologize if this inconveniences anyone, but we need to have to the Visit Pittsburgh staff on hand to help keep things running smoothly for everyone.**
@@ -32,7 +32,7 @@ After about an hour or two, once things have calmed down, we will then update [o
 
 ## TIPS FOR BOOKING A ROOM
 
-- From PassKey: "_We recommend that you only have one browser window open. Using multiple browsers/multiple windows at the same time may cause problems._"
+- From PassKey: "*We recommend that you only have one browser window open. Using multiple browsers/multiple windows at the same time may cause problems.*"
 - If you don’t see your first choice for a hotel, you can try shortening your stay, it may only be sold out the first night. You can try adding another night later.
 - From VisitPittsburgh Housing Services: "If you know the legal names of your roommates when you make your booking, of course you can enter them, and if you have your roommates’ email addresses, enter them in the email field and your roommates will receive a copy of the reservation acknowledgment. If you do not know the true names of your roommates at the time of booking, please **do not add fake names or generic names** such as Guest #2, Guest #3. Instead, leave those names blank and then reach out to Visit Pittsburgh as described in the next step...
 - If you need assistance after your reservation is made or need to add/change guests, please email **housing(at)visitpittsburgh.com** for assistance. Replies may be delayed for a day or two after reservations open due to volume.

@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: Holiday season updates"
-author: "Kijani Lion"
 date: "2022-12-12T21:18:08-0500"
-draft: false
-
-banner: "_MG_2673.jpg"
-banner_author: "HawkPool"
-banner_url: ""
+params:
+    author: "Kijani Lion"
+    banner: "_MG_2673.jpg"
+    banner_author: "HawkPool"
+    banner_url: ""
 ---
 
 Hello Anthrocon attendees! With the holiday season in full swing and the new year quickly approaching, now’s a great time to talk about some updates and important details for our 2023 convention!

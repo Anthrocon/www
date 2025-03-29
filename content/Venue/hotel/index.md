@@ -1,14 +1,14 @@
 ---
 title: "Hotels for Anthrocon"
-weight: 0
 aliases:
     - "/hotels"
 
-banner: "2024 Kavaeric DSC03928.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
+params:
+    banner: "2024 Kavaeric DSC03928.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
 # Hotels for Anthrocon
@@ -19,11 +19,11 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 **Online pre-registration will temporarily pause between February 23rd to 26th, 2025, to improve the general hotel booking experience, and reopen on February 27th.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
 {{< /center >}}
 
-{{< center >}}[Booking process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Booking Process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel Options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
 
 ***
 
-## Booking process
+## Booking Process
 
 {{< columns >}}
 Email notifications and links for the Anthrocon hotel reservation block will be sent to pre-registered members through both the Registration portal and direct email as follows (all opening times will be approximately 12 PM Eastern Time):
@@ -49,24 +49,24 @@ Email notifications and links for the Anthrocon hotel reservation block will be 
 
 ***
 
-## Tips for finding rooms
+## Tips for Finding Rooms
 
 Are you looking for a room or roomshare offer for Anthrocon? We’ve got some important tips to remember as the process of finding a room can be tricky.
 
 {{< columns >}}
-### False or Misleading offers (Scams)
+### False or Misleading Offers (Scams)
 
 Please be aware of any suspicious room or roomshare offers, also known as a “scam”, you may receive online. Always exercise caution when interacting with anyone asking you for payment to “guarantee” a spot in a room, especially if you don’t know who they are.
 
 <--->
 
-### Official sources for rooms
+### Official Sources for Rooms
 
 The only place that you can get an “Anthrocon room” that is within our block is through our booking partner, Orchid Events. Anyone that may approach you indicating they can “sell” you a room at Anthrocon’s rate or lower is more than likely a scam.
 
 <--->
 
-### Being pressured into an offer
+### Being Pressured into an Offer
 
 An important thing to look out for is anyone that attempts to persuade you, by any means, to accept an offer — that’s normally a sign that the offer isn’t as good as it seems. **Anthrocon staff and hotel employees will never try to coerce, bribe, or intimidate you with accepting an offer**.
 {{< /columns >}}
@@ -75,7 +75,7 @@ If you have any suspicion about a room or roommate offer you receive, contact ou
 
 ***
 
-## Hotel options
+## Hotel Options
 
 These rates are exclusive to rooms booked in Anthrocon’s room block (subject to availability), which can only be accessed through a special link emailed to registered attendees. All nightly rates listed below are subject to applicable state and local taxes (approximately 14%), and there will be an additional hold of $50 to $100 per night at check-in as an incidentals or damages hold which will be released back to the cardholder after checkout. Anthrocon provides shuttle service to all listed hotels outside the immediate area of the convention center.
 

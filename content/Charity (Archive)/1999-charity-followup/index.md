@@ -1,12 +1,11 @@
 ---
 title: "1999 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "1999 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "1999 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 First off, I want to thank all the donors for participating and helping us out with the Charity Auction at Anthrocon 1999. It was supremely successful and went off without a hitch. We broke a number of records, too! We're getting better every year and I hope you'll be interested in helping us in the years to come as well. This list will be used a few times more before Anthrocon 2000 to see who on it would like to donate to the Charity Auction at that time, then it will be disbanded in exchange for the AC 2000 Mailing list. Thank you all again!

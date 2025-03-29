@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: Fur-bruary Updates"
-author: "Kijani Lion"
 date: "2023-02-11T14:20:59-0500"
-draft: false
-
-banner: "ANA_1494.jpg"
-banner_author: "Hokuloa Luau"
-banner_url: ""
+params:
+    author: "Kijani Lion"
+    banner: "ANA_1494.jpg"
+    banner_author: "Hokuloa Luau"
+    banner_url: ""
 ---
 
 Can you believe it Anthrocon attendees? We are now less than five months away from the convention! With general room bookings having been opened and online registration resuming at the beginning of February, here are some reminders and updates about Anthrocon 2023!

@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2024: January Updates"
-author: "Ronnie Noodles"
-date: "2024-01-18T00:27:18-0500"
-draft: false
 aliases:
     - "/news/2024/1/16/anthrocon-2024-january-updates"
 
-banner: "2023+Kavaeric+_DSC8816.jpg"
-banner_author: "Kavaeric"
-banner_url: ""
+date: "2024-01-18T00:27:18-0500"
+params:
+    author: "Ronnie Noodles"
+    banner: "2023+Kavaeric+_DSC8816.jpg"
+    banner_author: "Kavaeric"
+    banner_url: ""
 ---
 
 We hope you’ve all had a great start to 2024 so far! As we continue to brace the cold winter weather and look forward to warmer times, we want to ensure you have all the important information related to the available hotels, booking process, and more - it’ll be a fast-paced start to this new year!

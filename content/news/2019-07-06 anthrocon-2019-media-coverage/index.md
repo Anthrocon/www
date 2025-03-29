@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2019 Media Coverage"
-author: "Guest User"
-date: "2019-07-06T18:15:59-0400"
-draft: false
 aliases:
-  - "/news/2019/7/6/anthrocon-2019-media-coverage"
+    - "/news/2019/7/6/anthrocon-2019-media-coverage"
 
-banner: "banner-2k.png"
-banner_author: ""
-banner_url: ""
+date: "2019-07-06T18:15:59-0400"
+params:
+    author: "Guest User"
+    banner: "banner-2k.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="pittsburgh-furry-paper-2019.jpg" alt="The Pittsburgh City Paper also became “The Pittsburgh Furry Paper” for the week. (Read it online here)" caption="The Pittsburgh City Paper also became “[The Pittsburgh Furry Paper](https://twitter.com/PGHCityPaper/status/1146399466037157890)” for the week. ([Read it online here](https://issuu.com/pghcitypaper/docs/issue_27_digital))" >}}

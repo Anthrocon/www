@@ -1,16 +1,15 @@
 ---
-title: "Fursuiting opportunities and activites in Pittsburgh"
-author: "Kijani Lion"
-weight: 0
-
-banner: "2022+Randorn+_D5N0388.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Randorn"
-banner_url: ""
+title: "Fursuiting Opportunities and Activites in Pittsburgh"
+params:
+    author: "Kijani Lion"
+    banner: "2022+Randorn+_D5N0388.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Randorn"
+    banner_url: ""
 ---
 
-# Fursuiting opportunities and activities around Anthrocon and Pittsburgh
+# Fursuiting Opportunities and Activities around Anthrocon and Pittsburgh
 
 Your plane ticket is booked, your hotel is reserved, and your brand new fursuit is safely packed for its journey to Anthrocon. If it’s your first time, or first time in a while, figuring out how to best maximize your fursuiting time can be daunting. The con space, even just in the DLCC, encompasses a very large area, and the Downtown area itself has many prime locations too. If you were wondering about some of the best places to fursuit for interactions, scenic spots for photographs, or just plain fun things to do cavorting as a giant Anthro animal, this guide is for you!
 
@@ -20,17 +19,17 @@ I was fortunate to interview two friends of mine who are experienced Anthrocon f
 
 ***
 
-## Fursuiting around Anthrocon
+## Fursuiting Around Anthrocon
 
-### DEALER’S ROOM
+### Dealers Room
 
 CooperTom says his personal favorite place to fursuit is the Dealer’s Room. “I like strolling the aisles, making a mental note of things I'd like buy when I return later not dressed as a cat,” he said. “You get to meet all the amazing artists and it’s also a great place to meet up with people. I think one of the best spots to fursuit is in the large open space near the entrance, plenty of room to perform and there is always a steady flow of people coming in. I have taken so many pictures in that one spot!”
 
-### DLCC ROOFTOP
+### DLCC Rooftop
 
 This is one of my personal favorite locations in all of the convention space, as it provides an amazing view of the Allegheny River and the three bridges that span it across from the DLCC: Rachel Carson, Andy Warhol and Roberto Clemente. The rooftop also offers stunning sunset views during that time of day. It is easily accessed on Floor 4 by the glass elevators located in the DLCC. You can also access the rooftop by taking the escalator up from the area near the main ballroom and exiting out the doors, or by taking the lengthy ramp near the walkway crossing between Halls A and B.
 
-### FURSUIT PARADE/ANTHROCON BLOCK PARTY
+### Fursuit Parade/Anthrocon Block Party
 
 While many other conventions have done away with their Fursuit Parade, Anthrocon’s is here to stay, and for good reason. If you’ve ever wondered what it would be like to walk the furry fandom equivalent of the “red carpet” with thousands of people cheering, taking photos and video of you, that’s the experience of the Anthrocon Fursuit Parade. What makes it unique is that since it goes outdoors, outside of convention space, local Pittsburghers come down in droves to witness this spectacle!
 
@@ -40,7 +39,7 @@ Beginning last year, Anthrocon began a tradition of hosting a [Block Party](/par
 
 For the Block Party, Penn Avenue is completely blocked off between Ninth and Eleventh Streets. There are temporary headless zones for fursuiters to cool off, and there are refreshments and food trucks available. If the weather is good, the party will run into the early evening, so stay out as long as you like and enjoy!
 
-### WATERFRONT
+### Waterfront
 
 If there’s an outdoor “party” space at the con, it would be the waterfront area along the Allegheny River underneath the DLCC. The easiest way to access it is to take the path down underneath the convention center, located in the median on Tenth Street near the parking garage. The path is illuminated by a water feature.
 
@@ -51,7 +50,7 @@ Besides the fun, energetic atmosphere at night, the waterfront is a great spot f
 
 Other areas that are good for interactions include the Westin Lobby (lots of foot traffic, but can get very crowded around check-in time and at night), or any area that has a long queue line of people standing around and waiting, such as entry into the Spirit of Pittsburgh Ballroom for a main stage event, or the Dealer’s Room just before it opens for the day. It’s fun to interact with people in the line who look otherwise bored, and you’ll often get quite a few requests for photos and hugs!
 
-### Interacting in fursuit
+### Interacting in Fursuit
 
 CooperTom also offered some more general advice for performing in fursuit in con space, which may feel more cramped than usual this year with the anticipated number of attendees.
 

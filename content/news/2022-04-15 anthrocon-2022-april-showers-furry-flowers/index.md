@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2022: April Showers, Fuzzy Flowers!"
-author: "Ronnie Noodles"
-date: "2022-04-15T10:50:46-0400"
-draft: false
 aliases:
-  - "/news/2022/3/23/anthrocon-2022-april-showers-furry-flowers"
+    - "/news/2022/3/23/anthrocon-2022-april-showers-furry-flowers"
 
-banner: "43809051871_9a14be0a97_k_HokuloaLuau_dark.jpg"
-banner_author: "HokuloaLuau"
-banner_url: ""
+date: "2022-04-15T10:50:46-0400"
+params:
+    author: "Ronnie Noodles"
+    banner: "43809051871_9a14be0a97_k_HokuloaLuau_dark.jpg"
+    banner_author: "HokuloaLuau"
+    banner_url: ""
 ---
 
 While our attempt to make the title rhyme might not have been amazing, our efforts to get things ready for Anthrocon 2022 have certainly been nothing short of it! There’s **lots** to read about as we approach the 2-month mark to our convention.

@@ -1,14 +1,14 @@
 ---
 title: "Charity Auction/Raffle Donations Needed For 2019 Fundraising!"
-author: "Guest User"
-date: "2019-02-15T19:47:53-0500"
-draft: false
 aliases:
-  - "/news/2019/2/15/charity-auctionraffle-donations-needed-for-2019-fundraising"
+    - "/news/2019/2/15/charity-auctionraffle-donations-needed-for-2019-fundraising"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2019-02-15T19:47:53-0500"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="pearl-parrot-rescue.png" alt="pearl-parrot-rescue.png" hint="drawing" >}}

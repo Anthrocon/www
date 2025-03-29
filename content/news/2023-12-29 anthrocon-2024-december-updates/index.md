@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2024: December Updates"
-author: "Ronnie Noodles"
 date: "2023-12-29T16:15:01-0500"
-draft: false
-
-banner: "archer-14.jpg"
-banner_author: "Blue Hasia"
-banner_url: ""
+params:
+    author: "Ronnie Noodles"
+    banner: "archer-14.jpg"
+    banner_author: "Blue Hasia"
+    banner_url: ""
 ---
 
 ‘Tis the season to be gathering with friends, family, and loved ones as the year winds down. We hope that you’ve had a great holiday season, and as we all look forward to a new year, we’ll be starting things on a high note in 2024.

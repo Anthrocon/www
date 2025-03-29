@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2024: General Hotel Booking Revised Date"
-author: "Ronnie Noodles"
-date: "2024-02-06T08:19:03-0500"
-draft: false
 aliases:
     - "/news/2024/2/5/anthrocon-2024-general-hotel-booking-revised-date"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2024-02-06T08:19:03-0500"
+params:
+    author: "Ronnie Noodles"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 We have some updates regarding Registration, and the revised General Hotel Opening date.

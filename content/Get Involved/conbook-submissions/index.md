@@ -1,14 +1,14 @@
 ---
 title: "Conbook Submissions"
-weight: 0
 aliases:
     - "/conbook-submissions-2023"
 
-banner: "35128961672_778701e1e2_k_ArcticSkyWolf.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "ArcticSkyWolf"
-banner_url: "https://flic.kr/p/VztgZR"
+params:
+    banner: "35128961672_778701e1e2_k_ArcticSkyWolf.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "ArcticSkyWolf"
+    banner_url: "https://flic.kr/p/VztgZR"
 ---
 
 # Conbook Submissions & Advertising
@@ -17,7 +17,7 @@ Looking for a place to express your creativity in printed format, or advertise y
 
 We’re looking for submissions of artwork, fiction, photography, and articles for publication in the 2025 conbook, and featured at our annual convention from July 3-6, 2025. Anthrocon asks for non-exclusive print rights for submitted works. The artist or author may publish the submitted work in any other fashion; previously, at the same time, and after.
 
-### **Information about Advertising opportunities for 2025 is being updated. Please check back later for details.**
+**Information about Advertising opportunities for 2025 is being updated. Please check back later for details.**
 
 ## General Information
 
@@ -37,4 +37,4 @@ Text submissions may be sent as .TXT, .RTF, Microsoft Word .DOC, or Adobe PDF. T
 
 Your submission is tracked by your release form. Your submission and release form must be received no later than **May 1, 2025**.
 
-[The Release Form is here](https://forms.gle/MUgWJMknFyBqjrVh7)**.** *If your attachment is bigger than the form’s limit, please send a down-sized version via the Form and a full-size version to publications@anthrocon.org.*
+[The Release Form is here](https://forms.gle/MUgWJMknFyBqjrVh7). *If your attachment is bigger than the form’s limit, please send a down-sized version via the Form and a full-size version to publications@anthrocon.org.*

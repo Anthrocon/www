@@ -1,20 +1,19 @@
 ---
-title: "How to plan your first furry convention"
-author: "Kijani Lion"
-weight: 0
-
-banner: "1V6A1440.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Tenn"
-banner_url: ""
+title: "How to Plan Your First Furry Convention"
+params:
+    author: "Kijani Lion"
+    banner: "1V6A1440.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Tenn"
+    banner_url: ""
 ---
 
-# How to plan your first furry convention
+# How to Plan Your First Furry Convention
 
 No matter how long you’ve been in the fandom, or how many cons you’ve been to, we were all new to furry (and furry cons) at one point! I remember vividly how overwhelmed I felt prior to my first one – all the fun and fascinating panels, events and activities on the schedule and how I was going to fit it all in one weekend while also being able to explore the Dealers Room, Art Show, fursuit, and hang out with my friends. Oh yeah, and finding time to eat. Food is important, too!
 
-### **THE 6-2-1 RULE**
+## The 6-2-1 Rule
 
 As this post is geared towards those new to attending conventions, now would be a good time to introduce the **“6-2-1” Rule**.
 
@@ -22,7 +21,7 @@ As this post is geared towards those new to attending conventions, now would be 
 - The 2 stands for a minimum of **2 quality, nutritious meals a day**. Food is your fuel to get you through the day, and while a bag of chips and pop may provide a temporary boost, that won’t get you through your day.
 - The 1, and perhaps most important for others’ enjoyment of the con, is a **minimum of 1 shower or bath per day**. Minimum is key here, especially if you are a fursuiter, as spending all day in a sweltering bag of faux fur will usually warrant an additional shower (for cooling as well as cleanliness).
 
-### **GETTING THERE**
+## Getting There
 
 If you’re flying, the sweet spot for finding the cheapest airline tickets is usually around now, approximately three months prior to the trip. Air travel has reached pre-pandemic levels and flights across the board are more expensive for summer travel, so be prepared to shell out a little more than you expected. Price-check often, and on multiple sites, as some may offer deals that others don’t, and on most sites you can set alerts for price drops to help you save a little extra.
 
@@ -30,7 +29,7 @@ Once you’ve gotten your flights figured out, how do you get from Pittsburgh In
 
 If you don’t wish to deal with carrying lots of luggage on public transportation, another option from the airport is to do a group rideshare (Uber or Lyft). This is easiest when traveling with friends, but at most peak times prior to the con, the airport is filled with furries looking to get downtown – I’ve seen attendees just ask around at baggage claim and find others more than willing to split the cost.
 
-### **SCHEDULING**
+## Scheduling
 
 Before we talk about how to schedule your con weekend, I need to stress that there are two general ways to go about planning for a fur con – there are those who don’t even look at the schedule (or take no more than a cursory glance), instead just exploring the con space, fursuiting for hours on end and doing everything on a whim with little to no advanced planning. If this is your style (particularly if you don’t want to attend panels), that’s great! Cons are what **YOU** make them to be, and the most important thing for your enjoyment is you do what makes you happy. For your first con, however, I highly recommend my preferred style, which is to come in with a more-or-less set schedule of what you want to attend or accomplish every day of the con, and keep said schedule within easy glance on your mobile device for easy reference.
 
@@ -38,7 +37,7 @@ Anthrocon’s schedule is published at least a month before the convention on a 
 
 After the con schedule is released, I go through and note which panels and events I MUST attend. For me, those would be events like the Fursuit Dance Competition and Fursuit Parade/Photo, as well as any panels you may be hosting. Once you have those events, I make a secondary list of events that look interesting and want to attend, but would be okay skipping if there’s a time conflict – and that is bound to happen with as much programming as Anthrocon has. Using those two lists, build out a daily schedule (noting the times and room locations as well) and also include times for food (I like to plan out where I’m going for my meals too), visits to the Dealer’s Room or Art show, and fursuiting since those don’t have specific 60-90 minute time blocks like panels do.
 
-### **Additional tips for Con Scheduling**
+## Additional Tips for Con Scheduling
 
 - At large cons like Anthrocon, there will be nearly 10,000 people looking to eat lunch or dinner at roughly the same time! While there are tons of restaurants and food options near the Convention Center, for most table-service restaurants you will want to make a reservation if possible. Facing a 30 to 45-minute wait for a table when you’ve only budgeted an hour for dinner will put a crimp in your schedule!
 - Sometimes, scheduling conflicts occur and events get switched around at the last minute. Just prior to the con, recheck everything to make sure times haven’t changed. Anthrocon will also make announcements on their social media and digital announcement channels (such as Discord and Telegram annoucnements) when scheduling changes happen.

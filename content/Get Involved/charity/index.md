@@ -1,14 +1,14 @@
 ---
 title: "Charity"
-weight: 0
 aliases:
     - "/charity/summaries"
 
-banner: "2023+Kavaeric+_DSC7804.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
+params:
+    banner: "2023+Kavaeric+_DSC7804.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
 # Charity

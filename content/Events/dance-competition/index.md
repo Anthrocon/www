@@ -1,12 +1,11 @@
 ---
 title: "Fursuit Dance Competition"
-weight: 0
-
-banner: "2024-Kaze-0161.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kaze Shiba"
-banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
+params:
+    banner: "2024-Kaze-0161.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kaze Shiba"
+    banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
 ---
 
 # Fursuit Dance Competition

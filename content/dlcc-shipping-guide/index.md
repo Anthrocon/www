@@ -1,12 +1,11 @@
 ---
 title: "Dealers Shipping Guide"
-weight: 0
-
-banner: "AC+2022-194.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Nightdragon"
-banner_url: "https://nightdragon0.smugmug.com/2022/Anthrocon-2022/i-N2nBXpM/A"
+params:
+    banner: "AC+2022-194.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Nightdragon"
+    banner_url: "https://nightdragon0.smugmug.com/2022/Anthrocon-2022/i-N2nBXpM/A"
 ---
 
 # Shipping to the Dealers Room

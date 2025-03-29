@@ -1,13 +1,13 @@
 ---
 title: "Anthrocon 2025 - Announcement from the Chairman"
-author: "Ronnie"
-draft: false
 keywords:
     - "Convention Information"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+params:
+    author: "Ronnie"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 It’s no secret that the furry fandom and conventions have exploded in growth over the span of just a few years. We’ve been taking into account feedback we’ve received, our own observations, and our responsibility to provide a safe, accessible, and manageable convention experience for all. In the interest of transparency and allowing attendees to make preparations, we’d like to share some of our plans — starting with Registration capacity, Thursday Pre-registration pickup, shuttle accessibility, and the size/standards of our fursuit parade.

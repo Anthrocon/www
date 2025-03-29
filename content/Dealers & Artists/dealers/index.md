@@ -1,14 +1,14 @@
 ---
 title: "Dealers Room"
-weight: 0
 aliases:
     - "/dealer"
 
-banner: "2023+BlueHasia+Day+2-166.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Blue Hasia"
-banner_url: ""
+params:
+    banner: "2023+BlueHasia+Day+2-166.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Blue Hasia"
+    banner_url: ""
 ---
 
 # Dealers Room
@@ -18,7 +18,7 @@ banner_url: ""
 {{< center >}}[Important information](#important-information-for-applying) - [Table Pricing for 2025](#table-pricing-for-2025) - [Dealers Assistants](#dealers-assistants){{< /center >}}
 
 {{< columns >}}
-### Anthrocon 2025 Dealers Room List and Map
+## Anthrocon 2025 Dealers Room List and Map
 
 The 2025 Dealers List and Map is currently not available. Please check back at a later date.
 
@@ -27,7 +27,7 @@ The 2025 Dealers List and Map is currently not available. Please check back at a
 {{< img src="2023+Nightdragon+AC+218.jpg" alt="A vendor and a costumed customer performing a transaction in Anthrocon's Dealers Room." hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
 {{< /columns >}}
 
-### **Dealers applications for Anthrocon 2025**
+## **Dealers applications for Anthrocon 2025**
 
 Applications to vend at Anthrocon 2025 will be open from **October 21st at 12 PM Eastern Daylight Time** to **November 21st, 2024**. Reviews and acceptance or rejections will be finalized **by January 27th, 2025**. If you are a Dealer’s Assistant, you must wait until your Dealer is approved before applying separately for a Dealer Assistant badge.
 

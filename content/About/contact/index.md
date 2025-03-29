@@ -1,25 +1,24 @@
 ---
 title: "Contact Us"
-weight: 0
-
-banner: "DSC07689-AW.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Caro"
-banner_url: ""
+params:
+    banner: "DSC07689-AW.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Caro"
+    banner_url: ""
 ---
 
 # Contact Us
 
 If you know which department you’d like to contact, find them in the list below. If you’re not sure who to ask, send us an email to [info@anthrocon.org](mailto:info@anthrocon.org) and we’ll direct it the right way.
 
-### Departments
+## Departments
 
-Artists Alley **-** [alley@anthrocon.org](mailto:alley@anthrocon.org)
+Artists Alley - [alley@anthrocon.org](mailto:alley@anthrocon.org)
 
-Art Show **-** [artshow@anthrocon.org](mailto:artshow@anthrocon.org)
+Art Show - [artshow@anthrocon.org](mailto:artshow@anthrocon.org)
 
-Conbook, Print & Advertising **-** [publications@anthrocon.org](mailto:publications@anthrocon.org)
+Conbook, Print & Advertising - [publications@anthrocon.org](mailto:publications@anthrocon.org)
 
 Charity - [charity@anthrocon.org](mailto:charity@anthrocon.org)
 

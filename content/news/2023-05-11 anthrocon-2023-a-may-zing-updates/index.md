@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: A-May-zing Updates"
-author: "Ronnie Noodles"
 date: "2023-05-11T15:12:52-0400"
-draft: false
-
-banner: "52198196717_11ddb70535_k.jpg"
-banner_author: "HokuloaLuau"
-banner_url: ""
+params:
+    author: "Ronnie Noodles"
+    banner: "52198196717_11ddb70535_k.jpg"
+    banner_author: "HokuloaLuau"
+    banner_url: ""
 ---
 
 We’re now less than two months out from the biggest furry celebration of the summer in Pittsburgh! There’s plenty to pay attention to as we reach the home stretch towards the convention. For more information, read on below or listen to the audio version below!

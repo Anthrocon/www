@@ -1,12 +1,11 @@
 ---
 title: "History"
-weight: 0
-
-banner: "ANA_1098.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Hokuloa Luau"
-banner_url: ""
+params:
+    banner: "ANA_1098.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Hokuloa Luau"
+    banner_url: ""
 ---
 
 # Our History

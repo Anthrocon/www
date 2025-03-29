@@ -1,12 +1,11 @@
 ---
 title: "2007 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2007 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2007 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Hi, and welcome to the 2007 edition of the Anthrocon Charity Auction Followup!
@@ -35,9 +34,7 @@ Sylver Wolfe - Costume tail - $35<br>
 Killjoy - Set of Simpsoms plush - $40<br>
 Chillymouse - Happy Feet shoes (small) - $5<br>
 Chillymouse - Simba cub plush - $20<br>
-Pirate Row [Heather Bruton, Diana Harlan-Stein, Michele Light, Marci McAdam,<br>
-Dark Natasha, Sara "Caribou" Palmer, Terrie Smith] - Original art,<br>
-drawn with left hands - $320<br>
+Pirate Row [Heather Bruton, Diana Harlan-Stein, Michele Light, Marci McAdam, Dark Natasha, Sara "Caribou" Palmer, Terrie Smith] - Original art, drawn with left hands - $320<br>
 Sym & Thesius - Two large polarbear plush - $37<br>
 Ataricat - One pound of beef jerky - $25<br>
 Panja! - Four Transfur t-shirts - $60<br>
@@ -88,8 +85,7 @@ Danruk - 1000-piece jigsaw puzzle - $10<br>
 Killjoy - 16 big cat prints and big cat plush - $60<br>
 Fenris Lorsrai - Black panther and wolf plush - $55<br>
 Fenris Lorsrai - One chinese brush painting set, unicorn plaque - $10<br>
-Grrrowly - Three framed artworks "Spiral", "Ursula",<br>
-"Natasha & Friend" - $20<br>
+Grrrowly - Three framed artworks "Spiral", "Ursula", "Natasha & Friend" - $20<br>
 Soba - Garfield statue - $15<br>
 Finnish Fox - Original artwork - $25<br>
 Lupinsmile - Pizza - $30<br>

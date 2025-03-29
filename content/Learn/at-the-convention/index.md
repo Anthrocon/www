@@ -1,16 +1,16 @@
 ---
 title: "Convention Guides"
 linkTitle: "At the convention"
-weight: 0
 aliases:
     - "/news/2018/6/30/need-help-last-stop-before-anthrocon"
     - "/2018/6/26/anthrocon-2018-shuttle-schedules-and-routes"
 
-banner: "2022+Luau+ANA_0004.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "HokuloaLuau"
-banner_url: ""
+params:
+    banner: "2022+Luau+ANA_0004.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "HokuloaLuau"
+    banner_url: ""
 ---
 
 # At-Convention Resources

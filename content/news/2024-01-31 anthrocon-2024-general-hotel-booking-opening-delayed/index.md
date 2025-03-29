@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2024: General Hotel Booking Opening Delayed"
-author: "Ronnie Noodles"
-date: "2024-01-31T17:17:12-0500"
-draft: false
 aliases:
     - "/news/2024/1/31/anthrocon-2024-general-hotel-booking-opening-delayed"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2024-01-31T17:17:12-0500"
+params:
+    author: "Ronnie Noodles"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 ## announcement: General Hotel Opening Delay

@@ -1,12 +1,11 @@
 ---
 title: "COVID-19 Information"
-author: "Guest User"
 date: "2020-03-09T07:21:42-0400"
-draft: false
-
-banner: ""
-banner_author: ""
-banner_url: ""
+params:
+    author: "Guest User"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Dear Anthrocon Community,

@@ -1,15 +1,14 @@
 ---
 title: "Advertising Guidelines"
-weight: 0
-
-banner: "35128961672_778701e1e2_k_ArcticSkyWolf.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "ArcticSkyWolf"
-banner_url: "https://flic.kr/p/VztgZR"
+params:
+    banner: "35128961672_778701e1e2_k_ArcticSkyWolf.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "ArcticSkyWolf"
+    banner_url: "https://flic.kr/p/VztgZR"
 ---
 
-# **Advertising at Anthrocon**
+# Advertising at Anthrocon
 
 Thank you for your interest in advertising with Anthrocon for our 2024 convention! The convention takes place at the David L. Lawrence Convention Center in Pittsburgh, PA from July 4-7, 2024. The convention caters to furries and furry fans from around the world.
 
@@ -19,7 +18,7 @@ If you are a convention interested in an ad swap, please email us at [publicatio
 
 ***
 
-## **Advertising Options**
+## Advertising Options
 
 We offer several different advertising options for the convention. The prices are listed below, in USD.
 
@@ -29,7 +28,7 @@ We offer several different advertising options for the convention. The prices ar
 
 ***
 
-## **Electronic Submissions**
+## Electronic Submissions
 
 **All advertisements must be submitted electronically.** Acceptable file formats are Adobe PDF, Adobe Photoshop, TIF, or high-quality JPG. All scans must be 300 dpi or greater resolution.
 
@@ -45,7 +44,7 @@ If your ad is too big for the file submission form, please submit a scaled down 
 
 *NOTE: Digital Ads will be shown on displays throughout the convention center, for the entire weekend.*
 
-## **Submission and Payment Information**
+## Submission and Payment Information
 
 **Your advertisement and payment must be received no later than** **May 1, 2024!**
 

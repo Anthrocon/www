@@ -1,13 +1,13 @@
 ---
 title: "Anthrocon 2025 - Kicking off our adventure soon!"
-author: "Ronnie"
-draft: false
 keywords:
     - "Convention Information"
 
-banner: "2024 Kaze-8167.jpg"
-banner_author: "Kaze"
-banner_url: ""
+params:
+    author: "Ronnie"
+    banner: "2024 Kaze-8167.jpg"
+    banner_author: "Kaze"
+    banner_url: ""
 ---
 
 We’re excited to have you embark with us on our s-UwU-bmarine for Anthrocon 2025: Deep Sea Adventures! As our team continues to update the website in preparation of opening, here are some of the important updates to know as we start off this new convention cycle.

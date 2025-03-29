@@ -1,16 +1,14 @@
 ---
 title: "2002 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2002 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2002 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
-Hi, all! First off, I must confess that I lost my notes from the Charity Auction. I would have been completely bereft of any sort of Charity Auction summary if it hadn't been for the timely assistance of Joe Seibert (note his generous cash donation around the 2/3rds mark) who responded to my plea on a.f.f. and produced a full VHS video of the Charity Auction and mailed it to me out of the goodness of his heart. From it, I was able to piece together the majority of<br>
-the auction except for a few donors' names that weren't said or I couldn't understand, and about 8 minutes (6 sales) worth of Auction. My sincere thanks to Joe for saving my bacon.
+Hi, all! First off, I must confess that I lost my notes from the Charity Auction. I would have been completely bereft of any sort of Charity Auction summary if it hadn't been for the timely assistance of Joe Seibert (note his generous cash donation around the 2/3rds mark) who responded to my plea on a.f.f. and produced a full VHS video of the Charity Auction and mailed it to me out of the goodness of his heart. From it, I was able to piece together the majority of the auction except for a few donors' names that weren't said or I couldn't understand, and about 8 minutes (6 sales) worth of Auction. My sincere thanks to Joe for saving my bacon.
 
 Also, thanks to Pantera (Mike Pierce) for taking the notes as the Charity Auction went along. He had the wisdom and foresight to record the sale prices on a separate sheet of paper, which I *did* retain, that gave me, at the very least, a breakdown of the prices to prove that we did, in fact, raise a hell of a lot of money.
 
@@ -18,8 +16,7 @@ Please feel free to reply to this email if you have information on any of the qu
 
 I'd also like to thank Anthrocon's esteemed chairman, Dr. Samuel Conway, also known as Kagemushi, for his assistance in auctioneering. He is an accomplished speaker, generous donor, and helpful friend without whom I would have to do the auction by myself and we probably wouldn't raise as much money.
 
-Important thanks go to our Charity, of course - Canine Partners For Life. Not only were they gracious and polite guests, but they provided many of our attendees with information at their Dealer's Table in the Dealer's Room throughout the convention and even presented demonstrations throughout the day which, from what I saw, were quite well-attended. In their own words from their representative, David Monzo: "I just wanted to send a huge thank you to you and the whole Anthrocon Organization! I hope you were as pleased with the weekend as we were. Although this was our first, it<br>
-seems like the conference went really well as an over all event! I have spoke with all of the staff/volunteers from Canine Partners who attended and they all had a great time (especially the dogs)."
+Important thanks go to our Charity, of course - Canine Partners For Life. Not only were they gracious and polite guests, but they provided many of our attendees with information at their Dealer's Table in the Dealer's Room throughout the convention and even presented demonstrations throughout the day which, from what I saw, were quite well-attended. In their own words from their representative, David Monzo: "I just wanted to send a huge thank you to you and the whole Anthrocon Organization! I hope you were as pleased with the weekend as we were. Although this was our first, it seems like the conference went really well as an over all event! I have spoke with all of the staff/volunteers from Canine Partners who attended and they all had a great time (especially the dogs)."
 
 Last and certainly not least, I wish to thank the following members of my staff who worked diligently as table guards, movers, and runners throughout Friday, Saturday, and the Auction itself: Tango, Xydexx, AlaskanWolf, Galen, Pantera, P.Pardus, Windsinger, Tet Solfire, Creature, and Trixi. I would also like to thank Triggur and his tech staff for their wonderful photo broadcasting equipment that allowed us to see every item on the big screen on stage. That saves us a LOT of effort.
 
@@ -38,8 +35,7 @@ Uncle Kage puppet (Plushdragon - $120)<br>
 Handcrafted ears (Creedence - $20)<br>
 "Moonlit Run" acrylic arrowhead (Amaruq - $200)<br>
 Artwork - "Leska" (Snowman - $100)<br>
-Set of four hot sauces & kitchen apron (Ben Raccoon & Gary Akins &<br>
-Servil/Style Wager - $60)<br>
+Set of four hot sauces & kitchen apron (Ben Raccoon & Gary Akins & Servil/Style Wager - $60)<br>
 Large raccoon plush (Valent - $80)<br>
 Wolf & mouse tie (Brian Miller - $35)<br>
 WB Catwoman statue (Steve Abbott - $35)<br>
@@ -72,8 +68,7 @@ Set of three (3) Japan-exclusive Beanie Babies (Larry Wise - $200)<br>
 Black, felt hat (Tibor Tiger - $160)<br>
 Dark Horse/Sock Monkey lighter set (Rabbit Valley - $35)<br>
 Two (2) hotel nights & brunch for four (4) (Adams Mark Hotel -$400)<br>
-"Rascal" DVD & Two (2) Bucky O'Hare videos & Kimba videos (John<br>
-Friedrich & Falbert & www.kimba.us - $350)<br>
+"Rascal" DVD & Two (2) Bucky O'Hare videos & Kimba videos (John Friedrich & Falbert & www.kimba.us - $350)<br>
 Artwork x2 (Ian "Fennec" Dettmering - ?)<br>
 Supersponsorship to Anthrocon 2003 (Charlie Groark - ?)<br>
 ? (? - $25)<br>
@@ -82,8 +77,7 @@ Supersponsorship to Anthrocon 2003 (Charlie Groark - ?)<br>
 Two easels & leather artist's portfolio (Rassah - $110)<br>
 ? (? - $55)<br>
 ? (? - $100)<br>
-Bugzzz toy & artwork - "Roach Whisperer" & artwork - "Daddy!" (Smrgol<br>
-& Jim Groat & DuGaul McPherson - $55)<br>
+Bugzzz toy & artwork - "Roach Whisperer" & artwork - "Daddy!" (Smrgol & Jim Groat & DuGaul McPherson - $55)<br>
 Squeaky reindeer plush (Mejeep - $25)<br>
 Wall scroll artwork by Vicki Wyman (Charlie Groark - $170)<br>
 Two (2) Blood Beret board games (Excelsior Entertainment - $15)<br>
@@ -96,13 +90,11 @@ Two (2) pair of Dutch shoes (2nd sale) (? - $30)<br>
 Large afghan (? - $50)<br>
 Assorted plush (Blackfire & Cyberhorn & Po Shan Cheah - $150)<br>
 Artwork - "Dogs of War" (Amy Cott - $300)<br>
-Assorted plush (Michael Sherman & Candace Zimbleman & Ka Crow &<br>
-Creedence - $40)<br>
+Assorted plush (Michael Sherman & Candace Zimbleman & Ka Crow & Creedence - $40)<br>
 Artwork - untitled (Oakpaw - $110)<br>
 Frank Banner print - "The Fairy Princess" (Plan Nine Publishing - $40)<br>
 Assorted t-shirts (Blackfire & Robin Andersen - $75)<br>
-"Inherit the Earth" & "Dark Age of Camelot" PC games (Gary Akins &<br>
-John Friedrich - $200)<br>
+"Inherit the Earth" & "Dark Age of Camelot" PC games (Gary Akins & John Friedrich - $200)<br>
 Automobile HC book & atlas (Mejeep & Tibor Tiger - $40)<br>
 Artwork - "Baba Yaga" (Chris Goodwin - $125)<br>
 Donation: In honor of dog "Lady" (Joe Siebert - $1000)<br>
@@ -111,8 +103,7 @@ Handmade brass brooch (Rochndil - $50)<br>
 Supersponsorship at Pawpet Megaplex 2003 (Pawpet Megaplex - $60)<br>
 Bears figurine & "Season of the Spellsong" HC (Killjoy & Gary Akins - $70)<br>
 Midwest Furfest 2002 Sponsorship & artwork (Midwest Furfest - $100)<br>
-Catwoman figurine & Hello Kitty toilet paper (2nd sale) (Steve Abbot<br>
-& Charlie Groark - $100)<br>
+Catwoman figurine & Hello Kitty toilet paper (2nd sale) (Steve Abbot & Charlie Groark - $100)<br>
 Sketchbook - #6 Mar-Jul 2001 (Steve Carter - $70)<br>
 First Furry Church Catechisms vol. 1 & 2 (Gary Akins - $75)<br>
 Tiny Toons soap, shampoo & werewolf model (Gary Akins & Teaselbone - $30)<br>

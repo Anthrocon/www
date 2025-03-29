@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon Maps"
-author: "Guest User"
 date: "2019-06-25T21:12:42-0400"
-draft: false
-
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 Maps from the David L. Lawrence Convention Center and The Westin are now available.

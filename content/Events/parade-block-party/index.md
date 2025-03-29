@@ -1,17 +1,17 @@
 ---
 title: "Anthrocon Parade & Block Party"
 linkTitle: "Parade & Block Party"
-weight: 0
 aliases:
     - "/parade"
     - "/fursuit-parade"
     - "/news/2018/6/26/anthrocon-2018-fursuit-badges-photo-and-guidelines"
 
-banner: "2023+Blue_parade-102.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Blue Hasia"
-banner_url: ""
+params:
+    banner: "2023+Blue_parade-102.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Blue Hasia"
+    banner_url: ""
 ---
 
 # Anthrocon Parade & Block Party

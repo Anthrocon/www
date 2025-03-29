@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2019 Dealers Room : Moving to Curation!"
-author: "Chiaroscuro"
-date: "2018-09-26T19:43:03-0400"
-draft: false
 aliases:
-  - "/news/2018/9/26/anthrocon-2019-dealers-room-moving-to-curation"
+    - "/news/2018/9/26/anthrocon-2019-dealers-room-moving-to-curation"
 
-banner: "dealers-room.jpg"
-banner_author: ""
-banner_url: ""
+date: "2018-09-26T19:43:03-0400"
+params:
+    author: "Chiaroscuro"
+    banner: "dealers-room.jpg"
+    banner_author: ""
+    banner_url: ""
 ---
 
 For 2019, the Anthrocon Dealers Room will be selected by curation. I know folks will have quite a bit of questions about the process! We'll break it down into the core questions: What, Why, How, Who, and When.

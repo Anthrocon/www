@@ -1,12 +1,11 @@
 ---
 title: "Dealers Room (Updates for 2024)"
-weight: 0
-
-banner: "_DSC0077.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+params:
+    banner: "_DSC0077.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
 # Dealers Room Updates for 2024

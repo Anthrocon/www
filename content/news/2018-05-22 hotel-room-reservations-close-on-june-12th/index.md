@@ -1,14 +1,14 @@
 ---
 title: "Hotel Room Reservations Close on June 12th!"
-author: "Guest User"
-date: "2018-05-22T20:26:46-0400"
-draft: false
 aliases:
     - "/news/2018/5/22/hotel-room-reservations-close-on-june-12th"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2018-05-22T20:26:46-0400"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="image-asset.jpg" hint="photo" >}}

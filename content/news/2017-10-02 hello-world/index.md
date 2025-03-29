@@ -1,14 +1,14 @@
 ---
 title: "Hello world!"
-author: "Guest User"
-date: "2017-10-02T22:40:49-0400"
-draft: false
 aliases:
     - "/news/2017/10/2/hello-world"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2017-10-02T22:40:49-0400"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 New year, new con, new website.
@@ -43,6 +43,6 @@ caption:
 
 As you can see... it had some unfortunate layout problems.
 
-By comparison, the new site allows for _reactive layout_ which allows us to work on a Tablet, a phone... or a laptop/desktop... full screen or in a window. Even in a side-bar!
+By comparison, the new site allows for *reactive layout* which allows us to work on a Tablet, a phone... or a laptop/desktop... full screen or in a window. Even in a side-bar!
 
 If you're wondering what happened to the forums, those live on at [http://forums.anthrocon.org/](http://forums.anthrocon.org)

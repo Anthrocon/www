@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2022: 10 Tips Before You Get Here"
-author: "Ronnie Noodles"
-date: "2022-06-14T22:43:39-0400"
-draft: false
 aliases:
-  - "/news/2022/6/14/anthrocon-2022-10-tips-before-you-get-here"
+    - "/news/2022/6/14/anthrocon-2022-10-tips-before-you-get-here"
 
-banner: "35872085086_79f4043e13_k_Randorn.jpg"
-banner_author: "Randorn"
-banner_url: "https://flic.kr/p/WDTP8C"
+date: "2022-06-14T22:43:39-0400"
+params:
+    author: "Ronnie Noodles"
+    banner: "35872085086_79f4043e13_k_Randorn.jpg"
+    banner_author: "Randorn"
+    banner_url: "https://flic.kr/p/WDTP8C"
 ---
 
 It’s been some time since many of us have attended a convention, let alone one as busy as Anthrocon. We’re sharing some tips to help you cover the basics of what to do before the convention so you’re well prepared for a weekend in Pittsburgh.

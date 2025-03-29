@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2022: Spring Into Action!"
-author: "Ronnie Noodles"
-date: "2022-03-23T10:36:49-0400"
-draft: false
 aliases:
-  - "/news/2022/1/23/anthrocon-2022-spring-into-action"
+    - "/news/2022/1/23/anthrocon-2022-spring-into-action"
 
-banner: "49931630743_6dac2552ea_o_Exkhaniber_dark.jpg"
-banner_author: "Exkhaniber"
-banner_url: ""
+date: "2022-03-23T10:36:49-0400"
+params:
+    author: "Ronnie Noodles"
+    banner: "49931630743_6dac2552ea_o_Exkhaniber_dark.jpg"
+    banner_author: "Exkhaniber"
+    banner_url: ""
 ---
 
 Now that we’re less than 100 days out from Anthrocon, we’re ferverently hoping that the Spring season weather can help see out the cold and welcome in some excitement for the upcoming convention! There are plenty more updates for you to learn about - read on and find out what’s happening!

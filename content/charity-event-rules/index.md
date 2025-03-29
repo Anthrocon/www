@@ -1,17 +1,16 @@
 ---
 title: "Charity Event Rules"
-weight: 0
-
-banner: "20195413312_443ec2d100_h.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Douglas Muth"
-banner_url: "https://www.flickr.com/photos/dmuth/20195413312/"
+params:
+    banner: "20195413312_443ec2d100_h.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Douglas Muth"
+    banner_url: "https://www.flickr.com/photos/dmuth/20195413312/"
 ---
 
-{{< center>}}# Charity Event Rules{{< /center >}}
+# Charity Event Rules
 
-### All items
+## All Items
 
 - All items will go on display.
 - Auction items will be auctioned on Sunday. Winners of raffle items will be determined after Dealers Room hours on Saturday, with results posted on Sunday. Due to the quantity of participants, the raffle drawing is not a public event.
@@ -29,16 +28,16 @@ banner_url: "https://www.flickr.com/photos/dmuth/20195413312/"
 - Make sure that any item you donate is described correctly and legibly on the display card at the convention. Any confirmation emails before the convention are only for tallying and approval.
 - Raffle items won may be shipped after the convention at the director's discretion and at the winner's expense. Otherwise, unclaimed raffle items of 20 tickets or less are turned over to the charity, and unclaimed raffle items of greater than 20 tickets are stored and re-raffled the subsequent year.
 
-### Items to be raffled
+## Items to Be Raffled
 
 - The Raffle can accept a maximum of 100 donations through Dealers Room close on Friday of the convention. Donations will no longer be accepted once either limit has been reached.
 
-### Items to be auctioned (higher-value items)
+## Items to Be Auctioned (Higher-Value Items)
 
 - Most items are assigned a starting bid of $10 to encourage bidding, unless other circumstances apply.
 - Donations may be combined with other similar donations if time is limited or the estimated auction price of the item is below minimum auction value.
 
-### Items that *cannot* be accepted for donation
+## Items That *Cannot* Be Accepted for Donation
 
 - Used clothing, used costumes, used plush toys, and threadbare merchandise.
 - Commercially packaged food items that are not factory-sealed.
@@ -47,7 +46,7 @@ banner_url: "https://www.flickr.com/photos/dmuth/20195413312/"
 - Multiple copies of the same item, unless they can be auctioned as a single lot.
 - Used or unremarkable publications (comics, books, magazines, etc) without a collector's value.
 
-### Bidding on items at the auction
+## Bidding on Items at the Auction
 
 - Please, only request to inspect the piece if you are seriously intending to bid on it since this will delay the bidding process.
 - Bidders must raise hands high and call out bids loudly.
@@ -55,7 +54,7 @@ banner_url: "https://www.flickr.com/photos/dmuth/20195413312/"
 - The audience should remain silent if not actively bidding.
 - A bid is a legal contract to buy. If the bidder is not available afterwards to pay for the auctioned item, or does not have the appropriate funds, the item may be re-auctioned and the bidder may suffer penalties relating to the convention.
 
-### General
+## General
 
 - Payment will be made directly to Charity representatives on site by cash, personal check, or credit cards if processing is available at the time.
 - Unless the Charity cannot be present, the money raised will at no time be kept by any Anthrocon staff.

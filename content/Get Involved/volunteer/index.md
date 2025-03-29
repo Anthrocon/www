@@ -1,12 +1,13 @@
 ---
 title: "Volunteer"
-weight: 10
+params:
+    banner: "2022+Randorn+_Z9N3204.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Randorn"
+    banner_url: "https://www.randorn.com"
 
-banner: "2022+Randorn+_Z9N3204.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Randorn"
-banner_url: "https://www.randorn.com"
+weight: 10
 ---
 
 # Volunteering at Anthrocon
@@ -21,7 +22,7 @@ Looking to volunteer for Anthrocon? Log into our registration system (or create 
 
 ***
 
-## Volunteer positions
+## Volunteer Positions
 
 {{< columns >}}
 {{< img src="AC+2022-66.jpg" hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
@@ -45,17 +46,17 @@ For **staff roles**, there may be additional requirements before being accepted 
 
 ***
 
-## Incentives for volunteering
+## Incentives for Volunteering
 
 While we can’t pay our volunteers for their service, we can at least try to make your efforts worthwhile. You will be given a timesheet and a ribbon when you sign up, and as you work, we will ask you to keep track of your hours and return the timesheet to Room 309 of the convention center. The more you help us out, the more rewards you’ll get:
 
-- **Six (6) hours during the convention**: We’ll give you a food or snack voucher.
-- **Twelve (12) hours during the convention**: We will give you a free Anthrocon T-shirt.
-- **Eighteen (18) hours**: We will give you a complimentary membership to Anthrocon next year.
+- **Six (6) hours during the convention:** We’ll give you a food or snack voucher.
+- **Twelve (12) hours during the convention:** We will give you a free Anthrocon T-shirt.
+- **Eighteen (18) hours:** We will give you a complimentary membership to Anthrocon next year.
 
 ***
 
-## Contact the volunteers team
+## Contact the Volunteers Team
 
 If you have questions or ideas for volunteering, we’d love to hear from you!
 

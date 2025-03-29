@@ -1,13 +1,12 @@
 ---
 title: "Convention Guides"
 linkTitle: "Tips and Guides"
-weight: 0
-
-banner: "_MG_3712.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "HawkPool"
-banner_url: ""
+params:
+    banner: "_MG_3712.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "HawkPool"
+    banner_url: ""
 ---
 
 # Convention Tips & Guides

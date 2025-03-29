@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: April Updates"
-author: "Ronnie Noodles"
 date: "2023-04-14T16:59:13-0400"
-draft: false
-
-banner: "121110-1e72fb017e13f489c4f8f2ecf329caea.jpg"
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+params:
+    author: "Ronnie Noodles"
+    banner: "121110-1e72fb017e13f489c4f8f2ecf329caea.jpg"
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
 Springtime is fully underway with the snow melting, temperatures rising, and the days until Anthrocon quickly winding down. With so much to do and less time, here’s what’s happening this month!

@@ -1,14 +1,14 @@
 ---
 title: "Introducing our Guest of Honor: Len Simon!"
-author: "Guest User"
-date: "2018-01-28T11:33:42-0500"
-draft: false
 aliases:
     - "/news/2018/1/28/introducing-our-first-guest-of-honor"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2018-01-28T11:33:42-0500"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="large_ni5PCChQneGIGyfig8OyeOZ4Pfq.jpg" alt="large_ni5PCChQneGIGyfig8OyeOZ4Pfq.jpg" hint="drawing" >}}

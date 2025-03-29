@@ -1,13 +1,13 @@
 ---
 title: "Anthrocon 2025 - Updates for the Holidays"
-author: "Ronnie"
-draft: false
 keywords:
-  - "Convention Information"
+    - "Convention Information"
 
-banner: "2024 Tobee 20240706_185835.jpg"
-banner_author: "Tobee"
-banner_url: ""
+params:
+    author: "Ronnie"
+    banner: "2024 Tobee 20240706_185835.jpg"
+    banner_author: "Tobee"
+    banner_url: ""
 ---
 
 It’s getting chilly in the deep waters of Anthrocon’s voyage of the deep seas as we navigate towards the end of the year. While you’re getting warm and cozy for the holiday season, take a couple minutes to see what’s happening with 2025’s event.

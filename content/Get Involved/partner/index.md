@@ -1,12 +1,11 @@
 ---
 title: "Partner with Us"
-weight: 0
-
-banner: "2024+Kavaeric+DSC03986.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
+params:
+    banner: "2024+Kavaeric+DSC03986.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
 # Partner with Anthrocon

@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2019 Electronic Conbook"
-author: "Guest User"
-date: "2019-06-26T20:58:27-0400"
-draft: false
 aliases:
-  - "/news/2019/6/26/anthrocon-2019-electronic-conbook"
+    - "/news/2019/6/26/anthrocon-2019-electronic-conbook"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2019-06-26T20:58:27-0400"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 For Anthrocon 2019, we are trying something new and have decided to make our conbook available for download!

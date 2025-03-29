@@ -1,12 +1,11 @@
 ---
 title: "2001 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2001 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2001 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Thanks to everyone who participated in the Anthrocon 2001 Charity Auction this year for donating money by purchasing items, donating items, and volunteering to make yet another record-setting total of$7273! My thanks to Kagemushi for co-auctioneering, the hard-working volunteers for running the items and guarding the Charity Auction tables, and to Reins of Life, our Charity this year, for participating.
@@ -27,8 +26,7 @@ Below is a tally of all the items sold, including their donor and sale price. Th
 \- 4' black bear plush (Canis Lupus) - $50<br>
 \- Hand-cut sterling & copper applique pony pin (Flinthoof, Rochndil) - $100<br>
 \- Framed set of Furry Forever pins (Aetobatus) - $500<br>
-\- "Bloom County - Loose Tails", "On With Shoe!", "Hagar the Horrible",<br>
-"The Brass Dragon" paperback books (Anubis) - $15<br>
+\- "Bloom County - Loose Tails", "On With Shoe!", "Hagar the Horrible", "The Brass Dragon" paperback books (Anubis) - $15<br>
 \- "Edge of the Savannah" artwork (Terrie Smith) - $75<br>
 \- "Passion in the Desert" movie poster (Kimba W. Lion) - $75<br>
 \- 102 Dalmations plush set (Killjoy) - $20<br>

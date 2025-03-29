@@ -1,14 +1,14 @@
 ---
 title: "Seasons Greetings and 2021 Announcement"
-author: "Guest User"
-date: "2020-12-21T19:20:26-0500"
-draft: false
 aliases:
-  - "/news/2020/12/21/seasons-greetings-and-2021-announcement"
+    - "/news/2020/12/21/seasons-greetings-and-2021-announcement"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2020-12-21T19:20:26-0500"
+params:
+    author: "Guest User"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Hello friends!

@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: June Updates - It's Nearly Here!"
-author: "Ronnie Noodles"
 date: "2023-06-12T21:55:12-0400"
-draft: false
-
-banner: "DSC01470d.jpg"
-banner_author: "Chatah Spots"
-banner_url: ""
+params:
+    author: "Ronnie Noodles"
+    banner: "DSC01470d.jpg"
+    banner_author: "Chatah Spots"
+    banner_url: ""
 ---
 
 Now that the clock’s winding down, we’re now a couple of weeks away from Anthrocon 2023! It’s time for the final Newsletter before the convention, so let’s get started on Anthrocon’s June Newsletter. Make sure you’ve got all the important last-minute information you need by reading below, or listening to the audio version by Father Harvest and Manick.

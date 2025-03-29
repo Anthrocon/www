@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2019 Shuttle Schedules and Routes"
-author: "Guest User"
 date: "2019-06-25T20:50:00-0400"
-draft: false
-
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 This year, we will be running three separate shuttles, each with its own route. The routes are as follows:

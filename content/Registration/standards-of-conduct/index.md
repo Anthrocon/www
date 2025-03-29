@@ -1,14 +1,14 @@
 ---
 title: "Standards of Conduct"
-weight: 0
 aliases:
     - "/rules-conduct"
 
-banner: "19562525078_9c4333bb72_o_KotaWinter.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "KotaWinter"
-banner_url: "https://flickr.com/photos/131696694@N04/19562525078/in/album-72157655959057531/"
+params:
+    banner: "19562525078_9c4333bb72_o_KotaWinter.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "KotaWinter"
+    banner_url: "https://flickr.com/photos/131696694@N04/19562525078/in/album-72157655959057531/"
 ---
 
 # Quick TL;DR
@@ -34,7 +34,7 @@ Lastly, Staff are unpaid volunteers who are trying their best to put on an event
 But most importantly, be safe and have fun.<br>
 :3
 
-# Standards of Conduct
+## Standards of Conduct
 
 This is the Standards of Conduct for Anthrocon, Inc. and all events sponsored by Anthrocon, Inc.; these entities are referred to as ‘Anthrocon’ henceforth.
 

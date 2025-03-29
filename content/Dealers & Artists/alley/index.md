@@ -1,15 +1,15 @@
 ---
 title: "Artists Alley"
-weight: 0
 aliases:
     - "/artists-alley"
     - "/Alley"
 
-banner: "_DSC0003.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+params:
+    banner: "_DSC0003.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
 # Artists Alley

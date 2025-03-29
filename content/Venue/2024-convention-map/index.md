@@ -1,18 +1,18 @@
 ---
 title: "2024 Convention Map"
 linkTitle: "2024 Venue Map"
-draft: true
-weight: 0
 aliases:
     - "/news/anthrocon-maps"
     - "/2023-convention-map"
     - "/map"
 
-banner: "DSC_2237.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Exkhaniber"
-banner_url: "https://www.flickr.com/photos/9989346@N04/"
+draft: true
+params:
+    banner: "DSC_2237.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Exkhaniber"
+    banner_url: "https://www.flickr.com/photos/9989346@N04/"
 ---
 
 # Convention Map

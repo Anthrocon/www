@@ -1,14 +1,14 @@
 ---
 title: "Art Show"
-weight: 0
 aliases:
     - "/art-show"
 
-banner: "2022+Randorn+_D5N0478.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "2022+Randorn+_D5N0478.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 # Anthrocon Art Show

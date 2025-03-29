@@ -1,12 +1,11 @@
 ---
-title: "Ways to get here"
-weight: 0
-
-banner: "DSC07493-APCW.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Caro"
-banner_url: ""
+title: "Ways to Get Here"
+params:
+    banner: "DSC07493-APCW.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Caro"
+    banner_url: ""
 ---
 
 # Ways to travel to Anthrocon

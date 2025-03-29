@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon River Cruises"
-weight: 0
-
-banner: "2024+Tobee+20240704_131101.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Tobee"
-banner_url: "https://www.furtrack.com/index/photographer:tobee"
+params:
+    banner: "2024+Tobee+20240704_131101.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Tobee"
+    banner_url: "https://www.furtrack.com/index/photographer:tobee"
 ---
 
 # Anthrocon River Cruises

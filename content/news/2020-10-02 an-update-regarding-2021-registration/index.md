@@ -1,14 +1,14 @@
 ---
 title: "An update regarding 2021 registration"
-author: "Nicona Shadowwolf"
-date: "2020-10-02T19:46:28-0400"
-draft: false
 aliases:
-  - "/news/2020/10/2/an-update-regarding-2021-registration"
+    - "/news/2020/10/2/an-update-regarding-2021-registration"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2020-10-02T19:46:28-0400"
+params:
+    author: "Nicona Shadowwolf"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 We hope that all our furry friends are doing well and staying safe during these trying times.

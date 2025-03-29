@@ -1,12 +1,11 @@
 ---
 title: "Privacy Policy"
-weight: 0
-
-banner: "website-banner.png"
-banner_title: ""
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "website-banner.png"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 # Privacy Policy

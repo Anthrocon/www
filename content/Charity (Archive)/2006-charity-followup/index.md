@@ -1,12 +1,11 @@
 ---
 title: "2006 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2006 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2006 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Hi, and welcome to the 2006 edition of the Anthrocon Charity Auction Followup!
@@ -115,8 +114,7 @@ Mina K. Hall - Artwork: "Breaking History", sketch artwork - $50<br>
 Amaruq - Asian animal calendar - $30<br>
 Honeck Sculpture - Bronze cat sculpture - $35<br>
 Fiawol Dave - Animalympics animation cel - $70<br>
-Eagle Beagle, Marsten, Nikki, Anonymous - Over The Hedge stickers,<br>
-Gabriel Knight book, Exxon tiger tail, Weasel Patrol #1 - $15<br>
+Eagle Beagle, Marsten, Nikki, Anonymous - Over The Hedge stickers, Gabriel Knight book, Exxon tiger tail, Weasel Patrol #1 - $15<br>
 Graysoul - Rainbow luggage strap & chain necklace - $30<br>
 Danruk - Wolf sculpture table - $60<br>
 Scott Shaw! - T-shirt artwork - $50

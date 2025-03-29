@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2022: Getting Ramped Up"
-author: "Ronnie Noodles"
-date: "2022-01-21T10:44:47-0500"
-draft: false
 aliases:
-  - "/news/2022/1/7/anthrocon-2022-getting-ramped-up"
+    - "/news/2022/1/7/anthrocon-2022-getting-ramped-up"
 
-banner: "35535865452_5789c81b50_k_Alysterwolf_dark.png"
-banner_author: "Alysterwolf"
-banner_url: ""
+date: "2022-01-21T10:44:47-0500"
+params:
+    author: "Ronnie Noodles"
+    banner: "35535865452_5789c81b50_k_Alysterwolf_dark.png"
+    banner_author: "Alysterwolf"
+    banner_url: ""
 ---
 
 We’re already three weeks into the new year, and things are steadily ramping up with our convention planning. There’s plenty to look forward to in the next couple weeks’ time - read on and find out more about what’s happening!
@@ -35,6 +35,6 @@ Panels submissions are open for 2022 - even if you submitted a panel in 2020, we
 
 Our [Guests of Honor page](/guests-of-honor) is now available to view, providing an introduction to each of our esteemed guests for Anthrocon 2022. Panels and events for our GoH’s will be released with the Programming schedule once it has been finalized.
 
----
+***
 
 As we work towards the summer, we will continue to provide as many updates as possible on our website and social media. Make sure you follow us on our [Twitter](https://twitter.com/anthrocon) and [Facebook](https://www.facebook.com/Anthrocon) for the latest updates.

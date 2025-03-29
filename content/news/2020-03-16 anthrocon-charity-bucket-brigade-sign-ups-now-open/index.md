@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon Charity Bucket Brigade Sign-Ups Now Open!"
-author: "Guest User"
-date: "2020-03-16T12:52:49-0400"
-draft: false
 aliases:
-  - "/news/2020/3/16/anthrocon-charity-bucket-brigade-sign-ups-now-open"
+    - "/news/2020/3/16/anthrocon-charity-bucket-brigade-sign-ups-now-open"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2020-03-16T12:52:49-0400"
+params:
+    author: "Guest User"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="wildlife-works-logo.jpg" alt="wildlife-works-logo.jpg" hint="drawing" >}}

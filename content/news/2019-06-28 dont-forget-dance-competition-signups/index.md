@@ -1,14 +1,14 @@
 ---
 title: "Don't Forget, Dance Competition Signups End Soon!"
-author: "Guest User"
-date: "2019-06-28T20:16:28-0400"
-draft: false
 aliases:
-  - "/news/2019/6/28/dont-forget-dance-competition-signups"
+    - "/news/2019/6/28/dont-forget-dance-competition-signups"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2019-06-28T20:16:28-0400"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 We have two dance competitions this year that offer signups before the convention!

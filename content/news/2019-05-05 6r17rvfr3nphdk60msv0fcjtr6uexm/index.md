@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2019 May Update!"
-author: "Guest User"
-date: "2019-05-05T15:07:03-0400"
-draft: false
 aliases:
-  - "/news/2019/5/4/6r17rvfr3nphdk60msv0fcjtr6uexm"
+    - "/news/2019/5/4/6r17rvfr3nphdk60msv0fcjtr6uexm"
 
-banner: "furries-on-waterfront-dethbox.jpg"
-banner_author: ""
-banner_url: "https://www.flickr.com/photos/115161518@N06/43373411721/in/album-72157671113590688/"
+date: "2019-05-05T15:07:03-0400"
+params:
+    author: "Guest User"
+    banner: "furries-on-waterfront-dethbox.jpg"
+    banner_author: ""
+    banner_url: "https://www.flickr.com/photos/115161518@N06/43373411721/in/album-72157671113590688/"
 ---
 
 Hey everyone! We’ve been doing a lot of stuff behind the scenes lately, and wanted to share some news!

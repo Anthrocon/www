@@ -1,16 +1,15 @@
 ---
-title: "Tips on making lines more bearable"
-author: "Kijani Lion"
-weight: 0
-
-banner: "2022+Aisling_sDSC_6769.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Aisling Wolf"
-banner_url: ""
+title: "Tips on Making Lines More Bearable"
+params:
+    author: "Kijani Lion"
+    banner: "2022+Aisling_sDSC_6769.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Aisling Wolf"
+    banner_url: ""
 ---
 
-# Tips on making lines more bearable
+# Tips on Making Lines More Bearable
 
 As part of the convention experience, particularly at larger ones like Anthrocon, you’ll likely standing in a long queue line at some point during the weekend – it’s inevitable when an event has that many people standing together each with the same goal (to register, enter the ballroom for a main event, etc.) and a finite number of hard-working volunteer staff.
 

@@ -1,14 +1,14 @@
 ---
 title: "Westin Suites Now Available"
-author: "Guest User"
-date: "2018-01-02T19:00:12-0500"
-draft: false
 aliases:
     - "/news/2018/01/02/westin-suites-now-available"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2018-01-02T19:00:12-0500"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 General hotel reservations open on February 2, 2018, along with corner suites in the Westin. However, at this time reservations for Suites in the Westin Hotel are **now available**!
@@ -33,6 +33,6 @@ To request a suite, [please fill out this form](https://docs.google.com/forms/d/
 
 **Workout Suite** - $435 ($495) per night. Similar to a family suite, but with a king bed and workout equipment for those who like to keep fit. The exercise equipment is stationary and cannot be moved from the room.
 
----
+***
 
 **Corner Suite** - $415 ($473) per night. A bedroom with a king-sized bed, and a separate, small parlor room with a table and a sofa (roughly 640 sq ft). **These will go on sale when the general hotel room block opens on February 2nd, 2018.**

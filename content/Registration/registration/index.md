@@ -1,14 +1,15 @@
 ---
 title: "Anthrocon 2025 Registration"
-weight: 10
+params:
+    banner: "2022+Randorn+_Z9N3518.jpg"
+    banner_title: "Attend Anthrocon 2025"
+    banner_caption: "Join us for our next Anthrocon, happening July 3-6, 2025"
+    banner_button: "Register online"
+    banner_button_link: "https://reg.anthrocon.org/"
+    banner_author: "Randorn Canis"
+    banner_url: "https://www.randorn.com"
 
-banner: "2022+Randorn+_Z9N3518.jpg"
-banner_title: "Attend Anthrocon 2025"
-banner_caption: "Join us for our next Anthrocon, happening July 3-6, 2025"
-banner_button: "Register online"
-banner_button_link: "https://reg.anthrocon.org/"
-banner_author: "Randorn Canis"
-banner_url: "https://www.randorn.com"
+weight: 10
 ---
 
 # Registration for Anthrocon 2025

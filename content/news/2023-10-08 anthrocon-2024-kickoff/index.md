@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2024: Getting Things Kicked Off"
-author: "Ronnie Noodles"
 date: "2023-10-08T09:58:40-0400"
-draft: false
-
-banner: "2023+Randorn+_Z9N9605-Enhanced-NR.jpg"
-banner_author: "Randorn Canis"
-banner_url: "https://randorn.com"
+params:
+    author: "Ronnie Noodles"
+    banner: "2023+Randorn+_Z9N9605-Enhanced-NR.jpg"
+    banner_author: "Randorn Canis"
+    banner_url: "https://randorn.com"
 ---
 
 It’s been a few months since our 2023 convention ended with high spirits and good memories! In case you missed our Closing Ceremonies in July, the convention reached new heights with:

@@ -1,14 +1,14 @@
 ---
 title: "What Is \"Furry\"?"
-weight: 0
 aliases:
     - "/about-furry"
 
-banner: "2023+Nightdragon+AC+180.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Nightdragon"
-banner_url: "https://nightdragon0.smugmug.com"
+params:
+    banner: "2023+Nightdragon+AC+180.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Nightdragon"
+    banner_url: "https://nightdragon0.smugmug.com"
 ---
 
 # What is “Furry”?

@@ -1,14 +1,14 @@
 ---
 title: "Art Show Info Packet"
-weight: 0
 aliases:
     - "/artshow/artist-info"
 
-banner: "2022+Randorn+_Z9N4258.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Randorn Canis"
-banner_url: "https://www.randorn.com"
+params:
+    banner: "2022+Randorn+_Z9N4258.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Randorn Canis"
+    banner_url: "https://www.randorn.com"
 ---
 
 # Art Show Info Packet

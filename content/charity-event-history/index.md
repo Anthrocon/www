@@ -1,12 +1,11 @@
 ---
 title: "Charity Event History"
-weight: 0
-
-banner: "52202605904_37323b3c26_k.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Aisling Wolf"
-banner_url: ""
+params:
+    banner: "52202605904_37323b3c26_k.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Aisling Wolf"
+    banner_url: ""
 ---
 
 # Anthrocon Charity Donation History

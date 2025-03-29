@@ -1,12 +1,11 @@
 ---
 title: "Deals and Offers"
-weight: 0
-
-banner: "EufaulaCoywolf-5.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Blue Hasia"
-banner_url: ""
+params:
+    banner: "EufaulaCoywolf-5.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Blue Hasia"
+    banner_url: ""
 ---
 
 # Deals and Offers for Anthrocon 2024
@@ -45,7 +44,7 @@ No - the Show Your Badge program provided by VisitPittsburgh is a separate and u
 
 ***
 
-## Restaurant offers
+## Restaurant Offers
 
 {{< columns "58%" >}}
 Some establishments offer special Anthrocon menus and/or pricing during the convention’s main days, such as:
@@ -63,7 +62,7 @@ Some establishments offer special Anthrocon menus and/or pricing during the conv
 
 ***
 
-## Attractions and entertainment offers
+## Attractions and Entertainment Offers
 
 {{< columns "58%" >}}
 ### [CARNEGIE SCIENCE CENTER - “The Science Behind Pixar”](https://carnegiesciencecenter.org/exhibits/pixar/)

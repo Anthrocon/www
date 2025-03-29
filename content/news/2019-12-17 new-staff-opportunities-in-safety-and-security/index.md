@@ -1,14 +1,14 @@
 ---
 title: "New Staff Opportunities in Safety and Security"
-author: "Guest User"
-date: "2019-12-17T16:07:25-0500"
-draft: false
 aliases:
-  - "/news/2019/12/17/new-staff-opportunities-in-safety-and-security"
+    - "/news/2019/12/17/new-staff-opportunities-in-safety-and-security"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2019-12-17T16:07:25-0500"
+params:
+    author: "Guest User"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Safety and Security are being brought in house. Currently, there are two subdivisions; Security Officers and Crowd Control.

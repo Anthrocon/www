@@ -1,12 +1,11 @@
 ---
 title: "2014 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2014 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2014 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Hi, and welcome to the 2014 edition of the Anthrocon Charity Events Followup!
@@ -29,8 +28,7 @@ I would like to give thanks to my staff who helped conduct both the charity auct
 
 Unclaimed high-ticket raffle items will be re-raffled next year.
 
-Results will be tentative for a month or two after publication of this summary to account for<br>
-additional incoming donations and human error.
+Results will be tentative for a month or two after publication of this summary to account for additional incoming donations and human error.
 
 Finally, here are all the details.
 

@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2022: It's Gonna Be May!"
-author: "Ronnie Noodles"
-date: "2022-05-15T23:46:52-0400"
-draft: false
 aliases:
-  - "/news/2022/4/19/anthrocon-2022-its-gonna-be-may"
+    - "/news/2022/4/19/anthrocon-2022-its-gonna-be-may"
 
-banner: "48277315811_c791528566_k_Foptography.jpg"
-banner_author: "Foptography"
-banner_url: "https://flickr.com/photos/144438786@N04/48277315811/in/album-72157709625752437/"
+date: "2022-05-15T23:46:52-0400"
+params:
+    author: "Ronnie Noodles"
+    banner: "48277315811_c791528566_k_Foptography.jpg"
+    banner_author: "Foptography"
+    banner_url: "https://flickr.com/photos/144438786@N04/48277315811/in/album-72157709625752437/"
 ---
 
 Well, it’s already May, and we’re guessing that folks aren’t bringing back the early 2000’s boy-band pop. But we are bringing you another edition of our monthly updates leading up the convention, and with less than two months to go, we want you to be prepared and aware!

@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: Updates for Registration, Dealers, Programming!"
-author: "Ronnie Noodles"
 date: "2022-10-18T00:13:41-0400"
-draft: false
-
-banner: "AC+2022-7.jpg"
-banner_author: "Hokuloa Luau"
-banner_url: ""
+params:
+    author: "Ronnie Noodles"
+    banner: "AC+2022-7.jpg"
+    banner_author: "Hokuloa Luau"
+    banner_url: ""
 ---
 
 With the warm weather now behind us for the year (unless you’re down south, share some with us!), our hard-working team is getting started with 2023 convention planning. Find out what’s changing for our 2023 convention as we work on finalizing details for our November launch.

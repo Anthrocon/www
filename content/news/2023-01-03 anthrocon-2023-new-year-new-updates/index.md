@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2023: New Year, New Updates"
-author: "Ronnie Noodles"
 date: "2023-01-03T12:26:04-0500"
-draft: false
-
-banner: "_DSC0376+3K.jpg"
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+params:
+    author: "Ronnie Noodles"
+    banner: "_DSC0376+3K.jpg"
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
 We’d like to wish everyone a Happy New Year from our team! We hope that 2023 will be an improvement over the past few years, but there’s plenty to look forward to in the coming months. Read on and find out what to expect!

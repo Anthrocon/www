@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2018 Wrapup!"
-author: "Guest User"
-date: "2018-07-14T12:56:19-0400"
-draft: false
 aliases:
-  - "/news/2018/7/14/anthrocon-2018-wrapup"
+    - "/news/2018/7/14/anthrocon-2018-wrapup"
 
-banner: "DhrVIJmX0AIwO8c.jpg"
-banner_author: ""
-banner_url: "https://twitter.com/anthrocon/status/1016359004073848834"
+date: "2018-07-14T12:56:19-0400"
+params:
+    author: "Guest User"
+    banner: "DhrVIJmX0AIwO8c.jpg"
+    banner_author: ""
+    banner_url: "https://twitter.com/anthrocon/status/1016359004073848834"
 ---
 
 There's no question about it, Anthrocon 2018 was an amazing success in downtown Pittsburgh this year! [Eight Thousand Four Hundred and Seven](https://twitter.com/anthrocon/status/1016066000918401025) of you made Pittsburgh a little brighter this weekend. [We raised over $42,051](/2018-charity-followup) for our charity, South Hills Pet Rescue. [1,980 of you](https://twitter.com/anthrocon/status/1015673104910217217) participated in the Annual Fursuit Parade and got to showcase Anthrocon to all to Pittsburgh! For one weekend, we made Pittsburgh just a little brighter and friendlier. [Crime dropped.](https://twitter.com/anthrocon/status/1014897179234852864) [We played Asteroids.](https://twitter.com/anthrocon/status/1016156734929494018) [Cops loved us.](https://twitter.com/suzyyogi/status/1015370068006457344)

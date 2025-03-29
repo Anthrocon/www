@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon Attendance Graphs"
-weight: 0
-
-banner: "website-banner.png"
-banner_title: ""
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "website-banner.png"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Here are breakdowns of attendance from the last several Anthrocons.

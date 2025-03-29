@@ -1,18 +1,16 @@
 ---
 title: "2017 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2017 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2017 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Hi, and welcome to the 2017 edition of the Anthrocon Charity Events Followup!
 
-Anthrocon donated a new record convention total of **$37,598** for Hope Haven Farm Sanctuary,<br>
-our supported charity this year. Thanks very much to Hope Haven's founder, Dr. Karen Phillips,<br/>and all her volunteers who came out to participate!
+Anthrocon donated a new record convention total of **$37,598** for Hope Haven Farm Sanctuary, our supported charity this year. Thanks very much to Hope Haven's founder, Dr. Karen Phillips, and all her volunteers who came out to participate!
 
 We also set new records for money raised in the Raffle and the Poker Tournament!
 

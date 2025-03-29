@@ -1,12 +1,11 @@
 ---
 title: "2000 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2000 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2000 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Thank you all for helping make the Anthrocon 2000 Charity Auction a tremendous success! The donations made to help the National Greyhound Adoption Program raised over $6500! For comparison, last year we raised $3800, an all-time record for any furry convention. This year simply blew that old record out of the water thanks to the generosity of our bidders and yourselves.
@@ -74,14 +73,11 @@ Lyonshel Cheetah Mask - Michael Mann - $40<br>
 3-pack of computer games - David McConnell - $20<br>
 "Lemonade", Limpidity original comic strip - Po Shan Cheah - $10<br>
 Set of 3 lap Orcas - Nora Stuart - $30<br>
-Archives #1 catalog & Blood Berets game - Lance Katz courtesy of Target<br>
-Games - $15<br>
+Archives #1 catalog & Blood Berets game - Lance Katz courtesy of Target Games - $15<br>
 EuroDisney alligator beanie toy - Jason Saylor - $5<br>
 "Great Cats" dimensions gold cross-stitch project - Chik'ki - $85<br>
-"Storm Breaking" book, autographed author's proof copy - Larry Dixon &<br>
-Mercedes Lackey - $250<br>
-Two-page comic from "In the Zone", original boards - Style Wagner & Evan<br>
-Hildith - $40<br>
+"Storm Breaking" book, autographed author's proof copy - Larry Dixon & Mercedes Lackey - $250<br>
+Two-page comic from "In the Zone", original boards - Style Wagner & Evan Hildith - $40<br>
 Black t-shirt of Rocky, the Squirrel - Romano Eberwein - $20<br>
 "Hare Jordan" poster - Mike Demcio - $10<br>
 Two dream webs - Vivian Elam - $101<br>
@@ -96,8 +92,7 @@ The Collected Omaha #3-5 (2 HC, 1 SC) - Mike Demcio - $75<br>
 Scorch, the dragon, TY Beanie Baby - Jason Saylor - $25<br>
 "Commander Wegman Suits Up", artwork: print - Steve Gallacci - $40<br>
 Microsoft Age of Empires 2 - Paul Seid - $17<br>
-"Dance the Night Away", artwork: framed laser print by Margaret Carspecken<br>
-\- Rikki-Tiki - $25<br>
+"Dance the Night Away", artwork: framed laser print by Margaret Carspecken - Rikki-Tiki - $25<br>
 Animated craft griffon puppet - Midsummer Knight's Dream - $60<br>
 Pinky & the Brain cookie jar - Richard Brooks - $40<br>
 Dumbo poster - Mike Demcio - $10<br>
@@ -105,20 +100,17 @@ Six jars of Nutella - David McConnell - $60<br>
 "Love Song of Night & Day", artwork: colored pencil - Ian Dettmering - $40<br>
 Meeko plush - Phaedra Meyer - $60<br>
 "Sunny", artwork: prisma color pencils - Lonnie "Dalia" DiNello - $20<br>
-"Pinheads", 5 handmade pins, sculpey, markers, pastel, colored pencil -<br>
-Chris Goodwin - $50<br>
+"Pinheads", 5 handmade pins, sculpey, markers, pastel, colored pencil - Chris Goodwin - $50<br>
 Albedo Prototype comic, 4th printing, autographed - Allen Kitchen - $10<br>
 Commissioned Sonnet - Bill Rogers - $20<br>
 "Raven", artwork: prisma color pencils - Lonnie "Dalia" DiNello - $30<br>
 Assorted Critters comics - James McCoy - $80<br>
 The Chipmunk Adventure LP - Mike Demcio - $15<br>
 Complete set of "Island of Misfit Toys" X-Mas Ornaments - Mark Correia - $45<br>
-"Pinky & the Brain: World Conquest" & "Brutal - Above the Claw" CD-ROM<br>
-games - Mark Correia - $20<br>
+"Pinky & the Brain: World Conquest" & "Brutal - Above the Claw" CD-ROM games - Mark Correia - $20<br>
 Latex shoulder dragon hatchling - William H. Mergenthaler III - $75<br>
 Limited edition Tex Avery "Wolfie" statue - Mailbox Books - $100<br>
-"Be What You Are, You Are Unique, Special, One of a Kind", artwork: matted<br>
-print - Jwyldragon - $55<br>
+"Be What You Are, You Are Unique, Special, One of a Kind", artwork: matted print - Jwyldragon - $55<br>
 Character sheet, artwork: prisma color pencils on graphite - Sheena Was - $25<br>
 Lindt chocolate truffles - Catchclaw - $70<br>
 "Guardian Angel", artwork: ink, colored pencil, marker on paper - Cecil - $40<br>
@@ -135,15 +127,12 @@ Assorted comics pack - Falbert Forester - $20<br>
 Decorated fall wreath - Cathie Fisher - $10<br>
 Two 26" tiger plush - Killjoy - $200<br>
 "Kage", artwork - Vicky Wyman - $75<br>
-"Owlflight", "Owlsight", "Owlknight" hardcover autographed books - Larry<br>
-Dixon & Mercedes Lackey - $550<br>
-Anthrocon 2000 Conbook original cover artwork: marker, pencil - Sara<br>
-"Caribou" Palmer - $125<br>
+"Owlflight", "Owlsight", "Owlknight" hardcover autographed books - Larry Dixon & Mercedes Lackey - $550<br>
+Anthrocon 2000 Conbook original cover artwork: marker, pencil - Sara "Caribou" Palmer - $125<br>
 Miscellaneous cash donations - $25
 
 Total: $6534
 
-Again, thank you very much for all your help. If you have any questions,<br>
-comments, criticisms, please send them to charity@anthrocon.org.
+Again, thank you very much for all your help. If you have any questions, comments, criticisms, please send them to charity@anthrocon.org.
 
 \- Brian

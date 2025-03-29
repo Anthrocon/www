@@ -1,14 +1,14 @@
 ---
 title: "Charity Auction/Raffle Donations Needed For 2018 Fundraising!"
-author: "Guest User"
-date: "2018-03-01T22:45:32-0500"
-draft: false
 aliases:
     - "/news/2018/3/1/charity-auctionraffle-donations-needed-for-2018-fundraising"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2018-03-01T22:45:32-0500"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="south-hills-pet-rescue.jpg" alt="south-hills-pet-rescue.jpg" hint="drawing" link="https://www.southhillspetrescue.org/" >}}

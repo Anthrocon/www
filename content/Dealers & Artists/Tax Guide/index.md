@@ -1,18 +1,17 @@
 ---
-title: "Pennsylvania Tax ID application Guide"
+title: "Pennsylvania Tax ID Application Guide"
 build:
     list: never
 
-weight: 0
-
-banner: ""
-banner_title: ""
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: ""
+    banner_title: ""
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
-# Pennsylvania Tax ID application Guide
+# Pennsylvania Tax ID Application Guide
 
 This guide is written to help navigate the process of obtaining a “Transient Vendor” tax license in Pennsylvania and is not intended as tax or legal advice and should not be interpreted as such. For any questions regarding specifics not found in this document or any issues not covered below, reach out to MyPath directly at <myPATH@pa.gov> or 717-787-1064. If you are an international vendor without a FEIN, you must call MyPath directly at 717-425-2495, ext 72100 to register. Anthrocon Staff is not able to help with PA tax applications outside of the information found below.
 
@@ -26,17 +25,17 @@ This guide is written to help navigate the process of obtaining a “Transient V
 - Enter your date of first operations as needed (when you started your business). Your “Date of first operations in PA” will be the first opening date of Anthrocon. Select Next.
 - NAICS codes should be similar to what you report on Federal taxes. Generally you should have only one or two codes and the total needs to add up to 100%. You can flag one code as your primary business activity. After entering your NAICS codes, there is a text description box. It should be similar to what is covered by the NAICS code and a general description such as “Custom artwork and prints” or “Fursuit costuming”.
 
-  The last boxes will be the percentage of business revenue that will occur in PA. If you are unsure of what percentage of business revenue Anthron will make up, enter zero. Select Next.
+    The last boxes will be the percentage of business revenue that will occur in PA. If you are unsure of what percentage of business revenue Anthron will make up, enter zero. Select Next.
 - You are applying for a “Transient Vendor Certificate” which means you have no physical location in Pennsylvania so your first answer should be Yes. The remaining questions are likely No, but answer accordingly.
 
-  Select “Transient Vendor Certificate” again at the bottom of the form and select Next.
+    Select “Transient Vendor Certificate” again at the bottom of the form and select Next.
 - The location of sales will be Allegheny County, which is where Anthrocon is located. Select Next.
 - This page is to register your plan to attend a show. Select “Add a record”.
-  - Show Name: Anthrocon
-  - Promoter Number: 10002749
-  - Address: 1000 Fort Duquesne Blvd., Pittsburgh, Allegheny County, PA 15222
+    - Show Name: Anthrocon
+    - Promoter Number: 10002749
+    - Address: 1000 Fort Duquesne Blvd., Pittsburgh, Allegheny County, PA 15222
 
-  Verify the address once entered. Select Next.
+    Verify the address once entered. Select Next.
 - Review the information on this page as accurate. Transient Vendor Certificate should be checked here. Select Next.
 - List any owners and operators of your business. This should match your federal taxes. Many dealers are sole proprietors and enter their own information as owner and 100% ownership. Select Next.
 - Generally, the next page should be No unless your business is being created by purchasing a PA business. Select Next.

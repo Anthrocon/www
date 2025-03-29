@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2019 Wrapup"
-author: "Guest User"
-date: "2019-07-11T20:27:06-0400"
-draft: false
 aliases:
-  - "/news/2019/7/10/anthrocon-2019-wrapup"
+    - "/news/2019/7/10/anthrocon-2019-wrapup"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2019-07-11T20:27:06-0400"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="image-asset.jpg" alt="The Pittsburgh City Paper also became “The Pittsburgh Furry Paper” for the week. (Read it online here)" caption="The Pittsburgh City Paper also became “[The Pittsburgh Furry Paper](https://twitter.com/PGHCityPaper/status/1146399466037157890)” for the week. ([Read it online here](https://issuu.com/pghcitypaper/docs/issue_27_digital))" >}}

@@ -1,14 +1,14 @@
 ---
 title: "Dealers Room Info Packet"
-weight: 0
 aliases:
     - "/DRIP"
 
-banner: "2023+BlueHasia+Day+2-166.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Blue Hasia"
-banner_url: ""
+params:
+    banner: "2023+BlueHasia+Day+2-166.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Blue Hasia"
+    banner_url: ""
 ---
 
 # Anthrocon 2025 Dealer Rules & Information Packet

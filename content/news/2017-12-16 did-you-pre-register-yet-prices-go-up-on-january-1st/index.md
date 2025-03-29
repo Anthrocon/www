@@ -1,14 +1,14 @@
 ---
 title: "Did You Pre-Register Yet?"
-author: "Guest User"
-date: "2017-12-16T18:00:00-0500"
-draft: false
 aliases:
     - "/news/2017/12/16/did-you-pre-register-yet-prices-go-up-on-january-1st"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2017-12-16T18:00:00-0500"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 As 2017 comes to a close, why not purchase a membership for Anthrocon?

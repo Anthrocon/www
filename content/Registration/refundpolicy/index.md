@@ -1,12 +1,11 @@
 ---
 title: "Refund Policies"
-weight: 0
-
-banner: "photo_2022-07-11_20-36-05.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Randorn Canis"
-banner_url: "https://www.randorn.com"
+params:
+    banner: "photo_2022-07-11_20-36-05.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Randorn Canis"
+    banner_url: "https://www.randorn.com"
 ---
 
 # Membership Refunds and Deferrals

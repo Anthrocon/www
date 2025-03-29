@@ -1,13 +1,13 @@
 ---
 title: "Anthrocon 2025 - Getting Our Voyage Ready"
-author: "Ronnie"
-draft: false
 keywords:
     - "Convention Information"
 
-banner: "2024 Doktor 20240705_150407.jpg"
-banner_author: "Doktor"
-banner_url: ""
+params:
+    author: "Ronnie"
+    banner: "2024 Doktor 20240705_150407.jpg"
+    banner_author: "Doktor"
+    banner_url: ""
 ---
 
 Things have finally started to warm up in the new year, both above the waters of Pittsburgh and down in the murky depths where our Deep Sea Adventures await! With less than four months out until our voyage, find out what’s been happening with our convention preparation — and how you can prepare too.

@@ -1,22 +1,21 @@
 ---
-title: "Things you'll want to pack for Anthrocon"
-author: "Ronnie Noodles"
-weight: 0
-
-banner: "2022+Kavaeric+_DSC8558+3K.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+title: "Things You'll Want to Pack for Anthrocon"
+params:
+    author: "Ronnie Noodles"
+    banner: "2022+Kavaeric+_DSC8558+3K.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
 ---
 
-# Things you’ll want to pack for Anthrocon
+# Things You’ll Want to Pack for Anthrocon
 
 Packing for a furry convention can be like trying to navigate a complicated shopping list. Did you remember to pick up the water bottles? How many bars of soap do you really need? No matter how many times you think you’ve packed, there’s always a chance you could be missing something. Here’s a few helpful things to consider - consider it our handy packing guide!
 
 {{< center >}}[General packing](#general-packing-for-a-furry-con) - [Fursuiters](#packing-as-a-fursuiter) - [Dealers and Artists](#packing-as-a-dealer-or-artist) - [Other things to pack](#other-things-to-pack){{< /center >}}
 
-### General packing for a furry con
+## General Packing for a Furry Con
 
 - **Clothes**: remember that it’s summertime in Pittsburgh, and you’re more than likely to sweat during the day. Bring enough changes of clothes for each day, especially undergarments, and some spare clothing in case you need a mid-day change from all the excitement.
 - **Toiletries**: your toothbrush and toothpaste, shower products, and other things to help you stay clean and fresh throughout the convention. Make sure you’ve got enough for the whole stay, although your hotel also provides basic toiletries like soap and shampoo if you run out.
@@ -28,7 +27,7 @@ Packing for a furry convention can be like trying to navigate a complicated shop
 - **Stuff for artwork/merchandise**: if you’re planning on hauling some awesome artwork or merchandise back home, you’ll want to bring a bag or suitcase that can hold it. If you’re planning on getting some art commissions, don’t forget your sketchbook(s) either!
 - **Reuseable water bottle**: staying hydrated is important in the summer, and even moreso at a furry convention. A reuseable water bottle will help keep you hydrated and cool, and there are plenty of water stations around the convention to refill with.
 
-### Packing as a fursuiter
+## Packing as a Fursuiter
 
 If you’re bringing a fursuit, regardless whether a full costume or partial, you’ll want to make sure you’ve got everything you need to keep it clean and in good condition for the whole weekend.
 
@@ -37,7 +36,7 @@ If you’re bringing a fursuit, regardless whether a full costume or partial, yo
 - **Cleaning kit**: make sure you’ve got enough cleaning material, whether you use disinfectant spray or isopropyl alcohol, and a brush to help smoothen out that soft fur so you can keep giving great hugs all weekend.
 - **Repair kit**: although we hope it doesn’t happen, accidents can happen and require repairs. A small sowing kit and a glue gun, or super glue can help mend common repairs such as fabric holes and loose claws.
 
-### Packing as a dealer or artist
+## Packing as a Dealer or Artist
 
 As if there weren’t already things to stress about when preparing to sell at a convention, artists and dealers probably don’t want to stress over forgetting something at home! Keep these tips in mind (courtesy of Moth Monarch and Catmonkshiro):
 
@@ -48,7 +47,7 @@ As if there weren’t already things to stress about when preparing to sell at a
 
 If you forget anything while you’re actually at your table, ask your fellow neighbors in the room. They’re likely to help you as long as you ask nicely! You could also research local office or supply stores in the area, just in case.
 
-### Other things to pack
+## Other Things to Pack
 
 - If you’re coming from abroad, don’t forget to pack your travel documents (such as a passport) and any other documentation you need to enter the country. For more details on coming internationally, check out our article on [Travelling Internationally to Anthrocon](/guides/travelling-internationally-to-anthrocon).
 - If you’re running an event or panel, don’t forget to pack things you’ll need to host the panel. Remember that Anthrocon doesn’t provide everything for panelists - find out what Anthrocon’s Events team does and does not provide on the [Events page](/events-panels).

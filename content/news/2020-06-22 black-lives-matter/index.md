@@ -1,14 +1,14 @@
 ---
 title: "Black Lives Matter"
-author: "Guest User"
-date: "2020-06-22T08:26:23-0400"
-draft: false
 aliases:
-  - "/news/2020/6/22/black-lives-matter"
+    - "/news/2020/6/22/black-lives-matter"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2020-06-22T08:26:23-0400"
+params:
+    author: "Guest User"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Friends,

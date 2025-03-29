@@ -1,15 +1,15 @@
 ---
 title: "Shuttle Buses"
-weight: 0
 aliases:
     - "/shuttle"
     - "/shuttles"
 
-banner: "2023+BlueHasia+Day+1-102.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Blue Hasia"
-banner_url: ""
+params:
+    banner: "2023+BlueHasia+Day+1-102.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Blue Hasia"
+    banner_url: ""
 ---
 
 # Shuttle Buses for Anthrocon Hotels

@@ -1,12 +1,11 @@
 ---
 title: "Dealers List and Map (2024)"
-weight: 0
-
-banner: "2023+BlueHasia+Day+2-166.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Blue Hasia"
-banner_url: ""
+params:
+    banner: "2023+BlueHasia+Day+2-166.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Blue Hasia"
+    banner_url: ""
 ---
 
 # 2024 Dealers Room Information & Map

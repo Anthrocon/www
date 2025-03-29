@@ -1,12 +1,11 @@
 ---
 title: "2003 Charity Followup"
-weight: 0
-
-banner: "anthrocon-charity-table.jpg"
-banner_title: "2003 Charity Followup"
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: "anthrocon-charity-table.jpg"
+    banner_title: "2003 Charity Followup"
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 Hi, all! For those who either donated to or purchased items from the Charity Auction, our deepest thanks for making this our second biggest year. Great thanks to our charity, Support Our Shelters (SOS), as well for providing us with a panel on their ferrets and their organization. They're already talking and networking about who they can help, asking the shelters they know and which shelters they have heard are in the most need. Put in terms of how much help they can give to the ferrets who live in shelters, the money you raised can pay for 30-50 major surgeries which can extend the lives and increase the quality of life for 30-50 ferrets!

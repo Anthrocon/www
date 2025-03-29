@@ -1,14 +1,14 @@
 ---
 title: "Anthrocon 2019 DJ Submissions are open!"
-author: "Guest User"
-date: "2019-03-30T13:59:06-0400"
-draft: false
 aliases:
-  - "/news/2019/3/30/anthrocon-2019-dj-submissions-are-open"
+    - "/news/2019/3/30/anthrocon-2019-dj-submissions-are-open"
 
-banner: "anthrocon-dance-dj-oddy.png"
-banner_author: "Protocollie"
-banner_url: ""
+date: "2019-03-30T13:59:06-0400"
+params:
+    author: "Guest User"
+    banner: "anthrocon-dance-dj-oddy.png"
+    banner_author: "Protocollie"
+    banner_url: ""
 ---
 
 Hi everyone! I'm Veyote, and I'm pleased to announce that Anthrocon 2019 DJ submissions are now open!

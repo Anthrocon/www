@@ -1,12 +1,11 @@
 ---
 title: "Anthrocon 2019 Fursuit Badges, Photo, Parade, and Guidelines"
-author: "Guest User"
 date: "2019-06-25T21:52:00-0400"
-draft: false
-
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 Are you interested in a being in the Group Photo, the Annual Anthrocon Fursuit Parade, or in a Meet-And-Greet after the convention?

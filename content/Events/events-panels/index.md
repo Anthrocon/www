@@ -1,15 +1,17 @@
 ---
 title: "Events and Panels"
-weight: 10
 aliases:
     - "/events"
     - "/programming"
 
-banner: "2023+Kavaeric+_DSC8394.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "Kavaeric"
-banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+params:
+    banner: "2023+Kavaeric+_DSC8394.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/user/Kavaeric/album-533"
+
+weight: 10
 ---
 
 # Events and panels at Anthrocon

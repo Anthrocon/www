@@ -1,14 +1,14 @@
 ---
 title: "2017 Fursuit Photos"
-author: "Guest User"
-date: "2017-11-19T12:22:00-0500"
-draft: false
 aliases:
     - "/news/2017/11/19/anthrocon-2017-fursuit-photos"
 
-banner: "website-banner.png"
-banner_author: ""
-banner_url: ""
+date: "2017-11-19T12:22:00-0500"
+params:
+    author: "Guest User"
+    banner: "website-banner.png"
+    banner_author: ""
+    banner_url: ""
 ---
 
 Many thanks this year go to [Warphammer](https://twitter.com/broadwing) and Kyreeth, for taking the fursuit photos, including the group photo during Saturday'sparade.

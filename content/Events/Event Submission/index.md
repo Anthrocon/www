@@ -3,13 +3,12 @@ title: "Apply to Host an Event"
 build:
     list: "never"
 
-weight: 0
-
-banner: ""
-banner_title: ""
-banner_caption: ""
-banner_author: ""
-banner_url: ""
+params:
+    banner: ""
+    banner_title: ""
+    banner_caption: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 # Apply to Host an Event

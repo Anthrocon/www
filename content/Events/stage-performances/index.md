@@ -1,12 +1,11 @@
 ---
 title: "Stage Performances"
-weight: 0
-
-banner: "2023+Luau+5914.jpg"
-banner_title: ""
-banner_caption: ""
-banner_author: "HokuloaLuau"
-banner_url: ""
+params:
+    banner: "2023+Luau+5914.jpg"
+    banner_title: ""
+    banner_caption: ""
+    banner_author: "HokuloaLuau"
+    banner_url: ""
 ---
 
 # Stage performances at Anthrocon

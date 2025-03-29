@@ -1,14 +1,14 @@
 ---
 title: "Announcing Our 2020 Charity: Wildlife Works, Inc."
-author: "Guest User"
-date: "2020-02-07T18:26:41-0500"
-draft: false
 aliases:
-  - "/news/2020/2/7/announcing-our-2020-charity-wildlife-works-inc"
+    - "/news/2020/2/7/announcing-our-2020-charity-wildlife-works-inc"
 
-banner: ""
-banner_author: ""
-banner_url: ""
+date: "2020-02-07T18:26:41-0500"
+params:
+    author: "Guest User"
+    banner: ""
+    banner_author: ""
+    banner_url: ""
 ---
 
 {{< img src="wildlife-works-logo.jpg" alt="wildlife-works-logo.jpg" hint="drawing" link="https://www.wildlifeworksinc.org/" >}}
