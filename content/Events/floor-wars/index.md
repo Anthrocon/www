@@ -1,11 +1,11 @@
 ---
 title: "Floor Wars"
 params:
-    banner: "2024-LionelLeupold-BU2A5407-crop.png"
+    banner: "2024-Kavaeric-DSC02336.jpg"
     banner_title: ""
     banner_caption: ""
-    banner_author: "LionelLeupold"
-    banner_url: "https://www.furtrack.com/index/photographer:lionelleupold"
+    banner_author: "Kavaeric"
+    banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
 ---
 
 # Floor Wars
