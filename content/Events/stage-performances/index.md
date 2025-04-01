@@ -54,7 +54,9 @@ In submitting your performance application for Anthrocon 2024, you accept and ac
 7. You may not consume any food or drink, store bought or homemade, while performing on stage. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
 8. Performers may not alter a stage’s fundamental layout. If a stage is set up it must remain in that fashion unless given explicit permission by Events staff; if accommodations are required to assist with your performance, please let us know in your application.
 
-For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
+***
+
+Stage performance applications for Anthrocon 2025 are now closed. For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
 
 ***
 
