@@ -2,6 +2,7 @@
 title: "Floor Wars"
 params:
     banner: "2024-Kavaeric-DSC02336.jpg"
+    banner_position: "center"
     banner_title: ""
     banner_caption: ""
     banner_author: "Kavaeric"
