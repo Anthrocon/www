@@ -8,7 +8,7 @@ params:
     banner_url: ""
 ---
 
-# Stage performances at Anthrocon
+# Stage Performances at Anthrocon
 
 {{< columns >}}
 Anthrocon’s stages showcase the best of furry-centric talent to our attendees, from musical journeys, to comedic skits, and even high-flying acrobatics.
@@ -41,7 +41,7 @@ Anthrocon **DOES** provides the following items **based on performance type**:
 - Projectors, Microphones, Speakers, and Basic Sound Equipment (Not all rooms are outfitted with equipment).
 - Chairs and tables, per request
 
-### ACKNOWLEDGEMENTS
+### Acknowledgments
 
 In submitting your performance application for Anthrocon 2024, you accept and acknowledge the following:
 
@@ -49,18 +49,12 @@ In submitting your performance application for Anthrocon 2024, you accept and ac
 2. Equipment requests are not guaranteed.
 3. Decisions regarding acceptance or denial of performance requests are made by Events staff - any appeals will be handled directly by the Events Director. All decisions made by the Events Director are final.
 4. If multiple submissions are received for the same performance, we will do our best to put you in touch with each other so you can work together if you so desire - if you can’t work together, we will work from there.
-5. You will abide by the Convention [Standards of Conduct](https://anthrocon.org/standards-of-conduct).
-6. You will adhere to all Convention Policies Regarding Public Health.
+5. You will abide by the convention [Standards of Conduct](https://anthrocon.org/standards-of-conduct).
+6. You will adhere to all convention policies regarding public health.
 7. You may not consume any food or drink, store bought or homemade, while performing on stage. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
 8. Performers may not alter a stage’s fundamental layout. If a stage is set up it must remain in that fashion unless given explicit permission by Events staff; if accommodations are required to assist with your performance, please let us know in your application.
 
-If you’ve got an interesting performance or talent you’d love to share with our community, we’d love to hear from you! For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
-
-{{< center >}}
-Fill out this form to apply for a stage performance:
-
-{{< button href="https://forms.gle/XWTRRjaFvSE756tH7" >}}Apply to perform{{< /button >}}
-{{< /center >}}
+For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
 
 ***
 

@@ -14,7 +14,7 @@ params:
 weight: 10
 ---
 
-# Events and panels at Anthrocon
+# Events and Panels at Anthrocon
 
 {{< center >}}Anthrocon features a variety of events and panels over the weekend. From outdoor parades to learning new crafts and social meetups, you’ll have plenty to do!{{< /center >}}
 
@@ -47,41 +47,39 @@ Anthrocon **DOES** provides the following items **based on room assignment**:
 - Standard connections for projectors (HDMI, VGA - If you require a special adaptor you will need to bring your own).
 - Projectors, Microphones, Speakers, and Basic Sound Equipment (Not all rooms are outfitted with equipment).
 
-### ACKNOWLEDGEMENTS
+### Acknowledgments
 
-In submitting my panel request for Anthrocon 2025 I accept and acknowledge the following:
+In submitting my panel request for Anthrocon 2025, I accept and acknowledge the following:
 
 1. Submission does not guarantee acceptance.
 2. Equipment requests are not guaranteed.
 3. Decisions regarding acceptance or denial of panel requests are made by Events Senior Staff - any appeals will be handled directly by the Events Director. All decisions by the Events Director are final.
 4. If multiple submissions are received for the same event we will do our best to put you in touch with each other so you can work together if you so desire - if you can’t work together we will work from there.
-5. You will abide by the Convention [Standards of Conduct](https://anthrocon.org/standards-of-conduct).
-6. You will adhere to all Convention Policies Regarding Public Health.
+5. You will abide by the convention [Standards of Conduct](https://anthrocon.org/standards-of-conduct).
+6. You will adhere to all convention policies regarding public health.
 7. Any host found to be charging an admissions fee or cover charge will have their event shutdown and be barred from hosting future events with Anthrocon.\*\*
 8. An event may not pass out any food or drink, store bought or homemade. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
 9. Panelists may not alter a room’s fundamental layout. If a room is set up as a classroom the tables must stay put; If it is set up as a lecture hall you may not move the chairs into a circle, etc. (Seating may be moved for accessibility or accommodation of additional panelists, but it must be returned to position at the end of your panel).
 
 \*\* *If your event has an equipment cost, such as an event where you make something with the attendees, please contact the Events Director ([events@anthrocon.org](mailto:events@anthrocon.org)).*
 
-**Finally - for your own benefit:**
+**Finally — for your own benefit:**
 
 - A single host may not participate in more than 5 panels during the convention. We love that you want to help but we want you to have fun.
 
-### FOR 18+ panels (Adult rating)
+### For 18+ Panels (Adult Rating)
 
 Any panel that is identified as adult material or may be viewed as inappropriate for minors by either the panelists during the panel application or by the Events Senior Staff during review will be marked as 18+. All panelists for 18+ panels must be 18 years of age or older by the first day of the convention, there will be no exceptions and this cannot be appealed.
 
-### Contact the events team
+### Contact the Events Team
 
 If you’ve got an interesting topic or talent you’d love to share with our community, we’d love to hear from you! For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
 
 ***
 
-## Apply to host an event
+## Apply to Host an Event
 
-Panel applications for Anthrocon 2025 are open now until March 15, 2025. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to [events@anthrocon.org](mailto:events@anthrocon.org).
-
-{{< center >}}{{< button href="/event-submission/" >}}Apply now{{< /button >}}{{< /center >}}
+Panel applications for Anthrocon 2025 are now closed. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to [events@anthrocon.org](mailto:events@anthrocon.org).
 
 ***
 
