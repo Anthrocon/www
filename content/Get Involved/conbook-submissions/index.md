@@ -1,6 +1,7 @@
 ---
 title: "Conbook Submissions"
 aliases:
+    - "/conbook-submissions-closed"
     - "/conbook-submissions-2023"
 
 params:
