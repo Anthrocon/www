@@ -48,7 +48,6 @@ permalinks:
     Tips-&-Guides---Con-Experience: "/:sections[1:]/:slugorfilename/"
     Tips-&-Guides---Fursuiting: "/:sections[1:]/:slugorfilename/"
     Frequently-Asked-Questions: "/:sections[1:]/:slugorfilename/"
-    Conbook: "/:sections[1:]/:slugorfilename/"
     Dealers: "/:sections[1:]/:slugorfilename/"
     Charity-(Archive): "/:sections[1:]/:slugorfilename/"
 
@@ -65,7 +64,6 @@ permalinks:
     Tips-&-Guides---Con-Experience: "/:sections[1:]/"
     Tips-&-Guides---Fursuiting: "/:sections[1:]/"
     Frequently-Asked-Questions: "/:sections[1:]/"
-    Conbook: "/:sections[1:]/"
     Dealers: "/:sections[1:]/"
     Charity-(Archive): "/:sections[1:]/"
 
