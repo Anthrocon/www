@@ -61,7 +61,7 @@ Most main stage events and select smaller events are accompanied by professional
 
 <--->
 
-{{< img src="43092714344_9a066e479c_k_HokuloaLuau.jpg" alt="An American Sign Language Interpreter, or an &quot;Interpre-fur&quot;, helping to sign for a Main Stage event at Anthrocon." hint="picture" attr="HokuloaLuau" attrlink="https://flic.kr/p/28DXqDw" >}}
+{{< img src="43092714344_9a066e479c_k_HokuloaLuau.jpg" alt="An American Sign Language Interpreter, or an \"Interpre-fur\", helping to sign for a Main Stage event at Anthrocon." hint="picture" attr="HokuloaLuau" attrlink="https://flic.kr/p/28DXqDw" >}}
 {{< /columns >}}
 
 ***

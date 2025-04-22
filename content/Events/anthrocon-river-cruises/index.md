@@ -15,7 +15,7 @@ params:
 {{< center >}}[Cruise options](#anthrocon-2025-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
 
 {{< columns >}}
-{{< img src="2024+Doktor+20240704_135829.jpg" alt="The Gateway Clipper Fleet's ship &quot;3 Rivers Queen&quot; with fursuiters on board." hint="photo" attr="Doktor" attrlink="https://www.furtrack.com/index/photographer:doktor" >}}
+{{< img src="2024+Doktor+20240704_135829.jpg" alt="The Gateway Clipper Fleet's ship \"3 Rivers Queen\" with fursuiters on board." hint="photo" attr="Doktor" attrlink="https://www.furtrack.com/index/photographer:doktor" >}}
 
 <--->
 
