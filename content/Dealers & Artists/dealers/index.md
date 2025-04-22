@@ -59,7 +59,7 @@ You will need your PA sales tax number (Revenue ID) to vend at Anthrocon. [Click
 
 **The only legitimate providers are DLCC Event Services (Electrical power, water, other in-building services) and APA Exposition Services (tables, chairs, other furnishings). Anyone else is not authorized.**
 
-As a dealer, you may be contacted by Unauthorized Service Providers — for hotel/housing, audiovisual, carpet, exhibitor directory listing, etc. — who claim to be affiliated with Anthrocon. These solicitations may appear to provide cost savings; however, the rates listed could be misleading and, in some cases, the vendor may not be a credible supplier. Should you be contacted by an unauthorized service provider or have any questions, please contact VisitPittsburgh at [info@visitpittsburgh.com](mailto:info@visitpittsburgh.com). They can also be contacted by phone at [+1-844-744-7666](tel:+18447447666).
+As a dealer, you may be contacted by Unauthorized Service Providers — for hotel/housing, audiovisual, carpet, exhibitor directory listing, etc. — who claim to be affiliated with Anthrocon. These solicitations may appear to provide cost savings; however, the rates listed could be misleading and, in some cases, the vendor may not be a credible supplier. Should you be contacted by an unauthorized service provider or have any questions, please contact VisitPittsburgh at [info@visitpittsburgh.com](mailto:info@visitpittsburgh.com). They can also be contacted by phone at [+1 844-744-7666](tel:+1-844-744-7666).
 
 Additional information:
 

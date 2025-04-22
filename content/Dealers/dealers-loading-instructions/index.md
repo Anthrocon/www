@@ -20,7 +20,7 @@ params:
 {{< center >}}**David L. Lawrence Convention Center Loading Dock** [(View on Google)](https://goo.gl/maps/1ZHvu8Qwozz)<br>
 1000 Ft. Duquesne Blvd. (10th & Ft. Duquesne)<br>
 Pittsburgh, PA 15222<br>
-+1 412-565-6000{{< /center >}}
+[+1 412-565-6000](tel:+1-412-565-6000){{< /center >}}
 
 **From Pittsburgh International Airport**<br>
 PA -60 S to US-30 E becomes I-279 N through the Ft. Pitt Tunnels and across the Ft. Pitt Bridge. Take Exit 6C Ft. Duquesne Blvd. Follow sign to Convention/Strip District on 10 Street Bypass. At 1st traffic light, turn right into the Convention Center Loading Dock Entrance.

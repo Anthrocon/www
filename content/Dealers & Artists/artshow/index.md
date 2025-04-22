@@ -25,7 +25,7 @@ Reservations timestamped or postmarked by **March 31** are guaranteed space, whi
 
 **If you are interested in purchasing artwork at the Art Show,** information for bidders will be available as the date of the convention approaches.
 
-**Answers to many common questions** are on the [Art Show Frequently Asked Questions]({{< relref "/Frequently Asked Questions/faq/artshow" >}}) page. Other inquiries may be sent to <artshow@anthrocon.org>, phone [+1 307-278-9387](tel:1-307-278-9387) (307-ARTYFUR), or by postal mail to:
+**Answers to many common questions** are on the [Art Show Frequently Asked Questions]({{< relref "/Frequently Asked Questions/faq/artshow" >}}) page. Other inquiries may be sent to <artshow@anthrocon.org>, phone [+1 307-278-9387](tel:+1-307-278-9387) (307-ARTYFUR), or by postal mail to:
 
 {{< center >}}
 **Anthrocon Art Show**<br>
