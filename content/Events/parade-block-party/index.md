@@ -32,7 +32,7 @@ params:
 
 - The parade will begin with the Fursuit Parade Lineup, which will be in the convention center Hall C. The lineup for the and parade will **start at 12 PM**, with **doors closing at 1:50 PM**.
 - **There is no Fursuit Group Photo before the parade.** This was a tradition in previous years but due to the sheer size of our parade line-up, it is no longer practical nor safe to host the group photo. There will be many photographers, both amateur and professional, covering the parade for all to enjoy.
-- **The parade will begin at 2 PM**, starting from Hall C and leading out onto the streets underneath the convention center. For those that need physical accommodation due to not being able to take stairs/escalators, please contact [accessibility@anthrocon.org](mailto:accessibility@anthrocon.org) to let us know.
+- **The parade will begin at 2 PM**, starting from Hall C and leading out onto the streets underneath the convention center. For those that need physical accommodation due to not being able to take stairs/escalators, please contact <accessibility@anthrocon.org> to let us know.
 - The parade ends in Hall D, where there is cooling and hydration for fursuiters. **Once the parade is finished**, or fursuiters are feeling ready, they can take the elevators back up to the 3rd floor of the convention center, and make their way to Penn Avenue (either through the convention center, or the Westin) for the Block Party.
 
 ### Parade Rules

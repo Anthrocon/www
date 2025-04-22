@@ -57,4 +57,4 @@ Pittsburgh is a beautiful city to sightsee, and you may find yourself wandering 
 
 –
 
-While these are just the basics of how to prepare to travel internationally to Anthrocon, remember that there’s plenty more to consider for planning your trip to Anthrocon. As always, if you need any additional information or help, let our team know by emailing [info@anthrocon.org](mailto:info@anthrocon.org).
+While these are just the basics of how to prepare to travel internationally to Anthrocon, remember that there’s plenty more to consider for planning your trip to Anthrocon. As always, if you need any additional information or help, let our team know by emailing <info@anthrocon.org>.

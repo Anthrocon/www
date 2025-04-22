@@ -61,7 +61,7 @@ In submitting my panel request for Anthrocon 2025, I accept and acknowledge the 
 8. An event may not pass out any food or drink, store bought or homemade. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
 9. Panelists may not alter a room’s fundamental layout. If a room is set up as a classroom the tables must stay put; If it is set up as a lecture hall you may not move the chairs into a circle, etc. (Seating may be moved for accessibility or accommodation of additional panelists, but it must be returned to position at the end of your panel).
 
-\*\* *If your event has an equipment cost, such as an event where you make something with the attendees, please contact the Events Director ([events@anthrocon.org](mailto:events@anthrocon.org)).*
+\*\* *If your event has an equipment cost, such as an event where you make something with the attendees, please contact the Events Director (<events@anthrocon.org>).*
 
 **Finally — for your own benefit:**
 
@@ -73,13 +73,13 @@ Any panel that is identified as adult material or may be viewed as inappropriate
 
 ### Contact the Events Team
 
-If you’ve got an interesting topic or talent you’d love to share with our community, we’d love to hear from you! For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
+If you’ve got an interesting topic or talent you’d love to share with our community, we’d love to hear from you! For any questions or suggestions, reach out to us at <events@anthrocon.org>.
 
 ***
 
 ## Apply to Host an Event
 
-Panel applications for Anthrocon 2025 are now closed. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to [events@anthrocon.org](mailto:events@anthrocon.org).
+Panel applications for Anthrocon 2025 are now closed. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to <events@anthrocon.org>.
 
 ***
 
@@ -90,7 +90,7 @@ Yes, a valid Anthrocon membership is required to be able to host an event at the
 {{< /details >}}
 
 {{< details "Why don't you have more events involving other special topics/interests?" >}}
-Anthrocon strives to provide a variety of programming events so that there is something for everyone. Our programming space is limited and we have only so many hours in the weekend; if we were cater too strongly to one particular programming track, we would have to take programming space away from other tracks. If you have ideas for events you’d like to see, please send your feedback to [events@anthrocon.org](mailto:events@anthrocon.org).
+Anthrocon strives to provide a variety of programming events so that there is something for everyone. Our programming space is limited and we have only so many hours in the weekend; if we were cater too strongly to one particular programming track, we would have to take programming space away from other tracks. If you have ideas for events you’d like to see, please send your feedback to <events@anthrocon.org>.
 {{< /details >}}
 
 {{< details "Can I submit an event for my own private function or party?" >}}

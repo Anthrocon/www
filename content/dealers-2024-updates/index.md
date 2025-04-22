@@ -85,4 +85,4 @@ The following options **do not include power (electricity)**. Requests for power
 
 Dealer Assistants must purchase their badges separately once the Dealer application has been approved. This option will become available starting on **January 9, 2024**. We STRONGLY recommend Dealer Assistants be named before the close of pre-registration; handling them on-site is slower for us, you, and them.
 
-{{< center >}}*Inquiries may be sent to* [dealers@anthrocon.org](mailto:dealers@anthrocon.org)*, on Twitter to* [@AnthroconDealer](https://twitter.com/AnthroconDealer)*.*{{< /center >}}
+{{< center >}}*Inquiries may be sent to* <dealers@anthrocon.org>*, or Twitter to* [@AnthroconDealer](https://twitter.com/AnthroconDealer)*.*{{< /center >}}

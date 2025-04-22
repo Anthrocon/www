@@ -209,7 +209,7 @@ Required for attendees who are under 13 years of age and attending Anthrocon 202
 {{< details "What ID do I need to bring to get my registration?" >}}
 For all attendees aged 18 years and older, we require a government-issued photo ID so that we can make sure nobody other than you is trying to pick up your badge or register in your name. Anthrocon accepts the following as a single-form ID: USA or Canada driver's license, USA or Canada state ID, USA military ID, or a passport.
 
-For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well. However, we do understand that not every minor (especially the younger ones) will have an ID. If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth. Contact the Registration department at [registration@anthrocon.org](mailto:registration@anthrocon.org) if you are unsure or need assistance in determining alternate forms of acceptable ID.
+For minor attendees aged 13-17 years old, we prefer to have a government-issued photo ID as well. However, we do understand that not every minor (especially the younger ones) will have an ID. If you do not have any of the above, we still need something with your photo on it that will confirm your identity and your date of birth. Contact the Registration Department at <registration@anthrocon.org> if you are unsure or need assistance in determining alternate forms of acceptable ID.
 {{< /details >}}
 
 {{< details "I don't have an ID. What should I do?" >}}

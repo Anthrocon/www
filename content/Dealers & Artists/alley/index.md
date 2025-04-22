@@ -37,7 +37,7 @@ Before applying, please ensure you read the [Artists Alley Rules](https://docs.g
 - For the application process, find out more in the [Artists Alley Lottery Process](https://docs.google.com/document/d/1j4gbHiKjXAl0h25BMgD5yEx6HZvQxHSe2wF1WS8XuJc/edit?usp=drivesdk)
 - All artists must abide by the [Anthrocon Standards of Conduct](https://www.anthrocon.org/standards-of-conduct)
 - **All artists are required to obtain a license to collect local and state sales tax, as well as provide evidence of the same to Anthrocon prior to engaging in sales in the Alley**. The form for applying for a Pennsylvania Sales Tax License may be found on the [**Pennsylvania State website**.](https://mypath.pa.gov/_/)
-- If you have any questions about applying or the Artists Alley process, send us an email at [alley@anthrocon.org](mailto:alley@anthrocon.org)
+- If you have any questions about applying or the Artists Alley process, send us an email at <alley@anthrocon.org>
 
 The lottery to determine accepted artists for each day will be conducted, and results posted closer to the convention.
 
@@ -64,5 +64,5 @@ We have a constant need for staffing and volunteers. Contact our volunteer coord
 {{< /details >}}
 
 {{< details "Where can I get more information about the Artists Alley?" >}}
-Contact us! You can reach the Artists Alley director at [alley@anthrocon.org](mailto:alley@anthrocon.org)
+Contact us! You can reach the Artists Alley director at <alley@anthrocon.org>
 {{< /details >}}

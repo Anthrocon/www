@@ -43,4 +43,4 @@ On the last day of conventions, some dealers or artists may even offer “end of
 
 Though these are only some of the deals and services that you might be able to find at Anthrocon, there might be other tips you can find by asking the furry community online through platforms like Twitter, Facebook, and Discord. We pride ourselves on being a community based on help and shared knowledge (hence why we’re writing these articles), and you might make a new friend along the way!
 
-If you’ve got any other suggestions on deals or services that might help, let us know at [webmaster@anthrocon.org](mailto:webmaster@anthrocon.org) and we’ll be happy to hear from you.
+If you’ve got any other suggestions on deals or services that might help, let us know at <webmaster@anthrocon.org> and we’ll be happy to hear from you.

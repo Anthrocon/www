@@ -133,6 +133,6 @@ Miscellaneous cash donations - $25
 
 Total: $6534
 
-Again, thank you very much for all your help. If you have any questions, comments, criticisms, please send them to charity@anthrocon.org.
+Again, thank you very much for all your help. If you have any questions, comments, criticisms, please send them to <charity@anthrocon.org>.
 
 \- Brian

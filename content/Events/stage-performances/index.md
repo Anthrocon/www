@@ -26,7 +26,7 @@ Anthrocon’s stages showcase the best of furry-centric talent to our attendees,
 
 ## Stage Performance Policies and Rules
 
-Please read the following information carefully and if there are any questions do not hesitate to send us an email at [events@anthrocon.org](mailto:events@anthrocon.org).
+Please read the following information carefully and if there are any questions do not hesitate to send us an email at <events@anthrocon.org>.
 
 All performance requests must be processed through the application form found above. This places your request into the queue to make sure that a member of the Events Team will see your request. Any request received via direct email, Telegram, Discord, Text Message, etc. will not be answered. Thank you for your understanding and cooperation in helping us better serve you, the community, and the convention.
 
@@ -56,18 +56,18 @@ In submitting your performance application for Anthrocon 2024, you accept and ac
 
 ***
 
-Stage performance applications for Anthrocon 2025 are now closed. For any questions or suggestions, reach out to us at [events@anthrocon.org](mailto:events@anthrocon.org).
+Stage performance applications for Anthrocon 2025 are now closed. For any questions or suggestions, reach out to us at <events@anthrocon.org>.
 
 ***
 
 ## Frequently Asked Questions
 
 {{< details "What kinds of performances are accepted?" >}}
-We welcome (and have hosted) a variety of performance types including music, dance, skits, acrobatics, stand-up comedy, magic and illusions, and many others. If you’re not sure whether or not your performance would be accepted, send us an email at [events@anthrocon.org](mailto:events@anthrocon.org).
+We welcome (and have hosted) a variety of performance types including music, dance, skits, acrobatics, stand-up comedy, magic and illusions, and many others. If you’re not sure whether or not your performance would be accepted, send us an email at <events@anthrocon.org>.
 {{< /details >}}
 
 {{< details "Does Anthrocon provide props and/or equipment?" >}}
-Our Events team can only provides basic audio/visual support depending on the venue. If you have special props and/or equipment that you require for your performance, it is your responsibility to arrange, transport, and store them when not in use on-stage. Questions about what our Events team can support can be directed to [events@anthrocon.org](mailto:events@anthrocon.org)
+Our Events team can only provides basic audio/visual support depending on the venue. If you have special props and/or equipment that you require for your performance, it is your responsibility to arrange, transport, and store them when not in use on-stage. Questions about what our Events team can support can be directed to <events@anthrocon.org>
 {{< /details >}}
 
 {{< details "What's the general content rating for performances?" >}}
