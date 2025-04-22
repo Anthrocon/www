@@ -16,7 +16,7 @@ params:
 {{< center >}}
 Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees.
 
-**Online pre-registration will temporarily pause between February 23rd to 26th, 2025, to improve the general hotel booking experience, and reopen on February 27th.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
+**Online pre-registration will temporarily pause between February 23 to 26, 2025, to improve the general hotel booking experience, and reopen on February 27.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
 {{< /center >}}
 
 {{< center >}}[Booking Process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel Options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
@@ -28,24 +28,24 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 {{< columns >}}
 Email notifications and links for the Anthrocon hotel reservation block will be sent to pre-registered members through both the Registration portal and direct email as follows (all opening times will be approximately 12 PM Eastern Time):
 
-- Ultrasponsors: February 4th, 2025
-- Dealers: February 11th, 2025
-- Supersponsors: February 18th, 2025
-- General (Attending/Sponsor): February 25th, 2025
+- Ultrasponsors: February 4, 2025
+- Dealers: February 11, 2025
+- Supersponsors: February 18, 2025
+- General (Attending/Sponsor): February 25, 2025
 
 <--->
 
 {{< img src="2024 Kaze-6533.jpg" hint="picture" attr="Kaze" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 {{< /columns >}}
 
-**A limited number of rooms will be set aside for people who are eligible for advance hotel booking (such as Ultrasponsors/Supersponsors)**. This is to allow attendees a chance to reserve a room at each hotel without having a hotel fill up before general opening. We will send the general hotel reservation link to all registered attendees on February 25th, so you will have a second chance if you do not get the hotel room of your choice during advance booking.
+**A limited number of rooms will be set aside for people who are eligible for advance hotel booking (such as Ultrasponsors/Supersponsors)**. This is to allow attendees a chance to reserve a room at each hotel without having a hotel fill up before general opening. We will send the general hotel reservation link to all registered attendees on February 25, so you will have a second chance if you do not get the hotel room of your choice during advance booking.
 
 **Do NOT book through a hotel’s website if you want to get Anthrocon’s rates (subject to availability)**. Reservations must be made through our booking link in order to get the convention rate — if you make a reservation outside of Anthrocon's hotel block, it cannot be transferred into Anthrocon’s block.
 
 - An email will be sent out to your registered email at the date/time listed above. If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. ***Anthrocon is not responsible for lost or undeliverable emails***. Check your spam and promotional folders if you do not receive the email at the listed time.
 - **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
 - **Only one room may be booked per registered attendee**, as it is linked to the registration.
-- A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 16th, 2025 — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
+- A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 16, 2025 — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
 
 ***
 
@@ -550,7 +550,7 @@ If you encounter any issues while trying to reserve a hotel room, please contact
 {{< /details >}}
 
 {{< details "Is there a one-night deposit to book a room at Anthrocon's hotels?" >}}
-There will not be a deposit taken this year; instead, we are giving people until May 16th, 2025 to cancel a reservation without penalty. After that date, any cancellations will be assessed a one-night cancellation fee at the hotel’s rate. **A credit card number is still required to make a reservation**.
+There will not be a deposit taken this year; instead, we are giving people until May 16, 2025 to cancel a reservation without penalty. After that date, any cancellations will be assessed a one-night cancellation fee at the hotel’s rate. **A credit card number is still required to make a reservation**.
 
 A valid Anthrocon registration ID is required to make a hotel reservation — you will NOT be able to access the hotel booking system without it.
 {{< /details >}}
@@ -562,7 +562,7 @@ In addition to all applicable state and local taxes, there will be an additional
 {{< details "What's the change/refund policy for Anthrocon-partnered hotels?" >}}
 Anthrocon strongly recommends that its members not book a room until they are reasonably certain that their plans will not change. To change or cancel your reservation, you can use the link included in your confirmation or by contacting help@orchid.events or by phone at +1-800-470-8077.
 
-Reservation details, including hotel type, can be **changed,** based on availability, up to June 20th without penalty.
+Reservation details, including hotel type, can be **changed,** based on availability, up to June 20 without penalty.
 
 Reservations may be **canceled** without any penalty until May 16, 2025. After that date, a one-night penalty will be charged to the cardholder on the reservation.
 {{< /details >}}

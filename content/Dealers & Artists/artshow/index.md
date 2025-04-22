@@ -35,7 +35,7 @@ Reservations timestamped or postmarked by **March 31** are guaranteed space, whi
 
 ## Quick Reference
 
-- Reserve by **March 31st** for guaranteed space!
+- Reserve by **March 31** for guaranteed space!
 - **Reservation Fee:** None!
 - **Wall Space Size:** 22” wide × 60” high (56cm wide × 152cm high)
 
@@ -43,7 +43,7 @@ Reservations timestamped or postmarked by **March 31** are guaranteed space, whi
 
 - **Bids to Go to Voice Auction:** 10
 - **Sales Commission:** 15% (12.5% for those who paid for space in the Dealers Room)
-- **Payment Timeline:** Payments will be issued by August 31st
+- **Payment Timeline:** Payments will be issued by August 31
 
 ## Quick Links to Relevant Documents
 

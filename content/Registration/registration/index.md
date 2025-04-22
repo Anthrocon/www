@@ -44,8 +44,8 @@ A limited number of Ultrasponsor, Supersponsor, and Sponsor memberships will be 
 
 **New for Anthrocon 2025:** Our Registration system has now changed! Please read the following instructions in order to successfully purchase your conbadge for Anthrocon 2025.
 
-- Register for an account by visiting [our new Registration portal](https://reg.anthrocon.org/) on October 21st, selecting “Register”, and following the instructions — including verifying your email.
-- Once your account is registered and verified, select "Register for AC2025" from the menu and select your desired level. Available levels will be displayed starting October 21st at 12 PM Eastern Daylight Time. Sold out levels will not be visible.
+- Register for an account by visiting [our new Registration portal](https://reg.anthrocon.org/) on October 21, selecting “Register”, and following the instructions — including verifying your email.
+- Once your account is registered and verified, select "Register for AC2025" from the menu and select your desired level. Available levels will be displayed starting October 21 at 12 PM Eastern Daylight Time. Sold out levels will not be visible.
 - Fill out the form and select "Register". Your registration is now held in stock, but not completed.
 - Select "View Cart" and complete checkout. (important, as your membership is NOT confirmed until you check out)
 - For Ultrasponsors and Supersponsors, additional ticketed event options will be visible once your registration is held in stock.
@@ -184,7 +184,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ## Minor Forms
 
-{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 3rd, 2025**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
+{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 3, 2025**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
 
 {{< columns >}}
 {{< center >}}**Minor Consent Form**{{< /center >}}

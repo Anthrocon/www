@@ -16,9 +16,9 @@ params:
 
 The schedule for the Dealers Room will be as follows:
 
-- Friday, July 5th: 12 PM to 6 PM (Ultra/Super/Sponsor starts at 11:30 AM)
-- Saturday, July 6th: 10 AM to 6 PM (Ultra/Super/Sponsor starts at 9:30 AM)
-- Sunday, July 7th: 10 AM to 4 PM
+- Friday, July 5: 12 PM to 6 PM (Ultra/Super/Sponsor starts at 11:30 AM)
+- Saturday, July 6: 10 AM to 6 PM (Ultra/Super/Sponsor starts at 9:30 AM)
+- Sunday, July 7: 10 AM to 4 PM
 
 {{< center >}}View the map of the Dealers Room layout below. Click on the image to view a larger version.{{< /center >}}
 

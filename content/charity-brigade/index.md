@@ -17,7 +17,7 @@ params:
 
 <--->
 
-Do you like interacting with others and are willing to donate a couple hours of your time at Anthrocon? We’re looking for volunteers to help with our Charity Bucket Brigade during the main days of our convention (Friday, July 5th to Sunday, July 7th)!
+Do you like interacting with others and are willing to donate a couple hours of your time at Anthrocon? We’re looking for volunteers to help with our Charity Bucket Brigade during the main days of our convention (Friday, July 5 to Sunday, July 7)!
 
 We encourage fursuiters to participate in the bucket brigade, but if you’ve also got a costume or cosplay that would be interesting or cute, we’d still encourage you to apply.
 {{< /columns >}}

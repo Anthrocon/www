@@ -13,7 +13,7 @@ params:
 
 # Anthrocon 2025 Dealer Rules & Information Packet
 
-Anthrocon is July 3rd-July 6th, 2025. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
+Anthrocon is July 3-July 6, 2025. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
 
 [The Short Version](#the-short-version) | [Dealers Room Schedule](#dealers-room-schedule) | [Getting your Dealership](#getting-your-dealership) | [Before the Dealers Room Opens](#before-the-dealers-room-opens) | [The Dealers Room is Open!](#the-dealers-room-is-open) | [After the Dealer's Room Closes](#after-the-dealers-room-closes) | [Administrative Details](#administrative-details)
 
@@ -43,7 +43,7 @@ Dealership applications will be placed into a Curated system. Payment will not b
 
 Any Dealerships not accepted at first will be placed on the waitlist. If a Dealership space opens, waitlisted Dealers will be contacted. There are sometimes at-con sales of last-minute canceled tables. If your application is placed on the Waitlist, you will not be charged in any way until a table can be assigned, and you can request to be removed from the Waitlist at any time.
 
-If you have to cancel your table, notify the Dealers Room staff by April 30 to secure a full refund. If you have to cancel your membership, do so by June 9th or there's no refund.
+If you have to cancel your table, notify the Dealers Room staff by April 30 to secure a full refund. If you have to cancel your membership, do so by June 9 or there's no refund.
 
 ### Pennsylvania Tax License
 
@@ -73,16 +73,16 @@ There are to be no sales in the Dealers Room except by approved Dealerships in a
 
 ### Dealers Room Schedule
 
-Thursday, July 3rd, 2025<br>
+Thursday, July 3, 2025<br>
 TBA
 
-Friday, July 4th, 2025<br>
+Friday, July 4, 2025<br>
 TBA
 
-Saturday, July 5th, 2025<br>
+Saturday, July 5, 2025<br>
 TBA
 
-Sunday, July 6th, 2025<br>
+Sunday, July 6, 2025<br>
 TBA
 
 ## The Long Version
@@ -121,7 +121,7 @@ You are allowed to sell work on behalf of another artist or company if that work
 
 No table space may be shared with, exchanged, sublet, or resold to another Dealer without the prior consent of Anthrocon's Dealers Room Director. This will require at minimum a completed dealer room application and advance arrangement with the Dealers Room Director before consideration. Any unauthorized sharing may result in revocation of dealer space or removal from consideration for space in future years.
 
-In order to legally purchase dealer space, dealers must be at least 18 years of age as of the beginning date of the convention (July 3rd, 2025 for Anthrocon 2025). Dealer Assistants must be at least 13 years of age, the minimum age to be a badge holding Member of the convention.
+In order to legally purchase dealer space, dealers must be at least 18 years of age as of the beginning date of the convention (July 3, 2025 for Anthrocon 2025). Dealer Assistants must be at least 13 years of age, the minimum age to be a badge holding Member of the convention.
 
 Merchandise can only be sold in approved, authorized areas of Hall A&B and by approved, authorized Dealerships. Hotel policies and local tax regulations prevent sales from hotel guest rooms, common areas of hotels, unapproved convention space, or on the street. These regulations apply during the entire duration of Anthrocon, not merely during Dealer's Room hours.
 
@@ -249,15 +249,15 @@ We will process the Waitlist based on the same curated criteria. Let us know you
 
 Once a table comes open, we will email the next Dealer on the waitlist that has a matching table type. There will be a limited time for response, generally a week to 14 days. Once the Dealer indicates their willingness to purchase a table, the Dealership will be approved and the payment will be required via the registration portal. All payments must be made by credit or debit card. **There is no need to email the Dealers Room staff about table openings; they will notify you when a table is available, and they will not be able to tell your position on the waitlist.**
 
-In the event you are unable to get a table from the waitlist, any Dealer or Dealer Assistant Membership can become an Attending Membership at the listed price. Similarly, Dealer-Sponsors can be Sponsors and Dealer-Supersponsors can be Supersponsors. However, we will not convert memberships unless the request is emailed prior to the close of Pre-registration on June 15th, 2025. These Memberships may also be canceled until the close of Pre-registration; please email <refunds@anthrocon.org> if a refund is needed.
+In the event you are unable to get a table from the waitlist, any Dealer or Dealer Assistant Membership can become an Attending Membership at the listed price. Similarly, Dealer-Sponsors can be Sponsors and Dealer-Supersponsors can be Supersponsors. However, we will not convert memberships unless the request is emailed prior to the close of Pre-registration on June 15, 2025. These Memberships may also be canceled until the close of Pre-registration; please email <refunds@anthrocon.org> if a refund is needed.
 
 If you find that you will not need or cannot use any or all of your Dealership space, please inform us as soon as possible. The earlier we know, the easier it will be for a replacement Dealer to make travel plans for Anthrocon. It is against Anthrocon's policy to transfer an unwanted table to another person to bypass the waiting list.
 
 Table or Memberships cancellations should be directed to both <dealers@anthrocon.org> and <refunds@anthrocon.org>. If canceling a table, please mention explicitly whether you wish to cancel your Dealer membership or have it converted to a standard Membership.
 
-Full refunds will be given for 2025 tables that are canceled on or before April 30th, 2025. No refunds will be given for tables canceled after this date!
+Full refunds will be given for 2025 tables that are canceled on or before April 30, 2025. No refunds will be given for tables canceled after this date!
 
-Full refunds will be given for 2025 Memberships that are canceled on or before June 13th, 2025. No refunds will be given for memberships canceled after this date! Neither Memberships nor Dealerships can be ‘rolled over’ to the next year’s convention, and ‘vouchers’ are no longer provided.
+Full refunds will be given for 2025 Memberships that are canceled on or before June 13, 2025. No refunds will be given for memberships canceled after this date! Neither Memberships nor Dealerships can be ‘rolled over’ to the next year’s convention, and ‘vouchers’ are no longer provided.
 
 There are occasionally last-minute cancellations that cannot be dealt with before the close of pre-registration. Anthrocon will offer these tables on a first-come first-serve basis to appropriate new potential Dealers or as upgrade options for Dealers seeking a larger table. These tables will be available on Thursday at noon.
 
@@ -271,7 +271,7 @@ To purchase a table on site on Thursday or Friday, any potential dealer must hav
 
 Dealer Registration is located in Hall D/E. Be aware that you cannot enter the rest of the DLCC without first collecting your badge, and as such you will not be able to reach Halls A and B. You will need a government issued photo ID to pick up your registration the same as attendee registration.
 
-Dealer registration will be opening at 12 PM on Thursday, July 3rd, 2025. There will be a specific line only for dealers and dealer assistants to pick up their registration badges, you do not need to wait in the general attendee lines. Dealer registration tends to fairly quickly, but be aware there can be waits during peak times such as opening and just before dock opening. Any available tables can be purchased on a first come, first served basis at dealer registration right at 12 PM. There will be no queuing allowed for open tables until 11:45 AM with no exceptions. Dealer registration may open early if possible but tables will not be sold until noon.
+Dealer registration will be opening at 12 PM on Thursday, July 3, 2025. There will be a specific line only for dealers and dealer assistants to pick up their registration badges, you do not need to wait in the general attendee lines. Dealer registration tends to fairly quickly, but be aware there can be waits during peak times such as opening and just before dock opening. Any available tables can be purchased on a first come, first served basis at dealer registration right at 12 PM. There will be no queuing allowed for open tables until 11:45 AM with no exceptions. Dealer registration may open early if possible but tables will not be sold until noon.
 
 Dealer Assistants may also pick their preregistered assistant badges in this line. If a Dealer Assistant is not already registered, they can also register in this line. A registered Dealer must accompany anyone registering on site as a Dealer Assistant to verify that they authorize their assistant. Preregistered Dealer Assistants do not need to be accompanied by anyone but do still need their photo ID as above.
 
@@ -285,7 +285,7 @@ During all setup and teardown periods, dealers may hand-carry or use a non-motor
 
 Dealers are able to drive their vehicles onto the floor of Halls A&B for unloading. Vehicles can only remain on the floor while being unloaded, and once unloaded they must be removed from the convention center immediately. Dealers may not keep their vehicles parked while setting up their tables, and all vehicles must be removed from the convention center prior to 8:30 PM on Thursday, with **no exceptions**.
 
-The Teamsters and loading dock will be available from 3:00 PM until 9:00 PM on Thursday. Teamsters and the loading dock will be available from 4 PM until 8 PM on Sunday, July 7th for teardown and loadout. **New for 2025:** because of the early opening time, vehicles are not permitted on the floor on Friday, though items can still be dropped off at the loading dock to be delivered to your table.
+The Teamsters and loading dock will be available from 3:00 PM until 9:00 PM on Thursday. Teamsters and the loading dock will be available from 4 PM until 8 PM on Sunday, July 7 for teardown and loadout. **New for 2025:** because of the early opening time, vehicles are not permitted on the floor on Friday, though items can still be dropped off at the loading dock to be delivered to your table.
 
 Dealers who wish to have things shipped in advance and delivered to the DLCC during load-in can do so via APA Exhibition Services, who provide both warehousing and delivery services for a fee. This service must be ordered and paid for before the convention; the order form for shipping and delivery will be provided four to six weeks prior to the convention. Please note that Anthrocon has no control over this service, and will not be able to provide much in the way of assistance; issues should be brought up to APA directly.
 

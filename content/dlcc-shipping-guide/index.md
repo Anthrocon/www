@@ -24,11 +24,11 @@ The charges for shipments to the Dealers' Room at the DLCC are as follows:
 - Pallets (banded or shrink-wrapped) (Option A): $65 for each 100 pounds (200 pound minimum) until June 22, 2022; $80 thereafter
 - Shipping in Crates? Warning! May incur carpenter labor charges to open a crate.
 
-These charges cover receipt, storage, and delivery of packages to your dealer table by Thursday, June 30th. The advantage is that you will not have to drag them over to the loading dock yourself on Thursday morning! And, with our new agreement with APA Exposition Services, you can start sending things as soon as June 1, 2022.
+These charges cover receipt, storage, and delivery of packages to your dealer table by Thursday, June 30. The advantage is that you will not have to drag them over to the loading dock yourself on Thursday morning! And, with our new agreement with APA Exposition Services, you can start sending things as soon as June 1, 2022.
 
 Step 1) **Download and complete the** [2022 Freight Manual](2022+ANTHROCON+SHIPPING.pdf). Select Option A, B, or C on Page 2.
 
-Step 2) If your shipment is going to arrive on or before June 27, please use the "Ship to warehouse" option. The DLCC is not receiving shipments for us this year. IF the shipment is going to arrive on or after June 28th, please use the "Ship to Show Site" option.
+Step 2) If your shipment is going to arrive on or before June 27, please use the "Ship to warehouse" option. The DLCC is not receiving shipments for us this year. IF the shipment is going to arrive on or after June 28, please use the "Ship to Show Site" option.
 
 Step 3) IF YOU THINK YOU MIGHT BE SHIPPING SOMETHING HOME, fill in the "Outbound Shipping Form" on page 3 and send it in. If you opt not to ship anything home, then there's no charge or penalty. If you want to ship something home and have submitted this form prior to the convention, then APA will come by and collect your packages and ship them for you. If you have not submitted this form prior to the convention, then APA WILL NOT SHIP your packages for you.
 

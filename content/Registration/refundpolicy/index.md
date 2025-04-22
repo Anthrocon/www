@@ -18,7 +18,7 @@ As much as we hope everyone planning to come to Anthrocon can attend, we underst
 
 Anthrocon has the following policies in place for Membership refunds, including when we *can* and *cannot* grant them:
 
-- There is a refund deadline every year for Memberships, the Friday before the close of Pre-registration. For Anthrocon 2025, that date is **June 13th, 2025 at 11:59 PM EDT**. Refund requests after this time will not be granted. Memberships cannot be transferred after the refund deadline.
+- There is a refund deadline every year for Memberships, the Friday before the close of Pre-registration. For Anthrocon 2025, that date is **June 13, 2025 at 11:59 PM EDT**. Refund requests after this time will not be granted. Memberships cannot be transferred after the refund deadline.
 - A portion of all Sponsor, Supersponsor, or Ultrasponsor membership fees **include a non-refundable donation to Anthrocon** which will help us to provide the finest convention experience we can. As Anthrocon is a 501(c)7 registered nonprofit organization, the portion that is considered donation is not deductible from U.S. taxes. As a donation, **it is not refundable if a registration is canceled or downgraded**. The donation portion of each membership level as well as the total refundable amount for Anthrocon 2025 is as follows:
 
 {{< center >}}
@@ -32,7 +32,7 @@ Anthrocon has the following policies in place for Membership refunds, including 
 
 ## Rollovers & Deferrals
 
-For those who find that they will be unable to attend the convention after the refund deadline you may request that your membership be deferred to the following year. Deferred memberships have no cash value, cannot be refunded at any time, and will only be good for the following convention year. Deferred memberships cannot be downgraded to another membership type. If the deferred membership is not used the following year, it will be forfeited. Requests for deferral must be received from the time pre-registration closes until the Monday before the convention. For Anthrocon 2025 that date is **June 30th, 2025 at 11:59 PM EDT**. Deferral requests after this time will not be granted.
+For those who find that they will be unable to attend the convention after the refund deadline you may request that your membership be deferred to the following year. Deferred memberships have no cash value, cannot be refunded at any time, and will only be good for the following convention year. Deferred memberships cannot be downgraded to another membership type. If the deferred membership is not used the following year, it will be forfeited. Requests for deferral must be received from the time pre-registration closes until the Monday before the convention. For Anthrocon 2025 that date is **June 30, 2025 at 11:59 PM EDT**. Deferral requests after this time will not be granted.
 
 ## Requirements and Policies for requests
 

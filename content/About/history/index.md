@@ -20,12 +20,12 @@ Attendance has reflected our goal and we thank all of our attendees for their pa
 
 ### **2025 - Deep Sea Adventures**
 
-July 3rd-July 6th, 2025<br>
+July 3-July 6, 2025<br>
 Pittsburgh, PA
 
 ### **2024 - AnthroCoaster**
 
-July 4th-July 7th, 2024<br>
+July 4-July 7, 2024<br>
 Pittsburgh, PA
 
 **Charity:** [Over $100,000 for Gray Paws Sanctuary](/charity-event-history)<br>
@@ -34,7 +34,7 @@ Pittsburgh, PA
 
 ### **2023 - Anthropolis, Our Furry City**
 
-June 29th-July 2nd, 2023<br>
+June 29-July 2, 2023<br>
 Pittsburgh, PA
 
 **Special Guest:** City of Pittsburgh
@@ -45,7 +45,7 @@ Pittsburgh, PA
 
 ### **2022 - Aesop's Fables**
 
-June 30th-July 3rd, 2022<br>
+June 30-July 3, 2022<br>
 Pittsburgh, PA
 
 **Guests of Honor:** Sue Deer, Kévin “Kékéflipnote” Gemin
@@ -66,7 +66,7 @@ A virtual event was held this year due to COVID-related issues.
 
 ### **2019 - Surf Pacific**
 
-July 4th-7th, 2019<br>
+July 4-7, 2019<br>
 Pittsburgh, PA
 
 **Guests of Honor**: Benjamin Diskin, SonicFox, Steve Gallacci
@@ -77,7 +77,7 @@ Pittsburgh, PA
 
 ### **2018 - Movie Monsters**
 
-July 5th-July 8th, 2018<br>
+July 5-July 8, 2018<br>
 Pittsburgh, PA
 
 **Guests of Honor:** Len Simon, Ursula Vernon
@@ -88,7 +88,7 @@ Pittsburgh, PA
 
 ### **2017 - Take Me Out To The Ballgame**
 
-June 29-July 2nd, 2017<br>
+June 29-July 2, 2017<br>
 Pittsburgh, PA
 
 **Guests of Honor:** Charlie Adler

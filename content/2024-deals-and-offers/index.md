@@ -87,7 +87,7 @@ Come for an exclusive screening of the first animated feature from legendary fil
 
 **Offer:** Special $5 admission with your Anthrocon membership badge, or children 12 and under
 
-**Screening date and time:** Saturday, July 6th at 4pm
+**Screening date and time:** Saturday, July 6 at 4pm
 
 <--->
 
@@ -122,11 +122,11 @@ The National Aviary is THE nation’s bird zoo, with more than 500 birds and ani
 {{< columns "58%" >}}
 ### [Bae Bae’s Kitchen - Music Party](https://baebaes.kitchen/pittsburgh-cultural-district-bae-bae-s-kitchen-about)
 
-A local spot located on Liberty Avenue is hosting a music party on Saturday, July 6th from 6 to 9pm. A special menu will be available during Anthrocon for attendees, with some specific discounts (see the [Restaurant Offers](#restaurant-offers) section above).
+A local spot located on Liberty Avenue is hosting a music party on Saturday, July 6 from 6 to 9pm. A special menu will be available during Anthrocon for attendees, with some specific discounts (see the [Restaurant Offers](#restaurant-offers) section above).
 
 **Admission**: Free
 
-**Date and time**: Saturday, July 6th from 6-9pm
+**Date and time**: Saturday, July 6 from 6-9pm
 
 <--->
 

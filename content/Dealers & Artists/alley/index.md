@@ -23,7 +23,7 @@ params:
 
 <--->
 
-**Artist Alley Lottery sign-up are now open until May 30th, 2025**. Please ensure that you read the [Artists Information section](#artists-information) before applying further below on the page.
+**Artist Alley Lottery sign-up are now open until May 30, 2025**. Please ensure that you read the [Artists Information section](#artists-information) before applying further below on the page.
 
 The Artists Alley is *not* the Dealers Room, and is not intended to be used as a free alternative to it. Space is limited, but we do our best to accommodate as many artists as possible.
 {{< /columns >}}

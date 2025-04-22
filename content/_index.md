@@ -7,7 +7,7 @@ params:
     banner: "AC_2022_group+photo_3000px_dark.jpg"
     banner_video: "https://youtu.be/zuyyRuu00Dk"
     banner_title: "Anthrocon is Pittsburgh's Premier Furry Convention"
-    banner_caption: "July 3rd - July 6th, 2025"
+    banner_caption: "July 3 - July 6, 2025"
     banner_button: "Register for Event"
     banner_button_link: "https://www.anthrocon.org/registration/"
     banner_author: "Patrick Snowyote"

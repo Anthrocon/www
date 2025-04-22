@@ -13,7 +13,7 @@ params:
 
 # Dealers Room
 
-{{< center >}}Anthrocon 2025's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 4th to Sunday July 6th. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
+{{< center >}}Anthrocon 2025's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 4 to Sunday July 6. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
 
 {{< center >}}[Important information](#important-information-for-applying) - [Table Pricing for 2025](#table-pricing-for-2025) - [Dealers Assistants](#dealers-assistants){{< /center >}}
 
@@ -29,7 +29,7 @@ The 2025 Dealers List and Map is currently not available. Please check back at a
 
 ## **Dealers applications for Anthrocon 2025**
 
-Applications to vend at Anthrocon 2025 will be open from **October 21st at 12 PM Eastern Daylight Time** to **November 21st, 2024**. Reviews and acceptance or rejections will be finalized **by January 27th, 2025**. If you are a Dealer’s Assistant, you must wait until your Dealer is approved before applying separately for a Dealer Assistant badge.
+Applications to vend at Anthrocon 2025 will be open from **October 21 at 12 PM Eastern Daylight Time** to **November 21, 2024**. Reviews and acceptance or rejections will be finalized **by January 27, 2025**. If you are a Dealer’s Assistant, you must wait until your Dealer is approved before applying separately for a Dealer Assistant badge.
 
 **New for Anthrocon 2025:** Dealers will apply through our new registration system. Follow these steps to apply.
 
