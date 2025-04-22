@@ -33,7 +33,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 {{< center >}}Please note that the hotels below are confirmed to have shuttle service, but specific routes may be subject to change. Routes will be finalized by July 1, 2024.{{< /center >}}
 
 {{< details "Arena District (Blue) - Cambria, Doubletree, Kimpton Hotel Monaco, Marriott City, Omni" >}}
-**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
+**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency**: Buses will arrive at each hotel approximately every 20 minutes.
 
@@ -44,7 +44,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 {{< /details >}}
 
 {{< details "Market District (Purple) - EVEN, Embassy, Hilton Garden Inn" >}}
-**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
+**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency**: Buses will arrive at each hotel approximately every 15-20 minutes.
 
@@ -56,7 +56,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 {{< /details >}}
 
 {{< details "North Shore (Yellow) - Hyatt Place, Holiday Inn North Shore, Residence Inn" >}}
-**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
+**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency**: Buses will arrive at each hotel approximately every 45 minutes.
 
@@ -64,7 +64,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 {{< /details >}}
 
 {{< details "Riverfront Line (Green) - Wyndham, Renaissance" >}}
-**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
+**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency**: Buses will arrive at each hotel approximately every 15-20 minutes.
 
@@ -75,7 +75,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 {{< /details >}}
 
 {{< details "South Shore (Orange) - Fairfield, Joinery, Sheraton Station Square" >}}
-**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
+**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency**: Buses will arrive at each hotel approximately every 45 minutes.
 
@@ -83,7 +83,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday,
 {{< /details >}}
 
 {{< details "Strip District (Red) - Hampton, Homewood" >}}
-**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59PM on Sunday evening.
+**Time**: Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency**: Buses will arrive at each hotel approximately every 20 minutes.
 

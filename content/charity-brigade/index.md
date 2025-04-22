@@ -24,6 +24,6 @@ We encourage fursuiters to participate in the bucket brigade, but if you’ve al
 
 ## Sign-ups for the Bucket Brigade
 
-{{< center >}}If you’re interested in volunteering, fill out the form below. The potential hours we’re looking for would be Friday between 12-5pm, Saturday 10am-5pm, Sunday 10am-3pm.{{< /center >}}
+{{< center >}}If you’re interested in volunteering, fill out the form below. The potential hours we’re looking for would be Friday between 12-5 PM, Saturday 10 AM-5 PM, Sunday 10 AM-3 PM.{{< /center >}}
 
 {{< center >}}Please note for minors, you will need to be accompanied by a parent/guardian to participate as a charity brigade volunteer. If you have questions, contact [charity@anthrocon.org](mailto:charity@anthrocon.org?subject=Anthrocon%202024%20Bucket%20Brigade).{{< /center >}}

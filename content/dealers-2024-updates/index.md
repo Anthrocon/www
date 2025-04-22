@@ -30,7 +30,7 @@ Located between the Dealers Room and the Artists Alley in rows Q and R, The Bode
 
 - Because of the change to Endcaps, we'll no longer be offering Triple or Quintuple Endcaps; these two options will be replaced with Quadruple and Sextuple Endcaps, the largest arrangement Anthrocon has ever offered. (Sextuple tables are only available with Endcaps and will very be limited.)
 
-**Friday’s grand opening will be reworked!** We'll be testing out a new 'rolling entry' method to hopefully avoid last year's unplanned and unannounced early opening on Friday. More details will be available soon, but most importantly the opening time on Friday will be moved back to 11:30AM from the traditional Noon. This means the loading docks will be closed a half-hour earier as well, and all vehicles must be off the floor by 11:00AM.
+**Friday’s grand opening will be reworked!** We'll be testing out a new 'rolling entry' method to hopefully avoid last year's unplanned and unannounced early opening on Friday. More details will be available soon, but most importantly the opening time on Friday will be moved back to 11:30 AM from the traditional Noon. This means the loading docks will be closed a half-hour earier as well, and all vehicles must be off the floor by 11:00 AM.
 
 **There will be a Headless Lounge in Hall A.** We hope this will help our fursuiter friends be able to navigate the Dealers and Concourse area for longer periods and reduce the risk of overheating.
 
