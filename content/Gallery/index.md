@@ -19,6 +19,78 @@ params:
           attr: "Nightdragon"
           attrlink: ""
 
+        - image: "2023+Luau+6920.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Luau"
+          attrlink: ""
+
+        - image: "2024+Kavaeric+DSC00034.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Kavaeric"
+          attrlink: ""
+
+        - image: "2024+Kavaeric+DSC03857.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Kavaeric"
+          attrlink: ""
+          
+        - image: "2023+Kavaeric+_DSC7117.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Kavaeric"
+          attrlink: ""
+          
+        - image: "2024+Kavaeric+DSC04836.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Kavaeric"
+          attrlink: ""
+          
+        - image: "2024+Kavaeric+DSC08367.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Kavaeric"
+          attrlink: ""
+          
+        - image: "2024+Kaze+6533.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Kaze"
+          attrlink: ""
+          
+        - image: "2024+LionelLeupold+BU2A4796.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "LionelLeupold"
+          attrlink: ""
+          
+        - image: "2024+LionelLeupold+BU2A5862.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "LionelLeupold"
+          attrlink: ""
+          
+        - image: "2024+Luau+21.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Luau"
+          attrlink: ""
+          
+        - image: "2024+Luau+7280.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Luau"
+          attrlink: ""
+          
+        - image: "2024+Tobee+20240706_194757.jpg"
+          alt: ""
+          hint: "photo"
+          attr: "Tobee"
+          attrlink: ""
+
 layout: "gallery"
 ---
 
