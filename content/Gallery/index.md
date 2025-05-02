@@ -7,18 +7,6 @@ params:
     banner_author: ""
     banner_url: ""
     gallery:
-        - image: "2023+Kavaeric+_DSC6257.jpg"
-          alt: ""
-          hint: "photo"
-          attr: "Kavaeric"
-          attrlink: ""
-
-        - image: "2023+Nightdragon+AC+019.jpg"
-          alt: ""
-          hint: "photo"
-          attr: "Nightdragon"
-          attrlink: ""
-
         - image: "2023+Luau+6920.jpg"
           alt: ""
           hint: "photo"
@@ -86,12 +74,6 @@ params:
           attrlink: ""
           
         - image: "2024+Tobee+20240706_194757.jpg"
-          alt: ""
-          hint: "photo"
-          attr: "Tobee"
-          attrlink: ""
-
-        - image: "tall.jpg"
           alt: ""
           hint: "photo"
           attr: "Tobee"
