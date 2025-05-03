@@ -25,73 +25,95 @@ Anthrocon is a Pennsylvania-incorporated 501(c)(7) not-for-profit organization. 
 **Vice Chairman**
 
 ### Eric “Faelan” Horton
+{{< /center >}}
 
 {{< columns >}}
+{{< center >}}
 **Director of Audio/Visual**
 
 Kenneth “Gen. Talon” Baker
+{{< /center >}}
 
 <--->
 
+{{< center >}}
 **Director of Registration**
 
 Dr. Valentina “Nuclear Space Cat” O’Donnell
+{{< /center >}}
 
 <--->
 
+{{< center >}}
 **Director of Public Relations/Outreach**
 
 John “K.P.” Cole
+{{< /center >}}
 {{< /columns >}}
 
 {{< columns >}}
+{{< center >}}
 **Acting Director of Events**
 
 Christopher “Sparf” Williams
+{{< /center >}}
 
 <--->
 
+{{< center >}}
 **Director of Art Show**
 
 Peter “PeterCat” Kappesser
+{{< /center >}}
 
 <--->
 
+{{< center >}}
 **Director of Dealers Room**
 
 Timothy “The Foxish” Mithee
+{{< /center >}}
 {{< /columns >}}
 
 {{< columns >}}
+{{< center >}}
 **Director of Digital Services/Board Secretary**
 
 Isaac “Ronnie” Tan
+{{< /center >}}
 
 <--->
 
+{{< center >}}
 **Director of Accessibility**
 
 Paige “Ysera” Ward
+{{< /center >}}
 
 <--->
 
+{{< center >}}
 **Director of Operations**
 
 Scott “Talyn” Williams
+{{< /center >}}
 {{< /columns >}}
 
 {{< columns >}}
+{{< center >}}
 **Director of Public Safety**
 
 Jeffrey “Humphrey” Costa
+{{< /center >}}
 
 <--->
 
+{{< center >}}
 **Director of Finances/Treasurer**
 
 Douglas “Chittebengo” Payne
-{{< /columns >}}
 {{< /center >}}
+{{< /columns >}}
 
 ***
 
