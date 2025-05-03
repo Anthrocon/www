@@ -17,16 +17,23 @@ Anthrocon is a Pennsylvania-incorporated 501(c)(7) not-for-profit organization. 
 
 ## Board of Directors
 
+{{< columns >}}
 {{< center >}}
-**Chairman and CEO**
+### Chairman and CEO
 
-### Dr. Samuel “Uncle Kage” Conway
-
-**Vice Chairman**
-
-### Eric “Faelan” Horton
+**Dr. Samuel “Uncle Kage” Conway**
 {{< /center >}}
 
+<--->
+
+{{< center >}}
+### Vice Chairman
+
+**Eric “Faelan” Horton**
+{{< /center >}}
+{{< /columns >}}
+
+\
 {{< columns >}}
 {{< center >}}
 **Director of Audio/Visual**
