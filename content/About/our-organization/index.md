@@ -11,86 +11,115 @@ params:
 
 # Our Organization
 
-Anthrocon is a Pennsylvania-incorporated 501(c)7 not-for-profit organization. The staff and volunteers who put on the event do so entirely on a volunteer basis, with the primary motivation being a mutual desire to foster the growth of the furry community. The organization is overseen by a Board of Directors, who help provide governance and direction on key functions and areas of the annual event.
+Anthrocon is a Pennsylvania-incorporated 501(c)(7) not-for-profit organization. The staff and volunteers who put on the event do so entirely on a volunteer basis, with the primary motivation being a mutual desire to foster the growth of the furry community. The organization is overseen by the Board of Directors, who help provide governance and direction on key functions and areas of the annual event.
 
 ***
 
 ## Board of Directors
 
-{{< center >}}**Chairman and CEO**{{< /center >}}
-
-{{< center >}}### Dr. Samuel “Uncle Kage” Conway{{< /center >}}
-
 {{< columns >}}
-{{< center >}}**Director of Audio/Visual**{{< /center >}}
+{{< center >}}
+### Chairman and CEO
 
-{{< center >}}Kenneth “Gen. Talon” Baker{{< /center >}}
-
-<--->
-
-{{< center >}}**Director of Registration**{{< /center >}}
-
-{{< center >}}Dr. Valentina “Nuclear Space Cat” O’Donnell{{< /center >}}
+**Dr. Samuel “Uncle Kage” Conway**
+{{< /center >}}
 
 <--->
 
-{{< center >}}**Director of Public Relations/Outreach**{{< /center >}}
+{{< center >}}
+### Vice Chairman
 
-{{< center >}}John “K.P.” Cole{{< /center >}}
+**Eric “Faelan” Horton**
+{{< /center >}}
+{{< /columns >}}
+
+\
+{{< columns >}}
+{{< center >}}
+**Director of Audio/Visual**
+
+Kenneth “Gen. Talon” Baker
+{{< /center >}}
+
+<--->
+
+{{< center >}}
+**Director of Registration**
+
+Dr. Valentina “Nuclear Space Cat” O’Donnell
+{{< /center >}}
+
+<--->
+
+{{< center >}}
+**Director of Public Relations/Outreach**
+
+John “K.P.” Cole
+{{< /center >}}
 {{< /columns >}}
 
 {{< columns >}}
-{{< center >}}**Acting Director of Events**{{< /center >}}
+{{< center >}}
+**Acting Director of Events**
 
-{{< center >}}Christopher “Sparf” Williams{{< /center >}}
-
-<--->
-
-{{< center >}}**Director of Art Show**{{< /center >}}
-
-{{< center >}}Peter “PeterCat” Kappesser{{< /center >}}
+Christopher “Sparf” Williams
+{{< /center >}}
 
 <--->
 
-{{< center >}}**Director of Dealers Room**{{< /center >}}
+{{< center >}}
+**Director of Art Show**
 
-{{< center >}}Timothy “The Foxish” Mithee{{< /center >}}
+Peter “PeterCat” Kappesser
+{{< /center >}}
+
+<--->
+
+{{< center >}}
+**Director of Dealers Room**
+
+Timothy “The Foxish” Mithee
+{{< /center >}}
 {{< /columns >}}
 
 {{< columns >}}
-{{< center >}}**Director of Internet Service**{{< /center >}}
+{{< center >}}
+**Director of Digital Services/Board Secretary**
 
-{{< center >}}Maj. George “Tigerwolf” Nemeyer, USAF (Ret.){{< /center >}}
-
-<--->
-
-{{< center >}}**Director of Digital Services**{{< /center >}}
-
-{{< center >}}Isaac “Ronnie” Tan{{< /center >}}
+Isaac “Ronnie” Tan
+{{< /center >}}
 
 <--->
 
-{{< center >}}**Director of Print & Digital Media**{{< /center >}}
+{{< center >}}
+**Director of Accessibility**
 
-{{< center >}}Paige “Ysera” Ward{{< /center >}}
+Paige “Ysera” Ward
+{{< /center >}}
+
+<--->
+
+{{< center >}}
+**Director of Operations**
+
+Scott “Talyn” Williams
+{{< /center >}}
 {{< /columns >}}
 
 {{< columns >}}
-{{< center >}}**Director of Operations**{{< /center >}}
+{{< center >}}
+**Director of Public Safety**
 
-{{< center >}}Scott “Talyn” Williams{{< /center >}}
-
-<--->
-
-{{< center >}}**Director of Public Safety**{{< /center >}}
-
-{{< center >}}Jeffrey “Humphrey” Costa{{< /center >}}
+Jeffrey “Humphrey” Costa
+{{< /center >}}
 
 <--->
 
-{{< center >}}**Director of Finances**{{< /center >}}
+{{< center >}}
+**Director of Finances/Treasurer**
 
-{{< center >}}Douglas “Chittebengo” Payne{{< /center >}}
+Douglas “Chittebengo” Payne
+{{< /center >}}
 {{< /columns >}}
 
 ***
