@@ -1,5 +1,5 @@
 ---
-title: "Do's and Don'ts of Interacting with Fursuiters"
+title: "Dos and Don'ts of Interacting with Fursuiters"
 params:
     author: "Kijani Lion"
     banner: "DSC06986-ACW.jpg"

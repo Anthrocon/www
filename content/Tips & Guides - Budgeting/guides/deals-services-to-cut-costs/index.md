@@ -15,9 +15,9 @@ There are some deals and services that can help make your Anthrocon experience a
 
 ## Dining and Restaurant Deals
 
-Many local businesses in the area offer Anthrocon-themed specials during the week of Anthrocon. One of the most famous examples of this is the Pizza Parma on Liberty Avenue, formerly known as Fernando's (or Furnando's). During the convention they become "Furryland" and serve a wide variety of affordable, filling eats. In addition, attendees that help out Anthrocon by [volunteering for the convention](/volunteer) may also earn additional discounts and coupons that are useable at partnered restaurants and food establishments, providing even more savings.
+Many local businesses in the area offer Anthrocon-themed specials during the week of Anthrocon. One of the most famous examples of this is the Pizza Parma on Liberty Avenue, formerly known as Fernando's (or Furnando's). During the convention they become "Furryland" and serve a wide variety of affordable, filling eats including a sandwich combo served in a dog bowl. In addition, attendees that help out Anthrocon by [volunteering for the convention](/volunteer) may also earn additional discounts and coupons that are usable at partnered restaurants and food establishments, providing even more savings.
 
-Around the city, there are restaurants and establishments that may have “themed” menus or offers which might offer something novel for you to try while being priced more reasonably. If you’re looking for more details on establishments for food and drinks, and looking to see which ones have deals or good price points, we’ll have our 2023 options updated soon on our [Dining Guide](/at-the-convention#dining).
+Around the city, there are restaurants and establishments that may have “themed” menus which might offer something novel for you to try while being priced more reasonably. The best way to find out if a restaurant is offering any specials is to call, or if you have time, go in person and snap a pic of the special menu for future reference.
 
 ## Transportation & Parking
 
@@ -35,9 +35,11 @@ For example, the Drury hotel has free breakfast every day for guests that are st
 
 ## Shopping at the Dealers Room or Art Show
 
-When you’re lost in the sea of booths and tables selling wonderous wares, it might be hard to keep track of how you’ll get all your goods home - especially if you’re flying to Anthrocon. You may want to ask dealers or artists if they’re able to offer you **shipping for any purchases you make**, instead of having to lug it all in your luggage and pay extra bag fees. This might also come in the form of “take-home” commissions, where an artist may offer to send your commission to you as an added service (fees dependent). However, it’s best to be prepared with a plan for how much you’ll be buying at the convention, and how much you’re able to take home without paying too many extra fees.
+When you’re lost in the sea of booths and tables selling wondrous wares, it might be hard to keep track of how you’ll get all your goods home - especially if you’re flying to Anthrocon. You may want to ask dealers or artists if they’re able to offer you **shipping for any purchases you make**, instead of having to lug it all in your luggage and pay extra bag fees. This might also come in the form of “take-home” commissions, where an artist may offer to send your commission to you as an added service (fees dependent). However, it’s best to be prepared with a plan for how much you’ll be buying at the convention, and how much you’re able to take home without paying too many extra fees.
 
 On the last day of conventions, some dealers or artists may even offer “end of con” sales or discounts when they’re looking to clear out their inventory. This could translate into a great opportunity for you to save some money on artwork or merchandise; the exact discounts will vary between dealers, and you may not see the same level of inventory that they had earlier in the convention.
+
+At the Art Show specifically, works that do not procure any bids will sometimes have what’s called a “Price After Closing”, where you can occasionally pick up pieces for less than the opening bid. This price is set by the artist and can be changed if they wish to sell it for cheaper instead of taking it home - a great way to support an artist and also save on your con budget!
 
 ## Where Can You Find Other Tips?
 
