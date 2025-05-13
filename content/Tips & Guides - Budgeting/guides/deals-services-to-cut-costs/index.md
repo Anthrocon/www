@@ -21,7 +21,7 @@ Around the city, there are restaurants and establishments that may have “theme
 
 ## Transportation & Parking
 
-***Here’s an important one if you are staying at a further hotel***: Anthrocon is chartering [shuttle buses](/shuttle-buses) to transport attendees to and from the convention center and your partnered hotel, **free of charge**. These buses will also come with a tracking system so you’ll be able to see where the shuttle bus is, and how long it will take to get to your hotel. For more information on the shuttle buses and route maps, see our [At The Convention page](/at-the-convention#shuttle).
+***Here’s an important one if you are staying at a further hotel***: Anthrocon is chartering [shuttle buses](/shuttle-buses) to transport attendees to and from the convention center and your partnered hotel, **free of charge**. These buses will also come with a tracking system so you’ll be able to see where the shuttle bus is, and how long it will take to get to your hotel. For more information on the shuttle buses and route maps, see our [Shuttle Buses page](/shuttle-buses).
 
 If you’re driving to the city, you might be looking for a place to park for the weekend without having to pay a hefty premium. Pittsburgh has many different options for public parking lots that allow for cheaper overnight parking, with many of them in covered garages that are monitored. This will help you save a good chunk of change rather than having to always valet park your vehicle, unless you’ve got a need to access your car frequently. We’ve got a list of some nearby parking lots that attendees have used in the past, which you can [access on Google Maps](https://www.google.com/maps/d/u/0/viewer?ll=40.44194598380221%2C-79.9980669&mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&z=16). Please note that Anthrocon does not currently have any sort of deals or discount partnerships with any parking garages or lots.
 
@@ -45,4 +45,4 @@ At the Art Show specifically, works that do not procure any bids will sometimes 
 
 Though these are only some of the deals and services that you might be able to find at Anthrocon, there might be other tips you can find by asking the furry community online through platforms like Twitter, Facebook, and Discord. We pride ourselves on being a community based on help and shared knowledge (hence why we’re writing these articles), and you might make a new friend along the way!
 
-If you’ve got any other suggestions on deals or services that might help, let us know at <webmaster@anthrocon.org> and we’ll be happy to hear from you.
+If you’ve got any other suggestions on deals or services that might help, let us know at <info@anthrocon.org> and we’ll be happy to hear from you.

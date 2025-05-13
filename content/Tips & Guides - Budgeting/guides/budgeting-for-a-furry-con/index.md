@@ -17,11 +17,11 @@ Everyone has their own budget for conventions, so how do you make sure you keep 
 
 ## Travel Expenses
 
-Unless you’re fortunate enough to live locally or within reasonable driving distance, the greatest part of your expense budget will be your flight to Pittsburgh, and your hotel stay. Flights across the board are more expensive this year as summer travel picks up, and more people are vacationing post-pandemic, so be prepared to spend a bit more on air travel than in previous years. Additionally, being that the Fourth of July is on Friday this year, expect holiday weekend travel to be priced at a premium.
+Unless you’re fortunate enough to live locally or within reasonable driving distance, the greatest part of your expense budget will be your flight to Pittsburgh, and your hotel stay. Flights across the board are more expensive this year as summer travel picks up, and more people are vacationing post-pandemic, so be prepared to spend a bit more on air travel than in previous years. Additionally, since Anthrocon normally falls around the 4th of July weekend, expect holiday travel to be priced at a premium.
 
 That being said, make sure you price check regularly, especially midweek as airfares tend to dip from Tuesday-Thursday, and you can also sign up for price alerts on several websites that will send you a text or email when your flight itinerary lowers in price.
 
-For those of us who regularly fly Southwest Airlines to cons for the free checked bags perk, please note that the airline has discontinued that longstanding promotion for flights booked AFTER May 27, 2025. If you’ve already booked your flight prior to May 27, your bags will still fly free! If you haven’t booked your Southwest flight to Pittsburgh yet, be sure to do so before the deadline to save up to $150 in additional fees!
+For those of us who regularly fly Southwest Airlines to cons for the free checked bags perk, please note that the airline has discontinued that longstanding promotion for flights booked AFTER May 27, 2025. If you’ve already booked your flight prior to May 27, 2025, your bags will still fly free! If you haven’t booked your Southwest flight to Pittsburgh yet, be sure to do so before the deadline to save up to $150 in additional fees!
 
 Also, a 4-night hotel stay in a standard room at one of the Anthrocon hotels will run close to $1,000 now after taxes and fees, so a huge factor in your budget will be the ability to split hotel costs with roommates – ideally a 4-way split will **save you about $750** as opposed to staying by yourself!
 
@@ -44,4 +44,4 @@ Also, keep in mind that many, if not most dealers offer the same or similar merc
 - **It can easier to split your budget into daily increments** – if you’re staying for 3 days, for example, and figure you can spend $100 total on food, that’s ~ $33 a day. That’s a lot easier to budget for than $100 over 3 days, where a more expensive meal will put you behind budget.
 - **Beware of additional service fees!** Unless you’re flying Southwest Airlines (and purchased your ticket before May 27) or have status with another airline, you’ll have to pay a premium for every checked bag – as much as $140 round trip if you’re checking two bags. Also keep in mind things like gratuities for service industry workers ($3-$5 per day for housekeeping staff, same for shuttle drivers), and your transportation to/from the airport if you need it, as it can be easy to overlook those costs.
 
-Hopefully this blog post has helped you in planning and budgeting for your experience at Anthrocon! If you have any further questions or would like to submit feedback, you can contact our team at <webmaster@anthrocon.org> and we’ll be happy to respond.
+Hopefully this blog post has helped you in planning and budgeting for your experience at Anthrocon! If you have any further questions or would like to submit feedback, you can contact our team at <info@anthrocon.org> and we’ll be happy to respond.
