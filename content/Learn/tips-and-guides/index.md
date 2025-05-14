@@ -114,7 +114,7 @@ Every attendee plays a part in ensuring that Anthrocon is the best it can be, an
 
 <--->
 
-### [respect between attendees, the con, and the public](/guides/mutual-respect-attendees-convention-public)
+### [Respect between attendees, the con, and the public](/guides/mutual-respect-attendees-convention-public)
 
 As Anthrocon grows, the more important it becomes to show mutual respect within our community, and our surrounding environment.
 
@@ -154,7 +154,7 @@ If your kid (or your parent) is bringing you to your first Anthrocon, there are 
 
 <--->
 
-### [Do's and don'ts of interacting with fursuiters](/guides/dos-and-donts-of-interacting-with-fursuiters)
+### [Dos and don'ts of interacting with fursuiters](/guides/dos-and-donts-of-interacting-with-fursuiters)
 
 While fursuiters can be awesome to see and interact with, it’s important to remember that there are common courtesies to consider.
 
@@ -180,7 +180,7 @@ Learn some tips on how to prepare for the summer weather in the Steel City, whic
 
 ### [Fursuiting Opportunities and Places at Anthrocon](/guides/fursuiting-opportunities-and-activites-in-pittsburgh)
 
-.Check out some of these recommendations on where fursuiters can find great opportunities to fursuit, hang out, and interact with others.
+Check out some of these recommendations on where fursuiters can find great opportunities to fursuit, hang out, and interact with others.
 
 **(Photographer: Randorn)**
 {{< /columns >}}
