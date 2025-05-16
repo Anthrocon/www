@@ -13,18 +13,15 @@ params:
 {{< columns >}}
 Anthrocon’s stages showcase the best of furry-centric talent to our attendees, from musical journeys, to comedic skits, and even high-flying acrobatics.
 
-- [Apply to Perform at Anthrocon Tonight](https://forms.gle/sWWLK3Xqe7fPCsfs7)
 - [Stage Performance Policies](#stage-performance-policies-and-rules)
 - [Frequently Asked Questions](#frequently-asked-questions)
+
+{{< center >}}{{< button href="https://forms.gle/sWWLK3Xqe7fPCsfs7" >}}Apply to Perform at Anthrocon Tonight{{< /button >}}{{< /center >}}
 
 <--->
 
 {{< img src="LUAU-6964.jpg" alt="An otter performing the guitar on Anthrocon's performance stage." hint="picture" attr="Hokuloa Luau" >}}
 {{< /columns >}}
-
-***
-
-{{< center >}}{{< button href="https://forms.gle/sWWLK3Xqe7fPCsfs7" >}}Apply to Perform at Anthrocon Tonight{{< /button >}}{{< /center >}}
 
 ***
 
