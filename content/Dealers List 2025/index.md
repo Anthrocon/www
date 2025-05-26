@@ -27,7 +27,7 @@ The schedule for the Dealers Room will be as follows:
 
 ## Dealers List
 
-{{< center >}}**NOTE:** The effective date for this Dealers List is **May 21, 2025**, and table assignments may change before the convention.
+{{< center >}}**NOTE:** The effective date for this Dealers List is **May 21, 2025**, and table assignments may change before the convention.{{< /center >}}
 
 {{< details "Miscellaneous vendors" >}}
 - Charity (Nose 2 Tail Cat Rescue) - Hall B Area
