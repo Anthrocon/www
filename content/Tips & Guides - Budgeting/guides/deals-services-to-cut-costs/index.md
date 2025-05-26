@@ -39,7 +39,7 @@ When you’re lost in the sea of booths and tables selling wondrous wares, it mi
 
 On the last day of conventions, some dealers or artists may even offer “end of con” sales or discounts when they’re looking to clear out their inventory. This could translate into a great opportunity for you to save some money on artwork or merchandise; the exact discounts will vary between dealers, and you may not see the same level of inventory that they had earlier in the convention.
 
-At the Art Show specifically, works that do not procure any bids will sometimes have what’s called a “Price After Closing”, where you can occasionally pick up pieces for less than the opening bid. This price is set by the artist and can be changed if they wish to sell it for cheaper instead of taking it home - a great way to support an artist and also save on your con budget!
+At the Art Show specifically, works that do not procure any bids will sometimes have what’s called a “Price After Closing”, where you can occasionally pick up pieces for less than the opening bid. This price is set by the artist and can be changed if they wish to sell it for cheaper instead of taking it home — a great way to support an artist and also save on your con budget!
 
 ## Where Can You Find Other Tips?
 
