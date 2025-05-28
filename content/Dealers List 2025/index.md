@@ -1,5 +1,5 @@
 ---
-title: "Dealers List & Map 2025"
+title: "Dealers List and Map 2025"
 params:
     banner: "2024 Tobee 20240705_121442.jpg"
     banner_position: "67%"
@@ -9,9 +9,9 @@ params:
     banner_url: ""
 ---
 
-# 2025 Dealers Room Information & Map
+# 2025 Dealers Room Information and Map
 
-{{< center >}}The Dealers list and map below are for reference only — changes may happen last-minute. Please watch for announcements on our social media for any changes.{{< /center >}}
+{{< center >}}The dealers list and map below are for reference only — changes may happen last-minute. Please watch for announcements on our social media for any changes.{{< /center >}}
 
 {{< center >}}[Dealers List](#dealers-list) - [Back to main Dealers Room page](/dealers/){{< /center >}}
 
@@ -23,11 +23,11 @@ The schedule for the Dealers Room will be as follows:
 
 {{< center >}}View the map of the Dealers Room layout below. Click on the image to view a larger version.{{< /center >}}
 
-{{< img src="FLOORPLAN 2025 MAY.png" alt="A diagram of the Anthrocon 2025 Dealers Room where different vendors are located." hint="drawing" link="FLOORPLAN 2025 MAY_hu_7d56d7d44b338d5f.webp" caption="Anthrocon 2025 Dealers Room Layout" >}}
+{{< img src="FLOORPLAN 2025 MAY.png" alt="A diagram of the Anthrocon 2025 Dealers Room where different vendors are located." hint="drawing" link="FLOORPLAN 2025 MAY_hu_7d56d7d44b338d5f.webp" caption="Anthrocon 2025 Dealers Room layout." >}}
 
 ## Dealers List
 
-{{< center >}}**NOTE:** The effective date for this Dealers List is **May 21, 2025**, and table assignments may change before the convention.{{< /center >}}
+{{< center >}}**NOTE:** the effective date for this dealers list is **May 21, 2025**, and table assignments may change before the convention.{{< /center >}}
 
 {{< details "Miscellaneous vendors" >}}
 - Charity (Nose 2 Tail Cat Rescue) - Hall B Area
