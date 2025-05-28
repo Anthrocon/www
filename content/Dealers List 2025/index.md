@@ -17,13 +17,13 @@ params:
 
 The schedule for the Dealers Room will be as follows:
 
-- Friday, July 4: 12 PM to 6 PM (Ultra/Super/Sponsor starts at 11:30 AM)
-- Saturday, July 5: 10 AM to 6 PM (Ultra/Super/Sponsor starts at 9:30 AM)
-- Sunday, July 6: 10 AM to 4 PM
+- Friday, July 4 — 12 PM to 6 PM (Ultra/Super/Sponsor starts at 11:30 AM)
+- Saturday, July 5 — 10 AM to 6 PM (Ultra/Super/Sponsor starts at 9:30 AM)
+- Sunday, July 6 — 10 AM to 4 PM
 
 {{< center >}}View the map of the Dealers Room layout below. Click on the image to view a larger version.{{< /center >}}
 
-{{< img src="FLOORPLAN 2025 MAY.png" alt="A diagram of the Anthrocon 2025 Dealers Room where different vendors are located." hint="drawing" link="FLOORPLAN 2025 MAY.png" caption="Anthrocon 2025 Dealers Room Layout" >}}
+{{< img src="FLOORPLAN 2025 MAY.png" alt="A diagram of the Anthrocon 2025 Dealers Room where different vendors are located." hint="drawing" link="FLOORPLAN 2025 MAY_hu_7d56d7d44b338d5f.webp" caption="Anthrocon 2025 Dealers Room Layout" >}}
 
 ## Dealers List
 
