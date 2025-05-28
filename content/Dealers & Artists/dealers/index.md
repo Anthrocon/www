@@ -22,7 +22,7 @@ params:
 
 The 2025 Dealers List and Map are now available for viewing online. Check out where your favorite vendors will be located this year!
 
-{{< center >}}{{< button relref="/Dealers List 2025" >}}View List and Map{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="/dealers-list-2025/" >}}View List and Map{{< /button >}}{{< /center >}}
 
 <--->
 
