@@ -20,7 +20,9 @@ params:
 {{< columns >}}
 ## Anthrocon 2025 Dealers Room List and Map
 
-The 2025 Dealers List and Map is currently not available. Please check back at a later date.
+The 2025 Dealers List and Map are now available for viewing online. Check out where your favorite vendors will be located this year!
+
+{{< center >}}{{< button relref="/Dealers List 2025" >}}View List and Map{{< /button >}}{{< /center >}}
 
 <--->
 
