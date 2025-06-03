@@ -16,7 +16,7 @@ params:
 
 # Anthrocon Parade & Block Party
 
-{{< center >}}**We’re taking our engagement with the city of pittsburgh to the next level!**{{< /center >}}
+{{< center >}}**We’re taking our engagement with the City of Pittsburgh to the next level!**{{< /center >}}
 
 {{< center >}}On Saturday July 5, we’ll be closing down the street of Penn Avenue between 9 and 11 Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party**! We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
 
@@ -28,21 +28,37 @@ params:
 
 {{< center >}}Our annual fursuit parade will once again be going out into the streets of Pittsburgh for everyone to see!{{< /center >}}
 
+As our chairman indicated last year, there will be a limit to the parade capacity and there is to be a minimum standard of dress for participation in the 2025 Fursuit Parade. Anthrocon has done its very best to keep these new rules and standards as flexible as possible. You can find the parade process and rules below.
+
+We understand that these changes may not be universally popular and we want our attendees to know that these decisions were not made lightly. As both the convention and parade reach unprecedented levels of attendance and participation, it has become necessary to implement these new rules to keep the parade safe for all attendees. We are confident that the Fursuit Parade and Block Party will continue to provide a unique and wonderful experience for Anthrocon attendees and Pittsburgh citizens alike.
+
 ### Parade Process
 
+On Saturday, beginning at 1:00 PM, the West Lobby entrance of the convention center will be reserved for parade participants only. Additionally, parade participants may use the exit lane from Hall D as an entrance to the building. Participants who will require a handler or who require ADA mobility accommodation should line up in the East Lobby.
+
 - The parade will begin with the Fursuit Parade Lineup, which will be in the convention center Hall C. The lineup for the and parade will **start at 12 PM**, with **doors closing at 1:50 PM**.
-- **There is no Fursuit Group Photo before the parade.** This was a tradition in previous years but due to the sheer size of our parade line-up, it is no longer practical nor safe to host the group photo. There will be many photographers, both amateur and professional, covering the parade for all to enjoy.
+- **The number of participants in the parade will be limited**, and as such, all participants must be pre-approved. You must either wear or bring the costume that you intend to wear in the parade, or alternatively a photo that shows all elements of the costume, to the registration point outside of Room 309 on Friday between 3 pm and 9 pm, or on Saturday from 9 am until 12 pm.  We cannot register any participants after 12 pm on Saturday.
+- Individuals approved for participation will have an identifying sticker affixed to their membership badge. The person presenting the suit for approval must be the person who will wear it in the parade. Substitutions are not permitted.
 - **The parade will begin at 2 PM**, starting from Hall C and leading out onto the streets underneath the convention center. For those that need physical accommodation due to not being able to take stairs/escalators, please contact <accessibility@anthrocon.org> to let us know.
 - The parade ends in Hall D, where there is cooling and hydration for fursuiters. **Once the parade is finished**, or fursuiters are feeling ready, they can take the elevators back up to the 3rd floor of the convention center, and make their way to Penn Avenue (either through the convention center, or the Westin) for the Block Party.
 
 ### Parade Rules
 
-1. **All fursuiters must hydrate** before the fursuit parade. It’s for your own safety!
-2. **No stopping in the parade route** - we require fursuiters to continue moving in the parade except in case of emergency. Staff and volunteers are positioned along the route should you require assistance.
-3. **No flags are allowed**, as they obstruct other fursuiters in the parade.
-4. **No inappropriate costumes or accessories** are allowed in the parade.
-5. **People with ADA accessibility needs or young children** are permitted handlers.
-6. **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
+
+- All participants must have a costume that is “anthropomorphic” in nature.  The parade is not for general cosplay. (i.e. the addition of ears to existing costume armor does not qualify for participation in the parade.)
+- Full-body fursuits are encouraged. Partial fursuits must incorporate additional elements in addition to a head, hands, and (optional) tail (these at the wearer’s discretion based upon their interpretation of the species/character).  Examples include: footpaws, sleeves or leggings, or other costume features that define the character.  No human skin should be showing. All clothing and costume elements must conform to the Anthrocon Standards of Conduct.
+- Handlers will be permitted to assist with the donning and preparation of a costume in the staging area; however, handlers will not be permitted to walk in the parade.  Exceptions will be made for handlers who are assisting performers with mobility challenges and participants under the age of 13 who need a parent or guardian to accompany them.
+- Due to the nature of the parade lineup area, the presence of escalators on the parade route, and other aspects of the parade, Anthrocon strongly recommends that fursuiters whose costume design requires a handler (i.e. an oversized or overly bulky suit) should opt to participate in the Block Party as an alternative to the parade.
+- Even if a costume has been pre-approved, any costume that is determined not to meet these standards at parade time will not be allowed to participate.
+- Any elements that are in violation of our standards of contact (examples: tactical gear, fetish wear, etc.) are not permitted in the parade. Individuals causing disruption or interference with parade operations may be refused participation as well as face revocation of convention membership.
+- **All fursuiters must hydrate** before the fursuit parade. It’s for your own safety!
+- **No stopping in the parade route** - we require fursuiters to continue moving in the parade except in case of emergency. Staff and volunteers are positioned along the route should you require assistance.
+- **No flags are allowed**, as they obstruct other fursuiters in the parade.
+- **No inappropriate costumes or accessories** are allowed in the parade.
+- **People with ADA accessibility needs or young children** are permitted handlers.
+- **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
+
+We understand that these changes may not be universally popular and we want our attendees to know that these decisions were not made lightly. As both the convention and parade reach unprecedented levels of attendance and participation, it has become necessary to implement these new rules to keep the parade safe for all attendees. We are confident that the Fursuit Parade and Block Party will continue to provide a unique and wonderful experience for Anthrocon attendees and Pittsburgh citizens alike.
 
 ***
 
