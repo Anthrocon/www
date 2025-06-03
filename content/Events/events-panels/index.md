@@ -29,7 +29,6 @@ The events schedule is now available to view online through Sched. You can acces
 
 {{< center >}}{{< button href="https://anthrocon.sched.com" >}}View schedule{{< /button >}}{{< /center >}}
 {{< /columns >}}
-
 ***
 
 ## Anthrocon Event Policies and Rules
