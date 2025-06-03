@@ -44,7 +44,6 @@ On Saturday, beginning at 1:00 PM, the West Lobby entrance of the convention cen
 
 ### Parade Rules
 
-
 - All participants must have a costume that is “anthropomorphic” in nature.  The parade is not for general cosplay. (i.e. the addition of ears to existing costume armor does not qualify for participation in the parade.)
 - Full-body fursuits are encouraged. Partial fursuits must incorporate additional elements in addition to a head, hands, and (optional) tail (these at the wearer’s discretion based upon their interpretation of the species/character).  Examples include: footpaws, sleeves or leggings, or other costume features that define the character.  No human skin should be showing. All clothing and costume elements must conform to the Anthrocon Standards of Conduct.
 - Handlers will be permitted to assist with the donning and preparation of a costume in the staging area; however, handlers will not be permitted to walk in the parade.  Exceptions will be made for handlers who are assisting performers with mobility challenges and participants under the age of 13 who need a parent or guardian to accompany them.
