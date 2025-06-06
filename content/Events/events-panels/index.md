@@ -27,8 +27,9 @@ weight: 10
 
 The events schedule is now available to view online through Sched. You can access the schedule through the link below, or by downloading the Sched app on your mobile device and searching for “Anthrocon 2025”. The schedule details are subject to change all the way up to the convention.
 
-{{< center >}}{{< button href="https://anthrocon.sched.com" >}}View schedule{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://anthrocon.sched.com/" >}}View Schedule{{< /button >}}{{< /center >}}
 {{< /columns >}}
+
 ***
 
 ## Anthrocon Event Policies and Rules
