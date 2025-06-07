@@ -73,17 +73,41 @@ There are to be no sales in the Dealers Room except by approved Dealerships in a
 
 ### Dealers Room Schedule
 
-Thursday, July 3, 2025<br>
-TBA
+| Thursday, July 3, 2025 |
+| --- | --- |
+| 12 PM - 8 PM | Dealer Registration in Hall D |
+| 12 PM - 3 PM | Dealers/DAs only, hand carry and assigned dock entry |
+| 3 PM - 9 PM | Dealers/DAs only, hand carry, loading dock open for any dealer |
+| 9 PM - 9:30 PM | Dealers/DAs only, hand-carry and carts only |
+| 9:30 PM onward | Off limits to all, including Dealers |
 
-Friday, July 4, 2025<br>
-TBA
+| Friday, July 4, 2025 |
+| --- | --- |
+| 8 AM - 11:30 AM | Dealers/DAs only, loading dock open for package drop-off |
+| 8 AM - 1 PM | Dealer Registration in Hall D |
+| 11:30 AM - noon | Dealers/DAs, Sponsor, and Supersponsor admission |
+| Noon - 6 PM | Admission for all Anthrocon members |
+| 6 PM - 7 PM | Dealers/DAs only to close tables |
+| 7 PM onward | Off limits to all, including Dealers\* |
 
-Saturday, July 5, 2025<br>
-TBA
+| Saturday, July 5, 2025 |
+| --- | --- |
+| 9 AM - 9:50 AM | Dealers/DAs only to open tables |
+| 9:50 AM - 10 AM | Dealers/DAs, Sponsor, and Supersponsor admission |
+| 10 AM - 6 PM | Open to all Anthrocon members |
+| 6 PM - 7 PM | Dealers/DAs only to close tables |
+| 7 PM onward | Off limits to all, including Dealers\* |
 
-Sunday, July 6, 2025<br>
-TBA
+| Sunday, July 6, 2025 |
+| --- | --- |
+| 9 AM - 9:50 AM | Dealers/DAs only to open tables |
+| 9:50 AM - 10 AM | Dealers/DAs, Sponsor, and Supersponsor admission |
+| 10 AM - 4 PM | Open to all Anthrocon members |
+| 4 PM - 8 PM | Dealers/DAs only for teardown |
+| 4 PM - 8 PM | Loading dock open for move-out |
+
+\* Subject to Dealers Room Director's (or designated authority) discretion. The room will
+be completely secured during this time.
 
 ## The Long Version
 
