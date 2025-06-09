@@ -52,7 +52,7 @@ On Saturday, beginning at 1:00 PM, the West Lobby entrance of the convention cen
 - **Any elements that are in violation of our standards of contact (examples: tactical gear, fetish wear, etc.) are not permitted in the parade.** Individuals causing disruption or interference with parade operations may be refused participation as well as face revocation of convention membership.
 - **All fursuiters must hydrate** before the fursuit parade. It’s for your own safety!
 - **No stopping in the parade route.** We require fursuiters to continue moving in the parade except in case of emergency. Staff and volunteers are positioned along the route should you require assistance.
-- **No flags are allowed**, as they obstruct other fursuiters in the parade.
+- **Flags affixed to flagpoles are not allowed.** Flags that are hand carried or worn (such as a cape) that abide by our Standards of Conduct are allowed.
 - **People with ADA accessibility needs or young children** are permitted handlers.
 - **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
 
