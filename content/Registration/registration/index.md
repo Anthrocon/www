@@ -63,15 +63,19 @@ There are several levels of memberships available for purchase. We recommend reg
 
 {{% tabs %}}
 {{% tab "Attending" %}}
-{{< center >}}### Attending{{< /center >}}
+{{< center >}}
+### Attending
 
-{{< center >}}***Limited Availability***{{< /center >}}
+***Limited Availability***
 
-{{< center >}}**Pricing: $80 Pre-registered** — $100 On-site{{< /center >}}
+**Pricing:**\
+$80 Pre-registered\
+$100 At the door
+{{< /center >}}
 
 As an Attending member, you’ll get:
 
-- Access to the convention space and activities for its duration (Thursday through Sunday)
+- Access to the convention space and activities for the duration of this year's convention once registration opens (Thursday, July 3 pre-registered — Friday, July 4 at the door)
 - Our souvenir con book and other publications
 - A weekend of fun
 
