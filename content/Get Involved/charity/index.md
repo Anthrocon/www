@@ -23,7 +23,7 @@ params:
 
 {{< center >}}***“Our mission is to reduce overpopulation and euthanasia rates of cats through education, adoption, and providing a safe, loving environment for our furry friends.”***{{< /center >}}
 
-{{< img src="N2T_Official-Logo-2color.png" float="left" hint="drawing" >}}
+{{< img src="N2T_Official-Logo-2color.png" float="left" hint="drawing" filter="#ffffff" >}}
 
 This year, we’re delighted to be partnering with [Nose 2 Tail Cat Rescue](https://www.nose2tailcatrescue.org/), a 501(c)(3) non-profit, 100% donation and volunteer-run, no-kill cat rescue located in McDonald, PA.
 
@@ -59,7 +59,9 @@ While Nose 2 Tail Cat Rescue currently rents their space, they dream of building
 
 ## Bucket Brigade
 
-At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade — and we’d love you to be a part of it.
+At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade — and if you’re looking to help us raise funds, we’d love for you to be part of it.
+
+{{< center >}}{{< button href="https://docs.google.com/forms/d/1o5Y5fViV-uL0JEatjj64kD9NplAY6u0guyvbE-xlfyU/preview" >}}Apply Online{{< /button >}}{{< /center >}}
 
 ***
 
