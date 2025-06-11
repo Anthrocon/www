@@ -14,25 +14,17 @@ params:
 
 **Downloads:**
 
-- [DLCC Freight Manual (2022)](2022+ANTHROCON+SHIPPING.pdf)
+- [DLCC Freight Manual (2025)](2025+ANTHROCON+SHIPPING.pdf)
 
-With the current trend among airlines for charging higher and higher fees for baggage, you may find it advantageous to ship items directly to the Convention Center. Be advised, however, that **there is a charge to receive and handle any boxes, and that there are very specific rules to follow.** Anthrocon has helped to arrange this service and done its best to negotiate reasonable rates and rules, but that is as far as we can go. We take no responsibility for misdirected shipments, neither does any location offer any guarantees. It is *strongly* recommended that you choose a carrier that offers tracking services such as DHL, UPS, Fedex, and the like. Remember, there is a charge to receive ALL boxes. In the past there were some misunderstandings on our part that resulted in some very unexpected fees that Anthrocon paid itself, but now that the rules are clear we are passing them along to you.
+With the current trend among airlines for charging higher and higher fees for baggage, you may find it advantageous to ship items directly to the Convention Center. Be advised, however, that **there is a charge to receive and handle any boxes, and that there are very specific rules to follow.** Anthrocon has helped to arrange this service and done its best to negotiate reasonable rates and rules, but that is as far as we can go. We take no responsibility for misdirected shipments, neither does any location offer any guarantees. It is *strongly* recommended that you choose a carrier that offers tracking services such as DHL, UPS, Fedex, and the like. Remember, there is a charge to receive ALL boxes shipped to the DLCC. Details on rates and applicable fees can be found on the shipping forms.
 
-The charges for shipments to the Dealers' Room at the DLCC are as follows:
+Step 1) **Download and complete the** [2025 Freight Manual](2025+ANTHROCON+SHIPPING.pdf). Select Option A, B, or C on Page 2.
 
-- Loose (cardboard) boxes, up to 35 pounds each (Option C): $25 per box until June 22, 2022; $35 thereafter.
-- Pallets (banded or shrink-wrapped) (Option A): $65 for each 100 pounds (200 pound minimum) until June 22, 2022; $80 thereafter
-- Shipping in Crates? Warning! May incur carpenter labor charges to open a crate.
+Step 2) If your shipment is going to arrive on or before June 30, please use the "Ship to warehouse" option. The DLCC is not receiving shipments for us this year. IF the shipment is going to arrive on or after July 1, please use the "Ship to Show Site" option.
 
-These charges cover receipt, storage, and delivery of packages to your dealer table by Thursday, June 30. The advantage is that you will not have to drag them over to the loading dock yourself on Thursday morning! And, with our new agreement with APA Exposition Services, you can start sending things as soon as June 1, 2022.
+Step 3) IF YOU THINK YOU MIGHT BE SHIPPING SOMETHING HOME, you must provide a prepaid shipping label for any boxes shipping back from the convention.
 
-Step 1) **Download and complete the** [2022 Freight Manual](2022+ANTHROCON+SHIPPING.pdf). Select Option A, B, or C on Page 2.
-
-Step 2) If your shipment is going to arrive on or before June 27, please use the "Ship to warehouse" option. The DLCC is not receiving shipments for us this year. IF the shipment is going to arrive on or after June 28, please use the "Ship to Show Site" option.
-
-Step 3) IF YOU THINK YOU MIGHT BE SHIPPING SOMETHING HOME, fill in the "Outbound Shipping Form" on page 3 and send it in. If you opt not to ship anything home, then there's no charge or penalty. If you want to ship something home and have submitted this form prior to the convention, then APA will come by and collect your packages and ship them for you. If you have not submitted this form prior to the convention, then APA WILL NOT SHIP your packages for you.
-
-Step 4) Fill in the payment information on Page 4, and use the handy shipping labels (you can make copies if you wish) on page 5 (if shipment will arrive before June 27) or on page 6 (if shipment will arrive on or after June 28).
+Step 4) Fill in the payment information on Page 2, and use the handy shipping labels (you can make copies if you wish) for either warehouse or show site service as needed.
 
 Step 5) Mail, email, or fax the form to APA Exposition Services at any of the addresses listed on the cover of the manual. Payment is due in advance, and credit cards are accepted.
 
