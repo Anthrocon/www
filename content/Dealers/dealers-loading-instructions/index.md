@@ -65,9 +65,7 @@ Entry points once you have your badge include:
 
     If your table number crosses over two groups (ie C10/C11), your load in time will be the earliest eligible slot only. In the example of C10/C11, you would be able to load in the 12pm-1pm Orange group and not the 1pm-2pm Blue group.
 
-    **Downloads:**
-
-    - [Dealer's Loading Instruction Layout 2025 PDF](2025Layout.pdf)
+    {{< center >}}{{< button relref="2025Layout.pdf" >}}Download 2025 Layout Map{{< /button >}}{{< /center >}}
 
     Please take very careful note of the rules regarding the transport of materials. This is something that Anthrocon has no control over, and is one of the things that all conventions our size must deal with.
 
