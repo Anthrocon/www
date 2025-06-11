@@ -51,7 +51,21 @@ Entry points once you have your badge include:
 - Across the skybridge from the 2nd floor of the Westin. There are two elevators at the end of the skybridge. Travel up one level to #3, then cross the walkway ahead of you. At the far end, take the escalator down one level and turn left.
 - Through the loading dock. This is where you should go **if you have a vehicle with significant material to directly offload**. The entrance to the loading dock is located on Ft. Duquesne Blvd. between 9 Street & 10 Street at the point where Ft. Duquesne Blvd. & 10 Street Bypass merge. Note that the loading dock allows drop-off of merchandise only! You cannot check into the Dealer's Room from here.
 
-    The loading dock will be open for merchandise drop-off from 3 PM until 9 PM on Thursday and from 8 AM until 11:45 AM on Friday.
+    The loading dock will be open for drive on service starting at noon on Thursday. There will be a staggered entry from 12-3pm, the dock is open for any dealer from 3pm - 9pm Thursday. The loading dock is open for drop off only from 8am to 11:30 on Friday.
+
+    The staggered schedule from noon to 3 is based on your table location as follows:
+
+    * 12pm - 1pm - Row A01-A04, Tattoo Booths, C00-I10, P00-P10, Q00-V07, X01-Y07, Y Island
+    * **ORANGE GROUP**
+    * 1pm - 2pm – Row A05-A08, B Odd numbers, C11-I20, JB00 – OB17, P11-P20, Q08- V13, X08-Y13, X Island
+    * **BLUE GROUP**
+    * 2pm - 3pm – Row B Even numbers, C21- I25, JB18- OB38, P21-P25, Q14-V21
+    * **YELLOW GROUP**
+    * 3pm to 9pm - any dealer can enter
+
+    If your table number crosses over two groups (ie C10/C11), your load in time will be the earliest eligible slot only. In the example of C10/C11, you would be able to load in the 12pm-1pm Orange group and not the 1pm-2pm Blue group.
+
+    {{< center >}}{{< button relref="2025Layout.pdf" >}}Download 2025 Layout Map{{< /button >}}{{< /center >}}
 
     Please take very careful note of the rules regarding the transport of materials. This is something that Anthrocon has no control over, and is one of the things that all conventions our size must deal with.
 
