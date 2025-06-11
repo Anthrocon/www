@@ -130,6 +130,8 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 Boarding will take place at the [Convention Center Riverfront Plaza](https://www.google.com/maps/place/Convention+Center+Riverfront+Plaza/@40.4466298,-79.9981438,17.6z/data=%25214m5%25213m4%25211s0x8834f3e2d1b52e63:0x3fcb157773936665%25218m2%25213d40.4462946%25214d-79.9964557) in front of the convention center. **There are no other boarding or drop-off points**. A complimentary bottle of water will be offered to all passengers and long straws will be supplied for fursuiter use.
 
+Have your cruise ticket purchase receipt or confirmation email, either printed or electronic, ready to show at boarding. This is your boarding ticket.
+
 The boats have both open decks and closed air conditioned decks so the cruises will be sailing rain or shine.
 {{< /columns >}}
 
@@ -138,7 +140,7 @@ The boats have both open decks and closed air conditioned decks so the cruises w
 ## Frequently Asked Questions
 
 {{< details "Do I need my Anthrocon registration to board the cruise?" >}}
-You can board the cruise without needing to show your Anthrocon badge. However, please remember to bring your confirmed ticket with you in either electronic or printed format.
+You can board the cruise without needing to show your Anthrocon badge. However, please remember to bring your cruise ticket purchase receipt or confirmation email with you, either electronic or printed.
 
 For Ultrasponsors, bring your registration badge with you as it will count as your admission.
 {{< /details >}}
