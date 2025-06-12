@@ -92,14 +92,6 @@ Isaac “Ronnie” Tan
 <--->
 
 {{< center >}}
-**Director of Accessibility**
-
-Paige “Ysera” Ward
-{{< /center >}}
-
-<--->
-
-{{< center >}}
 **Director of Operations**
 
 Scott “Talyn” Williams
