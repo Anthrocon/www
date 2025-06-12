@@ -2,11 +2,11 @@
 title: "Anthrocon - Our Organization"
 linkTitle: "Our Organization"
 params:
-    banner: "ac2023-lionelleupold-BU2A4555+-+Copy.jpg"
+    banner: "2023+Luau+6786.jpg"
     banner_title: ""
     banner_caption: ""
-    banner_author: "LionelLeupold"
-    banner_url: ""
+    banner_author: "Hokuloa Luau"
+    banner_url: "https://www.flickr.com/photos/hokuloaluau/"
 ---
 
 # Our Organization
