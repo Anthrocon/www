@@ -1,5 +1,8 @@
 ---
 title: "Anthrocon 2025 Registration"
+aliases:
+    - "/reg"
+
 params:
     banner: "2022+Randorn+_Z9N3518.jpg"
     banner_title: "Attend Anthrocon 2025"
