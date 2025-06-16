@@ -12,8 +12,10 @@ params:
 
 {{< center >}}Every night of the convention, our main stage transforms into a world of lights, effects, and electronic music. Celebrate the night away with our community.{{< /center >}}
 
+{{< center >}}[Apply to DJ](#applying-to-dj-for-the-dances) - [Bag Policy for Nightly Dances](#bag-policy-for-nightly-dances) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
+
 {{< columns >}}
-**What rating is the nightly dance?**
+## What rating is the nightly dance?
 
 The nightly dance is rated as an all-ages event. Please be aware that this is an event catered to adults and features a dark environment, loud music, bright strobing lighting and visual effects, and fog/haze effects. Attendees should always exercise caution when enjoying our dances.
 
@@ -24,7 +26,7 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
 
 ***
 
-**Applying to DJ for the dances**
+## Applying to DJ for the dances
 
 - DJs will be compensated with free registration for Anthrocon.
     - If you've already pre-registered, you will be refunded.
@@ -35,11 +37,29 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
     - We understand that musical self-expression can sometimes include coarse language and mature content. We don’t have specific rules against this, but ask that you don’t take advantage of that fact for shock value. Most performances (including the dances) at Anthrocon are all-ages — use your best judgment.
     - Be on time for sound checks. If the crew does not have enough time to prepare for your show, we reserve the right to strike it from the line-up.
 
-{{< center >}}
-Fill out this form to apply to be a DJ for the nightly dances:
+***
 
-{{< button href="https://forms.gle/RWCbWvwbJ99oTTAd6" >}}Apply to be a DJ{{< /button >}}
-{{< /center >}}
+## Bag Policy for Nightly Dances
+To ensure the safety and comfort of all attendees, Anthrocon Inc. enforces the following bag policy for the dances throughout the event.
+### General Bag Guidelines:
+* Backpacks and large bags are strictly prohibited in the dance events at all times.
+* All bags are subject to search by convention staff or security personnel, regardless of size, type, or contents.
+* Non-transparent bags larger than 6 inches x 8 inches will not be permitted into any convention space.
+* Clear bags that are larger than 12 inches x 12 inches x 9 inches are not allowed.
+* Approved medical bags are permitted but may be subject to additional screening.
+### Approved Bag Types (Examples):
+* Clear plastic, vinyl, or PVC bags that do not exceed 12" x 12" x 9".
+* Small non-transparent clutch bags or purses not exceeding 6" x 8".
+* Officially approved medical bags.
+### Prohibited Items Include, but Are Not Limited To:
+* Backpacks (of any size or material)
+* Duffel bags, suitcases, or oversized totes
+* Opaque bags larger than 6” x 8”
+* Clear bags exceeding the maximum allowed dimensions
+
+Please plan accordingly before arriving at the venue. Anthrocon Inc. reserves the right to refuse entry or request the removal of any bag or item that does not comply with this policy.
+
+For questions regarding medical or accessibility accommodations, please contact Safety in advance by emailing <safety@anthrocon.org>, visiting the Safety Office at the convention in DLCC 308, or speak with a Safety staff member on-site.
 
 ***
 
