@@ -67,6 +67,7 @@ Additional information:
 
 - [DLCC Load-in/load-out information](/dealers-loading-instructions/)
 - [Shipping items to the convention](/dlcc-shipping-guide/) (reference from 2022 — updated 2025 version to be provided at a later date)
+- [Dealers Parking Lot Information](/dealers-parking/)
 
 ***
 
