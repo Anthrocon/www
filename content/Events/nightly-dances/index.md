@@ -40,26 +40,33 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
 ***
 
 ## Bag Policy for Nightly Dances
+
 To ensure the safety and comfort of all attendees, Anthrocon Inc. enforces the following bag policy for the dances throughout the event.
-### General Bag Guidelines:
-* Backpacks and large bags are strictly prohibited in the dance events at all times.
-* All bags are subject to search by convention staff or security personnel, regardless of size, type, or contents.
-* Non-transparent bags larger than 6 inches x 8 inches will not be permitted into any dances.
-* Clear bags that are larger than 12 inches x 12 inches x 9 inches are not allowed into any dances.
-* Approved medical bags are permitted but may be subject to additional screening.
-### Approved Bag Types (Examples):
-* Clear plastic, vinyl, or PVC bags that do not exceed 12" x 12" x 9".
-* Small non-transparent clutch bags or purses not exceeding 6" x 8".
-* Officially approved medical bags.
-### Prohibited Items Include, but Are Not Limited To:
-* Backpacks (of any size or material)
-* Duffel bags, suitcases, or oversized totes
-* Opaque bags larger than 6” x 8”
-* Clear bags exceeding the maximum allowed dimensions
+
+### General Bag Guidelines
+
+- Backpacks and large bags are strictly prohibited in the dance events at all times.
+- All bags are subject to search by convention staff or security personnel, regardless of size, type, or contents.
+- Non-transparent bags larger than 6 × 8 inches will not be permitted into any dances.
+- Clear bags that are larger than 12 × 12 × 9 inches are not allowed into any dances.
+- Approved medical bags are permitted but may be subject to additional screening.
+
+### Approved Bag Types Examples
+
+- Clear plastic, vinyl, or PVC bags that do not exceed 12 × 12 × 9 inches.
+- Small non-transparent clutch bags or purses not exceeding 6 × 8 inches.
+- Officially approved medical bags.
+
+### Prohibited Items Include, but Are Not Limited To
+
+- Backpacks of any size or material.
+- Duffel bags, suitcases, or oversized totes.
+- Opaque bags larger than 6 × 8 inches.
+- Clear bags exceeding the maximum allowed dimensions.
 
 Please plan accordingly before arriving at the venue. Anthrocon Inc. reserves the right to refuse entry or request the removal of any bag or item that does not comply with this policy.
 
-For questions regarding medical or accessibility accommodations, please contact Safety in advance by emailing <safety@anthrocon.org>, visiting the Safety Office at the convention in DLCC 308, or speak with a Safety staff member on-site.
+For questions regarding medical or accessibility accommodations, please contact Safety in advance by emailing <safety@anthrocon.org>, visit the Safety Office at the convention in DLCC 308, or speak with a Safety staff member on-site.
 
 ***
 
