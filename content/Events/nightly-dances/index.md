@@ -44,8 +44,8 @@ To ensure the safety and comfort of all attendees, Anthrocon Inc. enforces the f
 ### General Bag Guidelines:
 * Backpacks and large bags are strictly prohibited in the dance events at all times.
 * All bags are subject to search by convention staff or security personnel, regardless of size, type, or contents.
-* Non-transparent bags larger than 6 inches x 8 inches will not be permitted into any convention space.
-* Clear bags that are larger than 12 inches x 12 inches x 9 inches are not allowed.
+* Non-transparent bags larger than 6 inches x 8 inches will not be permitted into any dances.
+* Clear bags that are larger than 12 inches x 12 inches x 9 inches are not allowed into any dances.
 * Approved medical bags are permitted but may be subject to additional screening.
 ### Approved Bag Types (Examples):
 * Clear plastic, vinyl, or PVC bags that do not exceed 12" x 12" x 9".
