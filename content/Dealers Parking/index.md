@@ -24,3 +24,4 @@ This service is not available for sign-up during the convention, it must be arra
 <--->
 
 {{< center >}}{{< button relref="Anthrocon+Google+View.pdf" >}}Download Anthrocon Google View PDF{{< /button >}}{{< /center >}}
+{{< /columns >}}
