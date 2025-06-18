@@ -23,6 +23,14 @@ Anthrocon’s stages showcase the best of furry-centric talent to our attendees,
 
 ***
 
+## Anthrocon Puppet Slam is Accepting Submissions!
+
+Interested in performing a short piece live onstage? Check out the guidelines in our submission form and join in on the fun! Submissions are being accepted until June 25! All skill levels are welcome!
+
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdiE7gei5xs_UuPmZsBt-e5tykWv-uFY01W_5_HmaIp9ffngA/viewform" >}}Apply to Perform{{< /button >}}{{< /center >}}
+
+***
+
 ## Stage Performance Policies and Rules
 
 Please read the following information carefully and if there are any questions do not hesitate to send us an email at <events@anthrocon.org>.
