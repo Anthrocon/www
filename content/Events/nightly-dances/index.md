@@ -26,7 +26,7 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
 
 ***
 
-## Applying to DJ for the dances
+## Applying to DJ for the Dances
 
 - DJs will be compensated with free registration for Anthrocon.
     - If you've already pre-registered, you will be refunded.
@@ -49,7 +49,7 @@ To ensure the safety and comfort of all attendees, Anthrocon Inc. enforces the f
 - All bags are subject to search by convention staff or security personnel, regardless of size, type, or contents.
 - Non-transparent bags larger than 6 × 8 inches will not be permitted into any dances.
 - Clear bags that are larger than 12 × 12 × 9 inches are not allowed into any dances.
-- Approved medical bags are permitted but may be subject to additional screening.
+- Approved medical bags are permitted, but may be subject to additional screening.
 
 ### Approved Bag Types Examples
 
@@ -66,7 +66,7 @@ To ensure the safety and comfort of all attendees, Anthrocon Inc. enforces the f
 
 Please plan accordingly before arriving at the venue. Anthrocon Inc. reserves the right to refuse entry or request the removal of any bag or item that does not comply with this policy.
 
-For questions regarding medical or accessibility accommodations, please contact Safety in advance by emailing <safety@anthrocon.org>, visit the Safety Office at the convention in DLCC 308, or speak with a Safety staff member on-site.
+For questions regarding medical or accessibility accommodations, please contact Safety in advance by emailing <safety@anthrocon.org>, visiting the Safety Office at the convention in DLCC 308, or speaking with a Safety staff member on-site.
 
 ***
 
