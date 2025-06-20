@@ -13,7 +13,7 @@ params:
 
 # Anthrocon Art Show
 
-On behalf of participating artists, Anthrocon's Art Show exhibits and sells original artworks of a science fiction, fantasy, or fannish nature, especially relating to anthropomorphics. It takes place on the third floor (river side) of the David L. Lawrence Convention Center, rooms 323-330.
+On behalf of participating artists, Anthrocon's Art Show exhibits and sells original artworks of a science fiction, fantasy, and fannish nature, especially relating to anthropomorphics. It takes place on the third floor (river side) of the David L. Lawrence Convention Center, rooms 323-330.
 
 Artists offer works in various media, both flat (sketches, pen-and-ink drawings, paintings, etc.) and 3-dimensional (sculpture, masks, costumes, etc.) for display and sale. Artwork is sold by written bid, with a voice auction taking place Sunday for those pieces which receive enough written bids. We will also have a separate area for mature artwork, inaccessible to minors, with a separate voice auction Saturday night.
 
