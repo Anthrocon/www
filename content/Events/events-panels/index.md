@@ -46,8 +46,14 @@ Anthrocon **DOES NOT** provide the following items:
 
 Anthrocon **DOES** provides the following items **based on room assignment**:
 
-- Standard connections for projectors (HDMI, VGA - If you require a special adaptor you will need to bring your own).
+- HDMI Connection for projectors (If you require a special adaptor you will need to bring your own).
 - Projectors, Microphones, Speakers, and Basic Sound Equipment (Not all rooms are outfitted with equipment).
+
+### Meet and Greets
+
+- Meet and Greets are stand-up events for members of our community with common interests to interact and form new connections and friendships. They are intended to be a chat and mingle affair, and not an informational panel or performance.
+- Due to the number of Meet and Greet requests we receive and the size and popularity of some, Meet and Greets are subject to additional restrictions.
+- Meet and Greet events are placed in rooms and spaces that stand the best chance of fitting the likely attendance. Meet and Greet spaces typically do not contain projectors, microphones, or other equipment. If you wish to host a presentation that requires a projector, microphones, or other such equipment (as available), then that event would need to be submitted as a Panel, and not as a Meet and Greet.
 
 ### Acknowledgments
 
