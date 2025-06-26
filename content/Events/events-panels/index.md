@@ -46,7 +46,7 @@ Anthrocon **DOES NOT** provide the following items:
 
 Anthrocon **DOES** provides the following items **based on room assignment**:
 
-- HDMI Connection for projectors (If you require a special adaptor you will need to bring your own)
+- HDMI Connection for projectors (If you require a special adaptor you will need to bring your own).
 - Projectors, Microphones, Speakers, and Basic Sound Equipment (Not all rooms are outfitted with equipment).
 
 ### Meet and Greets
