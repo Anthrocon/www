@@ -45,19 +45,20 @@ On-site purchases will start on Friday of the convention as Thursday will be for
 
 ## Important Dates and Times
 
-Registrations pickup is located in the David L. Lawrence Convention Center, Hall D-E. At the door registrations will become available to purchase starting Friday morning through [the online registration portal](https://reg.anthrocon.org/) and will become available to pick up during regular Registration hours. You must register and purchase a registration online to receive your badge for entry to the event.
+Registration pickup is located in the David L. Lawrence Convention Center, Hall D-E. At the door registrations will become available to purchase starting Friday morning through [the online registration portal](https://reg.anthrocon.org/) and will become available to pick up during regular Registration hours. You must register and purchase a registration online to receive your badge for entry to the event.
 
-At the door registration times while availability lasts.
+At the door registration times while availability lasts:
 
-| Registration | Purchase | Pickup |
+| Registration | Online Purchase Portal | Pickup |
 | --- | --- | --- |
-| Attending | Midnight Friday morning to Sunday, 4 PM | Friday, July 4, 9 AM-8 PM<br>Saturday, July 5, 10 AM-6 PM<br>Sunday, July 6, 10 AM-4 PM |
-| Friday Day | Midnight Friday morning to 8 PM | Friday, July 4, 9 AM-8 PM |
-| Saturday Day | Midnight Saturday morning to 6 PM | Saturday, July 5, 10 AM-6 PM |
-| Sunday Day | Midnight Sunday morning to 4 PM | Sunday, July 6, 10 AM-4 PM |
+| Attending | Midnight Friday morning to Sunday, 4 PM | Friday, 9 AM-8 PM<br>Saturday, 10 AM-6 PM<br>Sunday, 10 AM-4 PM |
+| Friday Day | Midnight Friday morning to 8 PM | Friday, 9 AM-8 PM |
+| Saturday Day | Midnight Saturday morning to 6 PM | Saturday, 10 AM-6 PM |
+| Sunday Day | Midnight Sunday morning to 4 PM | Sunday, 10 AM-4 PM |
 
-Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultrasponsor memberships purchased before the close of pre-registration on June 15.
+Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultrasponsor memberships purchased before the close of pre-registration on June 15:
 
+| Pre-registration Pickup |
 | --- | --- |
 | Thursday, July 3 | 12-8 PM |
 | Friday, July 4 | 9 AM-8 PM |
