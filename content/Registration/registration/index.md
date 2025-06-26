@@ -43,17 +43,42 @@ On-site purchases will start on Friday of the convention as Thursday will be for
 
 ***
 
+## Important Dates and Times
+
+Registrations pickup is located in the David L. Lawrence Convention Center, Hall D-E. At the door registrations will become available to purchase starting Friday morning through [the online registration portal](https://reg.anthrocon.org/) and will become available to pick up during regular Registration hours. You must register and purchase a registration online to receive your badge for entry to the event.
+
+At the door registration times while availability lasts.
+
+| Registration | Purchase | Pickup |
+| --- | --- | --- |
+| Attending | Midnight Friday morning to Sunday, 4 PM | Friday, July 4, 9 AM-8 PM<br>Saturday, July 5, 10 AM-6 PM<br>Sunday, July 6, 10 AM-4 PM |
+| Friday Day | Midnight Friday morning to 8 PM | Friday, July 4, 9 AM-8 PM |
+| Saturday Day | Midnight Saturday morning to 6 PM | Saturday, July 5, 10 AM-6 PM |
+| Sunday Day | Midnight Sunday morning to 4 PM | Sunday, July 6, 10 AM-4 PM |
+
+Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultrasponsor memberships purchased before the close of pre-registration on June 15.
+
+| --- | --- |
+| Thursday, July 3 | 12-8 PM |
+| Friday, July 4 | 9 AM-8 PM |
+| Saturday, July 5 | 10 AM-6 PM |
+| Sunday, July 6 | 10 AM-4 PM |
+
+Lines will close at the end of the pickup times listed. Registration will remain open to serve everyone already in line with a purchased registration.
+
+***
+
 ## How to Register
 
 **New for Anthrocon 2025:** Our Registration system has now changed! Please read the following instructions in order to successfully purchase your conbadge for Anthrocon 2025.
 
-- Register for an account by visiting [our new Registration portal](https://reg.anthrocon.org/) on October 21, selecting “Register”, and following the instructions — including verifying your email.
-- Once your account is registered and verified, select "Register for AC2025" from the menu and select your desired level. Available levels will be displayed starting October 21 at 12 PM Eastern Daylight Time. Sold out levels will not be visible.
-- Fill out the form and select "Register". Your registration is now held in stock, but not completed.
-- Select "View Cart" and complete checkout. (important, as your membership is NOT confirmed until you check out)
+- Register for an account by visiting [our new Registration portal](https://reg.anthrocon.org/), selecting `Register`, and following the instructions — including verifying your email.
+- Once your account is registered and verified, select `Register for AC2025` from the menu and select your desired level. Available levels will be displayed starting midnight Friday morning, July 4. Sold out levels will not be visible.
+- Fill out the form and select `Register`. Your registration is now held in stock, but not completed.
+- Select `View Cart` and complete checkout. Your membership is NOT complete until you check out.
 - For Ultrasponsors and Supersponsors, additional ticketed event options will be visible once your registration is held in stock.
 
-There are several levels of memberships available for purchase. We recommend registering online as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2025 registration are:
+There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2025 registration are:
 
 - **Online pre-registration:** October 21, 2024 - June 15, 2025
 - **On-site registration:** July 4-6, 2025
@@ -72,7 +97,7 @@ There are several levels of memberships available for purchase. We recommend reg
 ***Limited Availability***
 
 **Pricing:**\
-$80 Pre-registered\
+~~$80 Pre-registered~~ *closed June 15*\
 $100 At the door
 {{< /center >}}
 
@@ -89,7 +114,7 @@ As an Attending member, you’ll get:
 
 {{< center >}}***Limited Availability (2200) - Pre-registration only***{{< /center >}}
 
-{{< center >}}**Pricing[\*](#disclaimers-for-registration-tiers):** $140{{< /center >}}
+{{< center >}}~~**Pricing[\*](#disclaimers-for-registration-tiers):** $140~~ *closed June 15*{{< /center >}}
 
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
 
@@ -98,15 +123,13 @@ Sponsors are generous patrons who like to help us provide even more services and
 - A small gift to show our appreciation
 - An expedited pick-up line on site
 - Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
-
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Supersponsor" %}}
 {{< center >}}### Supersponsor{{< /center >}}
 
 {{< center >}}***Limited Availability (700) - Pre-registration only***{{< /center >}}
 
-{{< center >}}**Pricing[\*](#disclaimers-for-registration-tiers):** $350{{< /center >}}
+{{< center >}}~~**Pricing[\*](#disclaimers-for-registration-tiers):** $350~~ *closed June 15*{{< /center >}}
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
 
@@ -117,15 +140,13 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - A unique gift available to Supersponsors
 - Our wonderful Supersponsor Brunch on Sunday
 - An advance opportunity to book select hotel rooms before general availability[\*\*](#disclaimers-for-registration-tiers)
-
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Ultrasponsor" %}}
 {{< center >}}### Ultrasponsor{{< /center >}}
 
 {{< center >}}***Limited Availability (30) - Pre-registration only***{{< /center >}}
 
-{{< center >}}**Pricing[\*](#disclaimers-for-registration-tiers):** $1200{{< /center >}}
+{{< center >}}~~**Pricing[\*](#disclaimers-for-registration-tiers):** $1200~~ *closed June 15*{{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
 
@@ -140,8 +161,6 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - Special Ultrasponsor Badge
 - Free access to the Anthrocon River Cruises (if cruises are available)
 - Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
-
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Day Membership" %}}
 {{< center >}}### Day Membership{{< /center >}}
