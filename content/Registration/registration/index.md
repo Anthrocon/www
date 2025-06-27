@@ -179,10 +179,7 @@ Day memberships allow a member access to the convention space and activities for
 {{% tab "PUP Membership (Ages 12 and Under)" %}}
 {{< center >}}### PUP Membership (Ages 12 and Under){{< /center >}}
 
-**Pricing (On-Site Purchase Only)**
-
-- PUP: $5
-- PUP/Sponsor: $60
+**Pricing (On-Site Purchase Only): $5**
 
 Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
 
