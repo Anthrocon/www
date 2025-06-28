@@ -1,6 +1,9 @@
 ---
 title: "Convention Map 2025"
-aliases: "2025-convention-map"
+url: /2025-convention-map
+build:
+    render: always
+    list: never
 params:
     banner: "2022_Kavaeric_DSC9014.jpg"
     banner_title: ""
