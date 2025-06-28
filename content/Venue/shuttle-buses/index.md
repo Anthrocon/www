@@ -16,7 +16,7 @@ params:
 
 Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday July 3 to Sunday July 6, and ends at 3 AM the following morning. It will end at 11:59 PM on Sunday evening.
 
-{{< center >}}[Important Notes and Updates](#important-notes-and-updates) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
+{{< center >}}[Important Notes and Updates](#important-notes-and-updates) - [Shuttle Bus Tracking](#shuttle-bus-tracking) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
 
 ## Important Notes and Updates
 
@@ -26,11 +26,19 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday 
 - **Buses will come every 20-30 minutes** for hotels within downtown and **every 45 minutes** for North Shore and South Shore hotels, depending on route and traffic conditions.
 - **If a shuttle bus is full**, it will NOT stop until passengers offload.
 
+## Shuttle Bus Tracking
+
+You can view where shuttle buses are located along with an ETA per step using the interactive map below.
+
+{{< center >}}{{< button href="https://buswhere.com/anthrocon/" >}}View this map on Buswhere{{< /button >}}{{< /center >}}
+
+{{< html >}}<iframe src="https://buswhere.com/anthrocon/" title="Buswhere" width="100%" height="1024px"></iframe>{{< /html >}}
+
 ## Shuttle Routes and Schedules
 
 {{< center >}}Please note that the hotels below are confirmed to have shuttle service, but specific routes may be subject to change. Routes will be finalized by July 1, 2025.{{< /center >}}
 
-{{< details "Arena District (Blue) — Cambria, Doubletree, Kimpton Hotel Monaco, Marriott City, Omni" >}}
+{{< details "Blue Route — Cambria, Doubletree, Kimpton Hotel Monaco, Marriott City, Omni" >}}
 **Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 20 minutes.
@@ -39,9 +47,10 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday 
 
 - Omni and Kimpton shuttle stop will be at the Hotel Monaco corner of 6th Avenue and William Penn Place
 - Cambria and Marriott City guests will need to use the Doubletree’s bus stop
+- Doubletree shuttle stop will pick up in front of the hotel
 {{< /details >}}
 
-{{< details "Market District (Purple) — EVEN, Embassy, Hilton Garden Inn" >}}
+{{< details "Purple Route — EVEN, Embassy, Hilton Garden Inn" >}}
 **Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 15-20 minutes.
@@ -53,15 +62,18 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday 
 - Embassy Suites picks up near the hotel entrance
 {{< /details >}}
 
-{{< details "North Shore (Yellow) — Holiday Inn Express, Residence Inn, Springhill Suites" >}}
+{{< details "Yellow Route — Holiday Inn Express, Residence Inn, Springhill Suites" >}}
 **Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 45 minutes.
 
-**Pick up notes:** Buses will attempt to pick up passengers near the front entrance of hotels.
+**Pick up notes:**
+
+- Residence Inn: Corner of General Robinson St and Mazeorski Way, at Home Plate entrance to PNC Park
+- Holiday Inn, Springhill Suites: Corner of General Robinson St and Federal St, Legacy Square Entrance to PNC Park
 {{< /details >}}
 
-{{< details "Riverfront Line (Green) — Wyndham, Renaissance" >}}
+{{< details "Green Route — Wyndham, Renaissance" >}}
 **Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 15-20 minutes.
@@ -72,15 +84,18 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday 
 - Renaissance pick up will be at the corner of Fort Duquesne Boulevard and 6th Street
 {{< /details >}}
 
-{{< details "South Shore (Orange) — Fairfield, Joinery, Sheraton Station Square" >}}
+{{< details "Orange Route — Joinery, Sheraton Station Square" >}}
 **Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 45 minutes.
 
-**Pick up notes:** Buses will attempt to pick up passengers near the front entrance of hotels.
+**Pick up notes:**
+
+- Joinery: In front of hotel
+- Sheraton Station Square: Across from the hotel entrance, in front of the parking garage
 {{< /details >}}
 
-{{< details "Strip District (Red) — Hampton, Homewood" >}}
+{{< details "Red Route — Hampton Inn, Homewood Suites" >}}
 **Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 20 minutes.
