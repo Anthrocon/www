@@ -11,9 +11,10 @@ params:
 ---
 
 We’re just one week away from the start of our deep sea adventure! As friends and family from across the globe descend into Pittsburgh, we want you to be prepared with information for an epic weekend ahead!
-Registration
 
-**IMPORTANT NOTE:** On Thursday July 3, Registration will be available for pre-registration pick-up only. On-site registrations for limited weekend and day passes will be available starting on Friday, July 4 while supplies last.
+### Registration
+
+**IMPORTANT NOTE:** On Thursday July 3, Registration will be available for **pre-registration pick-up only**. On-site registrations for limited weekend and day passes will be available starting on Friday, July 4 while supplies last.
 
 Registration will start Thursday, July 3 at 12pm. We have been making several major improvements to our planned queue and pick-up system which we hope will speed up picking up badges significantly. [Check out our online schedule](https://anthrocon.sched.com) for Registration opening hours on each day.
 
@@ -21,7 +22,7 @@ Please note that our higher level memberships are sold out at this time, but can
 
 ### Convention Schedule and Gaming
 
-**Convention Schedule:** Our official schedule for the convention is now available! Find all your favorite events, panels and things to do each day of the convention and mark down which ones you’ll be attending. You can view the schedule from a web browser, or download the Sched app on your phone and search for “Anthrocon 2025”. View our online schedule
+**Convention Schedule:** Our official schedule for the convention is now available! Find all your favorite events, panels and things to do each day of the convention and mark down which ones you’ll be attending. You can view the schedule from a web browser, or download the Sched app on your phone and search for “Anthrocon 2025”. [View our online schedule](https://anthrocon.sched.com/)
 
 **Main Events and Dances Livestreams:** For key events that happen in our Main Events ballroom along with our Nightly Dances, our livestream will be available to view at [Anthrocon.tv](https://anthrocon.tv)!
 
@@ -33,7 +34,7 @@ Please note that our higher level memberships are sold out at this time, but can
 
 ### Dealers, Artists Alley, Art Show
 
-**Dealers Den:** the Dealers List and Map for Anthrocon 2025 are now available to view on our website! If you’re planning to do some shopping at the con, check out who will be vending so you can plan ahead of time. [View the Dealers List and Map](/dealers-list-2025)
+**Dealers Den:** The Dealers List and Map for Anthrocon 2025 are now available to view on our website! If you’re planning to do some shopping at the con, check out who will be vending so you can plan ahead of time. [View the Dealers List and Map](/dealers-list-2025)
 
 **Artists Alley:** The Anthrocon Artists Alley sign-ups have now closed and results have been sent out to artists selected in the lottery process. The Alley will be located in a more centralized location of the Dealers Room this year for more visibility. More information and the link to sign up can be found [on our Artists Alley page](/alley).
 
