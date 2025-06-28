@@ -27,7 +27,7 @@ The schedule for the Dealers Room will be as follows:
 
 ## Dealers List
 
-{{< center >}}**NOTE:** the effective date for this dealers list is **May 21, 2025**, and table assignments may change before the convention.{{< /center >}}
+{{< center >}}**NOTE:** the effective date for this dealers list is **June 27, 2025**, and table assignments may change before the convention.{{< /center >}}
 
 {{< details "Miscellaneous vendors" >}}
 | Vendor                                        | Location                  |
