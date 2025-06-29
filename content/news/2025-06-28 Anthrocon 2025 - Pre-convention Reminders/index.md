@@ -40,7 +40,7 @@ Please note that our higher level memberships are sold out at this time, but can
 
 ### Hotels and Shuttle Transportation
 
-**Hotel Confirmations:** Hotel reservations have been passed from our official housing partner, Orchid Events, to all of our partnered hotels. Attendees should be receiving (or have received)
+**Hotel Confirmations:** Hotel reservations have been passed from our official housing partner, Orchid Events, to all of our partnered hotels. Attendees should be receiving (or have received) their confirmation email.
 
 **Beware of fake hotel offers:** If anyone else tells you they have “official” hotel rooms, they are likely attempting to scam you. Anthrocon-rate rooms for 2025 are no longer available to be booked at this point.
 
