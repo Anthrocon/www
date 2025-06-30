@@ -33,7 +33,7 @@ Attendees can also consider renting the necessary equipment from some of these l
 - [Cloud of Goods](https://www.cloudofgoods.com/product-rentals/mobility)
 - [Rent It Today](https://www.rentittoday.com/medical-equipment-rentals/mobility-scooter-rental-pittsburgh-pa-14693)
 
-For wheelchair/mobility device attendees that want to utilize our shuttle service between the convention center and their hotel, **a wheelchair-accessible bus is available on an on-demand basis**. Further information and instructions will be available closer to the convention.
+Anthrocon’s shuttle service uses ADA accessible buses for attendees with wheelchair or mobility devices.
 
 ***
 
@@ -63,6 +63,17 @@ Most main stage events and select smaller events are accompanied by professional
 
 {{< img src="43092714344_9a066e479c_k_HokuloaLuau.jpg" alt="An American Sign Language Interpreter, or an \"Interpre-fur\", helping to sign for a Main Stage event at Anthrocon." hint="picture" attr="HokuloaLuau" attrlink="https://flic.kr/p/28DXqDw" >}}
 {{< /columns >}}
+
+## Lines and Seating
+Anthrocon offers accessible lines and seating to assist attendees with mobility needs.
+- **Registration:** Look for the ADA access line near the Hall D entrance off of Tenth Street.
+- **Events:** ADA lines are offered events and will be located near the entrance to the event room.
+- **Elevators:** Fursuiters and attendees with mobility needs are given priority access to elevators in the Westin and in the skybridge from the Westin to the DLCC.
+Please ask an accessibility or safety staff member if you need assistance finding the accessible lines or seating.
+
+## Quiet Room
+
+A quiet room is available at DLCC 314 for a brief respite from the noise and bustle of the convention.
 
 ***
 
