@@ -196,7 +196,7 @@ The schedule for the Dealers Room will be as follows:
 | Hokum & Snark LLC                             | E17                       |
 | Honeck Sculpture                              | T01-T02-T03               |
 | hoodiedogs                                    | JB29                      |
-| Hopeful Monster Studios                       | S10                       |
+| Hopeful Monster Studios                       | S08                       |
 | Houndsaint                                    | C18                       |
 | houndsTEETH + murkbone                        | D04                       |
 | HOWL OUT                                      | North Wall 2              |
