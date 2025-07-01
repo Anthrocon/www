@@ -55,6 +55,7 @@ On Saturday, beginning at 1:00 PM, the West Lobby entrance of the convention cen
 - **Flags affixed to flagpoles are not allowed.** Flags that are hand carried or worn (such as a cape) that abide by our Standards of Conduct are allowed.
 - **People with ADA accessibility needs or young children** are permitted handlers.
 - **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
+- Accessibility and mobility devices are exempt from costume requirements.
 
 We understand that these changes may not be universally popular and we want our attendees to know that these decisions were not made lightly. As both the convention and parade reach unprecedented levels of attendance and participation, it has become necessary to implement these new rules to keep the parade safe for all attendees. We are confident that the Fursuit Parade and Block Party will continue to provide a unique and wonderful experience for Anthrocon attendees and Pittsburgh citizens alike.
 
