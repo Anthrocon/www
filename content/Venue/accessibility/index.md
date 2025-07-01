@@ -67,8 +67,9 @@ Most main stage events and select smaller events are accompanied by professional
 ## Lines and Seating
 Anthrocon offers accessible lines and seating to assist attendees with mobility needs.
 - **Registration:** Look for the ADA access line near the Hall D entrance off of Tenth Street.
-- **Events:** ADA lines are offered events and will be located near the entrance to the event room.
+- **Events:** ADA lines are offered for events and will be located near the entrance to the event room.
 - **Elevators:** Fursuiters and attendees with mobility needs are given priority access to elevators in the Westin and in the skybridge from the Westin to the DLCC.
+
 Please ask an accessibility or safety staff member if you need assistance finding the accessible lines or seating.
 
 ## Quiet Room
