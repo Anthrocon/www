@@ -38,4 +38,4 @@ Nope! That is illegal.
 
 **What hours of the day are covered?**
 
-If you sign up for a single day, the connection is good for 24 hours from time of purchase. If you sign up for the entire convention, then you’ll have use of the conneciton for the entire convention.
+If you sign up for a single day, the connection is good for 24 hours from time of purchase.
