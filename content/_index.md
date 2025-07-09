@@ -8,17 +8,7 @@ params:
     banner_video: "https://youtu.be/zuyyRuu00Dk"
     banner_title: "Anthrocon is Pittsburgh's Premier Furry Convention"
     banner_caption: >
-      July 3 - July 6, 2025
-      {{<columns>}}
-      {{< center >}}{{< button href="https://anthrocon.sched.com" >}}Event Schedule{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="http://anthrocon.org/2025-convention-map" >}}Convention Map{{< /button >}}{{< /center >}}
-      <--->
-      {{< center >}}{{< button href="https://www.anthrocon.org/dealers-list-2025" >}}Dealers Map{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="https://www.anthrocon.org/shuttle-buses" >}}Shuttle Buses{{< /button >}}{{< /center >}}
-      <--->
-      {{< center >}}{{< button href="https://anthrocon.tv" >}}Event Livestream{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="https://www.anthrocon.org/tips-and-guides" >}}Tips and Guides{{< /button >}}{{< /center >}}
-      {{< /columns >}}
+      July 2 - July 5, 2026
     banner_author: "Patrick Snowyote"
     banner_url: "https://www.youtube.com/watch?v=Wayi0jiziNI"
 ---
