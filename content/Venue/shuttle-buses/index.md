@@ -26,6 +26,7 @@ Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday 
 - **Buses will come every 20-30 minutes** for hotels within downtown and **every 45 minutes** for North Shore and South Shore hotels, depending on route and traffic conditions.
 - **If a shuttle bus is full**, it will NOT stop until passengers offload.
 - Anthrocon’s shuttle service uses ADA accessible buses for attendees with wheelchair or mobility devices.
+- **All shuttle buses for 2025 are ADA-accessible.**
 
 ## Shuttle Bus Tracking
 

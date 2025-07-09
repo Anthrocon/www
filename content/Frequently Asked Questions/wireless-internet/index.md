@@ -10,21 +10,11 @@ params:
 
 # Wireless Internet Questions
 
-The David L. Lawrence Convention Center is offering wireless internet access for a fee, which is per device, accessible anywhere within the building. The wireless options include:
-
-**Premium 2 Mbps per device**
-
-- $6.95 per day per device
-- $12.95 per device for convention duration
-
-**Exhibit 5 Mbps per device**
-
-- $9.99 per day per device
-- $29.99 per device for convention duration
+The David L. Lawrence Convention Center is offering wireless internet access for a fee, which is per device, accessible anywhere within the building.
 
 **How do I sign up?**
 
-You can do so on-site. Select a “DLCC/SHOWNETS” access point. Launch your browser if it does not launch automatically, select The Anthrocon Special, and follow the online instructions. You may use a credit card as payment.
+Connect to .DLCC_Premium and enjoy a flat rate $10 for 24 hours of access to wifi internet all around the convention center.
 
 **What is covered for Dealers?**
 
@@ -48,4 +38,4 @@ Nope! That is illegal.
 
 **What hours of the day are covered?**
 
-If you sign up for a single day, the connection is good for 24 hours from time of purchase. If you sign up for the entire convention, then you’ll have use of the conneciton for the entire convention.
+If you sign up for a single day, the connection is good for 24 hours from time of purchase.
