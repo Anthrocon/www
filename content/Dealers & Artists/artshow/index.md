@@ -13,60 +13,36 @@ params:
 
 # Anthrocon Art Show
 
-On behalf of participating artists, Anthrocon's Art Show exhibits and sells original artworks of a science fiction, fantasy, and fannish nature, especially relating to anthropomorphics. It takes place on the third floor (river side) of the David L. Lawrence Convention Center, rooms 323-330.
+Anthrocon 2025 was a tremendous convention, with almost 1000 bidders vying for more than 2600 works by over 190 artists in the Art Show. Sales are now being tallied, and payment checks will be issued by August 31.
 
-Artists offer works in various media, both flat (sketches, pen-and-ink drawings, paintings, etc.) and 3-dimensional (sculpture, masks, costumes, etc.) for display and sale. Artwork is sold by written bid, with a voice auction taking place Sunday for those pieces which receive enough written bids. We will also have a separate area for mature artwork, inaccessible to minors, with a separate voice auction Saturday night.
+## UNCLAIMED ARTWORK
 
-## Art Show Hours
+A number of people did not pick up and pay for their artwork at the con. In many cases, it was one or two pieces overlooked, which is understandable given the amount of artwork involved. Some people may have had to leave early because of travel arrangements. A small number of people may have decided they just didn't want to wait in line, in which case if they repeat such behavior, they will be unwelcome to bid in future Art Shows.
 
-Please check for late changes at the con!
+All of the unclaimed artwork is now in the possession of the Art Show Director, who will contact each buyer with details and payment options. If you receive such a notice, please respond promptly. We must settle the matter quickly and close the books before our fiscal year ends August 31. Carrying these over to next year's books is an accounting headache.
 
-| Thursday, July 3 |
-| --- | --- |
-| 3-8 PM | Artist check–in |
+## ARTIST PAYMENTS INFORMATION
 
-| Friday, July 4 |
-| --- | --- |
-| 9 AM | Artist check-in |
-| 2-6 PM | Art Show open to attendees |
-| 9-11 PM | Artists & Dealers Reception (by invitation only) |
+When will I get my payment? Payments for sales are issued within 60 days of the end of the convention. Of course, allow a few days' delivery time for your check to actually arrive. Payments by check to addresses outside the USA are sent by US Postal Service First Class Mail International (air mail). International funds transfers are done through our payment processor, [Wise](https://wise.com); if you have not already done so, please contact the Art Show Director to provide banking information.
 
-| Saturday, July 5 |
-| --- | --- |
-| 10 AM-6 PM | Art Show open to attendees |
-| 6 PM | Mature Gallery written bidding closes |
-| 11 PM | Mature Gallery voice auction begins (DLCC 319-321) |
+To tally the sales, we reconcile the bid sheets of every item sold against our record of unsold artwork that has been taken home by artists, to make sure that all pieces entered into the Art Show have been accounted for. This is done on an artist-by-artist basis, starting with those selling only one piece, in order to pay more artists faster. If we encounter some irregularities in our records, such as a bid sheet missing because it wasn’t returned at check-out and the artwork marked as unsold, we can’t figure out where the problem lies until we finish reconciling all the bid sheets, and it will delay your payment. Thus, **please be meticulous when you check out!**
 
-| Sunday, July 6 |
-| --- | --- |
-| 10 AM-noon | General Gallery open to attendees |
-| Noon | General Gallery written bidding closes |
-| 2 PM | General Gallery voice auction begins (DLCC 319-321) |
-| 2-5 PM | Sales and artist check-out |
+**How can I get paid faster?** Please notify us if your address changes, and (especially if you're sharing a residence with someone else) make sure you inform your local Post Office of your current address. Checks are sent by first class mail, which the Post Office may not deliver if they don't have the addressee's name on file as residing at the address indicated. (Unlike junk mail which gets delivered anyway, no matter to whom it's addressed.) Make sure there's a label with your name on your mailbox, too.
 
-## For Artists
+**What if my check gets lost or destroyed?** If you haven't received your payment by the end of September, please contact us. Mail does get misdirected or delayed. Sometimes it gets returned marked "addressee unknown" for no apparent reason, weeks or months later. That's why we ask for your phone number -- we'll never call except in critical situations such as this, when there's no other way to contact you. If you do receive your check but the dog eats it, it goes through the laundry, etc. just let us know, we'll send you a replacement. Don't try to fool us and cash both of them, though -- that'll get you permanently banned, and we may file fraud charges.
 
-**If you've submitted a reservation for display space:**
+**Will I get paid faster if I complain to Kage, or on social media, about it?** No. Kage is not responsible for tallying up the Art Show sales. That's overseen by the Art Show Director, Peter Kappesser (PeterCat), who devotes as much time as possible but has family obligations which at times must take precedence over Anthrocon matters. Payments are issued as quickly as possible, balancing all the circumstances. Public comments only delay things, as time is spent addressing the comments instead of processing payments.
 
-If you have never received any email acknowledgment, please **contact the Art Show director immediately** by email at <artshow@anthrocon.org> or by phone at [+1 307-278-9387](tel:+1-307-278-9387) (307-ARTYFUR).
+**Will I find out the price each piece sold for, and who bought it?** Yes, we will provide a sales report listing the price for each piece sold, when it sold (written bid or at auction), and the name and email address of the buyer, if they allow it to be shared. This may be sent separately from the payment check, in order to issue the checks sooner.
 
-If your reservation has been confirmed, you will be receiving an email with a link to enter your artwork information online. Since this email is being sent by an automated system, if it doesn’t arrive in your inbox please check your spam folder.
+**How come other cons can pay more quickly, or even at the con?** Good for them! This is a keen technological challenge, made more complicated by Anthrocon’s size and the standards under which we operate. Unlike many other cons, which close bidding Saturday night and spend hours afterward doing bookkeeping, Anthrocon allows bidding on Sunday morning and closes bidding at noon. We feel this “feeding frenzy” generates excitement for the voice auction, and makes more money for the artists. We’re building up our technical infrastructure to provide faster payment processing in the future.
 
-**If you have not already reserved display space:**
+## INFORMATION FOR 2026
 
-Unfortunately, there is a lengthy waiting list that we are unlikely to make much of a dent in. Please email <artshow@anthrocon.org> to ask to receive information for next year.
+After payments are done, we'll be taking a few months off to recuperate and get things organized for next year. The artists' information packet with the display rules and a space reservation form will be available early next year. To receive one, please send your full (legal) name and postal address to <artshow@anthrocon.org> and you will be placed on our mailing list for the next Anthrocon.
 
-[Art Show Reservations Information Packet](/art-show-info-packet/) (ASRIP) — full rules for artists
-
-## For Bidders
-
-[Read over our friendly Art Show Bidder’s Guide here!](https://docs.google.com/document/d/11vUcbLcwEg6OpIQA2g_EZF8od9fj7J_rpLqNpvaSuGE/edit?usp=sharing)
-
-[Sign up in advance electronically here](https://rams.anthrocon.org/art_show_applications/bidder_signup) after you get your badge, then pick up your bidder number sticker at the Art Show.
-
-[Art Show Bidder Information Details](https://drive.google.com/file/d/1ua-YZEUIqTm925778fgpWO_0RlVqs3i5/view?usp=sharing) (ASBID) — full rules for bidders
-
-{{< center >}}{{< button href="https://docs.google.com/document/d/e/2PACX-1vSpOHTdanhJGQ0b1LX7EF2cChq0FWl2w46wJsKx6g5reS4cYnBjliX5NAUklaFpxijEwkVHlMY9-4px/pub" >}}List of Artists Expected to Participate{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://docs.google.com/document/d/1p_dvImSiujrs5i_aRoMa7KF6bhhsJX1zT9nbkbcyKSs/edit?usp=sharing" >}}Anthrocon 2025 Art Show Awards{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://docs.google.com/document/d/e/2PACX-1vSpOHTdanhJGQ0b1LX7EF2cChq0FWl2w46wJsKx6g5reS4cYnBjliX5NAUklaFpxijEwkVHlMY9-4px/pub" >}}List of Participating Artists{{< /button >}}{{< /center >}}
 
 Answers to many common questions are on the [Art Show Frequently Asked Questions](/faq/artshow/) page. Other inquiries may be sent to <artshow@anthrocon.org>, phone [+1 307-278-9387](tel:+1-307-278-9387) (307-ARTYFUR), or by postal mail to:
 
