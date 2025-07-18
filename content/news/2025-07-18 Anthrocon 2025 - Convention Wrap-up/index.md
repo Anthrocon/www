@@ -34,7 +34,7 @@ If you lost something after the convention ended on Sunday, you may need to cont
 
 Now that our deep sea adventure has ended, the Anthrocon voyage has docked at the edge of what appears to be a rather spooky forest, where the shadows of mystery seem to swallow up any light within. What will you find in this new environment? There’s only one way to find out by joining us for **Anthrocon 2026: Critters, Cryptids, and Curses**! In addition to our theme, 2026 will be extra special for us as we celebrate our **20th Anniversary in Pittsburgh**!
 
-Mark down the dates for our next convention, which will take place once again over the 4th of July weekend from July 2 to July 5, 2026 at the David L. Lawrence Convention Center in Pittsburgh, Pennsylvania.
+Mark down the dates for our next convention, which will take place once again over the 4th of July weekend from **July 2 to July 5, 2026** at the **David L. Lawrence Convention Center in Pittsburgh, Pennsylvania**.
 
 ### What to look out for next
 
