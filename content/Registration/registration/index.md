@@ -1,5 +1,5 @@
 ---
-title: "Register for Anthrocon"
+title: "Registration for Anthrocon"
 aliases:
     - "/reg"
 
