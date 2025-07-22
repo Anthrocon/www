@@ -7,7 +7,7 @@ params:
     banner: "2022+Randorn+_Z9N3518.jpg"
     banner_title: "Attend Anthrocon"
     banner_caption: >
-      Join us for our next Anthrocon, happening July 2-5, 2026 <br>
+      Join us for our next Anthrocon, happening July 2-5, 2026 <br> <br>
       Online pre-registration details will be released in the Fall of 2025. Stay tuned to our social media and website announcements for more updates.
     banner_author: "Randorn Canis"
     banner_url: "https://www.randorn.com"
