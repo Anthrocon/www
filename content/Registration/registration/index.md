@@ -1,37 +1,37 @@
 ---
-title: "Anthrocon 2025 Registration"
+title: "Registration for Anthrocon"
 aliases:
     - "/reg"
 
 params:
     banner: "2022+Randorn+_Z9N3518.jpg"
-    banner_title: "Attend Anthrocon 2025"
-    banner_caption: "Join us for our next Anthrocon, happening July 3-6, 2025"
-    banner_button: "Register Online"
-    banner_button_link: "https://reg.anthrocon.org/"
+    banner_title: "Attend Anthrocon"
+    banner_caption: >
+      Join us for our next Anthrocon, happening July 2-5, 2026 <br> <br>
+      Online pre-registration details will be released in the Fall of 2025. Stay tuned to our social media and website announcements for more updates.
     banner_author: "Randorn Canis"
     banner_url: "https://www.randorn.com"
 
 weight: 10
 ---
 
-# Registration for Anthrocon 2025
+# Registration for Anthrocon 2026
 
 {{< center >}}We’re excited to have you join us for Anthrocon. Find out information on how you can register, what you’ll need in order to register, and other important information.{{< /center >}}
 
-{{< center >}}[Registration Updates](#2025-registration-updates) - [How to Register](#how-to-register) - [Minor Forms](#minor-forms) - [FAQs](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Registration Updates](#2026-registration-updates) - [How to Register](#how-to-register) - [Minor Forms](#minor-forms) - [FAQs](#frequently-asked-questions){{< /center >}}
 
 ***
 
-## 2025 Registration Updates
+## 2026 Registration Updates
 
-### Pre-Registration Cap for Anthrocon 2025
+### Pre-Registration Cap for Anthrocon 2026
 
-Anthrocon 2025 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registrations hit certain thresholds for awareness on when the limit is close.
+Anthrocon 2026 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registrations hit certain thresholds for awareness on when the limit is close.
 
-### New Registration Process for 2025
+### Registration Process for 2026
 
-Our Registration system has now changed. To ensure you have a smooth registration experience, please read over our [updated How to Register section](#how-to-register) below these updates.
+To ensure you have a smooth registration experience and secure a badge, please read over our [updated How to Register section](#how-to-register) below these updates.
 
 ### Hotel Booking Registration Policy
 
@@ -60,10 +60,10 @@ Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultraspons
 
 | Pre-registration Pickup |
 | --- | --- |
-| Thursday, July 3 | 12-8 PM |
-| Friday, July 4 | 9 AM-8 PM |
-| Saturday, July 5 | 10 AM-6 PM |
-| Sunday, July 6 | 10 AM-4 PM |
+| Thursday, July 2 | 12-8 PM |
+| Friday, July 3 | 9 AM-8 PM |
+| Saturday, July 4 | 10 AM-6 PM |
+| Sunday, July 5 | 10 AM-4 PM |
 
 Lines will close at the end of the pickup times listed. Registration will remain open to serve everyone already in line with a purchased registration.
 
@@ -71,22 +71,17 @@ Lines will close at the end of the pickup times listed. Registration will remain
 
 ## How to Register
 
-**New for Anthrocon 2025:** Our Registration system has now changed! Please read the following instructions in order to successfully purchase your conbadge for Anthrocon 2025.
+Please read the following instructions in order to successfully purchase your conbadge. There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level).
 
 - Register for an account by visiting [our new Registration portal](https://reg.anthrocon.org/), selecting `Register`, and following the instructions — including verifying your email.
-- Once your account is registered and verified, select `Register for AC2025` from the menu and select your desired level. Available levels will be displayed starting midnight Friday morning, July 4. Sold out levels will not be visible.
+- Once your account is registered and verified, select `Register for AC2026` from the menu and select your desired level. Available levels will be displayed starting midnight Friday morning, July 3. Sold out levels will not be visible.
 - Fill out the form and select `Register`. Your registration is now held in stock, but not completed.
 - Select `View Cart` and complete checkout. Your membership is NOT complete until you check out.
 - For Ultrasponsors and Supersponsors, additional ticketed event options will be visible once your registration is held in stock.
 
-There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2025 registration are:
-
-- **Online pre-registration:** October 21, 2024 - June 15, 2025
-- **On-site registration:** July 4-6, 2025
-
 {{< center >}}### Registering as a Minor{{< /center >}}
 
-**If you will be a minor at Anthrocon** (under the age of 18 by July 3, 2025), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [Minor Forms section](#minor-forms).
+**If you will be a minor at Anthrocon** (under the age of 18 by July 2, 2026), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [Minor Forms section](#minor-forms).
 
 {{< center >}}### Registration Levels{{< /center >}}
 
@@ -104,7 +99,7 @@ $100 At the door
 
 As an Attending member, you’ll get:
 
-- Access to the convention space and activities for the duration of this year's convention once registration opens (Thursday, July 3 pre-registered — Friday, July 4 at the door)
+- Access to the convention space and activities for the duration of this year's convention once registration opens (Thursday, July 2 pre-registered — Friday, July 3 at the door)
 - Our souvenir con book and other publications
 - A weekend of fun
 
@@ -208,7 +203,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ## Minor Forms
 
-{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 3, 2025**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
+{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 2, 2026**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. Notarization is not required if your parent or legal guardian is with you at badge pick-up. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
 
 {{< columns >}}
 {{< center >}}**Minor Consent Form**{{< /center >}}
@@ -221,7 +216,7 @@ This form is required for any minor attending the convention, either with or wit
 
 {{< center >}}**Assignment of Responsibility**{{< /center >}}
 
-Required for attendees who are under 13 years of age and attending Anthrocon 2025 with an adult other than their parent or legal guardian.
+Required for attendees who are under 13 years of age and attending Anthrocon 2026 with an adult other than their parent or legal guardian.
 
 {{< center >}}{{< button relref="minor-assignment-2025.pdf" >}}Download Form{{< /button >}}{{< /center >}}
 {{< /columns >}}
