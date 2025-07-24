@@ -203,7 +203,7 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ## Minor Forms
 
-{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 2, 2026**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. Notarization is not required if your parent or guardian is attending with you. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
+{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 2, 2026**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. Notarization is not required if your parent or legal guardian is with you at badge pick-up. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
 
 {{< columns >}}
 {{< center >}}**Minor Consent Form**{{< /center >}}
