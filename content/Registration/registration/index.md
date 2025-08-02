@@ -73,7 +73,7 @@ Lines will close at the end of the pickup times listed. Registration will remain
 
 Please read the following instructions in order to successfully purchase your conbadge. There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level).
 
-- Register for an account by visiting [our new Registration portal](https://reg.anthrocon.org/), selecting `Register`, and following the instructions — including verifying your email.
+- Register for an account by visiting [our Registration portal](https://reg.anthrocon.org/), selecting `Register`, and following the instructions — including verifying your email.
 - Once your account is registered and verified, select `Register for AC2026` from the menu and select your desired level. Available levels will be displayed starting midnight Friday morning, July 3. Sold out levels will not be visible.
 - Fill out the form and select `Register`. Your registration is now held in stock, but not completed.
 - Select `View Cart` and complete checkout. Your membership is NOT complete until you check out.
@@ -92,9 +92,9 @@ Please read the following instructions in order to successfully purchase your co
 
 ***Limited Availability***
 
-**Pricing:**\
-~~$80 Pre-registered~~ *closed June 15*\
-$100 At the door
+**Pricing:**
+
+*To be announced*
 {{< /center >}}
 
 As an Attending member, you’ll get:
@@ -103,14 +103,17 @@ As an Attending member, you’ll get:
 - Our souvenir con book and other publications
 - A weekend of fun
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Sponsor" %}}
 {{< center >}}### Sponsor{{< /center >}}
 
 {{< center >}}***Limited Availability (2200) - Pre-registration only***{{< /center >}}
 
-{{< center >}}~~**Pricing[\*](#disclaimers-for-registration-tiers):** $140~~ *closed June 15*{{< /center >}}
+{{< center >}}
+**Pricing:**
+
+*To be announced*
+{{< /center >}}
 
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
 
@@ -125,7 +128,11 @@ Sponsors are generous patrons who like to help us provide even more services and
 
 {{< center >}}***Limited Availability (700) - Pre-registration only***{{< /center >}}
 
-{{< center >}}~~**Pricing[\*](#disclaimers-for-registration-tiers):** $350~~ *closed June 15*{{< /center >}}
+{{< center >}}
+**Pricing:**
+
+*To be announced*
+{{< /center >}}
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
 
@@ -142,7 +149,11 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 
 {{< center >}}***Limited Availability (30) - Pre-registration only***{{< /center >}}
 
-{{< center >}}~~**Pricing[\*](#disclaimers-for-registration-tiers):** $1200~~ *closed June 15*{{< /center >}}
+{{< center >}}
+**Pricing:**
+
+*To be announced*
+{{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
 
@@ -163,18 +174,18 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 
 {{< center >}}***Limited Availability***{{< /center >}}
 
-**Pricing (On-Site Purchase Only)**
+{{< center >}}
+**Pricing:**
 
-- Friday: $50
-- Saturday: $50
-- Sunday: $50
+*To be announced*
+{{< /center >}}
 
 Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
 {{% /tab %}}
 {{% tab "PUP Membership (Ages 12 and Under)" %}}
 {{< center >}}### PUP Membership (Ages 12 and Under){{< /center >}}
 
-**Pricing (On-Site Purchase Only): $5**
+**Pricing (On-Site Purchase Only):** *To be announced*
 
 Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
 
@@ -187,7 +198,6 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ***Dealer Assistants will purchase their own badges separately.*** Read [the Dealers Room page]({{< relref "/Dealers & Artists/dealers" >}}) for rules and information.
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -210,16 +220,15 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 This form is required for any minor attending the convention, either with or without the supervision of their parent or legal guardian.
 
-{{< center >}}{{< button relref="minor-consent-2025.pdf" >}}Download Form{{< /button >}}{{< /center >}}
-
 <--->
 
 {{< center >}}**Assignment of Responsibility**{{< /center >}}
 
 Required for attendees who are under 13 years of age and attending Anthrocon 2026 with an adult other than their parent or legal guardian.
 
-{{< center >}}{{< button relref="minor-assignment-2025.pdf" >}}Download Form{{< /button >}}{{< /center >}}
 {{< /columns >}}
+
+{{< center >}} *Forms will be available at the open of Registration.*  {{< /center >}}
 
 ***
 
