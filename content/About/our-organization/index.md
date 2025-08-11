@@ -100,14 +100,6 @@ Scott “Talyn” Williams
 
 {{< columns >}}
 {{< center >}}
-**Director of Public Safety**
-
-Jeffrey “Humphrey” Costa
-{{< /center >}}
-
-<--->
-
-{{< center >}}
 **Director of Finances/Treasurer**
 
 Douglas “Chittebengo” Payne
