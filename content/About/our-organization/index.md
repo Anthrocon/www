@@ -96,9 +96,9 @@ Isaac “Ronnie” Tan
 
 Scott “Talyn” Williams
 {{< /center >}}
-{{< /columns >}}
 
-{{< columns >}}
+<--->
+
 {{< center >}}
 **Director of Finances/Treasurer**
 
