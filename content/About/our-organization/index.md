@@ -96,14 +96,6 @@ Isaac “Ronnie” Tan
 
 Scott “Talyn” Williams
 {{< /center >}}
-{{< /columns >}}
-
-{{< columns >}}
-{{< center >}}
-**Director of Public Safety**
-
-Jeffrey “Humphrey” Costa
-{{< /center >}}
 
 <--->
 
