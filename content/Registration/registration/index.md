@@ -220,11 +220,15 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 This form is required for any minor attending the convention, either with or without the supervision of their parent or legal guardian.
 
+{{< center >}}{{< button relref="ParentalConsent-2026.pdf" >}}Download Parental Consent for Minor Attendees Form{{< /button >}}{{< /center >}}
+
 <--->
 
 {{< center >}}**Assignment of Responsibility**{{< /center >}}
 
 Required for attendees who are under 13 years of age and attending Anthrocon 2026 with an adult other than their parent or legal guardian.
+
+{{< center >}}{{< button relref="MinorAssignment-2026.pdf" >}}Download Assignment of Responsibility for Minor Attendees Form{{< /button >}}{{< /center >}}
 
 {{< /columns >}}
 
