@@ -98,7 +98,6 @@ Sponsors are generous patrons who like to help us provide even more services and
 
 - A nifty Sponsor ribbon
 - A free Anthrocon t-shirt
-- A small gift to show our appreciation
 - An expedited pick-up line on site
 - Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
 {{% /tab %}}
