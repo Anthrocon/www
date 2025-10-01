@@ -68,9 +68,11 @@ Please read the following instructions in order to successfully purchase your co
 
 **Pricing:**
 
-* Pre-registration price: $80
-* On-site price: $100
-* Amount considered a donation: $0
+Pre-registration price: $80
+
+On-site price: $100
+
+Amount considered a donation: $0
 
 {{< /center >}}
 
@@ -89,9 +91,11 @@ As an Attending member, you’ll get:
 {{< center >}}
 **Pricing:**
 
-* Pre-registration price: $140
-* On-site price: n/a
-* Amount considered a donation: $30
+Pre-registration price: $140
+
+On-site price: n/a
+
+Amount considered a donation: $30
 {{< /center >}}
 
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
@@ -109,9 +113,11 @@ Sponsors are generous patrons who like to help us provide even more services and
 {{< center >}}
 **Pricing:**
 
-* Pre-registration price: $350
-* On-site price: n/a
-* Amount considered a donation: $155
+Pre-registration price: $350
+
+On-site price: n/a
+
+Amount considered a donation: $155
 {{< /center >}}
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
@@ -132,9 +138,11 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{< center >}}
 **Pricing:**
 
-* Pre-registration price: $1,200
-* On-site price: n/a
-* Amount considered a donation: $880
+Pre-registration price: $1,200
+
+On-site price: n/a
+
+Amount considered a donation: $880
 {{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
@@ -159,9 +167,11 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{< center >}}
 **Pricing:**
 
-* Pre-registration price: n/a
-* On-site price: $50
-* Amount considered a donation: n/a
+Pre-registration price: n/a
+
+On-site price: $50
+
+Amount considered a donation: n/a
 {{< /center >}}
 
 Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
@@ -169,11 +179,15 @@ Day memberships allow a member access to the convention space and activities for
 {{% tab "PUP Membership (Ages 12 and Under)" %}}
 {{< center >}}### PUP Membership (Ages 12 and Under){{< /center >}}
 
+{{< center >}}
 **Pricing (On-Site Purchase Only):**
 
-* Pre-registration price: n/a
-* On-site price: $5
-* Amount considered a donation: n/a
+Pre-registration price: n/a
+
+On-site price: $5
+
+Amount considered a donation: n/a
+{{< /center >}}
 
 Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
 
