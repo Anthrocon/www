@@ -32,7 +32,7 @@ Anthrocon has the following policies in place for membership refunds, including 
 
 ## Rollovers and Deferrals
 
-For those who find that they will be unable to attend the convention after the refund deadline, you may request that your membership be deferred to the following year. Deferred memberships have no cash value, cannot be refunded at any time, and will only be good for the following convention year. Deferred memberships cannot be downgraded to another membership type. If the deferred membership is not used the following year, it will be forfeited. Requests for deferral must be received from the time pre-registration closes until the Monday before the convention. For Anthrocon 2026 that date is **June 29, 2026 at 11:59 PM EDT**. Deferral requests after this time will not be granted.
+For those who find that they will be unable to attend the convention after the refund deadline, you may request that your membership be deferred to the following year. Deferred memberships have no cash value, cannot be refunded at any time, and will only be good for the following convention year. Deferred memberships cannot be downgraded to another membership type. If the deferred membership is not used the following year, it will be forfeited. Requests for deferral must be received by the Monday before the convention. For Anthrocon 2026 that date is **June 29, 2026 at 11:59 PM EDT**. Deferral requests after this time will not be granted.
 
 ## Requirements and Policies for Requests
 

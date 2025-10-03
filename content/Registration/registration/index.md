@@ -71,9 +71,6 @@ Please read the following instructions in order to successfully purchase your co
 Pre-registration price: $80
 
 On-site price: $100
-
-Amount considered a donation: $0
-
 {{< /center >}}
 
 As an Attending member, you’ll get:
@@ -94,8 +91,6 @@ As an Attending member, you’ll get:
 Pre-registration price: $140
 
 On-site price: n/a
-
-Amount considered a donation: $30
 {{< /center >}}
 
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
@@ -116,8 +111,6 @@ Sponsors are generous patrons who like to help us provide even more services and
 Pre-registration price: $350
 
 On-site price: n/a
-
-Amount considered a donation: $155
 {{< /center >}}
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
@@ -133,7 +126,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{% tab "Ultrasponsor" %}}
 {{< center >}}### Ultrasponsor{{< /center >}}
 
-{{< center >}}***Limited Availability (30) - Pre-registration only***{{< /center >}}
+{{< center >}}***Limited Availability (35) - Pre-registration only***{{< /center >}}
 
 {{< center >}}
 **Pricing:**
@@ -141,8 +134,6 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 Pre-registration price: $1,200
 
 On-site price: n/a
-
-Amount considered a donation: $880
 {{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
