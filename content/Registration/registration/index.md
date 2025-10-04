@@ -43,32 +43,6 @@ On-site purchases will start on Friday of the convention as Thursday will be for
 
 ***
 
-## Important Dates and Times
-
-Registration pickup is located in the David L. Lawrence Convention Center, Hall D-E. At the door registrations will become available to purchase starting Friday morning through [the online registration portal](https://reg.anthrocon.org/) and will become available to pick up during regular Registration hours. You must register and purchase a registration online to receive your badge for entry to the event.
-
-At the door registration times while availability lasts:
-
-| Registration | Online Purchase Portal | Pickup |
-| --- | --- | --- |
-| Attending | Midnight Friday morning to Sunday, 4 PM | Friday, 9 AM-8 PM<br>Saturday, 10 AM-6 PM<br>Sunday, 10 AM-4 PM |
-| Friday Day | Midnight Friday morning to 8 PM | Friday, 9 AM-8 PM |
-| Saturday Day | Midnight Saturday morning to 6 PM | Saturday, 10 AM-6 PM |
-| Sunday Day | Midnight Sunday morning to 4 PM | Sunday, 10 AM-4 PM |
-
-Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultrasponsor memberships purchased before the close of pre-registration on June 15:
-
-| Pre-registration Pickup |
-| --- | --- |
-| Thursday, July 2 | 12-8 PM |
-| Friday, July 3 | 9 AM-8 PM |
-| Saturday, July 4 | 10 AM-6 PM |
-| Sunday, July 5 | 10 AM-4 PM |
-
-Lines will close at the end of the pickup times listed. Registration will remain open to serve everyone already in line with a purchased registration.
-
-***
-
 ## How to Register
 
 Please read the following instructions in order to successfully purchase your conbadge. There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level).
@@ -94,7 +68,9 @@ Please read the following instructions in order to successfully purchase your co
 
 **Pricing:**
 
-*To be announced*
+Pre-registration price: $80
+
+On-site price: $100
 {{< /center >}}
 
 As an Attending member, you’ll get:
@@ -112,14 +88,15 @@ As an Attending member, you’ll get:
 {{< center >}}
 **Pricing:**
 
-*To be announced*
+Pre-registration price: $140
+
+On-site price: n/a
 {{< /center >}}
 
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
 
 - A nifty Sponsor ribbon
 - A free Anthrocon t-shirt
-- A small gift to show our appreciation
 - An expedited pick-up line on site
 - Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
 {{% /tab %}}
@@ -131,7 +108,9 @@ Sponsors are generous patrons who like to help us provide even more services and
 {{< center >}}
 **Pricing:**
 
-*To be announced*
+Pre-registration price: $350
+
+On-site price: n/a
 {{< /center >}}
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
@@ -147,12 +126,14 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{% tab "Ultrasponsor" %}}
 {{< center >}}### Ultrasponsor{{< /center >}}
 
-{{< center >}}***Limited Availability (30) - Pre-registration only***{{< /center >}}
+{{< center >}}***Limited Availability (35) - Pre-registration only***{{< /center >}}
 
 {{< center >}}
 **Pricing:**
 
-*To be announced*
+Pre-registration price: $1,200
+
+On-site price: n/a
 {{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
@@ -177,7 +158,9 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{< center >}}
 **Pricing:**
 
-*To be announced*
+Pre-registration price: n/a
+
+On-site price: $50
 {{< /center >}}
 
 Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
@@ -185,7 +168,13 @@ Day memberships allow a member access to the convention space and activities for
 {{% tab "PUP Membership (Ages 12 and Under)" %}}
 {{< center >}}### PUP Membership (Ages 12 and Under){{< /center >}}
 
-**Pricing (On-Site Purchase Only):** *To be announced*
+{{< center >}}
+**Pricing (On-Site Purchase Only):**
+
+Pre-registration price: n/a
+
+On-site price: $5
+{{< /center >}}
 
 Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
 
@@ -233,6 +222,32 @@ Required for attendees who are under 13 years of age and attending Anthrocon 202
 {{< /columns >}}
 
 {{< center >}} *Forms will be available at the open of Registration.*  {{< /center >}}
+
+***
+
+## Important Dates and Times
+
+Registration pickup is located in the David L. Lawrence Convention Center, Hall D-E. At the door registrations will become available to purchase starting Friday morning through [the online registration portal](https://reg.anthrocon.org/) and will become available to pick up during regular Registration hours. You must register and purchase a registration online to receive your badge for entry to the event.
+
+At the door registration times while availability lasts:
+
+| Registration | Online Purchase Portal | Pickup |
+| --- | --- | --- |
+| Attending | Midnight Friday morning to Sunday, 4 PM | Friday, 9 AM-8 PM<br>Saturday, 10 AM-6 PM<br>Sunday, 10 AM-4 PM |
+| Friday Day | Midnight Friday morning to 8 PM | Friday, 9 AM-8 PM |
+| Saturday Day | Midnight Saturday morning to 6 PM | Saturday, 10 AM-6 PM |
+| Sunday Day | Midnight Sunday morning to 4 PM | Sunday, 10 AM-4 PM |
+
+Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultrasponsor memberships purchased before the close of pre-registration on June 26:
+
+| Pre-registration Pickup |
+| --- | --- |
+| Thursday, July 2 | 12-8 PM |
+| Friday, July 3 | 9 AM-8 PM |
+| Saturday, July 4 | 10 AM-6 PM |
+| Sunday, July 5 | 10 AM-4 PM |
+
+Lines will close at the end of the pickup times listed. Registration will remain open to serve everyone already in line with a purchased registration.
 
 ***
 
