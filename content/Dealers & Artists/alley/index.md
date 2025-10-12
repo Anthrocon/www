@@ -41,8 +41,6 @@ Before applying, please ensure you read the [Artists Alley Rules](https://docs.g
 
 The lottery to determine accepted artists for each day will be conducted, and results posted closer to the convention.
 
-{{< center >}}{{< button href="https://docs.google.com/forms/d/1FiZIax0ulkG1b0L33p0-gO_gyUImS9RfecpkhM31P-0" >}}Sign up online{{< /button >}}{{< /center >}}
-
 ***
 
 ## Frequently Asked Questions
