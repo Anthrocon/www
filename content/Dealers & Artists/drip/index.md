@@ -15,7 +15,7 @@ params:
 
 Anthrocon is July 2-July 6, 2026. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
 
-[Dealers Room Schedule](#dealers-room-schedule) | [Types and Sizes of Tables](#types-and-sizes-of-tables) | [Applying for a Dealers Table](#applying-for-a-dealers-table) | [Waitlist, Table Placement and Cancellations](#waitlist-table-placement-and-cancellations) | [Guideline on Displays](#guideline-on-displays) | [Check In, Set Up and Teardown](#check-in-set-up-and-teardown) | [Attendee Entry, Convention Center Information](#attendee-entry-convention-center-information) | [Administrative Details](#administrative-details)
+[Dealers Room Schedule](#dealers-room-schedule) | [Types and Sizes of Tables](#types-and-sizes-of-tables) | [Applying for a Dealers Table](#applying-for-a-dealers-table) | [Waitlist, Table Placement and Cancellations](#waitlist-table-placement-and-cancellations) | [Guidelines on Displays](#guidelines-on-displays) | [Check In, Set Up and Teardown](#check-in-set-up-and-teardown) | [Attendee Entry, Convention Center Information](#attendee-entry-convention-center-information) | [Administrative Details](#administrative-details)
 
 This is the Dealer Rules & Information Packet (the DRIP) which contains rules, instructions and important information for dealers. Any person who accepts a Dealership at Anthrocon is understood to have read the complete and most recent Dealer rules and Anthrocon Standards of Conduct and has agreed to abide by them. Anthrocon, Inc. also reserves the right to amend these rules at any time without prior or posted notice and reserves the sole right of interpretation.
 
