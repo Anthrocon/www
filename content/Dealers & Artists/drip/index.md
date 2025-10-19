@@ -23,7 +23,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 
 ### Dealers Room Schedule
 
-| Thursday, July 2, 2025 |
+| Thursday, July 2, 2026 |
 | --- | --- |
 | 12 PM - 8 PM | Dealer Registration open |
 | 12 PM - 3 PM | Dealers/DAs only, hand carry and assigned dock entry |
@@ -31,7 +31,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 | 9 PM - 9:30 PM | Dealers/DAs only, hand-carry and carts only |
 | 9:30 PM onward | Off limits to all, including Dealers |
 
-| Friday, July 3, 2025 |
+| Friday, July 3, 2026 |
 | --- | --- |
 | 8 AM - 11:30 AM | Dealers/DAs only, loading dock open for package drop-off |
 | 8 AM - 1 PM | Dealer Registration in Hall D |
@@ -40,7 +40,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 | 6 PM - 7 PM | Dealers/DAs only to close tables |
 | 7 PM onward | Off limits to all, including Dealers\* |
 
-| Saturday, July 4, 2025 |
+| Saturday, July 4, 2026 |
 | --- | --- |
 | 9 AM - 9:50 AM | Dealers/DAs only to open tables |
 | 9:50 AM - 10 AM | Sponsor, Supersponsor, and Ultrasponsor entry |
@@ -48,7 +48,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 | 6 PM - 7 PM | Dealers/DAs only to close tables |
 | 7 PM onward | Off limits to all, including Dealers\* |
 
-| Sunday, July 5, 2025 |
+| Sunday, July 5, 2026 |
 | --- | --- |
 | 9 AM - 9:50 AM | Dealers/DAs only to open tables |
 | 9:50 AM - 10 AM | Sponsor, Supersponsor, and Ultrasponsor entry |
