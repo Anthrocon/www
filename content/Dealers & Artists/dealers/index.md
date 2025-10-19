@@ -30,7 +30,7 @@ The 2026 dealers list and map will be updated as we get closer to the convention
 
 ## Dealers Applications for Anthrocon 2026
 
-Applications to vend at Anthrocon 2026 will be open from **October 21 at 12 PM Eastern Daylight Time** to **November 21, 2024**. Reviews and acceptance or rejections will be finalized **by January 26, 2026**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
+Applications to vend at Anthrocon 2026 will be open from **October 27 at 12 PM Eastern Daylight Time** to **November 27, 2026**. Reviews and acceptance or rejections will be finalized **by January 26, 2026**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
 
 Applications can be made through our registration system. Please see the following steps for more information.
 
