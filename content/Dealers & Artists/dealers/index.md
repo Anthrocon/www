@@ -13,34 +13,33 @@ params:
 
 # Dealers Room
 
-{{< center >}}Anthrocon 2025's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 4 to Sunday July 6. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
+{{< center >}}Anthrocon 2026's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 3 to Sunday July 5. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
 
-{{< center >}}[Important Information](#important-information-for-applying) - [Table Pricing for 2025](#table-pricing-for-2025) - [Dealer Assistants](#dealer-assistants){{< /center >}}
+{{< center >}}[Important Information](#important-information-for-applying) - [Table Pricing for 2026](#table-pricing-for-2026) - [Dealer Assistants](#dealer-assistants){{< /center >}}
 
 {{< columns >}}
-## Anthrocon 2025 Dealers Room List and Map
 
-The 2025 dealers list and map are now available for viewing online. Check out where your favorite vendors will be located this year!
+## Anthrocon 2026 Dealers Room List and Map
 
-{{< center >}}{{< button href="/dealers-list-2025/" >}}View List and Map{{< /button >}}{{< /center >}}
+The 2026 dealers list and map will be updated as we get closer to the convention date!
 
 <--->
 
 {{< img src="2023+Nightdragon+AC+218.jpg" alt="A vendor and a costumed customer performing a transaction in Anthrocon's Dealers Room." hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
 {{< /columns >}}
 
-## Dealers Applications for Anthrocon 2025
+## Dealers Applications for Anthrocon 2026
 
-Applications to vend at Anthrocon 2025 will be open from **October 21 at 12 PM Eastern Daylight Time** to **November 21, 2024**. Reviews and acceptance or rejections will be finalized **by January 27, 2025**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
+Applications to vend at Anthrocon 2026 will be open from **October 21 at 12 PM Eastern Daylight Time** to **November 21, 2024**. Reviews and acceptance or rejections will be finalized **by January 26, 2026**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
 
-**New for Anthrocon 2025:** Dealers will apply through our new registration system. Follow these steps to apply.
+Applications can be made through our registration system. Please see the following steps for more information.
 
 - Read [the Dealer Rules & Information Packet](/drip/) before you begin.
 - Register for an account by visiting [our new registration portal](/registration/) on October 21, selecting "Register", and following the instructions.
 - Once your account is registered and verified, select "Vendor" from the left menu.
-- Enter your business information including your Pennsylvania tax ID, then select and complete your application for one area only.
-- You will also need to register for Anthrocon 2025. Select "Register for AC2025" from the left menu.
-- Fill out the form and select "Register". You may complete your registration, or leave it in your cart pending approval of your dealer application.
+- Enter your business information including your Pennsylvania tax ID, then select and complete your application for **one area only**.
+
+You do not need to purchase a registration when applying for the dealers room, but you will need to add one to your table purchase when approvals go out. If you would like a Sponsor, Supersponsor or Ultrasponsor membership, we recommend purchasing one in advance of approvals going out. Higher tiers of membership sell out quickly and we do not hold any back for approved dealers.
 
 ***
 
@@ -66,12 +65,14 @@ As a dealer, you may be contacted by unauthorized service providers — for hote
 Additional information:
 
 - [DLCC Load-in/load-out information](/dealers-loading-instructions/)
-- [Shipping items to the convention](/dlcc-shipping-guide/) (reference from 2022 — updated 2025 version to be provided at a later date)
-- [Dealers Parking Lot Information](/dealers-parking/)
+- [Shipping items to the convention](/dlcc-shipping-guide/) (reference from 2025 — updated 2026 version to be provided at a later date)
+- [Dealers Parking Lot Information](/dealers-parking/) (reference from 2025 — updated 2026 version to be provided at a later date)
 
 ***
 
 ## Table Pricing for 2025
+
+> Note: updated 2026 pricing to be provided at a later date
 
 Our table prices for the Dealers Room are listed below. **Please note: ELECTRICAL POWER IS NOT INCLUDED, except for Booths.** If your table has a need for power, please contact our Dealers Room team once you have been confirmed for a space.
 
@@ -90,12 +91,11 @@ The following options **do not include power (electricity)**. Requests for power
 
 ### Endcap Tables
 
-The following options **do not include power (electricity)**. Requests for power can be made through the order forms for 2025, to be provided to approved dealers.
+The following options **do not include power (electricity)**. Requests for power can be made through the order forms for 2026, to be provided to approved dealers.
 
 - **Single Table (8'×30"):** $400
 - **Double Table (16'×30"):** $675
 - **Quad Table (24'×30"):** $1200
-- **Hextuple Table (40’×30”):** $2000
 
 ### Booths
 
@@ -115,8 +115,13 @@ The following options **do not include power (electricity)**. Requests for power
 - 20’×24’ partially enclosed with six 8’×30" tables
 - Includes 20A electrical power
 
+**Island:** $2600
+
+- 25’x25’ space with eight 8’x30” tables
+- Includes 20A electrical power
+
 ## Dealer Assistants
 
-Dealer Assistants must purchase their badges separately once the dealer application has been approved. This option will become available starting on **January 2025**. Please see the DRIP on restrictions on Dealer Assistants numbers for table sizes.
+Dealer Assistants must purchase their badges separately once the dealer application has been approved. This option will become available starting on **January 2026**. Please see the DRIP on restrictions on Dealer Assistants numbers for table sizes.
 
 {{< center >}}*Inquiries may be sent to* <dealers@anthrocon.org>*, on Twitter to* [@AnthroconDealer](https://twitter.com/AnthroconDealer)*, or by postal mail to:* Anthrocon, Inc., 150 Wrenn Drive Unit 759, Cary, NC 27512{{< /center >}}
