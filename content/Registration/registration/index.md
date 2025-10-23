@@ -45,7 +45,7 @@ On-site purchases will start on Friday of the convention as Thursday will be for
 
 ## How to Register
 
-There are several levels of memberships available for purchase. The key dates for Anthrocon 2026 registration are:
+There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2026 registration are:
 
 - **Online pre-registration:**
   - Sponsor, Supersponsor, Ultrasponsor: October 27, 2025 at noon Eastern Daylight Time
@@ -53,7 +53,7 @@ There are several levels of memberships available for purchase. The key dates fo
   - Dealers: registration as above — table applications open October 27, 2025 at 4 PM Eastern Daylight Time
 - **On-site registration:** July 3-5, 2026.
 
-Please read the following instructions in order to successfully purchase your conbadge. There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level).
+Please read the following instructions in order to successfully purchase your conbadge.
 
 - Log in to your existing account on [our Registration portal](https://reg.anthrocon.org/), or create a new account by selecting `Create Your Account` and following the instructions — including verifying your email.
 - Once your account is registered and verified, select `Start registration` from the Attendance page, then select your desired level. Available levels will be displayed at the start times listed above. Sold out and unavailable levels will not be visible.
