@@ -6,9 +6,9 @@ aliases:
 params:
     banner: "2022+Randorn+_Z9N3518.jpg"
     banner_title: "Attend Anthrocon"
-    banner_caption: >
-      Join us for our next Anthrocon, happening July 2-5, 2026 <br> <br>
-      Online pre-registration details will be released in the Fall of 2025. Stay tuned to our social media and website announcements for more updates.
+    banner_caption: "Join us for our next Anthrocon happening July 2-5, 2026"
+    banner_button: "Register Online"
+    banner_button_link: "https://reg.anthrocon.org/"
     banner_author: "Randorn Canis"
     banner_url: "https://www.randorn.com"
 
@@ -27,7 +27,7 @@ weight: 10
 
 ### Pre-Registration Cap for Anthrocon 2026
 
-Anthrocon 2026 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registrations hit certain thresholds for awareness on when the limit is close.
+Anthrocon 2026 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registration hit certain thresholds for awareness on when the limit is close.
 
 ### Registration Process for 2026
 
@@ -45,12 +45,20 @@ On-site purchases will start on Friday of the convention as Thursday will be for
 
 ## How to Register
 
+There are several levels of memberships available for purchase. The key dates for Anthrocon 2026 registration are:
+
+- **Online pre-registration:**
+  - Sponsor, Supersponsor, Ultrasponsor: October 27, 2025 at noon Eastern Daylight Time
+  - Attending: November 3, 2025 at noon Eastern Standard Time
+  - Dealers: registration as above — table applications open October 27, 2025 at 4 PM Eastern Daylight Time
+- **On-site registration:** July 3-5, 2026.
+
 Please read the following instructions in order to successfully purchase your conbadge. There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level).
 
-- Register for an account by visiting [our Registration portal](https://reg.anthrocon.org/), selecting `Register`, and following the instructions — including verifying your email.
-- Once your account is registered and verified, select `Register for AC2026` from the menu and select your desired level. Available levels will be displayed starting midnight Friday morning, July 3. Sold out levels will not be visible.
+- Log in to your existing account on [our Registration portal](https://reg.anthrocon.org/), or create a new account by selecting `Create Your Account` and following the instructions — including verifying your email.
+- Once your account is registered and verified, select `Start registration` from the Attendance page, then select your desired level. Available levels will be displayed at the start times listed below. Sold out and unavailable levels will not be visible.
 - Fill out the form and select `Register`. Your registration is now held in stock, but not completed.
-- Select `View Cart` and complete checkout. Your membership is NOT complete until you check out.
+- Select `View cart` and complete checkout. Your membership is NOT complete until you check out.
 - For Ultrasponsors and Supersponsors, additional ticketed event options will be visible once your registration is held in stock.
 
 {{< center >}}### Registering as a Minor{{< /center >}}
@@ -66,10 +74,8 @@ Please read the following instructions in order to successfully purchase your co
 
 ***Limited Availability***
 
-**Pricing:**
-
-Pre-registration price: $80
-
+**Pricing:**\
+Pre-registration price: $80\
 On-site price: $100
 {{< /center >}}
 
@@ -79,18 +85,17 @@ As an Attending member, you’ll get:
 - Our souvenir con book and other publications
 - A weekend of fun
 
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Sponsor" %}}
-{{< center >}}### Sponsor{{< /center >}}
-
-{{< center >}}***Limited Availability (2200) - Pre-registration only***{{< /center >}}
-
 {{< center >}}
-**Pricing:**
+### Sponsor
 
-Pre-registration price: $140
+***Limited Availability (2200) - Pre-registration only***
 
-On-site price: n/a
+**Pricing:**\
+Pre-registration price: $140\
+On-site price: not available
 {{< /center >}}
 
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
@@ -99,18 +104,18 @@ Sponsors are generous patrons who like to help us provide even more services and
 - A free Anthrocon t-shirt
 - An expedited pick-up line on site
 - Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
+
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Supersponsor" %}}
-{{< center >}}### Supersponsor{{< /center >}}
-
-{{< center >}}***Limited Availability (700) - Pre-registration only***{{< /center >}}
-
 {{< center >}}
-**Pricing:**
+### Supersponsor
 
-Pre-registration price: $350
+***Limited Availability (700) - Pre-registration only***
 
-On-site price: n/a
+**Pricing:**\
+Pre-registration price: $350\
+On-site price: not available
 {{< /center >}}
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
@@ -122,18 +127,18 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 - A unique gift available to Supersponsors
 - Our wonderful Supersponsor Brunch on Sunday
 - An advance opportunity to book select hotel rooms before general availability[\*\*](#disclaimers-for-registration-tiers)
+
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Ultrasponsor" %}}
-{{< center >}}### Ultrasponsor{{< /center >}}
-
-{{< center >}}***Limited Availability (35) - Pre-registration only***{{< /center >}}
-
 {{< center >}}
-**Pricing:**
+### Ultrasponsor
 
-Pre-registration price: $1,200
+***Limited Availability (35) - Pre-registration only***
 
-On-site price: n/a
+**Pricing:**\
+Pre-registration price: $1200\
+On-site price: not available
 {{< /center >}}
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
@@ -149,30 +154,28 @@ On-site price: n/a
 - Special Ultrasponsor Badge
 - Free access to the Anthrocon River Cruises (if cruises are available)
 - Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
+
+{{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Day Membership" %}}
-{{< center >}}### Day Membership{{< /center >}}
-
-{{< center >}}***Limited Availability***{{< /center >}}
-
 {{< center >}}
-**Pricing:**
+### Day Membership
 
-Pre-registration price: n/a
+***Limited Availability***
 
+**Pricing:**\
+Pre-registration price: not available\
 On-site price: $50
 {{< /center >}}
 
 Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
 {{% /tab %}}
 {{% tab "PUP Membership (Ages 12 and Under)" %}}
-{{< center >}}### PUP Membership (Ages 12 and Under){{< /center >}}
-
 {{< center >}}
-**Pricing (On-Site Purchase Only):**
+### PUP Membership (Ages 12 and Under)
 
-Pre-registration price: n/a
-
+**Pricing (On-Site Purchase Only):**\
+Pre-registration price: not available\
 On-site price: $5
 {{< /center >}}
 
@@ -227,7 +230,7 @@ Required for attendees who are under 13 years of age and attending Anthrocon 202
 
 ## Important Dates and Times
 
-Registration pickup is located in the David L. Lawrence Convention Center, Hall D-E. At the door registrations will become available to purchase starting Friday morning through [the online registration portal](https://reg.anthrocon.org/) and will become available to pick up during regular Registration hours. You must register and purchase a registration online to receive your badge for entry to the event.
+Registration pickup is located in the David L. Lawrence Convention Center, Hall D-E. At the door registrations will become available to purchase starting Friday morning of the convention through [the online registration portal](https://reg.anthrocon.org/) and will become available to pick up during regular Registration hours. You must register and purchase a registration online to receive your badge for entry to the event.
 
 At the door registration times while availability lasts:
 
@@ -264,11 +267,11 @@ There are multiple options for both adults and minors to get a state-issued phot
 {{< /details >}}
 
 {{< details "Can I change my badge name?" >}}
-Yes. Log in to your registration at <https://reg.anthrocon.org/>, then select "Update registration".
+Yes. Log in to your registration at <https://reg.anthrocon.org/>, then from the Attendance page under Your registration select `…` ❯ `Modify registration`.
 {{< /details >}}
 
 {{< details "Can I upgrade my membership after I've paid for it?" >}}
-Yes! All you need to do is log in to your registration at <https://reg.anthrocon.org/>, then select "Update registration". From here, you can upgrade your membership and update your details. Remember that quantities are limited, so they may sell out.
+Yes! All you need to do is log in to your registration at <https://reg.anthrocon.org/>, then from the Attendance page under Your registration select `…` ❯ `Modify registration`. From here, you can upgrade your membership and update your details. Remember that quantities are limited, so they may sell out.
 {{< /details >}}
 
 {{< details "I am unable to stand in long lines. What can I do?" >}}
