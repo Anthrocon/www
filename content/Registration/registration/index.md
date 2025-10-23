@@ -56,7 +56,7 @@ There are several levels of memberships available for purchase. The key dates fo
 Please read the following instructions in order to successfully purchase your conbadge. There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level).
 
 - Log in to your existing account on [our Registration portal](https://reg.anthrocon.org/), or create a new account by selecting `Create Your Account` and following the instructions — including verifying your email.
-- Once your account is registered and verified, select `Start registration` from the Attendance page, then select your desired level. Available levels will be displayed at the start times listed below. Sold out and unavailable levels will not be visible.
+- Once your account is registered and verified, select `Start registration` from the Attendance page, then select your desired level. Available levels will be displayed at the start times listed above. Sold out and unavailable levels will not be visible.
 - Fill out the form and select `Register`. Your registration is now held in stock, but not completed.
 - Select `View cart` and complete checkout. Your membership is NOT complete until you check out.
 - For Ultrasponsors and Supersponsors, additional ticketed event options will be visible once your registration is held in stock.
