@@ -238,8 +238,6 @@ Items of a racist, sexist, or otherwise hateful nature will not be permitted for
 
 Non-firearm weapons such as swords are acceptable provided the item is blunted and that the purchases are fully wrapped afterward. Anthrocon safety policy requires that these items not be waved, pointed, or otherwise brandished in public. Any items which resemble firearms but are non-firing must also be fully wrapped and not brandished. Customers who purchase such items should be encouraged to carry them directly to their hotel rooms or vehicles.
 
-Items of a distinctly adult or sexual nature whose primary purpose is functional rather than artistic are prohibited for direct sale in all areas of the Dealers Room, including the 18+ Section. However, the 18+ Section permits display of samples and models of functional adult items, and for these items to be sold for delivery off-site. As Anthrocon encourages public health and safety, sale or giveaway of prophylactics such as condoms is permitted.
-
 Tattoos may not be offered in the dealers room anywhere outside of tattoo booths for hygiene reasons. Tattoos should not be done on areas requiring censorship and clients must remain fully clothed. Hotels expressly forbid tattooing inside their rooms.
 
 Our contract with the DLCC does not permit food and drink sales, displays, and giveaways in the Dealers Room without express approval from the Director and Levy Catering. If you would like to sell any food or beverages, you will need to reach out ahead of the convention and at minimum need to provide insurance.
