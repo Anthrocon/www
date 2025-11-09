@@ -78,7 +78,7 @@ Peter “PeterCat” Kappesser
 {{< center >}}
 **Director of Dealers Room**
 
-Timothy “The Foxish” Mithee
+Corey "Kess" Robichaud
 {{< /center >}}
 {{< /columns >}}
 
