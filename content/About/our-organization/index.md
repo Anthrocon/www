@@ -60,7 +60,7 @@ John “K.P.” Cole
 
 {{< columns >}}
 {{< center >}}
-**Acting Director of Events**
+**Director of Events**
 
 Christopher “Sparf” Williams
 {{< /center >}}
