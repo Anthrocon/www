@@ -70,9 +70,7 @@ Additional information:
 
 ***
 
-## Table Pricing for 2025
-
-> Note: updated 2026 pricing to be provided at a later date
+## Table Pricing for 2026
 
 Our table prices for the Dealers Room are listed below. **Please note: ELECTRICAL POWER IS NOT INCLUDED, except for Booths.** If your table has a need for power, please contact our Dealers Room team once you have been confirmed for a space.
 

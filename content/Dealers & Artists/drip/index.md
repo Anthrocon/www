@@ -140,7 +140,7 @@ Your payment for a Dealership at Anthrocon includes all applicable taxes and fee
 
 We have created a brief guide to obtaining a PA tax ID through the MyPath system, which can be found here:
 
-{{< center >}}{{< button href="tax-guide" >}}Pennsylvania Tax ID Application Guide{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="/tax-guide" >}}Pennsylvania Tax ID Application Guide{{< /button >}}{{< /center >}}
 
 We are required as the Promoter to have all license numbers on file prior to the convention, and due to past abuses we can no longer hold onto tables while dealers seek tax license numbers. That means that you must have a valid tax license before you can submit an application for a Dealership. **You must submit it with your application, or it will not be considered.** If you do not sell anything requiring sales tax, please note “Tax ID not required” on your application. Staff will verify your merchandise is exempt before moving to curation. If you applied for a tax ID but have not received your number, you can enter “Pending” under the ID field but your application will not enter the curation system until you email us the ID number. This can cause delays and may result in missing rounds of curation, so please send it to us as soon as possible. Applications noting that a tax ID will be applied for if the dealership is approved will not be considered due to delays in obtaining IDs after acceptance as a dealer.
 
@@ -238,8 +238,6 @@ Items of a racist, sexist, or otherwise hateful nature will not be permitted for
 
 Non-firearm weapons such as swords are acceptable provided the item is blunted and that the purchases are fully wrapped afterward. Anthrocon safety policy requires that these items not be waved, pointed, or otherwise brandished in public. Any items which resemble firearms but are non-firing must also be fully wrapped and not brandished. Customers who purchase such items should be encouraged to carry them directly to their hotel rooms or vehicles.
 
-Items of a distinctly adult or sexual nature whose primary purpose is functional rather than artistic are prohibited for direct sale in all areas of the Dealers Room, including the 18+ Section. However, the 18+ Section permits display of samples and models of functional adult items, and for these items to be sold for delivery off-site. As Anthrocon encourages public health and safety, sale or giveaway of prophylactics such as condoms is permitted.
-
 Tattoos may not be offered in the dealers room anywhere outside of tattoo booths for hygiene reasons. Tattoos should not be done on areas requiring censorship and clients must remain fully clothed. Hotels expressly forbid tattooing inside their rooms.
 
 Our contract with the DLCC does not permit food and drink sales, displays, and giveaways in the Dealers Room without express approval from the Director and Levy Catering. If you would like to sell any food or beverages, you will need to reach out ahead of the convention and at minimum need to provide insurance.
@@ -327,6 +325,8 @@ In the event of an emergency, either locate the nearest Rover or come to the Dea
 
 Those in the 18+ Section are still expected to follow the rules presented in the Standards of Conduct; dealers and attendees must remain in “street legal” attire at all times, and displays of affection should remain appropriate. Leashes and leads may not be attached to collars, and adult-oriented audio must not be audible outside of the 18+ Section, with headphones strongly recommended.
 
+Items which resemble male or female genitalia or orifices, whether of a realistic or fantastic nature, that are either penetrative or penetrable may only be sold in the 18+ area of the dealers room. All of these items (including grinders and related toys) must be placed in a discreet package and heat sealed in opaque packaging at the provided station before being sold to any attendee. These packages may not be opened in any convention space under any circumstances or the attendee will risk losing their Anthrocon badge. Dealers are responsible for communicating this to any attendees purchasing these items, though signage will also be present.
+
 Questions, complaints or concerns about the Dealers Room should be directed onsite to the Dealers Room Staff or Director. You may also feel free to contact Safety, Convention Operations, or other staff persons during the convention for appropriate issues, particularly for urgent situations. Please try to notify us of your concerns onsite and quickly if possible — we want to help you out promptly!
 
 ## Check in, set up and teardown
@@ -351,7 +351,7 @@ Dealers are able to drive their vehicles onto the floor of Halls A&B for unloadi
 
 The Teamsters and loading dock will be available from 12:00 pm to 3:00pm based on assigned dock entry times and 3:00 PM until 8:30 PM on Thursday to all dealers. Teamsters and the loading dock will be available from 4 PM until 8 PM on Sunday, July 7 for teardown and loadout. Because of the early opening time, vehicles are not permitted on the floor on Friday, though items can still be dropped off at the loading dock to be delivered to your table.
 
-Dealers who wish to have things shipped in advance and delivered to the DLCC during load-in can do so via APA Exhibition Services, who provide both warehousing and delivery services for a fee. This service must be ordered and paid for before the convention; the order form for shipping and delivery will be provided about four weeks before the convention. Please note that Anthrocon has no control over this service, and will not be able to provide much in the way of assistance; issues should be brought up to APA directly.
+Dealers who wish to have things shipped in advance and delivered to the DLCC during load-in can do so via APA Exhibition Services, who provide both warehousing and delivery services for a fee. This service must be ordered and paid for before the convention; the order form for shipping and delivery will be provided about four weeks before the convention. Please note that Anthrocon has no control over this service, and will not be able to provide much in the way of assistance; issues should be brought up to APA directly. When shipping any items of an adult nature, please be considerate of the teamsters and use discreet packaging as well as discreet verbiage on any shipping or manifest forms.
 
 A paid remote parking area will be provided to dealers who need to park their vehicles during the convention. It will become available on Thursday during load-in and will remain open until the following Monday. This lot is intended primarily for dealers with very large vehicles who otherwise would have difficulty parking, but any dealer is welcome to use it. Dealers will need to request parking in advance; further details are expected in early 2026 and will be passed to Dealers as soon as possible. This lot requires sign up and payment before the convention starts so please keep an eye out for that information if you will need it.
 
