@@ -25,9 +25,9 @@ weight: 10
 
 <--->
 
-The events schedule is now available to view online through Sched. You can access the schedule through the link below, or by downloading the Sched app on your mobile device and searching for “Anthrocon 2025”. The schedule details are subject to change all the way up to the convention.
+Applications to host an event, panel or meet-up at Anthrocon 2026 are now available online until March 2026. The confirmed schedule of events will be announced May 2026, subject to changes.
 
-{{< center >}}{{< button href="https://anthrocon.sched.com/" >}}View Schedule{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://docs.google.com/forms/d/1pq8w1-z7uElbMnD1xlWgA8pAbQWsq3Y6vEt5VjZynZg/edit" >}}Apply Online{{< /button >}}{{< /center >}}
 {{< /columns >}}
 
 ***
@@ -57,7 +57,7 @@ Anthrocon **DOES** provides the following items **based on room assignment**:
 
 ### Acknowledgments
 
-In submitting my panel request for Anthrocon 2025, I accept and acknowledge the following:
+In submitting my panel request for Anthrocon 2026, I accept and acknowledge the following:
 
 1. Submission does not guarantee acceptance.
 2. Equipment requests are not guaranteed.
@@ -87,7 +87,9 @@ If you’ve got an interesting topic or talent you’d love to share with our co
 
 ## Apply to Host an Event
 
-Panel applications for Anthrocon 2025 are now closed. Keep an eye on our social media for updates. If you have any questions about your application, please reach out to <events@anthrocon.org>.
+Ready to submit your panel or meet-up idea for Anthrocon 2026? We'd love to hear about it - applications are now available online until March 2026. If you have any questions about your application, please reach out to <events@anthrocon.org>.
+
+{{< center >}}{{< button href="https://docs.google.com/forms/d/1pq8w1-z7uElbMnD1xlWgA8pAbQWsq3Y6vEt5VjZynZg/edit" >}}Apply Online{{< /button >}}{{< /center >}}
 
 ***
 

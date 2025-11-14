@@ -16,18 +16,12 @@ Anthrocon’s stages showcase the best of furry-centric talent to our attendees,
 - [Stage Performance Policies](#stage-performance-policies-and-rules)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSfAgAyZsymF7st7JT6FbBkV_wIxpdowzTxY962JxW5pnrCQTQ/viewform" >}}Apply Online{{< /button >}}{{< /center >}}
+
 <--->
 
 {{< img src="LUAU-6964.jpg" alt="An otter performing the guitar on Anthrocon's performance stage." hint="picture" attr="Hokuloa Luau" >}}
 {{< /columns >}}
-
-***
-
-## Anthrocon Puppet Slam is Accepting Submissions!
-
-Interested in performing a short piece live onstage? Check out the guidelines in our submission form and join in on the fun! Submissions are being accepted until June 25! All skill levels are welcome!
-
-{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdiE7gei5xs_UuPmZsBt-e5tykWv-uFY01W_5_HmaIp9ffngA/viewform" >}}Apply to Perform{{< /button >}}{{< /center >}}
 
 ***
 
@@ -50,7 +44,7 @@ Anthrocon **DOES** provides the following items **based on performance type**:
 
 ### Acknowledgments
 
-In submitting your performance application for Anthrocon 2025, you accept and acknowledge the following:
+In submitting your performance application for Anthrocon 2026, you accept and acknowledge the following:
 
 1. Submission does not guarantee acceptance.
 2. Equipment requests are not guaranteed.
@@ -60,10 +54,6 @@ In submitting your performance application for Anthrocon 2025, you accept and ac
 6. You will adhere to all convention policies regarding public health.
 7. You may not consume any food or drink, store bought or homemade, while performing on stage. This includes but is not limited to coffee, tea, soda, chips, pretzels, candy, etc.
 8. Performers may not alter a stage’s fundamental layout. If a stage is set up it must remain in that fashion unless given explicit permission by Events staff. If accommodations are required to assist with your performance, please let us know in your application.
-
-***
-
-Stage performance applications for Anthrocon 2025 are now closed. For any questions or suggestions, reach out to us at <events@anthrocon.org>.
 
 ***
 

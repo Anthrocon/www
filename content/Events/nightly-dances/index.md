@@ -37,6 +37,8 @@ The nightly dance is rated as an all-ages event. Please be aware that this is an
     - We understand that musical self-expression can sometimes include coarse language and mature content. We don’t have specific rules against this, but ask that you don’t take advantage of that fact for shock value. Most performances (including the dances) at Anthrocon are all-ages — use your best judgment.
     - Be on time for sound checks. If the crew does not have enough time to prepare for your show, we reserve the right to strike it from the line-up.
 
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdFKglmw5DE7NI7hKpGbtxS7xIoPi5082KCOmhpSg0r9r5lQQ/viewform" >}}Submit your demo{{< /button >}}{{< /center >}}
+
 ***
 
 ## Bag Policy for Nightly Dances
