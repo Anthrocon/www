@@ -391,10 +391,10 @@ The award-winning Pittsburgh Marriott City Center effortlessly blends style & su
 
 ***
 
-{{< columns "33%" >}}
-{{< img src="lobby_lounge_9457.jpg" alt="A picture of the interior of the Renaissance Pittsburgh Hotel." hint="picture" >}}
-
 <--->
+
+{{< columns "33%" >}}
+{{< img src="2025-03-31.webp" alt="A picture of the exterior of Placemakr Pittsburgh." hint="picture" >}}
 
 ### Placemakr Pittsburgh
 
@@ -413,7 +413,7 @@ Located within the iconic Pennsylvanian, Placemakr Downtown Pittsburgh blends hi
 ***
 
 {{< columns "33%" >}}
-{{< img src="2025-03-31.webp" alt="A picture of the exterior of Placemakr Pittsburgh." hint="picture" >}}
+{{< img src="lobby_lounge_9457.jpg" alt="A picture of the interior of the Renaissance Pittsburgh Hotel." hint="picture" >}}
 
 <--->
 
