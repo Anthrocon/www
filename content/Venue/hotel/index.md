@@ -4,7 +4,7 @@ aliases:
     - "/hotels"
 
 params:
-    banner: "2024 Kavaeric DSC03928.jpg"
+    banner: "2024 Kavaeric DSC03395.jpg"
     banner_title: ""
     banner_caption: ""
     banner_author: "Kavaeric"
@@ -16,7 +16,7 @@ params:
 {{< center >}}
 Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees.
 
-**Online pre-registration will temporarily pause between February 23 to 26, 2025, to improve the general hotel booking experience, and reopen on February 27.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
+**Online pre-registration will temporarily pause between February 20 to 24, 2026, to improve the general hotel booking experience, and reopen on February 25.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
 {{< /center >}}
 
 {{< center >}}[Booking Process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel Options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
@@ -26,26 +26,26 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 ## Booking Process
 
 {{< columns >}}
-Email notifications and links for the Anthrocon hotel reservation block will be sent to pre-registered members through both the Registration portal and direct email as follows (all opening times will be approximately 12 PM Eastern Time):
+Hotel booking links for the Anthrocon reservation block will be available to pre-registered members through the Registration portal on the following days, based on membership type (all opening times will be approximately 12 PM Eastern Time):
 
-- Ultrasponsors: February 4, 2025
-- Dealers: February 11, 2025
-- Supersponsors: February 18, 2025
-- General (Attending/Sponsor): February 25, 2025
+- Ultrasponsors: February 3, 2026
+- Dealers: February 10, 2026
+- Supersponsors: February 17, 2026
+- General (Attending/Sponsor): February 24, 2026
 
 <--->
 
 {{< img src="2024 Kaze-6533.jpg" hint="picture" attr="Kaze" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 {{< /columns >}}
 
-**A limited number of rooms will be set aside for people who are eligible for advance hotel booking (such as Ultrasponsors/Supersponsors)**. This is to allow attendees a chance to reserve a room at each hotel without having a hotel fill up before general opening. We will send the general hotel reservation link to all registered attendees on February 25, so you will have a second chance if you do not get the hotel room of your choice during advance booking.
+**A limited number of rooms will be set aside for people who are eligible for advance hotel booking (such as Supersponsors)**. This is to allow attendees a chance to reserve a room at each hotel without having a hotel fill up before general opening. The general booking link will be available to all registered attendees, regardless of membership level, during the General opening listed above so you will have a second chance if you do not get the hotel room of your choice during advance booking.
 
 **Do NOT book through a hotel’s website if you want to get Anthrocon’s rates (subject to availability)**. Reservations must be made through our booking link in order to get the convention rate — if you make a reservation outside of Anthrocon's hotel block, it cannot be transferred into Anthrocon’s block.
 
-- An email will be sent out to your registered email at the date/time listed above. If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. ***Anthrocon is not responsible for lost or undeliverable emails***. Check your spam and promotional folders if you do not receive the email at the listed time.
+- If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. If you don't see the hotel booking link in your confirmation email, [contact our team for support](/contact).
 - **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
 - **Only one room may be booked per registered attendee**, as it is linked to the registration.
-- A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 16, 2025 — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
+- A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 14, 2026 at 11:59 PM Eastern Time — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
 
 ***
 
@@ -88,11 +88,13 @@ These rates are exclusive to rooms booked in Anthrocon’s room block (subject t
 
 The AC Hotel Pittsburgh Downtown reflects smart, timeless European design guests will love and just a short walk away and close to the Strip District, PPG Paints Arena (home of the Pittsburgh Penguins), Business District, Cultural District and Market Square.
 
-**1 King Bed Room:** $229/night
+**1 King Bed Room:** $239/night
 
-**2 Queen Bed Room:** $239/night
+**2 Queen Bed Room:** $249/night
 
-**1 King Corner Suite:** $349/night
+**1 King Corner Suite:** $359/night
+
+**2 Bed Suite:** $699/night
 
 **Walking Distance:** 0.2 miles
 
@@ -110,7 +112,7 @@ The AC Hotel Pittsburgh Downtown reflects smart, timeless European design guests
 
 Located near the PPG Paints Arena, all rooms have a double size pullout bed, microwave, and refrigerator.
 
-**King Bed Suite:** $145/night
+**King Bed Suite:** $149/night
 
 **Walking Distance:** 0.8 miles
 
@@ -148,9 +150,9 @@ Located just across the street from the Convention Center (but with no access wi
 
 Located a few blocks from the convention center, the sleek DoubleTree Hotel is a leisurely 5-6 minute walk away. For those on a budget, it features a 7-11 store right in the lobby.
 
-**1 King Bed or 2 Double Bed Room:** $189/night
+**1 King Bed or 2 Double Bed Room:** $194/night
 
-**1 Bedroom Suite, King or Queen:** $219/night
+**1 Bedroom Suite, King or Queen:** $224/night
 
 **Walking Distance:** 0.5 miles
 
@@ -192,7 +194,7 @@ Experience the distinctive ambiance of our Embassy Suites by Hilton Pittsburgh D
 
 **NOTE: This hotel has a minimum check-in age of 21 years old.**
 
-**1 King Bed or 2 Queen Bed Parlor Suites:** $202/night for 2 guests (increases by $15 for each additional guest up to 4)
+**1 King Bed or 2 Queen Bed Parlor Suites:** $208/night for 2 guests (increases by $15 for each additional guest up to 4)
 
 **Walking Distance:** 0.4 miles
 
@@ -212,7 +214,7 @@ Experience the distinctive ambiance of our Embassy Suites by Hilton Pittsburgh D
 
 Located in the historic Kaufmann Building in Downtown Pittsburgh, approximately 5 blocks from the David L. Lawrence Convention Center.
 
-**1 King Bed or 2 Queen Bed Room:** $203/night
+**1 King Bed or 2 Queen Bed Room:** $209/night
 
 **Walking Distance:** 0.4 miles
 
@@ -232,9 +234,9 @@ Located in the historic Kaufmann Building in Downtown Pittsburgh, approximately 
 
 This is the only hotel in the Golden Triangle whose room rate includes parking, internet and daily breakfast.
 
-**1 King Bed or 2 Queen Bed:** $229/night
+**1 King Bed or 2 Queen Bed:** $234/night
 
-**1 King Studio Suite:** $259/night
+**1 King Studio Suite:** $264/night
 
 **Walking Distance:** 0.3 miles
 
@@ -296,7 +298,7 @@ The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy es
 
 All of the rooms in our block are King Studio Suites. They are fully equipped with a full kitchen, but you don't need to dirty the dishes; a hot breakfast is included in the rate! Conveniently accessible by Anthrocon's downtown shuttle service.
 
-**King Studio Suites:** $225/night for 2 guests (increases by $10 for each additional guest up to 4)
+**King Studio Suites:** $228/night for 2 guests (increases by $10 for each additional guest up to 4)
 
 **Walking Distance:** 0.4 miles
 
@@ -316,7 +318,7 @@ All of the rooms in our block are King Studio Suites. They are fully equipped wi
 
 Located in Downtown Pittsburgh’s Golden Triangle, the Joinery Hotel boasts a unique modern edge, including an experiential lobby with ‘offering table’ check-in experience and library.
 
-**1 King Bed:** $259/night
+**1 King Bed:** $261/night
 
 **Walking Distance:** 0.7 miles
 
@@ -358,7 +360,7 @@ Located a few blocks from the convention center, the breathtakingly luxurious Om
 
 **NOTE: This hotel has a minimum check-in age of 21 years old.**
 
-**1 King Bed or 2 Double Bed Room:** $209/night
+**1 King Bed or 2 Double Bed Room:** $225/night
 
 **Walking Distance:** 0.4 miles
 
@@ -378,7 +380,7 @@ Located a few blocks from the convention center, the breathtakingly luxurious Om
 
 The award-winning Pittsburgh Marriott City Center effortlessly blends style & substance. It is located across the street from PPG Paints Arena, just minutes from the heart of downtown.
 
-**Standard 2 Doubles:** $185/night
+**Standard 2 Doubles:** $179/night
 
 **Walking Distance**: 0.7 miles
 
@@ -394,11 +396,32 @@ The award-winning Pittsburgh Marriott City Center effortlessly blends style & su
 
 <--->
 
+### Placemakr Pittsburgh
+
+Located within the iconic Pennsylvanian, Placemakr Downtown Pittsburgh blends historic grandeur with modern comfort and close walking distance to the convention.
+
+**One Bed Apartment Suite:** $229/night
+
+**Two Bed Apartment Suite:** $389/night
+
+**Walking Distance**: 0.1 miles
+
+**Shuttle Service:** No
+
+{{< /columns >}}
+
+***
+
+{{< columns "33%" >}}
+{{< img src="2025-03-31.webp" alt="A picture of the exterior of Placemakr Pittsburgh." hint="picture" >}}
+
+<--->
+
 ### Renaissance Pittsburgh Hotel
 
 Located a few blocks from the convention center in the heart of the Cultural District, this is one of the more luxurious hotels in the downtown area.
 
-**1 King Bed or 2 Queen Bed Room:** $224/night
+**1 King Bed or 2 Queen Bed Room:** $249/night
 
 **Walking Distance:** 0.5 miles
 
@@ -438,7 +461,7 @@ Residence Inn offers spacious suites with full kitchens, and within walking dist
 
 This Sheraton hotel located on the South Shore offers a river view, pet-friendly rooms, and is near downtown attractions.
 
-**Guest rooms:** $239/night
+**Guest rooms:** $249/night
 
 **Walking Distance:** 1.4 miles
 
@@ -478,9 +501,9 @@ Ideal for sports fans, this hotel is right next to PNC Park and a half mile away
 
 Located just across the street from the convention center, this is Anthrocon's main hotel that also hosts certain programming and events.
 
-**1 King Bed or 2 Double Bed:** $229/night
+**1 King Bed or 2 Double Bed:** $234/night
 
-**Corner Suite:** $419/night
+**Corner Suite:** $424/night
 
 **Walking Distance:** 0.1 mile
 
@@ -498,7 +521,7 @@ Located just across the street from the convention center, this is Anthrocon's m
 
 The Wyndham Grand Pittsburgh Downtown Hotel is located where Pittsburgh's famous three rivers meet and where the energy is alive.
 
-**Traditional King or 2 Double Bed:** $199/night
+**Traditional King or 2 Double Bed:** $204/night
 
 **Walking Distance:** 0.7 miles
 
