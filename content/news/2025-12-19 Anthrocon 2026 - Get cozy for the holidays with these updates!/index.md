@@ -35,7 +35,7 @@ More information about what you’ll need and what to expect for Hotels can be f
 
 In addition, we’re working on adding transportation services for all official partnered hotels not in the direct vicinity of the convention center. While we continue to work on updating shuttle information for 2026, you can reference last year’s service as an example on [**our Shuttle Buses page**](/shuttle-buses).
 
-\<h2\>Events, Panels, and Performances\</h2\>
+## Events, Panels, and Performances
 
 Interested in hosting or performing at Anthrocon 2026? Our event and performance applications are now open and will remain open until March 2026\. Applications and details for interested panelists and performers can be found on [**our Events page**](/events-panels).
 
