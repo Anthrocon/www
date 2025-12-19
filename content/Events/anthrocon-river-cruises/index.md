@@ -1,7 +1,7 @@
 ---
 title: "Anthrocon River Cruises"
 params:
-    banner: "2024+Tobee+20240704_131101.jpg"
+    banner: "2025+Tobee+20250705_211121.jpg"
     banner_title: ""
     banner_caption: ""
     banner_author: "Tobee"
@@ -12,10 +12,10 @@ params:
 
 {{< center >}}In partnership with the Gateway Clipper Fleet, Anthrocon is offering River Cruises during the convention with options for sightseeing and/or cocktail cruises.{{< /center >}}
 
-{{< center >}}[Cruise options](#anthrocon-2025-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
+{{< center >}}[Cruise options](#anthrocon-2026-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
 
 {{< columns >}}
-{{< img src="2024+Doktor+20240704_135829.jpg" alt="The Gateway Clipper Fleet's ship \"3 Rivers Queen\" with fursuiters on board." hint="photo" attr="Doktor" attrlink="https://www.furtrack.com/index/photographer:doktor" >}}
+{{< img src="LUA_3152.png" alt="The Gateway Clipper Fleet's ship \"3 Rivers Queen\" with fursuiters on board." hint="photo" attr="Luau" attrlink="https://www.furtrack.com/index/photographer:hokuloa_luau" >}}
 
 <--->
 
@@ -30,10 +30,10 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 ***
 
-## Anthrocon 2025 Cruise Options
+## Anthrocon 2026 Cruise Options
 
 {{% tabs %}}
-{{% tab "Thursday, July 3" %}}
+{{% tab "Thursday, July 2" %}}
 {{< center >}}
 ### Thursday Sightseeing Cruise
 
@@ -43,75 +43,54 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Boarding Time:** 6:30 PM
 - **Cruise Time:** 7:00 - 8:30 PM
 - **Price:** $25
-- **Boat:** The Duchess
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
 
-{{% tab "Friday, July 4" %}}
+{{% tab "Friday, July 3" %}}
 {{< center >}}
-### Friday Sightseeing Cruise #1
+### Friday Sightseeing Cruise
 
-12:30 PM to 2:30 PM
+6:30 PM to 8:30 PM
 {{< /center >}}
 
-- **Boarding Time:** 12:30 PM
-- **Cruise Time:** 1:00 - 2:30 PM
+- **Boarding Time:**  6:30 PM
+- **Cruise Time:** 7:00 - 8:30 PM
 - **Price:** $25
-- **Boat:** The Queen
-- **Capacity:** 175
-- **Amenities:** Bottled water and straws
-
-{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
-
-***
-
-{{< center >}}
-### Friday Sightseeing Cruise #2
-
-2:30 PM to 4:30 PM
-{{< /center >}}
-
-- **Boarding Time:** 2:30 PM
-- **Cruise Time:** 3:00 - 4:30 PM
-- **Price:** $25
-- **Boat:** The Queen
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
 
-{{% tab "Saturday, July 5" %}}
+{{% tab "Saturday, July 4" %}}
 {{< center >}}
 ### Saturday Cocktail Cruise
 
-6:30 PM to 9:00 PM
+5:30 PM to 8:00 PM
 {{< /center >}}
 
-- **Boarding Time:** 6:30 PM
-- **Cruise Time:** 7:00 - 9:00 PM
+- **Boarding Time:** 5:00 PM
+- **Cruise Time:** 5:30 - 8:00 PM
 - **Price:** $65
-- **Boat:** The Princess
 - **Capacity:** 175
 - **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
 
-{{% tab "Sunday, July 6" %}}
+{{% tab "Sunday, July 5" %}}
 {{< center >}}
-### Sunday Sightseeing Cruise
+### Sunday Sightseeing Cruises
 
-12:30 PM to 2:30 PM
+12:30 PM to 2:30 PM,
+2:30 PM to 4:00 PM
 {{< /center >}}
 
-- **Boarding Time:** 12:30 PM
-- **Cruise Time:** 1:00 - 2:30 PM
+- **Boarding Time:** 12:30 PM (first cruise), 2:30 PM (second cruise)
 - **Price:** $25
-- **Boat:** The Duchess
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
@@ -124,7 +103,7 @@ You **do not** need a con badge to board the cruise. However, you will need your
 ## Boarding process
 
 {{< columns >}}
-{{< img src="2024+Luau--21.jpg" hint="photo" attr="Luau" attrlink="https://www.furtrack.com/index/photographer:luau" >}}
+{{< img src="2025-Kaze-8941.jpg" hint="photo" attr="Kaze" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 
 <--->
 
@@ -171,7 +150,7 @@ Unfortunately, no. Once the boat has set sailed, it will not be able to change i
 
 ## Refund policy for cruises
 
-- The deadline to request a refund for an Anthrocon River Cruise is **June 14, 2025** at 11:59 PM EDT. Refund requests after this time will not be granted.
+- The deadline to request a refund for an Anthrocon River Cruise is **June 14, 2026** at 11:59 PM EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.
 - Refunds will not be issued if you miss the boarding time for your cruise.
 - Refund requests must made by email to <refunds@anthrocon.org>. We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR, and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
