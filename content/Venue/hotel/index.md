@@ -318,7 +318,7 @@ All of the rooms in our block are King Studio Suites. They are fully equipped wi
 
 Located in Downtown Pittsburgh’s Golden Triangle, the Joinery Hotel boasts a unique modern edge, including an experiential lobby with ‘offering table’ check-in experience and library.
 
-**1 King Bed:** $261/night
+**1 King or Queen Bed:** $261/night
 
 **Walking Distance:** 0.7 miles
 
@@ -391,10 +391,10 @@ The award-winning Pittsburgh Marriott City Center effortlessly blends style & su
 
 ***
 
-<--->
-
 {{< columns "33%" >}}
 {{< img src="2025-03-31.webp" alt="A picture of the exterior of Placemakr Pittsburgh." hint="picture" >}}
+
+<--->
 
 ### Placemakr Pittsburgh
 
