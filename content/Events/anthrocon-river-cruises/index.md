@@ -30,7 +30,7 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 ***
 
-## Anthrocon 2025 Cruise Options
+## Anthrocon 2026 Cruise Options
 
 {{% tabs %}}
 {{% tab "Thursday, July 2" %}}
