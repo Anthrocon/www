@@ -12,7 +12,7 @@ params:
 
 {{< center >}}In partnership with the Gateway Clipper Fleet, Anthrocon is offering River Cruises during the convention with options for sightseeing and/or cocktail cruises.{{< /center >}}
 
-{{< center >}}[Cruise options](#anthrocon-2025-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
+{{< center >}}[Cruise options](#anthrocon-2026-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
 
 {{< columns >}}
 {{< img src="LUA_3152.png" alt="The Gateway Clipper Fleet's ship \"3 Rivers Queen\" with fursuiters on board." hint="photo" attr="Luau" attrlink="https://www.furtrack.com/index/photographer:hokuloa_luau" >}}
