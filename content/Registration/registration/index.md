@@ -25,6 +25,10 @@ weight: 10
 
 ## 2026 Registration Updates
 
+### Hotel Booking Registration Pause
+
+Online registration will pause between February 20 to 24, and re-open on February 25 to support the hotel booking experience. You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room. For more details on the process, [refer to our Hotels page](/hotel).
+
 ### Pre-Registration Cap for Anthrocon 2026
 
 Anthrocon 2026 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registration hit certain thresholds for awareness on when the limit is close.
@@ -32,10 +36,6 @@ Anthrocon 2026 will be limiting the number of pre-registration badges sold befor
 ### Registration Process for 2026
 
 To ensure you have a smooth registration experience and secure a badge, please read over our [updated How to Register section](#how-to-register) below these updates.
-
-### Hotel Booking Registration Policy
-
-**You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room**. For more details on process, refer to [our Hotels page](/hotel).
 
 ### At-the-Door Membership Availability
 
