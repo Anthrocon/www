@@ -338,7 +338,7 @@ Located in Downtown Pittsburgh’s Golden Triangle, the Joinery Hotel boasts a u
 
 A historical, boutique hotel in Pittsburgh located close to plenty of dining options and a convenient distance away from the convention.
 
-**1 King Bed or 2 Queen Bed Room:** $259/night
+**1 King Bed or 2 Queen Bed Room:** $269/night for 2 guests (increases by $10 for each additional guest up to 4)
 
 **Walking Distance:** 0.4 miles
 
@@ -573,9 +573,7 @@ If you encounter any issues while trying to reserve a hotel room, please contact
 {{< /details >}}
 
 {{< details "Is there a one-night deposit to book a room at Anthrocon's hotels?" >}}
-There will not be a deposit taken this year; instead, we are giving people until May 16, 2025 to cancel a reservation without penalty. After that date, any cancellations will be assessed a one-night cancellation fee at the hotel’s rate. **A credit card number is still required to make a reservation**.
-
-A valid Anthrocon registration ID is required to make a hotel reservation — you will NOT be able to access the hotel booking system without it.
+There will not be a deposit taken this year; instead, we are giving people until May 16, 2026 to cancel a reservation without penalty. After that date, any cancellations will be assessed a one-night cancellation fee at the hotel’s rate. **A credit card number is still required to make a reservation**.
 {{< /details >}}
 
 {{< details "What other fees or charges should I expect with my hotel booking?" >}}
@@ -598,4 +596,16 @@ Suites that are part of the Anthrocon block at our partnered hotels will be offe
 No, as your hotel reservation is linked to your registration. You must have a valid Anthrocon registration to keep your reservation.
 
 In the event that you wish to transfer your room reservation to another person staying in your room, please contact [help@orchid.events](mailto:help@orchid.events?subject=Anthrocon%20reservation%20change%20request) to inform them of the transfer request.
+{{< /details >}}
+
+{{< details "How do I add myself as a roommate to an existing booking as a roommate?" >}}
+On the Registration system, you will be able to use the function for finding a reservation and inputting an Orchid Events confirmation number. If your name matches a guest name on the reservation, it should display on your Registration page. If it doesn’t match, you may need to double-check the details of the room booking to make sure they’re correct.
+{{< /details >}}
+
+{{< details "Can I transfer a room later?" >}}
+If you wish to transfer an existing reservation made through our booking partner, requests must be made to <help@orchid.events> before June 2026.
+{{< /details >}}
+
+{{< details "I have an accessibility accommodation that requires an accessible room, how can I request one?" >}}
+You may request an accessible room by clicking the appropriate “ADA Request” box on the hotel reservation page. It is very important that you not only click the box but that you also explain what specific accommodation is needed in the “Requests” box. This will help us to match you up to the proper room. Please understand that each hotel only has a fixed number of accessible rooms; to inquire about what accommodations a hotel has, please contact that hotel directly.
 {{< /details >}}
