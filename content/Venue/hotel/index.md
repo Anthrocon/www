@@ -408,6 +408,7 @@ Located within the iconic Pennsylvanian, Placemakr Downtown Pittsburgh blends hi
 
 **Shuttle Service:** No
 
+[Learn more about the Placemakr Pittsburgh](https://www.placemakr.com/locations/pittsburgh)
 {{< /columns >}}
 
 ***
