@@ -132,7 +132,7 @@ Located near the PPG Paints Arena, all rooms have a double size pullout bed, mic
 
 Located just across the street from the Convention Center (but with no access without going outdoors), the Courtyard Downtown Pittsburgh is just as close as The Westin.
 
-**1 King Bed or 2 Queen Bed:** $239/night
+**1 King Bed or 2 Queen Bed:** $246/night
 
 **Walking Distance:** 0.1 mile
 
