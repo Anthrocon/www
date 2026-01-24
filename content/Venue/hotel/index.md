@@ -278,7 +278,7 @@ The Hilton Garden Inn Pittsburgh Downtown enjoys a central spot in the heart of 
 
 The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy establishments and is a short walk from Heinz Field, where the Pittsburgh Steelers and the Panthers play.
 
-**Two Queen Bed:** $229/night
+**One King or Two Queen Bed:** $199/night
 
 **Walking Distance:** 0.7 miles
 
