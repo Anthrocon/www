@@ -422,7 +422,7 @@ Located within the iconic Pennsylvanian, Placemakr Downtown Pittsburgh blends hi
 
 Located a few blocks from the convention center in the heart of the Cultural District, this is one of the more luxurious hotels in the downtown area.
 
-**1 King Bed or 2 Queen Bed Room:** $249/night
+**1 King Bed or 2 Queen Bed Room:** $239/night
 
 **Walking Distance:** 0.5 miles
 
@@ -502,9 +502,9 @@ Ideal for sports fans, this hotel is right next to PNC Park and a half mile away
 
 Located just across the street from the convention center, this is Anthrocon's main hotel that also hosts certain programming and events.
 
-**1 King Bed or 2 Double Bed:** $234/night
+**1 King Bed or 2 Double Bed:** $236/night
 
-**Corner Suite:** $424/night
+**Corner Suite:** $426/night
 
 **Walking Distance:** 0.1 mile
 
