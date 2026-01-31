@@ -19,7 +19,7 @@ params:
 ## Wheelchairs & Mobility Scooters
 
 {{< columns >}}
-A limited number of wheelchairs are available for loan by the Convention Center on a first-come, first-served basis. They are available at the East Lobby security desk, West Lobby security desk, and the Spirit of Pittsburgh Ballroom, *Presented by Dollar Bank,* security desk. Wheelchairs are not permitted to leave the property.
+A limited number of wheelchairs are available for loan by the Convention Center on a first-come, first-served basis. They are available at the East Lobby security desk, West Lobby security desk, and the Spirit of Pittsburgh Ballroom security desk. Wheelchairs are not permitted to leave the property.
 
 <--->
 
