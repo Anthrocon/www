@@ -23,7 +23,7 @@ params:
 
 <--->
 
-**Artist Alley Lottery sign-up are now open until May 30, 2025**. Please ensure that you read the [Artists Information section](#artists-information) before applying further below on the page.
+**Artist Alley Lottery sign-up are now open until May 28, 2026**. Please ensure that you read the [Artists Information section](#artists-information) before applying further below on the page.
 
 The Artists Alley is *not* the Dealers Room, and is not intended to be used as a free alternative to it. Space is limited, but we do our best to accommodate as many artists as possible.
 {{< /columns >}}
@@ -32,7 +32,7 @@ The Artists Alley is *not* the Dealers Room, and is not intended to be used as a
 
 ## Artists information
 
-Before applying, please ensure you read the [Artists Alley Rules](https://docs.google.com/document/d/1VrFyOnx6v_Kvmjy5r56zJRpWQkyMCsG0_EQbe8sXNeQ/edit?usp=drivesdk).
+Before applying, please ensure you read the [Artists Alley Rules](https://docs.google.com/document/d/1VrFyOnx6v_Kvmjy5r56zJRpWQkyMCsG0_EQbe8sXNeQ/edit?usp=drivesdk). **The application link is located in the rules document.**
 
 - For the application process, find out more in the [Artists Alley Lottery Process](https://docs.google.com/document/d/1j4gbHiKjXAl0h25BMgD5yEx6HZvQxHSe2wF1WS8XuJc/edit?usp=drivesdk)
 - All artists must abide by the [Anthrocon Standards of Conduct](https://www.anthrocon.org/standards-of-conduct)
