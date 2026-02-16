@@ -15,45 +15,64 @@ params:
 
 {{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
-{{< center >}}[2025 Sponsored Charity](#2025-charity-nose-2-tail-cat-rescue) - [Bucket Brigade](#bucket-brigade) - [Charity Auction](#charity-auction-and-raffle) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
+{{< center >}}[2026 Sponsored Charity](#2026-charity-j-and-j-farms-animal-sanctuary) - [Bucket Brigade](#bucket-brigade) - [Charity Auction](#charity-auction-and-raffle) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
 ***
 
-## 2025 Charity: Nose 2 Tail Cat Rescue
+## 2026 Charity: J and J Farms Animal Sanctuary
 
-{{< center >}}***“Our mission is to reduce overpopulation and euthanasia rates of cats through education, adoption, and providing a safe, loving environment for our furry friends.”***{{< /center >}}
+{{< center >}}In the heart of Western Pennsylvania, there is a place where the misunderstood, the broken and the overlooked find more than just a home—they find a family. **J and J Farms Animal Sanctuary** is proud to announce its selection as the official charity for **Anthrocon 2026**.{{< /center >}}
 
-{{< img src="N2T_Official-Logo-2color.png" float="left" hint="drawing" filter="#ffffff" >}}
+{{< img src="Logo.png" float="left" hint="drawing" filter="#ffffff" >}}
 
-This year, we’re delighted to be partnering with [Nose 2 Tail Cat Rescue](https://www.nose2tailcatrescue.org/), a 501(c)(3) non-profit, 100% donation and volunteer-run, no-kill cat rescue located in McDonald, PA.
+Founded in 2021 by Jessica Poutous and Jesse Blake, J and J Farms Animal Sanctuary isn't your average farm. It is a 501(c)(3) nonprofit "forever home" for over 175 animals who have survived atrocities such as neglect, abandonment and the brink of slaughter. From giant, 2,000-pound Belgian draft horses to tiny, bantam chickens, every resident is treated as an individual with a name, a story, and a personality all their own.
 
-Nose 2 Tail Cat Rescue cares for 20-40 homeless cats and kittens at any given time at our rescue facility and in foster homes. Since becoming a non-profit in 2018, Nose 2 Tail Cat Rescue has rescued and found homes for more than 700 cats (less than 10 of those have ever been returned to them!), helping countless families experience the joy of adoption! Their dedicated team consists of about 40 volunteers and foster families who help make their mission possible.
+### Meet the Residents
+
+The Sanctuary specializes in those who need a little extra love—the "misfits" and special needs residents who mirror the spirit of resilience:
 
 {{< columns >}}
-{{< img src="IMG_0249.JPEG" alt="A picture of an orange cat walking through the grass." hint="photo" >}}
+
+{{< img src="Messenger_creation_5194E6D7-9801-48C3-8250-D122808BBF94.jpeg" hint="photo" caption="Hank, a Pekin duck with a leg deformity">}}
 
 <--->
 
-{{< img src="IMG_1778.JPEG" alt="A picture of a black cat with a white spot on its chest being held in someone's hands." hint="picture" >}}
+**Hank:**  A Pekin duck who doesn't let a leg deformity stop him. Though he’s unable to walk, he lives life to its fullest. He can often be seen at our community events, rocking his size 2T/3T diaper, proving that "different" is just another way of being awesome.
 
-<--->
-
-{{< img src="IMG_6790.JPEG" alt="A picture of three cats (two orange cats and one black cat) sitting on a yellow blanket." hint="picture" >}}
-
-<--->
-
-{{< img src="IMG_7865.JPEG" alt="A picture of two cats sitting in an alcove of a scratching post tower." hint="picture" >}}
 {{< /columns >}}
 
-All donations to Nose 2 Tail Cat Rescue help cover essential costs such as medical treatments, food, shelter, and other supplies, ensuring that every cat receives the care and love they need until they find their forever home. They host various events at their facility to raise money and encourage community engagement. These events include Storytime Snuggles — an opportunity for children to read to the cats in a relaxed setting; Pinot & Paws — a wine night for cat lovers; Mystic Meows — tarot readings with a feline twist; Cozy Cat Chapters — an adult silent reading program that promotes a peaceful environment for book lovers; Be in the Meow Cat Yoga, and more! In 2024 Nose 2 Tail Cat Rescue hosted their first big off-site event, “Put Your Paws Up,” an amateur charity boxing event sanctioned by USA Boxing. Every dollar raised at these events goes directly toward supporting the rescue and helping cats in need.
+{{< columns >}}
 
-In addition to their rescue efforts, Nose 2 Tail Cat Rescue operates a mini community pet pantry called the Kitty Take-Out Pantry, located on the corner of Arabella St and E. Lincoln Ave in McDonald, right next to the rescue building. The pantry allows neighbors to give what they can and take what they need for pets in the community. Nose 2 Tail's aim is to help keep pets in their homes and discourage abandonment when pet owners face hardships.
+**Liberty:**  A majestic ex-Amish Belgian draft horse who was once hours away from a tragic end, discarded for slaughter due to preventable, treatable dental issues. Today, she is a symbol of healing, having transformed from an emaciated rescue into a thriving, gentle soul.
 
-Over the years Nose 2 Tail Cat Rescue has been honored with recognition for their efforts: they were named one of City Paper “Best Places to Adopt a Pet” in 2019 and one of the Observer Reporter’s “Best Animal Rescue/Advocacy Groups” in Washington County, Greene County, and the Mon Valley in 2024. Nose 2 Tail Cat Rescue was also named “Shelter of the Month” by Kitty Kasa in April 2019.
+<--->
+{{< img src="590831251_827674719878019_2138927083214832921_n.jpg" hint="photo" caption="Liberty, a Belgian draft horse, with Ben, an ex-Amish draft horse">}}
 
-While Nose 2 Tail Cat Rescue currently rents their space, they dream of building and owning a permanent cat rescue facility to help even more cats in need and expand within the community. With your support, we can make that dream a reality!
+{{< /columns >}}
 
-{{< center >}}{{< button href="https://www.nose2tailcatrescue.org/" >}}Nose 2 Tail Cat Rescue website{{< /button >}}{{< /center >}}
+{{< columns >}}
+
+{{< img src="VideoCapture_20240328-081423.jpg" hint="photo" caption="Raven, a chicken with leg deformities">}}
+
+<--->
+
+**Raven:**  A chicken born with deformities who has become the Sanctuary’s longest-standing resident and unofficial ambassador. She even acts as a "seeing-eye chicken" companion for her blind friend, Hawkeye.
+
+{{< /columns >}}
+
+### A Labor of Love
+
+“When we started J and J Farms Animal Sanctuary, we made a promise: once an animal steps hoof or paw onto this property, they are safe for life,” says co-founder Jessica Poutous. “We are a 100% volunteer-led organization. Every donation goes directly to the continued care of our residents. We are beyond honored to partner with Anthrocon \- a community that understands the power of identity, compassion, and belonging.”
+
+### How You Can Help at Anthrocon
+
+As you gather in Pittsburgh for Anthrocon 2026, your support will directly impact the lives of residents like **Ben**, the enucleated ex-Amish draft horse who was discarded in the kill pen with cancer in his remaining eye, and **Peggy**, the little chick who survived a predator attack at the expense of her leg.
+
+{{< img src="peggy_kiski.jpg" hint="photo" float="none" caption="Peggy, a one-legged chicken">}}
+
+Whether through the charity auction, direct donations, or simply sharing the stories of these incredible animals, the Anthrocon community is helping J and J Farms continue to say "yes" to the animals the rest of the world said "no" to.
+
+**To meet the residents and learn more about our mission, visit [jandjfarmsanimalsanctuary.org](https://jandjfarmsanimalsanctuary.org/) or follow our daily adventures on Facebook and Instagram.**
 
 ***
 
@@ -94,14 +113,14 @@ If you are donating an item (artwork, sculpture, animation cel, etc), it must be
 Additional information and more detailed rules can be found on the [Charity Event Rules](/charity-event-rules) page.
 {{< /details >}}
 
-**For 2025:** Donations to the Charity Auction must be submitted by **Friday, July 4** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
+**For 2026:** Donations to the Charity Auction must be submitted by **Friday, July 4** at the convention. Your items can be dropped off at the Charity table in our Dealers Room. Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 
 ***
 
 ## Frequently Asked Questions
 
 {{< details "What's the deadline to make an item donation?" >}}
-**For 2025:** Donations to the Charity Auction must be submitted by **Friday, July 4** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
+**For 2026:** Donations to the Charity Auction must be submitted by **Friday, July 4** at the convention. Your items can be dropped off at the Charity table in our Dealers Room.
 
 Mailed donations need to arrive no later than two full weeks before the convention. Any donations sent after that date may be returned to you unsold.
 {{< /details >}}
