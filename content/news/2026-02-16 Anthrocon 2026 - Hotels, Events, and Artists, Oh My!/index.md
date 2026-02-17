@@ -48,7 +48,7 @@ River Cruise tickets are still available for 2026! Whether you’re looking for 
 
 ## Staff and volunteer opportunities
 
-Even in a dark and spooky forest, a convention like Anthrocon shines the brightest when people step up and help it run smoothly. Every aspect of our event is run by volunteers of different levels; whether you’ve got years of experience, or are helping out for the first time! If you’re willing to contribute your time before or at the convention, let us know by completing the Volunteering section in [**our Registration system**](https://reg.anthrocon.org/apply/volunteer) (you must create an account first)!
+Even in a dark and spooky forest, a convention like Anthrocon shines the brightest when people step up and help it run smoothly. Every aspect of our event is run by volunteers of different levels; whether you’ve got years of experience, or are helping out for the first time: if you’re willing to contribute your time before or at the convention, let us know by completing the Volunteering section in [**our Registration system**](https://reg.anthrocon.org/apply/volunteer) (you must create an account first)!
 
 ## Stay up to date with latest announcements
 
