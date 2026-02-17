@@ -44,11 +44,11 @@ There’s only about a month left for our event and performance applications - i
 
 ## River Cruises
 
-River Cruises tickets are still available for 2026! Whether you’re looking for awesome photo opportunities or want to enjoy beautiful sunset on the river, these cruises are a hot attraction for Anthrocon attendees. You can find all the update pricing for tickets that set sail from Thursday to Sunday of the convention by going onto our Registration system and viewing the “Event Store”. For other details, visit the [**River Cruises page**](https://update-reg-details-2026.anthrocon.pages.dev/anthrocon-river-cruises/).
+River Cruise tickets are still available for 2026! Whether you’re looking for awesome photo opportunities or want to enjoy a beautiful sunset on the river, these cruises are a hot attraction for Anthrocon attendees. You can find all the updated pricing for tickets that set sail from Thursday to Sunday of the convention by going onto our Registration system and viewing the “Event Store”. For other details, visit the [**River Cruises page**](https://update-reg-details-2026.anthrocon.pages.dev/anthrocon-river-cruises/).
 
 ## Staff and volunteer opportunities
 
-Even in a dark and spooky forest, a convention like Anthrocon shines the brightest when people step up and help it run smoothly. Every aspect of our event is run by volunteers of different levels; whether you’ve got the most. If you’re willing to contribute your time before or at the convention, let us know by completing the Volunteering section in [**our Registration system**](https://reg.anthrocon.org/apply/volunteer) (you must create an account first)!
+Even in a dark and spooky forest, a convention like Anthrocon shines the brightest when people step up and help it run smoothly. Every aspect of our event is run by volunteers of different levels; whether you’ve got years of experience, or are helping out for the first time! If you’re willing to contribute your time before or at the convention, let us know by completing the Volunteering section in [**our Registration system**](https://reg.anthrocon.org/apply/volunteer) (you must create an account first)!
 
 ## Stay up to date with latest announcements
 
