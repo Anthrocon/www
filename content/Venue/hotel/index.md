@@ -13,10 +13,13 @@ params:
 
 # Hotels for Anthrocon
 
+> **Update on February 19, 2026: due to unforeseen technical issues that occurred, the General Hotel Block (Attending/Sponsor) booking date has been postponed to March 10, 2026 starting at 12 p.m. Eastern Time.**
+
 {{< center >}}
+
 Anthrocon has partnered with many hotels within the locale of the David L. Lawrence Convention Center, offering special rates for our attendees.
 
-**Online pre-registration will temporarily pause between February 20 to 24, 2026, to improve the general hotel booking experience, and reopen on February 25.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
+**Online pre-registration will temporarily pause before the General hotel block opens.** A valid Anthrocon registration is required to make an Anthrocon-hotel block reservation. Register for the con on [our Registration page](/registration).
 {{< /center >}}
 
 {{< center >}}[Booking Process](#booking-process) - [Tips for Finding Rooms](#tips-for-finding-rooms) - [Hotel Options](#hotel-options) - [FAQs](#frequently-asked-questions){{< /center >}}
@@ -28,10 +31,12 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 {{< columns >}}
 Hotel booking links for the Anthrocon reservation block will be available to pre-registered members through the Registration portal on the following days, based on membership type (all opening times will be approximately 12 PM Eastern Time):
 
+**Update on February 19, 2026: due to unforeseen technical issues that occurred, the General Hotel Block (Attending/Sponsor) booking date has been postponed to March 10, 2026 starting at 12 p.m. Eastern Time.**
+
 - Ultrasponsors: February 3, 2026
 - Dealers: February 10, 2026
 - Supersponsors: February 17, 2026
-- General (Attending/Sponsor): February 24, 2026
+- General (Attending/Sponsor): March 10, 2026
 
 <--->
 

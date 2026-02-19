@@ -27,7 +27,7 @@ weight: 10
 
 ### Hotel Booking Registration Pause
 
-Online registration will pause between February 20 to 24, and re-open on February 25 to support the hotel booking experience. You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room. For more details on the process, [refer to our Hotels page](/hotel).
+**Updated on February 19, 2026:** Due to the revised booking dates for the General hotel block, online registration will now pause between **March 8 to 10**, and re-open on **March 11** to support the hotel booking experience. You must be registered for Anthrocon in order to reserve an Anthrocon-block hotel room. For more details on the process, [refer to our Hotels page](/hotel).
 
 ### Pre-Registration Cap for Anthrocon 2026
 
