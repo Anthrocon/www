@@ -14,6 +14,7 @@ The Charity Auction at Anthrocon started when the convention began back in 1997.
 
 Here are the Anthrocon charity event summaries from past years:
 
+- [2025: Nose 2 Tail Cat Rescue - $87,000+](https://x.com/anthrocon/status/1942607183193190811)
 - [2024: Gray Paws Sanctuary - $100,000+](https://x.com/anthrocon/status/1810079804781207565)
 - [2023: Rabbit Wranglers - $52,000+](https://twitter.com/anthrocon/status/1675905187301539840)
 - [2022: Wildlife Works Inc. - $41,553](https://twitter.com/anthrocon/status/1543728663212032002)

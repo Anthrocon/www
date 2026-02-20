@@ -80,7 +80,7 @@ Whether through the charity auction, direct donations, or simply sharing the sto
 
 At the convention, you may see some costumed performers going around with a specifically designated bucket for soliciting donations to the charity. It’s none other than our Bucket Brigade — and if you’re looking to help us raise funds, we’d love for you to be part of it.
 
-{{< center >}}{{< button href="https://docs.google.com/forms/d/1o5Y5fViV-uL0JEatjj64kD9NplAY6u0guyvbE-xlfyU/preview" >}}Apply Online{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSe5h6z-cClBdlinAJGSL5cHSSIndb64bCWrV1I9Uxs9S0lX0w/viewform?usp=sharing&ouid=104410161829305381651" >}}Apply Online{{< /button >}}{{< /center >}}
 
 ***
 
