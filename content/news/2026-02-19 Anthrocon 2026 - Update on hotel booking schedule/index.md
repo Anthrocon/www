@@ -15,7 +15,7 @@ To our attendees,
 
 During this year’s hotel booking for our Supersponsor block, a portion of our attendees encountered technical difficulties during the process which resulted in a frustrating experience due to system failures.
 
-As soon as Anthrocon and Orchid Events was made aware, our teams immediately engaged with the booking platform’s support teams, and it has been escalated to the highest level for investigation and remediation before booking continues. Anthrocon is also reaching out to all affected reservations that were erroneously confirmed and remediate the issue, as well as working with Supersponsors who were also adversely affected.
+As soon as Anthrocon and Orchid Events was made aware, our teams immediately engaged with the booking platform’s support teams, and it has been escalated to the highest level for investigation and remediation before booking continues. Anthrocon is also reaching out to all affected reservations that were erroneously confirmed to remediate the issue, as well as working with Supersponsors who were also adversely affected.
 
 Based on the current plan to repair the system and allow time to address affected Supersponsors, we have made the decision with our housing partners to postpone the General hotel block opening to **March 10, 2026**. We will also move our planned registration pause to March 8-10, reopening on March 11. We know this is not what attendees deserve nor want, and we’re doing the best we can to ensure all systems are fully fixed before we open reservations again.
 
