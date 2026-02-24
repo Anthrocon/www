@@ -50,7 +50,7 @@ Hotel booking links for the Anthrocon reservation block will be available to pre
 - If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. If you don't see the hotel booking link in your confirmation email, [contact our team for support](/contact).
 - **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
 - **Only one room may be booked per registered attendee**, as it is linked to the registration.
-- A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 14, 2026 at 11:59 PM Eastern Time — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
+- A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 16, 2026 at 11:59 PM Eastern Time — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
 
 ***
 
@@ -591,7 +591,7 @@ Anthrocon strongly recommends that its members not book a room until they are re
 
 Reservation details, including hotel type, can be **changed,** based on availability, up to June 20 without penalty.
 
-Reservations may be **canceled** without any penalty until May 16, 2025. After that date, a one-night penalty will be charged to the cardholder on the reservation.
+Reservations may be **canceled** without any penalty until May 16, 2026. After that date, a one-night penalty will be charged to the cardholder on the reservation.
 {{< /details >}}
 
 {{< details "Are suites at hotels available to book?" >}}
