@@ -10,23 +10,29 @@ params:
 
 # Advertising at Anthrocon
 
-Thank you for your interest in advertising with Anthrocon for our 2025 convention! The convention takes place at the David L. Lawrence Convention Center in Pittsburgh, PA from July 3-6, 2025. The convention caters to furries and furry fans from around the world.
+Thank you for your interest in advertising with Anthrocon for our 2026 convention! The convention takes place at the David L. Lawrence Convention Center in Pittsburgh, PA from July 2-5, 2026. The convention caters to furries and furry fans from around the world.
 
 {{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSeuwLId5NWTwo--_pOkrIKbNVDtYjfUmUX3lXuf96EwEcPxDQ/viewform?usp=header" >}}Advertising submission form{{< /button >}}{{< /center >}}
 
 If you are a convention interested in an ad swap, please email us at [publications@anthrocon.org](mailto:publications@anthrocon.org?subject=Ad%20Swap%20Inquiry) **BEFORE** submitting via the form.
 
-***
+---
 
 ## Advertising Options
 
 We offer several different advertising options for the convention. The prices are listed below in USD.
 
-*Our inside cover advertisements are limited, so please reach out to confirm availability before requesting.*
+_Our inside cover advertisements are limited, so please reach out to confirm availability before requesting._
 
-{{< img src="ad+prices+2024.png" hint="text" >}}
+| Type         | Size             | Price   |
+| ------------ | ---------------- | ------- |
+| Quarter Page | 5.25”w x 2.125”h | $75.00  |
+| Half Page    | 5.25”w x 4.25”h  | $100.00 |
+| Full Page    | 5.25” x 8.5”h    | $200.00 |
+| Inside Cover | 6”w x 9”h        | $300.00 |
+| Digital Ad   | 1866px × 577px   | $350.00 |
 
-***
+---
 
 ## Electronic Submissions
 
@@ -34,19 +40,19 @@ We offer several different advertising options for the convention. The prices ar
 
 Please reference the below for sizing information:
 
-- Quarter Page: 4.75”w × 1.75”h
-- Half Page: 4.75”w × 3.75”h
-- Full Page: 4.75”w × 8”h
-- Inside Cover: 5.5”w × 8.5”h (bleed of 0.125”)
+- Quarter Page: 5.25”w x 2.125”h
+- Half Page: 5.25”w x 4.25”h
+- Full Page: 5.25” x 8.5”h
+- Inside Cover: 6”w x 9”h (bleed of 0.125”)
 - Digital Ad: 1866px × 577px
 
 If your ad is too big for the file submission form, please submit a scaled down copy via the form and send the full version to [advertising@anthrocon.org](mailto:advertising@anthrocon.org?subject=Advertising%20File%20Submission).
 
-*NOTE: Digital Ad's will be shown on displays throughout the convention center for the entire weekend.*
+_NOTE: Digital Ads will be shown on displays throughout the convention center for the entire weekend._
 
 ## Submission and Payment Information
 
-**Your advertisement and payment must be received no later than May 1, 2025!**
+**Your advertisement and payment must be received no later than May 1, 2026!**
 
 Once we receive your advertising request, we will invoice you. Please make sure that you have a valid email address.
 
