@@ -16,13 +16,15 @@ params:
 
 Looking for a place to express your creativity in printed format, or advertise your business? Our official convention book is a great place to feature your skills and brand.
 
-We’re looking for submissions of artwork, fiction, photography, and articles for publication in the 2025 conbook, and featured at our annual convention from July 3-6, 2025. Anthrocon asks for non-exclusive print rights for submitted works. The artist or author may publish the submitted work in any other fashion; previously, at the same time, and after.
+We’re looking for submissions of artwork, fiction, photography, and articles for publication in the 2026 conbook, and featured at our annual convention from July 2-5, 2026. Anthrocon asks for non-exclusive print rights for submitted works. The artist or author may publish the submitted work in any other fashion; previously, at the same time, and after.
 
-**Information about advertising opportunities for 2025 can be found at [Advertising Guidelines]({{< relref "/Get Involved/advertising" >}}).**
+> **Things we’d like to see this year:** Coloring pages and more stories!
+
+**Information about advertising opportunities for 2026 can be found at [Advertising Guidelines]({{< relref "/Get Involved/advertising" >}}).**
 
 ## General Information
 
-**Conbook submissions and signed release form must be received no later than May 1, 2025**. The theme for our 2025 convention is “Deep Sea Adventures”. Submissions that complement this theme may be given priority. All submissions should be in the G to PG-13 rating. The Art and Branding Department reserves the right to reject submissions for any reason.
+**Conbook submissions and signed release form must be received no later than May 1, 2026**. The theme for our 2026 convention is “Critters, Cryptids, & Curses”. Submissions that complement this theme may be given priority. All submissions should be in the G to PG-13 rating. The Art and Branding Department reserves the right to reject submissions for any reason.
 
 All submissions should include the author’s real name, pseudonym (if desired), and title of submission on the release form.
 
@@ -36,6 +38,6 @@ Text submissions may be sent as .TXT, .RTF, Microsoft Word .DOCX, or Adobe PDF. 
 
 ## Submission and Release Information
 
-Your submission is tracked by your release form. Your submission and release form must be received no later than **May 1, 2025**.
+Your submission is tracked by your release form. Your submission and release form must be received no later than **May 1, 2026**.
 
 [The Release Form is here](https://docs.google.com/forms/d/e/1FAIpQLSdy_eRN57008_0LIk1V4ovVhJZpwxKfQ_3K8Mm1PM9W_TkEow/viewform?usp=header). *If your attachment is bigger than the form’s limit, please send a down-sized version via the Form and a full-size version to <publications@anthrocon.org>.*
