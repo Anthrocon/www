@@ -37,16 +37,16 @@ Sign ups for this event will be open until **June 21, 2026**. There are no in-pe
 
 {{< center >}}{{< button href="https://forms.gle/ytvpUVu5y8SVjGFF6" >}}Register your crew{{< /button >}}{{< /center >}}
 
-### Preliminaries Event - Friday, July 3
+### Preliminaries Event - Friday, July 3, 2026
 
 **All crews will compete in a “showcase round”** where we see the raw skill and talent of each team to a non-stop, continuous mix of music that can be any genre. These skill rounds will be between 30-45 seconds for each dancer in the team, so make sure you come ready to impress if your crew wants to qualify.
 
-### Main Event - Saturday, July 4
+### Main Event - Saturday, July 4, 2026
 
 If your crew qualifies for the Main Event, you will be automatically slotted into a battle bracket for the division.
 
 - **Crews will compete in a single-elimination tournament,** where the winning crew advances to the next round.
-- **Each battle will be approximately five minutes,** with each turn being around 30 to 45 seconds. This means if you have more than 3 dancers in a crew, be prepared to strategize.
+- **Each battle will be four rounds of back and forth,** with each turn being around 30 to 45 seconds. Be prepared to strategize!
 - **If a crew performs a routine,** it will count as part of the round’s allotted time.
 - **In the event of a tiebreaker,** each crew will choose one dancer to compete in an all-or-nothing round. There will be no second tiebreakers.
 
