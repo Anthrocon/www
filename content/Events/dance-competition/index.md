@@ -1,7 +1,7 @@
 ---
 title: "Fursuit Dance Competition"
 params:
-    banner: "2024-Kaze-0161.jpg"
+    banner: "2025-Kaze-9925.jpg"
     banner_title: ""
     banner_caption: ""
     banner_author: "Kaze Shiba"
@@ -13,7 +13,7 @@ params:
 {{< center >}}Anthrocon’s biggest and most-exciting event takes to the stage! Join us for the Fursuit Dance Competition filled with high-energy action, zany jokes, and some of the furry fandom’s most talented performers.{{< /center >}}
 
 {{< columns >}}
-{{< img src="2024-LionelLeupold-6R1A4868.jpg" alt="A photograph of a fursuiter dancing." hint="picture" attr="LionelLeupold" attrlink="https://flickr.com/photos/lionelleupold" >}}
+{{< img src="2025-Kaze-0251.jpg" alt="A photograph of a fursuiter dancing." hint="picture" attr="Kaze Shiba" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 
 <--->
 
