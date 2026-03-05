@@ -41,7 +41,7 @@ You will be submitting a video as part of the audition process. The video must b
 - **All songs must be PG-13 censored.** A radio edit “clean” rating in other words. Please remove/minimize any profanity that is in your song or mix.
 - **Groups have the option** to have an in-person preliminary tryout at the convention during the Floor Wars Preliminaries panel. ***If your group would like an in-person tryout,*** please fill out the sign up form and indicate “in-person tryout” in the special accommodations field. Please note that this will only be granted on a case-by-case basis. Group auditions will be limited to 1 minute, but will have a larger time allowance for the Main Event.
 
-### Main Event - Sunday, July 6
+### Main Event - Sunday, July 5, 2026
 
 If you qualify through to the Main Event, you will be expected to performing a routine live on-stage on Sunday of the convention as part of the Main Event. The exact time of the Main Event, and any other related event, will be posted here.
 
