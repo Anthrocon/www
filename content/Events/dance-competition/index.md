@@ -1,7 +1,7 @@
 ---
 title: "Fursuit Dance Competition"
 params:
-    banner: "2024-Kaze-0161.jpg"
+    banner: "2025-Kaze-9925.jpg"
     banner_title: ""
     banner_caption: ""
     banner_author: "Kaze Shiba"
@@ -13,11 +13,11 @@ params:
 {{< center >}}Anthrocon’s biggest and most-exciting event takes to the stage! Join us for the Fursuit Dance Competition filled with high-energy action, zany jokes, and some of the furry fandom’s most talented performers.{{< /center >}}
 
 {{< columns >}}
-{{< img src="2024-LionelLeupold-6R1A4868.jpg" alt="A photograph of a fursuiter dancing." hint="picture" attr="LionelLeupold" attrlink="https://flickr.com/photos/lionelleupold" >}}
+{{< img src="2025-Kaze-0251.jpg" alt="A photograph of a fursuiter dancing." hint="picture" attr="Kaze Shiba" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 
 <--->
 
-**Anthrocon 2025** will be using online video submissions to qualify for the Main Event.
+**Anthrocon 2026** will be using online video submissions to qualify for the Main Event.
 
 - [Competition Format & Rules](#competition-format)
 - [Submit your audition](#ready-to-submit-your-audition)
@@ -30,9 +30,9 @@ params:
 
 Please read through each section carefully, as it will help you with what to expect and prepare for.
 
-### Online Video Audition - March 2025 until June 23, 2025 at the end of day (Eastern time)
+### Online Video Audition - March 2026 until June 23, 2026 at the end of day (Eastern time)
 
-You will be submitting a video as part of the audition process. The video must be an original choreography or performance done specifically for Anthrocon 2025 (no old videos) and while wearing a fursuit (see requirements below). If you qualify, you may use the same dance routine or an alternative for the in-person competition. There are **no in-person sign ups** and we encourage all interested participants to start planning early so you can submit your audition in time.
+You will be submitting a video as part of the audition process. The video must be an original choreography or performance done specifically for Anthrocon 2026 (no old videos) and while wearing a fursuit (see requirements below). If you qualify, you may use the same dance routine or an alternative for the in-person competition. There are **no in-person sign ups** and we encourage all interested participants to start planning early so you can submit your audition in time.
 
 - **The audition must be done in fursuit.** Please see the “Rules” section below on the requirements for fursuits.
 - **Please submit your video in as high quality as possible,** in a widely-accepted video format such as MP4, MOV, AVI, or by uploading them to a platform like YouTube. We also encourage all competitors to submit videos that are filmed horizontally, or “landscape”, instead of a vertical fashion if you are filming with your phone.
@@ -41,7 +41,7 @@ You will be submitting a video as part of the audition process. The video must b
 - **All songs must be PG-13 censored.** A radio edit “clean” rating in other words. Please remove/minimize any profanity that is in your song or mix.
 - **Groups have the option** to have an in-person preliminary tryout at the convention during the Floor Wars Preliminaries panel. ***If your group would like an in-person tryout,*** please fill out the sign up form and indicate “in-person tryout” in the special accommodations field. Please note that this will only be granted on a case-by-case basis. Group auditions will be limited to 1 minute, but will have a larger time allowance for the Main Event.
 
-### Main Event - Sunday, July 6
+### Main Event - Sunday, July 5, 2026
 
 If you qualify through to the Main Event, you will be expected to performing a routine live on-stage on Sunday of the convention as part of the Main Event. The exact time of the Main Event, and any other related event, will be posted here.
 
