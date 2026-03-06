@@ -9,6 +9,9 @@ keywords:
 
 params:
     author: "Ronnie"
+    banner: "2025_AC_Nightdragon_241.jpg"
+    banner_author: "Nightdragon"
+    banner_url: "https://www.furtrack.com/index/photographer:nightdragon"
 ---
 
 It’s hard to believe we’re only four months out now and SO much has already happened \- for better or worse\! But the hardworking team at Anthrocon never stops, much like the creatures of mystery and legend that dwell in Pittsburgh.
