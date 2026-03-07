@@ -80,7 +80,7 @@ A brief example of some things that our judges look for in both the preliminarie
 
 {{< center >}}If you have your audition video **filmed** and **ready to submit**, get started with the form below. Make sure your video follows all the formats and rules outlined above.{{< /center >}}
 
-{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSd_SRoQYi70i_yZNBjqjD1IB2vox9GvpJ1H2tWOVrkosaE2rA/viewform?usp=dialog" >}}Submit your video{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSfhywUnlb2LrZ27gLv5IcdR0wGM9MeZtm_DoYMkFYA59VOSDA/viewform?usp=dialog" >}}Submit your video{{< /button >}}{{< /center >}}
 
 ***
 
