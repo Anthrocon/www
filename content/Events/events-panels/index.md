@@ -25,9 +25,7 @@ weight: 10
 
 <--->
 
-Applications to host an event, panel or meet-up at Anthrocon 2026 are now available online until March 2026. The confirmed schedule of events will be announced May 2026, subject to changes.
-
-{{< center >}}{{< button href="https://docs.google.com/forms/d/1pq8w1-z7uElbMnD1xlWgA8pAbQWsq3Y6vEt5VjZynZg/edit" >}}Apply Online{{< /button >}}{{< /center >}}
+Applications to host an event, panel or meet-up at Anthrocon 2026 are now closed. Thank you for your submissions. You will hear from the Events team by April 30, 2026 whether your application was accepted or not. If you have not heard from the Events team one way or the other by then please contact the events team as soon as possible. The confirmed schedule of events will be announced May 2026, subject to changes.
 {{< /columns >}}
 
 ***
@@ -82,14 +80,6 @@ Any panel that is identified as adult material or may be viewed as inappropriate
 ### Contact the Events Team
 
 If you’ve got an interesting topic or talent you’d love to share with our community, we’d love to hear from you! For any questions or suggestions, reach out to us at <events@anthrocon.org>.
-
-***
-
-## Apply to Host an Event
-
-Ready to submit your panel or meet-up idea for Anthrocon 2026? We'd love to hear about it - applications are now available online until March 2026. If you have any questions about your application, please reach out to <events@anthrocon.org>.
-
-{{< center >}}{{< button href="https://docs.google.com/forms/d/1pq8w1-z7uElbMnD1xlWgA8pAbQWsq3Y6vEt5VjZynZg/edit" >}}Apply Online{{< /button >}}{{< /center >}}
 
 ***
 
