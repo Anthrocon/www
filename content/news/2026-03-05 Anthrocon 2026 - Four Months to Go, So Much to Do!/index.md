@@ -18,7 +18,7 @@ It’s hard to believe we’re only four months out now and SO much has already 
 
 ## Registration
 
-Online pre-registration will be **paused temporarily between March 8 and 10** to help support our General hotel block opening on March 10 (more information in the next section). After the opening, pre-registration will resume until March 10, 2026 **OR** if we reach our designated maximum capacity. For more information and to register, check out our [**Registration page’s “How to Register” section**](https://www.anthrocon.org/registration/#how-to-register).
+Online pre-registration will be **paused temporarily between March 8 and 10** to help support our General hotel block opening on March 10 (more information in the next section). After the opening, pre-registration will resume until June 26, 2026 **OR** if we reach our designated maximum capacity. For more information and to register, check out our [**Registration page’s “How to Register” section**](https://www.anthrocon.org/registration/#how-to-register).
 
 ## Hotel Accommodations
 
