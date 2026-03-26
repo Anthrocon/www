@@ -609,7 +609,7 @@ On the Registration system, you will be able to use the function for finding a r
 {{< /details >}}
 
 {{< details "Can I transfer a room later?" >}}
-If you wish to transfer an existing reservation made through our booking partner, requests must be made to <help@orchid.events> before June 2026.
+If you wish to transfer an existing reservation made through our booking partner, requests must be made to <help@orchid.events> before May 16, 2026.
 {{< /details >}}
 
 {{< details "I have an accessibility accommodation that requires an accessible room, how can I request one?" >}}
