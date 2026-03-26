@@ -601,7 +601,7 @@ Suites that are part of the Anthrocon block at our partnered hotels will be offe
 {{< details "If I cancel my Anthrocon registration, do I get to keep my hotel reservation?" >}}
 No, as your hotel reservation is linked to your registration. You must have a valid Anthrocon registration to keep your reservation.
 
-In the event that you wish to transfer your room reservation to another person staying in your room, please contact [help@orchid.events](mailto:help@orchid.events?subject=Anthrocon%20reservation%20change%20request) to inform them of the transfer request.
+In the event that you wish to transfer your room reservation to another person staying in your room, please contact [hotel@anthrocon.org](mailto:hotel@anthrocon.org?subject=Anthrocon%20reservation%20change%20request) to inform them of the transfer request.
 {{< /details >}}
 
 {{< details "How do I add myself as a roommate to an existing booking as a roommate?" >}}
