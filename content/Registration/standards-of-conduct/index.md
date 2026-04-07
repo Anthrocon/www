@@ -214,3 +214,8 @@ The standards of conduct for Anthrocon will be enforced by Anthrocon Safety Staf
 Please be reminded that these rules involve "worst-case" scenarios and are put into place to ensure the safety and comfort of our members. They are also not all-inclusive; in all cases, the singular rule that supersedes all others is: "*Any action or behavior that causes significant interference with convention operations, excessive discomfort to other attendees, or adversely affects Anthrocon's relationship with its guests, its venue, or the public is strictly forbidden and may result in revocation of membership privileges.*"
 
 We anticipate no difficulties, as our members as a whole are rational and responsible people. Anthrocon is prepared to handle difficulties as efficiently as possible should they occur. We thank our members for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Please remember to be courteous of those around you, and have fun!
+
+## Complaint submission forms
+
+{{< center >}}{{< button href="https://forms.gle/74pG57vfzu5sFKNU7" >}}Submit an Anonymous Complaint{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://forms.gle/ogHcuK58XK16hxEaA" >}}Submit a Non-Anonymous Complaint{{< /button >}}{{< /center >}}

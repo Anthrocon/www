@@ -62,3 +62,8 @@ Website - <webmaster@anthrocon.org>
 &nbsp;&nbsp;&nbsp;&nbsp;Anthrocon Art Show<br>
 &nbsp;&nbsp;&nbsp;&nbsp;P.O. Box 6095<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Syracuse, NY 13217-6095
+
+## Complaint submission forms
+
+{{< center >}}{{< button href="https://forms.gle/74pG57vfzu5sFKNU7" >}}Submit an Anonymous Complaint{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://forms.gle/ogHcuK58XK16hxEaA" >}}Submit a Non-Anonymous Complaint{{< /button >}}{{< /center >}}
