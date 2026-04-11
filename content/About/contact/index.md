@@ -63,7 +63,9 @@ Website - <webmaster@anthrocon.org>
 &nbsp;&nbsp;&nbsp;&nbsp;P.O. Box 6095<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Syracuse, NY 13217-6095
 
-## Complaint submission forms
+## Staff complaint submission forms
+
+If you wish to submit a complaint about a member of Anthrocon staff, please use the form options below:
 
 {{< center >}}{{< button href="https://forms.gle/74pG57vfzu5sFKNU7" >}}Submit an Anonymous Complaint{{< /button >}}{{< /center >}}
 {{< center >}}{{< button href="https://forms.gle/ogHcuK58XK16hxEaA" >}}Submit a Non-Anonymous Complaint{{< /button >}}{{< /center >}}

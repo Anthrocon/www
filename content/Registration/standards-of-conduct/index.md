@@ -215,7 +215,9 @@ Please be reminded that these rules involve "worst-case" scenarios and are put i
 
 We anticipate no difficulties, as our members as a whole are rational and responsible people. Anthrocon is prepared to handle difficulties as efficiently as possible should they occur. We thank our members for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Please remember to be courteous of those around you, and have fun!
 
-## Complaint submission forms
+## Staff complaint submission forms
+
+If you wish to submit a complaint about a member of Anthrocon staff, please use the form options below:
 
 {{< center >}}{{< button href="https://forms.gle/74pG57vfzu5sFKNU7" >}}Submit an Anonymous Complaint{{< /button >}}{{< /center >}}
 {{< center >}}{{< button href="https://forms.gle/ogHcuK58XK16hxEaA" >}}Submit a Non-Anonymous Complaint{{< /button >}}{{< /center >}}
