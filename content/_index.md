@@ -6,11 +6,15 @@ aliases:
 params:
     banner: "AC_2022_group+photo_3000px_dark.jpg"
     banner_video: "https://youtu.be/zuyyRuu00Dk"
-    banner_title: "Anthrocon is Pittsburgh's Premier Furry Convention"
-    banner_caption: >
-      July 2 - July 5, 2026
+    banner_title: "Anthrocon 2027: Coolest Theme Ever"
+    banner_logo: "anthrocon_2024_logo.png"
+    banner_dates: "July 8-9, 2027"
+    banner_caption: Get ready for the most awesome theme that is totally not a placeholder!
+    banner_button: Call Yourself To Action
+    banner_button_link: /registration
+    banner_button_two: Call Yourself To Action Again
+    banner_button_two_link: /registration
     banner_author: "Patrick Snowyote"
-    banner_url: "https://www.youtube.com/watch?v=Wayi0jiziNI"
 ---
 
 # **Welcome to Anthrocon**
