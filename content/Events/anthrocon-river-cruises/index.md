@@ -37,34 +37,32 @@ You **do not** need a con badge to board the cruise. However, you will need your
 {{< center >}}
 ### Thursday Sightseeing Cruise
 
-6:30 PM to 8:30 PM
+7:00 PM to 8:00 PM
 {{< /center >}}
 
 - **Boarding Time:** 6:30 PM
-- **Cruise Time:** 7:00 - 8:30 PM
+- **Cruise Time:** 7:00 - 8:00 PM
 - **Price:** $25
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
-
 {{% tab "Friday, July 3" %}}
 {{< center >}}
 ### Friday Sightseeing Cruise
 
-6:30 PM to 8:30 PM
+7:00 PM to 8:00 PM
 {{< /center >}}
 
 - **Boarding Time:**  6:30 PM
-- **Cruise Time:** 7:00 - 8:30 PM
+- **Cruise Time:** 7:00 - 8:00 PM
 - **Price:** $25
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
-
 {{% tab "Saturday, July 4" %}}
 {{< center >}}
 ### Saturday Cocktail Cruise
@@ -76,17 +74,16 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Cruise Time:** 5:30 - 8:00 PM
 - **Price:** $65
 - **Capacity:** 175
-- **Amenities:** Hors d'oeuvres, light snacks, drink tickets + cash bar
+- **Amenities:** Hors d'oeuvres, light snacks, drink tickets and cash bar
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
-
 {{% tab "Sunday, July 5" %}}
 {{< center >}}
 ### Sunday Sightseeing Cruises
 
-12:30 PM to 2:30 PM,
-2:30 PM to 4:00 PM
+1:00 PM to 2:00 PM\
+3:00 PM to 4:00 PM
 {{< /center >}}
 
 - **Boarding Time:** 12:30 PM (first cruise), 2:30 PM (second cruise)
