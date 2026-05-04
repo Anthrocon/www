@@ -25,7 +25,7 @@ weight: 10
 
 <--->
 
-Applications to host an event, panel or meet-up at Anthrocon 2026 are now closed. Thank you for your submissions. You will hear from the Events team by April 30, 2026 whether your application was accepted or not. If you have not heard from the Events team one way or the other by then please contact the events team as soon as possible. The confirmed schedule of events will be announced May 2026, subject to changes.
+Applications to host an event, panel or meet-up at Anthrocon 2026 are now closed. Thank you for your submissions. You will hear from the Events team by May 15, 2026 whether your application was accepted or not. If you have not heard from the Events team one way or the other by then please contact the events team as soon as possible. The confirmed schedule of events will be announced June 1, 2026, subject to changes.
 {{< /columns >}}
 
 ***
