@@ -18,7 +18,7 @@ params:
 
 {{< center >}}**We’re taking our engagement with the City of Pittsburgh to the next level!**{{< /center >}}
 
-{{< center >}}On Saturday July 6, we’ll be closing down the street of Penn Avenue between 9th and 11th Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party**! We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
+{{< center >}}On Saturday July 4, we’ll be closing down the street of Penn Avenue between 9th and 11th Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party**! We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
 
 {{< center >}}[Fursuit Parade Rules](#fursuit-parade) - [Anthrocon Block Party](#anthrocon-block-party) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
