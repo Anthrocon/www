@@ -7,18 +7,18 @@ aliases:
     - "/news/2018/6/26/anthrocon-2018-fursuit-badges-photo-and-guidelines"
 
 params:
-    banner: "2023+Blue_parade-102.jpg"
+    banner: "2025_Tobee_20250705_161431.jpg"
     banner_title: ""
     banner_caption: ""
-    banner_author: "Blue Hasia"
-    banner_url: ""
+    banner_author: "Tobee"
+    banner_url: "https://www.furtrack.com/user/tobee/photography"
 ---
 
 # Anthrocon Parade & Block Party
 
 {{< center >}}**We’re taking our engagement with the City of Pittsburgh to the next level!**{{< /center >}}
 
-{{< center >}}On Saturday July 5, we’ll be closing down the street of Penn Avenue between 9 and 11 Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party**! We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
+{{< center >}}On Saturday July 4, we’ll be closing down the street of Penn Avenue between 9th and 11th Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party**! We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
 
 {{< center >}}[Fursuit Parade Rules](#fursuit-parade) - [Anthrocon Block Party](#anthrocon-block-party) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
@@ -28,7 +28,7 @@ params:
 
 {{< center >}}Our annual fursuit parade will once again be going out into the streets of Pittsburgh for everyone to see!{{< /center >}}
 
-As our chairman indicated last year, there will be a limit to the parade capacity and there is to be a minimum standard of dress for participation in the 2025 Fursuit Parade. Anthrocon has done its very best to keep these new rules and standards as flexible as possible. You can find the parade process and rules below.
+As our chairman indicated last year, there will be a limit to the parade capacity and there is to be a minimum costume requirements for participation in the 2026 Fursuit Parade. Anthrocon has done its very best to keep these new rules and standards as flexible as possible. You can find the parade process and rules below.
 
 We understand that these changes may not be universally popular and we want our attendees to know that these decisions were not made lightly. As both the convention and parade reach unprecedented levels of attendance and participation, it has become necessary to implement these new rules to keep the parade safe for all attendees. We are confident that the Fursuit Parade and Block Party will continue to provide a unique and wonderful experience for Anthrocon attendees and Pittsburgh citizens alike.
 
@@ -37,7 +37,7 @@ We understand that these changes may not be universally popular and we want our 
 On Saturday, beginning at 1:00 PM, the West Lobby entrance of the convention center will be reserved for parade participants only. Additionally, parade participants may use the exit lane from Hall D as an entrance to the building. Participants who will require a handler or who require ADA mobility accommodation should line up in the East Lobby.
 
 - The parade will begin with the Fursuit Parade Lineup, which will be in the convention center Hall C. The lineup for the parade will **start at 12 PM**, with **doors closing at 1:50 PM**.
-- **The number of participants in the parade will be limited, and as such, all participants must be pre-approved.** You must either wear or bring the costume that you intend to wear in the parade, or alternatively a photo that shows all elements of the costume, to the registration point outside of **Room 309 on Friday between 3 PM and 9 PM, or on Saturday from 9 AM until 12 PM**. We cannot register any participants after 12 PM on Saturday.
+- **The number of participants in the parade will be limited, and as such, all participants must be pre-approved.** You must either wear or bring the costume that you intend to wear in the parade, or alternatively a photo that shows all elements of the costume, to the registration point outside of **Room 309 on Friday from 3 PM until our allotment of pre-approval stickers has been reached for the day, or on Saturday from 9 AM until 12 PM**. We cannot register any participants after 12 PM on Saturday.
 - Individuals approved for participation will have an identifying sticker affixed to their membership badge. The person presenting the suit for approval must be the person who will wear it in the parade. Substitutions are not permitted.
 - **The parade will begin at 2 PM**, starting from Hall C and leading out onto the streets underneath the convention center. **Participants who will require a handler or who require ADA mobility accommodation should line up in the East Lobby.**
 - The parade ends in Hall D, where there is cooling and hydration for fursuiters. **Once the parade is finished**, or fursuiters are feeling ready, they can take the elevators back up to the 3rd floor of the convention center, and make their way to Penn Avenue (either through the convention center, or the Westin) for the Block Party.
@@ -64,7 +64,7 @@ We understand that these changes may not be universally popular and we want our 
 ## Anthrocon Block Party
 
 {{< columns >}}
-{{< img src="2023+Kavaeric+_DSC1267.jpg" alt="A fursuiter celebrating with their hands in the air at the Anthrocon 2023 Block Party." hint="photo" attr="Kavaeric" attrlink="https://www.furtrack.com/user/Kavaeric/album-2068" >}}
+{{< img src="2025_Doktor_20250705_172430.jpg" alt="A fursuiter waving at the Anthrocon 2025 Block Party." hint="photo" attr="Doktor" attrlink="https://www.furtrack.com/user/doktor/photography" >}}
 
 <--->
 
@@ -73,7 +73,7 @@ Right after the Fursuit Parade will be the **Anthrocon Block Party**! Weather-de
 
 Things to keep in mind for the block party:
 
-- **The block party is entirely outdoors!** While there will be temporary fursuit headless zones with cooling, please keep it mind that it may be very hot outside. This also means that if the weather doesn’t look good, the event may be cut short.
+- **The block party is entirely outdoors!** While there will be temporary fursuit headless zones with cooling, it may be very hot outside. This also means that if the weather doesn’t look good, the event may be cut short.
 - We will have Anthrocon Safety staff and volunteers supporting the block party, in addition to law enforcement personnel patrolling the area.
 - There will be food and refreshment services around, including some food trucks. Fursuiters should be mindful of any potential risk to their costumes.
 - Restroom facilities will be available on the street in the form of portable restrooms.
