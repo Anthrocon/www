@@ -21,7 +21,10 @@ params:
 
 ## Anthrocon 2026 Dealers Room List and Map
 
-The 2026 dealers list and map will be updated as we get closer to the convention date!
+The 2026 Dealers Room map and list is now available and can be found here!
+
+
+{{< center >}}{{< button href="/dealers-list-2026" >}}Anthrocon Dealers List 2026{{< /button >}}{{< /center >}}
 
 <--->
 
