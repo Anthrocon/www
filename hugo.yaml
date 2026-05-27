@@ -19,7 +19,6 @@ frontmatter:
   publishDate:
     - "publishdate"
     - "pubdate"
-    - "published"
     - ":filename"
     - ":default"
 
@@ -28,7 +27,7 @@ imaging:
   quality: 85
   resampleFilter: "Lanczos"
 
-languageCode: "en-US"
+locale: "en-US"
 markup:
   goldmark:
     renderer:
