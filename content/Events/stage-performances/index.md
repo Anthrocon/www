@@ -16,7 +16,12 @@ Anthrocon’s stages showcase the best of furry-centric talent to our attendees,
 - [Stage Performance Policies](#stage-performance-policies-and-rules)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
-{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSfAgAyZsymF7st7JT6FbBkV_wIxpdowzTxY962JxW5pnrCQTQ/viewform" >}}Apply Online{{< /button >}}{{< /center >}}
+## Anthrocon Tonight
+
+Anthrocon Tonight is Anthrocon’s annual attendee talent show, where YOU are the star!
+If you would like to participate, please read the rules and apply online at the link below:
+
+{{< center >}}{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSf6dErgSbNy9RYsZHSMNR9Z-4jdjj4WX1jIQycyELYUkG7MIw/viewform" >}}Apply for Anthrocon Tonight{{< /button >}}{{< /center >}}
 
 <--->
 
