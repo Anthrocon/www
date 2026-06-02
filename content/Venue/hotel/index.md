@@ -29,7 +29,7 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 ## Booking Process
 
 {{< columns >}}
-Hotel bookings for the Anthrocon 2026 official hotel block closes after June 12. You can still book rooms at hotels outside of Anthrocon’s hotel block through other booking or travel sites.
+Hotel bookings for the Anthrocon 2026 official hotel block close after June 12. You can still book rooms at hotels outside of Anthrocon’s hotel block through other booking or travel sites.
 
 <--->
 
