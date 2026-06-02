@@ -13,7 +13,7 @@ params:
 
 # Hotels for Anthrocon
 
-> **Update on February 19, 2026: due to unforeseen technical issues that occurred, the General Hotel Block (Attending/Sponsor) booking date has been postponed to March 10, 2026 starting at 12 p.m. Eastern Time.**
+> **Hotel reservations for the Anthrocon 2026 room block will close after June 12. If you’re looking for a room, you can book at hotels outside of Anthrocon’s block. Existing reservations in Anthrocon’s block can still be inquired about by emailing Orchid Events. Reservation data will be transferred to all partner hotels in the second half of June - please do not inquire with the hotel until after then.**
 
 {{< center >}}
 
@@ -29,14 +29,7 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 ## Booking Process
 
 {{< columns >}}
-Hotel booking links for the Anthrocon reservation block will be available to pre-registered members through the Registration portal on the following days, based on membership type (all opening times will be approximately 12 PM Eastern Time):
-
-**Update on February 19, 2026: due to unforeseen technical issues that occurred, the General Hotel Block (Attending/Sponsor) booking date has been postponed to March 10, 2026 starting at 12 p.m. Eastern Time.**
-
-- Ultrasponsors: February 3, 2026
-- Dealers: February 10, 2026
-- Supersponsors: February 17, 2026
-- General (Attending/Sponsor): March 10, 2026
+Hotel bookings for the Anthrocon 2026 official hotel block closes after June 12. You can still book rooms at hotels outside of Anthrocon’s hotel block through other booking or travel sites.
 
 <--->
 
