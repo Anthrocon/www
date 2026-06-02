@@ -27,7 +27,7 @@ weight: 10
 
 ### Hotel Booking Registration Policy
 
-You must be registered for Anthrocon in order to access the Anthrocon room reservation portal through our reservation system. For more details on the process, [refer to our Hotels page](/hotel).
+You must be registered for Anthrocon in order to access the Anthrocon room reservation portal through our registration system. For more details on the process, [refer to our Hotels page](/hotel).
 
 ### Pre-Registration Cap for Anthrocon 2026
 
