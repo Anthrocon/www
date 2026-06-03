@@ -13,7 +13,7 @@ params:
 
 # Hotels for Anthrocon
 
-> **Update on February 19, 2026: due to unforeseen technical issues that occurred, the General Hotel Block (Attending/Sponsor) booking date has been postponed to March 10, 2026 starting at 12 p.m. Eastern Time.**
+> **Hotel reservations for the Anthrocon 2026 room block will close after June 12. If you’re looking for a room, you can book at hotels outside of Anthrocon’s block. Existing reservations in Anthrocon’s block can still be inquired about by emailing Orchid Events. Reservation data will be transferred to all partner hotels in the second half of June - please do not inquire with the hotel until after then.**
 
 {{< center >}}
 
@@ -29,23 +29,14 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 ## Booking Process
 
 {{< columns >}}
-Hotel booking links for the Anthrocon reservation block will be available to pre-registered members through the Registration portal on the following days, based on membership type (all opening times will be approximately 12 PM Eastern Time):
+Hotel bookings for the Anthrocon 2026 official hotel block close after June 12. You can still book rooms at hotels outside of Anthrocon’s hotel block through other booking or travel sites.
 
-**Update on February 19, 2026: due to unforeseen technical issues that occurred, the General Hotel Block (Attending/Sponsor) booking date has been postponed to March 10, 2026 starting at 12 p.m. Eastern Time.**
-
-- Ultrasponsors: February 3, 2026
-- Dealers: February 10, 2026
-- Supersponsors: February 17, 2026
-- General (Attending/Sponsor): March 10, 2026
+Reservations outside of Anthrocon’s hotel block cannot be transferred into Anthrocon’s block and are subject to all policies of the booking site and hotel property.
 
 <--->
 
 {{< img src="2024 Kaze-6533.jpg" hint="picture" attr="Kaze" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 {{< /columns >}}
-
-**A limited number of rooms will be set aside for people who are eligible for advance hotel booking (such as Supersponsors)**. This is to allow attendees a chance to reserve a room at each hotel without having a hotel fill up before general opening. The general booking link will be available to all registered attendees, regardless of membership level, during the General opening listed above so you will have a second chance if you do not get the hotel room of your choice during advance booking.
-
-**Do NOT book through a hotel’s website if you want to get Anthrocon’s rates (subject to availability)**. Reservations must be made through our booking link in order to get the convention rate — if you make a reservation outside of Anthrocon's hotel block, it cannot be transferred into Anthrocon’s block.
 
 - If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. If you don't see the hotel booking link in your confirmation email, [contact our team for support](/contact).
 - **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
