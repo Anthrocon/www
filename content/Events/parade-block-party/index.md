@@ -49,11 +49,12 @@ On Saturday, beginning at 1:00 PM, the West Lobby entrance of the convention cen
 - **Handlers will be permitted to assist with the donning and preparation of a costume in the staging area**; however, handlers will not be permitted to walk in the parade. Exceptions will be made for handlers who are assisting performers with mobility challenges and participants under the age of 13 who need a parent or guardian to accompany them.
 - Due to the nature of the parade lineup area, the presence of escalators on the parade route, and other aspects of the parade, Anthrocon strongly recommends that fursuiters whose costume design requires a handler (i.e. an oversized or overly bulky suit) should opt to participate in the Block Party as an alternative to the parade.
 - Even if a costume has been pre-approved, **any costume that is determined not to meet these standards at parade time will not be allowed to participate**.
-- **Any elements that are in violation of our standards of contact (examples: tactical gear, fetish wear, etc.) are not permitted in the parade.** Individuals causing disruption or interference with parade operations may be refused participation as well as face revocation of convention membership.
+- **Any elements that are in violation of our standards of conduct (examples: tactical gear, fetish wear, etc.) are not permitted in the parade.** Individuals causing disruption or interference with parade operations may be refused participation as well as face revocation of convention membership.
 - **All fursuiters must hydrate** before the fursuit parade. It’s for your own safety!
 - **No stopping in the parade route.** We require fursuiters to continue moving in the parade except in case of emergency. Staff and volunteers are positioned along the route should you require assistance.
 - **Flags affixed to flagpoles are not allowed.** Flags that are hand carried or worn (such as a cape) that abide by our Standards of Conduct are allowed.
 - **People with ADA accessibility needs or young children** are permitted handlers.
+- Children under 13 must be accompanied in the parade by a legal guardian with a valid membership. If the child does not have a membership badge, the accompanying guardian will have their badge stickered in lieu of the child’s. Children’s costumes are still required to meet the parade guidelines.
 - **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
 - Accessibility and mobility devices are exempt from costume requirements.
 
