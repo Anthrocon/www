@@ -37,8 +37,7 @@ params:
 | 14 Werewolves LLC                            | Y08-Y10  |
 | A Thousand Rasps                             | F17      |
 | A True Blue Artist                           | J21      |
-| Aardwolf Arts                                | I00J     |
-| Absolute Creature Vibes                      | K06      |
+| Absolute Creature Vibes                      | E17      |
 | Adulting Axolotl Apparel and Accessory Co    | A01      |
 | Aisu Art                                     | K20      |
 | Alchemy Art                                  | I13J     |
@@ -49,7 +48,6 @@ params:
 | Aloegator Arts                               | O13      |
 | Alstro Arts                                  | S02      |
 | ALT/ANML                                     | Q08      |
-| Ambush Toys                                  | Y12-Y15  |
 | Animal Skull Masks                           | N18      |
 | Animal Workshop                              | O03      |
 | Anthro Aesthetic                             | R16-R17  |
@@ -65,6 +63,8 @@ params:
 | Art of Kyote                                 | E24      |
 | Art of Marci                                 | S05      |
 | Art of Michele LIght                         | S07      |
+| Art of RyRy Beans                            | EAST 44  |
+| Artkour                                      | O02      |
 | ArtSea Animal                                | R08-R09  |
 | ashleyloob                                   | WEST 12  |
 | Astra Fauna                                  | G10-G11  |
@@ -84,6 +84,7 @@ params:
 | Bewilderium                                  | J07      |
 | Bill Holbrook                                | Q02      |
 | Bisonwares                                   | A09      |
+| Bleucan                                      | I25-J25  |
 | BlindCoyote                                  | M10N     |
 | Blue Canary Gallery                          | Q00R     |
 | Blue Harbor Creations                        | I20      |
@@ -102,11 +103,12 @@ params:
 |:---------------------------------------------|:---------|
 | Cafe Beret                                   | G08      |
 | CAMP HOWL                                    | G11-H11  |
-| Camp Mustelid                                | I16-II7  |
+| Camp Mustelid                                | I16-I17  |
 | candy critters                               | P12      |
 | Canis-Infernalis                             | I02      |
 | captainwolfee                                | WEST 25  |
 | Cashmere Sky                                 | K14      |
+| Cactimutt                                    | P11      |
 | Cats Paws Chair Massage                      | Entrance |
 | Catsudon                                     | WEST 04  |
 | Centikit                                     | WEST 26  |
@@ -114,13 +116,13 @@ params:
 | Charles Brubaker                             | R02      |
 | Cheer Creativity                             | EAST 30  |
 | Cheripi                                      | WEST 23  |
-| CherryBox &amp; V-ART                        | B02      |
+| CherryBox                                    | B02      |
 | Chibbutts                                    | I18      |
 | Chimeracon Art                               | EAST 40  |
 | Chronicle RPGs                               | ISLAND 2 |
 | Chupakaibra                                  | J23      |
 | CloverPuff                                   | Q15-Q18  |
-| Club Scragster                               | G06      |
+| Club Scragster                               | H05      |
 | Coey and Shy                                 | J10-J11  |
 | Coffeeclaws                                  | N14      |
 | Colorful Creatures                           | K14      |
@@ -133,7 +135,7 @@ params:
 | Coyotic Trouble                              | Q11      |
 | Coywolf Collections                          | O18      |
 | Crafty Kibby                                 | EAST 04  |
-| Crazdude Art &amp; Design                    | Q11R     |
+| Crazdude Art &amp; Design                    | Q10R     |
 | Creature Cottage                             | K13L     |
 | Critter Kickback Festival                    | E00F     |
 | Crittercrawls                                | EAST 10  |
@@ -149,10 +151,10 @@ params:
 | Cyberknife Studios                           | EAST 37  |
 | Cynthia Conner Illustration                  | D07      |
 | D.Bruin's Art and Prints                     | F11      |
-| Danea Fidler Illustrations &amp; Creations   | H04      |
+| Danea Fidler Illustrations &amp; Creations   | H23      |
 | Daria Aksenova                               | S12-S14  |
 | Dark Natasha                                 | S06      |
-| DarkChibiShadow                              | F24      |
+| DarkChibiShadow                              | F23      |
 | Darling Ear Shop                             | WEST 06  |
 | DaSueDragon Designs                          | R12      |
 | Dawn Grayford                                | D08      |
@@ -168,6 +170,7 @@ params:
 | Draconic Decorum                             | WEST 33  |
 | Dragon Coop                                  | M11N     |
 | Dragonmelde                                  | R06-R07  |
+| Droseattack                                  | WEST 05  |
 | DrakenByte                                   | O19      |
 | DREAMVISION CREATIONS, INC                   | Q21R     |
 {{< /details >}}
@@ -179,8 +182,8 @@ params:
 | Elisabeth Alba Illustration                  | R04      |
 | Elvenhound Illustrations                     | P14-P15  |
 | EMMBUNN                                      | EAST 16  |
+| Emobarkz                                     | C10      |
 | Erin Roseberry                               | EAST 24  |
-| Evaatheria                                   | Q20      |
 | Fantastically Fluffy                         | A07      |
 | Faux Paws Socks                              | S00T     |
 | feels like Instinct                          | WEST 02  |
@@ -198,7 +201,6 @@ params:
 | Foxclover                                    | S08      |
 | Frances Evans                                | tattoo 1 |
 | FurPlanet Productions                        | ISLAND 5 |
-| Furry Comics by Demiurge                     | B07      |
 | Furry Flags and Shifter Arts                 | B06      |
 | Fursewna Studios                             | WEST 11  |
 | FursuitGlasses.com                           | P06-P07  |
@@ -216,7 +218,7 @@ params:
 | Green Basilisk Studio                        | WEST 34  |
 | Grinning Wolf Studio                         | J16      |
 | HackPGH                                      | P01      |
-| halybs &amp; indui                           | E24      |
+| halybs &amp; indui                           | E23      |
 | Haruka Illustration                          | G02      |
 | Heather Bruton Illustration                  | K16      |
 | Hey, it's Zray!                              | Q12      |
@@ -265,6 +267,7 @@ params:
 | King Guro                                    | E10-E11  |
 | Kitsuel                                      | WEST 20  |
 | Knittin' Kitten Fashion                      | B05      |
+| Kopes Kreations                              | K12-L12  |
 | Kory Bing                                    | K02      |
 | kurenji's workshop                           | EAST 38  |
 | Lairbrew                                     | E04-E08  |
@@ -272,6 +275,8 @@ params:
 | Laura Illustrates                            | D09      |
 | Lava Alley                                   | EAST 33  |
 | Lemonbrat Studio                             | O16-O17  |
+| Lepus Studios                                | WEST 10  |
+| Licca Kirk / Atlas House                     | O21P     |
 | Lily Moon Suits                              | A03      |
 | Limeythecheetah                              | O21P     |
 | Lindsey "Rhos" Burcar Art                    | S10T     |
@@ -304,7 +309,7 @@ params:
 | Moko's Makery                                | N01-N02  |
 | Monster Kitty Society                        | F05      |
 | Morelitea                                    | P08-P09  |
-| MOTEL777                                     | P08-P09  |
+| MOTEL777                                     | J14      |
 | Moth Monarch                                 | K01      |
 | MR. KITTYS                                   | B03      |
 | MsMaw                                        | WEST 35  |
@@ -324,6 +329,7 @@ params:
 | NovaMutt Costumes                            | S03-S04  |
 | Oakley's Creations                           | P05      |
 | Oddgrowl Art                                 | WEST 07  |
+| Otherworldly Alchemist                       | O12      |
 | Otter &amp; Odder                            | T17-T18  |
 | OxEyed Press                                 | S01      |
 {{< /details >}}
@@ -337,7 +343,7 @@ params:
 | Part Time Dragons                            | E03      |
 | Part-Time Cryptid                            | J22      |
 | Paw To Press                                 | S20-T20  |
-| Pawstar                                      | B11      |
+| Pawstar                                      | B13      |
 | Pepper Coyote - Fandom Music                 | EAST 22  |
 | Peri Pendrake                                | R14      |
 | Pinfeathers                                  | C00      |
@@ -346,17 +352,15 @@ params:
 | Plant Panda Studios                          | I05      |
 | Poofsuits                                    | N15      |
 | Poofylion Arts                               | K03      |
-| Pookatdino crafts                            | K01      |
-| Potachi                                      | E09      |
+| Pookatdino crafts                            | E09      |
+| Potachi                                      | T11      |
 | Primordial Pals                              | I19      |
 | Primrose Kennel Club                         | Y04      |
 | PrismPaws                                    | G07      |
 | Puzzled Jay Productions                      | F10      |
 | Quack Quack Honk Designs                     | I11      |
-| QuaggyArts                                   | K03      |
 | Quailtea Goods                               | J04      |
 | QuietNova Studios                            | H14      |
-| R Wine Cellar                                | O02      |
 | raevi10                                      | WEST 29  |
 | RAIZAP by Chu                                | N08-N09  |
 | Rat Wednesday                                | R15      |
@@ -369,7 +373,7 @@ params:
 | Rosepuppies Art                              | WEST 28  |
 | RoxxieKitsune                                | WEST 18  |
 | Rukis Art                                    | F14-F16  |
-| Rysingson Accesssories                       | I23-I24  |
+| Rysingson Accessories                       | I23-I24  |
 {{< /details >}}
 
 {{< details "Vendor names: S-T" >}}
@@ -380,6 +384,7 @@ params:
 | Sandy Paws                                   | EAST 19  |
 | Sandy Schreiber                              | K15      |
 | SanityxRationelle                            | D02-D03  |
+| Sassypants                                   | F22      |
 | Saturn Peach Art                             | WEST 10  |
 | Scaly Shop                                   | G16-G17  |
 | Scrolling Fantasy                            | J02-J03  |
@@ -402,7 +407,7 @@ params:
 | Soic                                         | G04-G05  |
 | Something Squishy Toys                       | Y21-Y22  |
 | Songdog Studio                               | H24      |
-| Spacey Paws                                  | WEST 05  |
+| Spacey Paws                                  | C03      |
 | Spainimation's Art and Fursuits              | C02      |
 | Spicy King Co.                               | I07      |
 | STABLERCAKE                                  | K09-K10  |
@@ -412,19 +417,23 @@ params:
 | STATIIK ART LLC                              | Y02-Y03  |
 | Stephie's Art Corner                         | Y26-Y27  |
 | Stray Songdog                                | WEST 32  |
-| Sugar Bunny Shop                             | K04-K06  |
+| Sugar Bunny Shop                             | K05-K07  |
 | Sugar Lich                                   | D06      |
+| Snapjaw Swamp                                | E16      |
 | Sundae's Sundries                            | WEST 03  |
+| Supykun                                      | Q20      |
 | Sushi Tomodachi                              | P16-P17  |
 | Tacksidea                                    | EAST 08  |
 | Tailends Studios                             | B04      |
 | Talenshi Studios                             | H22      |
 | Teabeary House                               | D10      |
+| Tansy                                        | Y25      |
 | Tech621                                      | P18-P19  |
 | The Amber Fox                                | X06      |
 | The Gryphon Generation                       | Q03-Q04  |
 | The Pirate Artisans                          | F19-F20  |
 | The Wandering Bard, LLC                      | Y23-Y24  |
+| The Yogurt Kingdom                           | B07      |
 | Toon Raccoon!                                | O07      |
 | TOP Dog Studios                              | T14-T15  |
 | Tough Hide Leatherwork                       | X01-X02  |
@@ -453,12 +462,12 @@ params:
 | Wyldefell Woods-OtherWorld Menagerie         | H04      |
 | Wyrmwood Pyrography                          | EAST 01  |
 | Xenocat Artifacts                            | Y16-Y18  |
-| Y2Kute                                       | EAST 18  |
+| Y2Kute                                       | WEST 14  |
 | YARD SARD Furs                               | ISLAND 4 |
 | YchFursuits                                  | EAST 42  |
 | Yellow K9 Creations                          | D04      |
 | Yipp Yapp                                    | B08      |
-| YKSOBA                                       | H05      |
+| YKSOBA                                       | G06      |
 | yocholol                                     | O14      |
 | ZENOPHRENIC                                  | O15      |
 | ZeroRemnants                                 | A10      |
