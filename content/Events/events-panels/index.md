@@ -18,7 +18,7 @@ weight: 10
 
 {{< center >}}Anthrocon features a variety of events and panels over the weekend. From outdoor parades to learning new crafts and social meetups, you’ll have plenty to do!{{< /center >}}
 
-{{< center >}}[Policies and Rules](#anthrocon-event-policies-and-rules) - [Host an event](#apply-to-host-an-event) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Policies and Rules](#anthrocon-event-policies-and-rules) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}
 
 {{< columns >}}
 {{< img src="2023+Aisling+DSC_5264.jpg" alt="A panelist presenting their panel using a projector and digital drawings for Anthrocon 2023." hint="picture" attr="Aisling Wolf" >}}
