@@ -6,4 +6,4 @@ The Anthrocon website.
 
 ## License
 
-No license implied. All rights reserved copyright Anthrocon, Inc., 2025.
+No license implied. All rights reserved copyright Anthrocon, Inc., 2026.
