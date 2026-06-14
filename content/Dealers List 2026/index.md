@@ -1,12 +1,12 @@
 ---
 title: "Dealers List and Map 2026"
 params:
-    banner: "2024 Tobee 20240705_121442.jpg"
-    banner_position: "67%"
-    banner_title: ""
-    banner_caption: ""
-    banner_author: "Tobee"
-    banner_url: ""
+  banner: "2024 Tobee 20240705_121442.jpg"
+  banner_position: "67%"
+  banner_title: ""
+  banner_caption: ""
+  banner_author: "Tobee"
+  banner_url: ""
 ---
 
 # 2026 Dealers Room Information and Map
@@ -24,15 +24,18 @@ params:
 {{< center >}}**NOTE:** the effective date for this dealers list is **May 26, 2026**, and table assignments may change before the convention.{{< /center >}}
 
 {{< details "Miscellaneous vendors" >}}
-| Vendor                                        | Location                  |
-| --------------------------------------------- | ------------------------- |
-| Charity (J and J Farms Animal Sanctuary)      | Hall B Area               |
-| Furry Logic Escape Rooms     | outside DLCC Spirit of Pittsburgh Ballroom |
+
+| Vendor | Location |
+|:---|:---|
+| Charity (J and J Farms Animal Sanctuary) | Hall B Area |
+| Furry Logic Escape Rooms | outside DLCC Spirit of Pittsburgh Ballroom |
+
 {{< /details >}}
 
 {{< details "Vendor names: #-B" >}}
-| Vendor                                       | Location |
-|:---------------------------------------------|:---------|
+
+| Vendor | Location |
+|:---|:---|
 | 0 Fox Shop | A12 |
 | 14 Werewolves LLC | Y08-Y10 |
 | A Thousand Rasps | F17 |
@@ -97,11 +100,13 @@ params:
 | Bubbly Sheep Creations | EAST 23 |
 | BUNFAN GAMES LLC | X04-X05 |
 | Byte Size Treasure | F06 |
+
 {{< /details >}}
 
 {{< details "Vendor names: C-D" >}}
+
 | Vendor | Location |
-|:---------------------------------------------|:---------|
+|:---|:---|
 | Cafe Beret | G08 |
 | CAMP HOWL | G11-H11 |
 | Camp Mustelid | I16-I17 |
@@ -174,11 +179,13 @@ params:
 | Droseattack | WEST 05 |
 | DrakenByte | O19 |
 | DREAMVISION CREATIONS, INC | Q21R |
+
 {{< /details >}}
 
 {{< details "Vendor names: E-H" >}}
+
 | Vendor | Location |
-|:---------------------------------------------|:---------|
+|:---|:---|
 | Eclectic Clay | O01 |
 | Elisabeth Alba Illustration | R04 |
 | Elvenhound Illustrations | P14-P15 |
@@ -235,11 +242,13 @@ params:
 | Hunny Bunny Studios | EAST 03 |
 | Husious | R13 |
 | HYENA AGENDA | ISLAND 7 |
+
 {{< /details >}}
 
 {{< details "Vendor names: I-L" >}}
+
 | Vendor | Location |
-|:---------------------------------------------|:---------|
+|:---|:---|
 | Icecolo | WEST 27 |
 | Icy Paw Productions | T08-T09 |
 | inki-Drop | C09 |
@@ -288,11 +297,13 @@ params:
 | LUCKY DRAGON &amp; CO. | H08 |
 | Lycantasy | Y19-Y20 |
 | Lyonne Riley | Y28 |
+
 {{< /details >}}
 
 {{< details "Vendor names: M-O" >}}
+
 | Vendor | Location |
-|:---------------------------------------------|:---------|
+|:---|:---|
 | Made by Nao! | G20 |
 | MadshyArts | R05 |
 | Magpie Madness | WEST 13 |
@@ -334,9 +345,11 @@ params:
 | Otherworldly Alchemist | O12 |
 | Otter &amp; Odder | T17-T18 |
 | OxEyed Press | S01 |
+
 {{< /details >}}
 
 {{< details "Vendor names: P-R" >}}
+
 | Vendor | Location |
 |:---------------------------------------------|:---------|
 | Painting Dragon Feathers | H10 |
@@ -376,9 +389,11 @@ params:
 | RoxxieKitsune | WEST 18 |
 | Rukis Art | F14-F16 |
 | Rysingson Accessories | I23-I24 |
+
 {{< /details >}}
 
 {{< details "Vendor names: S-T" >}}
+
 | Vendor | Location |
 |:---------------------------------------------|:---------|
 | Sailor Shrimpp | C04 |
@@ -448,6 +463,7 @@ params:
 {{< /details >}}
 
 {{< details "Vendor names: U-Z" >}}
+
 | Vendor | Location |
 |:---------------------------------------------|:---------|
 | Underfoot Studio | WEST 19 |
@@ -474,4 +490,5 @@ params:
 | yocholol | O14 |
 | ZENOPHRENIC | O15 |
 | ZeroRemnants | A10 |
+
 {{< /details >}}
