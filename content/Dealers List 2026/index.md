@@ -17,7 +17,7 @@ params:
 
 {{< center >}}View the map of the Dealers Room layout below. Click on the image to view a larger version.{{< /center >}}
 
-{{< img src="FLOORPLAN_2026_JUNE.png" alt="A diagram of the Anthrocon 2026 Dealers Room where different vendors are located." hint="drawing" link="FLOORPLAN_2026_JUNE.png" caption="Anthrocon 2026 Dealers Room layout." >}}
+{{< img src="FLOORPLAN_2026_JUNE.png" alt="A diagram of the Anthrocon 2026 Dealers Room where different vendors are located." hint="drawing" link="FLOORPLAN_2026_JUNE.png" link_target="original" caption="Anthrocon 2026 Dealers Room layout." >}}
 
 ## Dealers List
 
