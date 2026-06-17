@@ -5,28 +5,30 @@ aliases:
     - "/shuttles"
 
 params:
-    banner: "2023+BlueHasia+Day+1-102.jpg"
+    banner: "2025_Tobee_20250704_192130.jpg"
     banner_title: ""
     banner_caption: ""
-    banner_author: "Blue Hasia"
-    banner_url: ""
+    banner_author: "Tobee"
+    banner_url: "https://www.furtrack.com/index/photographer:tobee"
 ---
 
 # Shuttle Buses for Anthrocon Hotels
 
-Shuttle bus service for partnered Anthrocon hotels starts at 8 AM from Thursday July 3 to Sunday July 6, and ends at 3 AM the following morning. It will end at 11:59 PM on Sunday evening.
+We’re partnering with several transportation services to shuttle attendees between partnered hotels and the convention. Services start at 8 AM and end at 3 AM the following day from Thursday July 3 to Saturday July 6. On Sunday July 5, it starts at 8 AM and ends at 1 AM.
 
-{{< center >}}[Important Notes and Updates](#important-notes-and-updates) - [Shuttle Bus Tracking](#shuttle-bus-tracking) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
+{{< center >}}[Transportation Notes](#transportation-notes) - [Shuttle Bus Tracking](#shuttle-bus-tracking) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
 
-## Important Notes and Updates
+## Transportation Notes
 
-- The **convention center stop** is located on 10th Street underneath the convention center on the East Lobby side. Signage will indicate where passengers are dropped off and picked up.
+- The **convention center stop** is located along Fort Duquesne Boulevard underneath the convention center. Signage will indicate where passengers are dropped off and picked up.
 - There is **no shuttle bus service for the Westin**, **Courtyard**, **Drury**, or **AC Hotel** as they are directly in proximity of the convention center.
-- **On Saturday July 5**, the drop-off stop will move to the west side of 10th Street on Fort Duquesne Boulevard to accommodate road closures. The pickup stop will be on the east side of 10th Street on Fort Duquesne Boulevard. Signs will be in place to help mark the locations.
-- **Buses will come every 20-30 minutes** for hotels within downtown and **every 45 minutes** for North Shore and South Shore hotels, depending on route and traffic conditions.
-- **If a shuttle bus is full**, it will NOT stop until passengers offload.
-- Anthrocon’s shuttle service uses ADA accessible buses for attendees with wheelchair or mobility devices.
-- **All shuttle buses for 2025 are ADA-accessible.**
+- Bus service will not operate for the Westin, Courtyard, Drury, AC Hotel or the Placemakr as they are directly in proximity of the convention center. If you require transportation, Gray Hare Express carts will be able to take you.
+
+# How Anthrocon transportation will work
+
+- Transportation will arrive approximately every 20-30 minutes for hotels within downtown and every 45 minutes for North Shore and South Shore hotels, depending on route and traffic conditions. Saturday, July 4 will have longer times due to increased traffic and road closures.
+- If a shuttle bus is full, it will NOT stop until passengers offload. Drivers will try to request an additional vehicle if they spot you waiting and are unable to take you.
+- Anthrocon’s transportation service uses ADA accessible vehicles for attendees with wheelchair or mobility devices.
 
 ## Shuttle Bus Tracking
 
@@ -38,22 +40,21 @@ You can view where shuttle buses are located along with an ETA per step using th
 
 ## Shuttle Routes and Schedules
 
-{{< center >}}Please note that the hotels below are confirmed to have shuttle service, but specific routes may be subject to change. Routes will be finalized by July 1, 2025.{{< /center >}}
+{{< center >}}Please note that the hotels below are confirmed to have shuttle service, but specific routes may be subject to change based on traffic and road conditions.{{< /center >}}
 
 {{< details "Blue Route — Cambria, Doubletree, Kimpton Hotel Monaco, Marriott City, Omni" >}}
-**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
+**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 1 AM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 20 minutes.
 
 **Pick up notes:**
 
-- Omni and Kimpton shuttle stop will be at the Hotel Monaco corner of 6th Avenue and William Penn Place
-- Cambria and Marriott City guests will need to use the Doubletree’s bus stop
-- Doubletree shuttle stop will pick up in front of the hotel
+- Cambria: in front of hotel (smaller bus and Gray Hare carts only)
+- Marriott City Center: corner of Centre Ave and Washington
 {{< /details >}}
 
 {{< details "Purple Route — EVEN, Embassy, Hilton Garden Inn" >}}
-**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
+**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 1 AM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 15-20 minutes.
 
@@ -65,29 +66,30 @@ You can view where shuttle buses are located along with an ETA per step using th
 {{< /details >}}
 
 {{< details "Yellow Route — Holiday Inn Express, Residence Inn, Springhill Suites" >}}
-**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
+**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 1 AM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 45 minutes.
 
 **Pick up notes:**
 
-- Residence Inn: Corner of General Robinson St and Mazeorski Way, at Home Plate entrance to PNC Park
-- Holiday Inn, Springhill Suites: Corner of General Robinson St and Federal St, Legacy Square Entrance to PNC Park
+- Residence Inn: In front of hotel entrance driveway on W. General Robinson St (Gray Hare Express carts only)
+- Holiday Inn, Springhill Suites: Corner of General Robinson St and Federal St, Legacy Square Entrance to PNC Park (Gray Hare Express carts only)
 {{< /details >}}
 
 {{< details "Green Route — Wyndham, Renaissance" >}}
-**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
+**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 1 AM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 15-20 minutes.
 
 **Pick up notes:**
 
-- Wyndham pick up will be on Commonwealth Place in front of the main entrance
-- Renaissance pick up will be at the corner of Fort Duquesne Boulevard and 6th Street
+- Wyndham in front of the main entrance. On July 4, the transportation stop will temporarily move to Stanwix St. one block over due to road closure.
+- Renaissance pick up will be at the corner of Fort Duquesne Boulevard and 6th Street, just around the corner of hotel front entrance
+
 {{< /details >}}
 
 {{< details "Orange Route — Joinery, Sheraton Station Square" >}}
-**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
+**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 1 AM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 45 minutes.
 
@@ -98,9 +100,13 @@ You can view where shuttle buses are located along with an ETA per step using th
 {{< /details >}}
 
 {{< details "Red Route — Hampton Inn, Homewood Suites" >}}
-**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 11:59 PM on Sunday evening.
+**Time:** Starts at approximately 8 AM every day, ends at 3 AM on Friday/Saturday/Sunday and ends at 1 AM on Sunday evening.
 
 **Frequency:** Buses will arrive at each hotel approximately every 20 minutes.
 
-**Pick up notes:** Buses will attempt to pick up passengers near the front entrance of hotels.
+**Pick up notes:** 
+
+- Hampton Inn: opposite of hotel in front of Heinz History Center
+- Homewood Suites: corner of Smallman St. and 14th St., across of hotel
+
 {{< /details >}}
