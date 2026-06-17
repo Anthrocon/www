@@ -9,7 +9,7 @@ keywords:
 
 params:
     author: "Ronnie"
-    banner: "2026_Aisling_AIS_5806.jpg"
+    banner: "2025_Aisling_AIS_5806.jpg"
     banner_author: "Aisling"
     banner_url: "https://www.furtrack.com/index/photographer:aisling"
 ---
@@ -26,7 +26,7 @@ If you’re unable to join us this year, the deadline for requesting a refund an
 
 For attendees that have booked through our official housing partner (Orchid Events) via the portal on our registration system, all reservation data will be transferred over to the respective hotel. They will upload the reservation data into their system, at which point you may get another confirmation email from the hotel. At that point, any further changes to your reservation must be handled directly with the hotel.
 
-**Beware of fake hotel offers**: If anyone else tells you they have “official” hotel rooms, they are likely attempting to scam you. Anthrocon-rate rooms for 2025 are no longer available to be booked at this point.
+**Beware of fake hotel offers**: If anyone else tells you they have “official” hotel rooms, they are likely attempting to scam you. Anthrocon-rate rooms for 2026 are no longer available to be booked at this point.
 
 Our transportation for attendees between the convention center and partnered hotels is being brought back and increased this year with the help of Gray Hare Express cart services, which will be offering complimentary rides to and from hotels and Anthrocon. You’ll be able to find their carts which will have distinctive signs for their service.
 
