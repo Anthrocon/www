@@ -44,6 +44,8 @@ First, you get a bidder number — [fill out the online form](https://rams.anthr
 
 Once you have your bidder number, browse the gallery rooms until you find an item you want to bid on, then look for its bid sheet. It looks like this and there should be one attached to every item.
 
+{{< img src="bid-sheet-example-fade-barcode-border-jaunty.png" alt="An Anthrocon Art Show bidding sheet." hint="picture">}}
+
 Check the Minimum Bid box \- if it has a price, it is available for bidding, but if it has NFS there, that means it is Not For Sale, and is there for display only.
 
 When you’ve found an item for sale and you want to bid on it, write the name you gave at bidder sign-up and your bidder number on the first vacant line on the Bid Sheet. If you’re the first bidder, you must bid at least the minimum bid listed. After that, you must bid more than the previous person. All bids must be in whole dollar increments. You can see some example bid sheets at a bidder sign–up table.
