@@ -9,7 +9,7 @@ keywords:
 
 params:
     author: "Ronnie"
-    banner: "2025_Aisling_AIS_5806.jpg"
+    banner: "2026_Aisling_AIS_5806.jpg"
     banner_author: "Aisling"
     banner_url: "https://www.furtrack.com/index/photographer:aisling"
 ---
