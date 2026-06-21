@@ -333,9 +333,11 @@ Questions, complaints or concerns about the Dealers Room should be directed onsi
 
 ### Registration check in
 
-Dealer Registration is located in Hall D/E. Be aware that you cannot enter the rest of the DLCC without first collecting your badge, and as such you will not be able to reach Halls A and B. You will need a government issued photo ID to pick up your registration, the same as attendee registration.
+Dealer Registration is located in the East Lobby on Thursday and Hall D/E on Friday and Saturday. You will be able to head directly in to the DLCC from registration, no entry is allowed without a badge. You will need a government issued photo ID to pick up your registration, the same as attendee registration. Only Dealer registration is in the East Lobby, you will not be able to pick up any badges other than Dealer or Dealer Assistant badges here. Dealer or Assistant Sponsor, SuperSponsor or UltraSponsor badges are able to pick up at Dealer Registration.
 
-Dealer registration will be opening at 12 PM on Thursday, July 2, 2026. There will be a specific line only for dealers and dealer assistants to pick up their registration badges, you do not need to wait in the general attendee lines. Dealer registration tends to move fairly quickly, but be aware there can be waits during peak times such as opening and just before general dock opening.
+Dealer registration will be opening at 12 PM on Thursday, July 2, 2026\. Dealer registration tends to move fairly quickly, but be aware there can be waits during peak times such as opening and just before general dock opening.
+
+A reminder that there should be no stopping to unload on Fort Duquesne Road.
 
 Dealer Assistants may also pick up their preregistered assistant badges in this line. If a Dealer Assistant is not already registered, they can also register in this line. A registered Dealer must accompany anyone registering on site as a Dealer Assistant to verify that they authorize their assistant. Preregistered Dealer Assistants do not need to be accompanied by anyone but do still need their photo ID as above.
 
@@ -352,8 +354,6 @@ Dealers are able to drive their vehicles onto the floor of Halls A&B for unloadi
 The Teamsters and loading dock will be available from 12:00 pm to 3:00pm based on assigned dock entry times and 3:00 PM until 8:30 PM on Thursday to all dealers. Teamsters and the loading dock will be available from 4 PM until 8 PM on Sunday, July 7 for teardown and loadout. Because of the early opening time, vehicles are not permitted on the floor on Friday, though items can still be dropped off at the loading dock to be delivered to your table.
 
 Dealers who wish to have things shipped in advance and delivered to the DLCC during load-in can do so via APA Exhibition Services, who provide both warehousing and delivery services for a fee. This service must be ordered and paid for before the convention; the order form for shipping and delivery will be provided about four weeks before the convention. Please note that Anthrocon has no control over this service, and will not be able to provide much in the way of assistance; issues should be brought up to APA directly. When shipping any items of an adult nature, please be considerate of the teamsters and use discreet packaging as well as discreet verbiage on any shipping or manifest forms.
-
-A paid remote parking area will be provided to dealers who need to park their vehicles during the convention. It will become available on Thursday during load-in and will remain open until the following Monday. This lot is intended primarily for dealers with very large vehicles who otherwise would have difficulty parking, but any dealer is welcome to use it. Dealers will need to request parking in advance; further details are expected in early 2026 and will be passed to Dealers as soon as possible. This lot requires sign up and payment before the convention starts so please keep an eye out for that information if you will need it.
 
 The air conditioning in Halls A&B automatically shuts off when the loading dock doors are open, except under extreme circumstances. During load-in, the room will be warm, so please dress accordingly and stay hydrated during these times. Once the doors close, the air conditioning will come back on and the room will cool down. Unfortunately this is outside of Anthrocon’s control and is up to the discretion of the Convention Center management.
 
