@@ -49,9 +49,9 @@ Selection of unique food trucks and vendors selling unique Anthrocon menu items
 #### [**Harris Theater**](https://trustarts.org/pct_home/visit/facilities/harris-theater) **(809 Liberty Ave, Pittsburgh)**  
 Discounted movie screenings for Anthrocon members purchasing online and in-person\!
 
-Friday, July 3 and Saturday, July 4: Disney’s Robin Hood  
+Friday, July 3 and Saturday, July 4: [Disney’s Robin Hood](https://trustarts.org/production/108824/disneys-robin-hood-1973)
 
-Sunday, July 5: Robot Dreams
+Sunday, July 5: [Robot Dreams](https://trustarts.org/production/108826/robot-dreams-2023)
 
 #### [**Palate Partners**](http://www.palatepartners.com/) **(3401 Liberty Ave, Pittsburgh)**
 
