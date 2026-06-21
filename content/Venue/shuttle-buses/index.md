@@ -26,7 +26,7 @@ We’re partnering with several transportation services to shuttle attendees bet
 
 # How Anthrocon transportation will work
 
-- Make sure you have your Anthrocon 2026 badge with you so that our drivers know you’re with Anthrocon. There will be marked transportation spots for each serviced hotel
+- Make sure you have your Anthrocon 2026 badge with you so that our drivers know you’re with Anthrocon. There will be marked transportation spots for each serviced hotel.
 - Transportation will arrive approximately every 20-30 minutes for hotels within downtown and every 45 minutes for North Shore and South Shore hotels, depending on route and traffic conditions. Saturday, July 4 will have longer times due to increased traffic and road closures.
 - If a shuttle bus is full, it will NOT stop until passengers offload. Drivers will try to request an additional vehicle if they spot you waiting and are unable to take you.
 - Anthrocon’s transportation service uses ADA accessible vehicles for attendees with wheelchair or mobility devices.
