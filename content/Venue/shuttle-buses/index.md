@@ -14,18 +14,19 @@ params:
 
 # Shuttle Buses for Anthrocon Hotels
 
-We’re partnering with several transportation services to shuttle attendees between partnered hotels and the convention. Services start at 8 AM and end at 3 AM the following day from Thursday July 3 to Saturday July 6. On Sunday July 5, it starts at 8 AM and ends at 1 AM.
+We’re partnering with several transportation services to shuttle attendees between partnered hotels and the convention. Services start at 8 AM and end at 3 AM the following day from Thursday July 2 to Saturday July 4. On Sunday July 5, it starts at 8 AM and ends at 1 AM.
 
 {{< center >}}[Transportation Notes](#transportation-notes) - [Shuttle Bus Tracking](#shuttle-bus-tracking) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
 
 ## Transportation Notes
 
+- Our partnered transportation providers are Pittsburgh Transportation Group buses, Lenzner Travel buses, and Gray Hare Express carts. Other services are not partnered with Anthrocon and not subject to any discount or support.
 - The **convention center stop** is located along Fort Duquesne Boulevard underneath the convention center. Signage will indicate where passengers are dropped off and picked up.
-- There is **no shuttle bus service for the Westin**, **Courtyard**, **Drury**, or **AC Hotel** as they are directly in proximity of the convention center.
 - Bus service will not operate for the Westin, Courtyard, Drury, AC Hotel or the Placemakr as they are directly in proximity of the convention center. If you require transportation, Gray Hare Express carts will be able to take you.
 
 # How Anthrocon transportation will work
 
+- Make sure you have your Anthrocon 2026 badge with you so that our drivers know you’re with Anthrocon. There will be marked transportation spots for each serviced hotel
 - Transportation will arrive approximately every 20-30 minutes for hotels within downtown and every 45 minutes for North Shore and South Shore hotels, depending on route and traffic conditions. Saturday, July 4 will have longer times due to increased traffic and road closures.
 - If a shuttle bus is full, it will NOT stop until passengers offload. Drivers will try to request an additional vehicle if they spot you waiting and are unable to take you.
 - Anthrocon’s transportation service uses ADA accessible vehicles for attendees with wheelchair or mobility devices.
@@ -49,6 +50,7 @@ You can view where shuttle buses are located along with an ETA per step using th
 
 **Pick up notes:**
 
+- Omni and Kimpton shuttle stop will be at the Hotel Monaco corner of 6th Avenue and William Penn Place
 - Cambria: in front of hotel (smaller bus and Gray Hare carts only)
 - Marriott City Center: corner of Centre Ave and Washington
 {{< /details >}}
