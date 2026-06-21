@@ -414,7 +414,7 @@ params:
 | Spacey Paws | C03 |
 | Spainimation's Art and Fursuits | C02 |
 | Spicy King Co. | I07 |
-| SplitGrapeSoda | I01-I00J-J01 |
+| SpiltGrapeSoda | I01-I00J-J01 |
 | STABLERCAKE | K09-K10 |
 | Starlace Arts | EAST 05 |
 | StarWeaverArts | EAST 35 |
