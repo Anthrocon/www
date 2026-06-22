@@ -17,7 +17,7 @@ params:
       {{< center >}}{{< button href="https://anthrocon.tv" >}}Livestream{{< /button >}}{{< /center >}}
       <--->
       {{< center >}}{{< button href="https://www.anthrocon.org/shuttle-buses" >}}Shuttle Buses{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="https://www.anthrocon.org/tips-and-guides" >}}Tips and guides{{< /button >}}{{< /center >}}
+      {{< center >}}{{< button href="https://www.anthrocon.org/partners-2026" >}}Deals and Discounts{{< /button >}}{{< /center >}}
       {{< /columns >}}
     banner_author: "Luau"
     banner_url: "https://www.furtrack.com/index/photographer:luau"
