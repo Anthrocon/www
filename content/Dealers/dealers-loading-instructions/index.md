@@ -22,21 +22,6 @@ params:
 Pittsburgh, PA 15222<br>
 [+1 412-565-6000](tel:+1-412-565-6000){{< /center >}}
 
-**From Pittsburgh International Airport**<br>
-PA -60 S to US-30 E becomes I-279 N through the Ft. Pitt Tunnels and across the Ft. Pitt Bridge. Take Exit 6C Ft. Duquesne Blvd. Follow sign to Convention/Strip District on 10 Street Bypass. At 1st traffic light, turn right into the Convention Center Loading Dock Entrance.
-
-**From East/PA Turnpike**<br>
-I-76 W (PA Turnpike) to Exit 57 Pittsburgh. Take I-376 W to Exit 2B Blvd. of the Allies. Take I-579 N to Seventh Ave/Convention Center Exit. Take Seventh Ave. Turn right onto William Penn Way. William Penn Way becomes 10 St. go straight under the Convention Center. At the corner of 10th & Ft. Duquesne Blvd., turn left onto Ft. Duquesne. Next light, turn left into the Convention Center Loading Dock Entrance.
-
-**From West/PA Turnpike**<br>
-I-76 E (PA Turnpike) to Exit 28 Cranberry. Follow signs to I-79 S to I-279 S across Ft. Duquesne Bridge to Convention Center/The Strip District Exit. At 1st traffic light, turn right into the Convention Center Loading Dock Entrance.
-
-**From North**<br>
-I-79 S to I-279 S across Ft. Duquesne Bridge to Convention Center/The Strip District Exit. At 1st traffic light, turn right into the Convention Center Loading Dock Entrance.
-
-**From South**<br>
-I-79N to Exit 59A Pittsburgh to I-279N through Ft. Pitt Tunnel across Ft. Pitt Bridge. Take Exit 6C Ft. Duquesne Blvd. Follow sign to Convention/Strip District on 10 Street Bypass. At 1st traffic light, turn right into the Convention Center Loading Dock Entrance.
-
 ### Load-in and Load-out instructions
 
 **Very Important Information!**
