@@ -4,8 +4,7 @@ aliases:
     - "/home"
 
 params:
-    banner: "AC_2022_group+photo_3000px_dark.jpg"
-    banner_video: "https://youtu.be/zuyyRuu00Dk"
+    banner: "LUA_1928.png"
     banner_title: "Anthrocon 2026: Critters, Cryptics and Curses"
     banner_atcon: true
     banner_caption: >
@@ -20,8 +19,8 @@ params:
       {{< center >}}{{< button href="https://www.anthrocon.org/shuttle-buses" >}}Shuttle Buses{{< /button >}}{{< /center >}}
       {{< center >}}{{< button href="https://www.anthrocon.org/tips-and-guides" >}}Tips and guides{{< /button >}}{{< /center >}}
       {{< /columns >}}
-    banner_author: "Patrick Snowyote"
-    banner_url: "https://www.youtube.com/watch?v=Wayi0jiziNI"
+    banner_author: "Luau"
+    banner_url: "https://www.furtrack.com/index/photographer:luau"
 ---
 
 # **Welcome to Anthrocon**
