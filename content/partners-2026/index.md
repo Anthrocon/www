@@ -36,6 +36,14 @@ Special menu and merchandise for Anthrocon 2026
 
 Selection of unique food trucks and vendors selling unique Anthrocon menu items
 
+**Westin Lobby Shop (1000 Penn Ave, Pittsburgh)**
+
+Special grab-n-go menu for Anthrocon 2026
+
+**Sushi Kim 2 (110 Smithfield St 2nd floor, Pittsburgh)**
+
+10% off discount on food / non-alcoholic beverages by showing your Anthrocon 2026 membership
+
 {{< /columns >}}
 
 ## Experiences
