@@ -410,11 +410,11 @@ Located within the iconic Pennsylvanian, Placemakr Downtown Pittsburgh blends hi
 ***
 
 {{< columns "33%" >}}
-{{< img src="lobby_lounge_9457.jpg" alt="A picture of the interior of the Renaissance Pittsburgh Hotel." hint="picture" >}}
+{{< img src="lobby_lounge_9457.jpg" alt="A picture of the interior of the Atterbury Hotel (formerly Renaissance Pittsburgh) Hotel." hint="picture" >}}
 
 <--->
 
-### Renaissance Pittsburgh Hotel
+### The Atterbury Hotel (formerly Renaissance Pittsburgh)
 
 Located a few blocks from the convention center in the heart of the Cultural District, this is one of the more luxurious hotels in the downtown area.
 
@@ -424,7 +424,7 @@ Located a few blocks from the convention center in the heart of the Cultural Dis
 
 **Shuttle Service:** Yes
 
-[Learn more about The Renaissance Pittsburgh](https://www.marriott.com/hotels/travel/pitbr-renaissance-pittsburgh-hotel/)
+[Learn more about The Atterbury Hotel](https://www.theatterburyhotel.com/)
 {{< /columns >}}
 
 ***
