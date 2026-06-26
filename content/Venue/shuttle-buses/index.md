@@ -14,14 +14,14 @@ params:
 
 # Shuttle Buses for Anthrocon Hotels
 
-We’re partnering with several transportation services to shuttle attendees between partnered hotels and the convention. Services start at 8 AM and end at 3 AM the following day from Thursday July 2 to Saturday July 4. On Sunday July 5, it starts at 8 AM and ends at 1 AM.
+We’re partnering with several services to provide free transportation for attendees between partnered hotels and the convention. Services start at 8 AM and end at 3 AM the following day from Thursday July 2 to Saturday July 4. On Sunday July 5, it starts at 8 AM and ends at 1 AM.
 
 {{< center >}}[Transportation Notes](#transportation-notes) - [Shuttle Bus Tracking](#shuttle-bus-tracking) - [Routes & Stops Schedules](#shuttle-routes-and-schedules){{< /center >}}
 
 ## Transportation Notes
 
 - Our partnered transportation providers are Pittsburgh Transportation Group buses, Lenzner Travel buses, and Gray Hare Express carts. Other services are not partnered with Anthrocon and not subject to any discount or support.
-- The **convention center stop** is located along Fort Duquesne Boulevard underneath the convention center. Signage will indicate where passengers are dropped off and picked up.
+- The **convention center stop** for both buses and Gray Hare Express carts is located along Fort Duquesne Boulevard underneath the convention center. Signage will indicate where passengers are dropped off and picked up.
 - Bus service will not operate for the Westin, Courtyard, Drury, AC Hotel or the Placemakr as they are directly in proximity of the convention center. If you require transportation, Gray Hare Express carts will be able to take you.
 
 # How Anthrocon transportation will work
