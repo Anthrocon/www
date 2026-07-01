@@ -4,13 +4,23 @@ aliases:
     - "/home"
 
 params:
-    banner: "AC_2022_group+photo_3000px_dark.jpg"
-    banner_video: "https://youtu.be/zuyyRuu00Dk"
-    banner_title: "Anthrocon is Pittsburgh's Premier Furry Convention"
+    banner: "LUA_1928.png"
+    banner_title: "Anthrocon 2026: Critters, Cryptics and Curses"
+    banner_atcon: true
     banner_caption: >
-      July 2 - July 5, 2026
-    banner_author: "Patrick Snowyote"
-    banner_url: "https://www.youtube.com/watch?v=Wayi0jiziNI"
+      July 2-5, 2026 - Pittsburgh PA
+      {{<columns>}}
+      {{< center >}}{{< button href="https://anthrocon.org/registration" >}}Register{{< /button >}}{{< /center >}}
+      {{< center >}}{{< button href="https://anthrocon.org/dealers-list-2026" >}}Dealers list{{< /button >}}{{< /center >}}
+      <--->
+      {{< center >}}{{< button href="https://anthrocon.org/schedule" >}}Schedule and map{{< /button >}}{{< /center >}}
+      {{< center >}}{{< button href="https://anthrocon.tv" >}}Livestream{{< /button >}}{{< /center >}}
+      <--->
+      {{< center >}}{{< button href="https://www.anthrocon.org/shuttle-buses" >}}Shuttle Buses{{< /button >}}{{< /center >}}
+      {{< center >}}{{< button href="https://www.anthrocon.org/partners-2026" >}}Deals and Discounts{{< /button >}}{{< /center >}}
+      {{< /columns >}}
+    banner_author: "Luau"
+    banner_url: "https://www.furtrack.com/index/photographer:luau"
 ---
 
 # **Welcome to Anthrocon**
