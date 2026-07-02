@@ -53,7 +53,7 @@ On Saturday, beginning at 1:00 PM, the West Lobby entrance of the convention cen
 - **All fursuiters must hydrate** before the fursuit parade. It’s for your own safety!
 - **No stopping in the parade route.** We require fursuiters to continue moving in the parade except in case of emergency. Staff and volunteers are positioned along the route should you require assistance.
 - **Flags affixed to flagpoles are not allowed.** Flags that are hand carried or worn (such as a cape) that abide by our Standards of Conduct are allowed.
-- **People with mobility accessibility needs or young children** are permitted handlers.
+- **People with mobility accommodation needs or young children** are permitted handlers.
 - Children under 13 must be accompanied in the parade by a legal guardian with a valid membership. If the child does not have a membership badge, the accompanying guardian will have their badge stickered in lieu of the child’s. Children’s costumes are still required to meet the parade guidelines.
 - **No photography or video is allowed inside the lineup area.** This includes selfies whether handheld or on selfie-stick.
 - Accessibility and mobility devices are exempt from costume requirements.
