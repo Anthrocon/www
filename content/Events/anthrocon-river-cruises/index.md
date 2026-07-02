@@ -32,6 +32,8 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 ## Anthrocon 2026 Cruise Options
 
+> **NOTE: All cruises are sold out for 2026.**
+
 {{% tabs %}}
 {{% tab "Thursday, July 2" %}}
 {{< center >}}
@@ -46,7 +48,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Friday, July 3" %}}
 {{< center >}}
@@ -61,7 +62,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Saturday, July 4" %}}
 {{< center >}}
@@ -76,7 +76,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Capacity:** 175
 - **Amenities:** Hors d'oeuvres, light snacks, drink tickets and cash bar
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% tab "Sunday, July 5" %}}
 {{< center >}}
@@ -91,7 +90,6 @@ You **do not** need a con badge to board the cruise. However, you will need your
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
-{{< center >}}{{< button href="https://reg.anthrocon.org/store" >}}Buy tickets{{< /button >}}{{< /center >}}
 {{% /tab %}}
 {{% /tabs %}}
 
