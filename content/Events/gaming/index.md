@@ -61,4 +61,3 @@ Press play on the future of indie. Submit your GAME now!
 
 {{< /columns >}}
 
-{{< center >}}{{< button href="https://theindiepremier.com" >}}Submit your game{{< /button >}}{{< /center >}}
