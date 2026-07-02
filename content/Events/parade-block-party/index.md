@@ -96,7 +96,7 @@ We’ll be having Penn Avenue closed down from 12 to 10 PM on Saturday, so there
 {{< /details >}}
 
 {{< details "Can I join the block party without a fursuit?" >}}
-Absolutely! There’s no admission or requirement needed to join this event, as it’s a public spectacle to help showcase the uniqueness of the furry fandom. However, if you wish to enter the convention space (inside the convention center or Westin hotel), you’ll need to have your valid convention registration. Find out how you can purchase on [our Registration page](/registration).
+Absolutely! There’s no admission or requirement needed to join this event, as it’s a public spectacle to help showcase the uniqueness of the furry fandom. However, if you wish to enter the convention space (inside the convention center or Westin hotel), you’ll need to have your valid convention registration. Find out how you can purchase on [our Registration page](/registration). 
 {{< /details >}}
 
 {{< details "Will fursuiters have ways to cool down at the Block Party?" >}}
