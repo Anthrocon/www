@@ -27,6 +27,9 @@ weight: 10
 
 > **UPDATE:** Full weekend membership for Anthrocon 2026 are now **sold out**. Day passes are available at the door with pricing information below.
 
+### At-the-Door Membership Availability
+
+On-site purchases will start on Friday of the convention as Thursday will be for pre-registration pickup only. Due to the limited supply of benefits, we will NOT be selling upgraded tiers of memberships (Sponsors and above) at the door — only weekend "Attending” level and day passes will be available to purchase while availability lasts.
 
 ### Hotel Booking Registration Policy
 
@@ -39,10 +42,6 @@ Anthrocon 2026 will be limiting the number of pre-registration badges sold befor
 ### Registration Process for 2026
 
 To ensure you have a smooth registration experience and secure a badge, please read over our [updated How to Register section](#how-to-register) below these updates.
-
-### At-the-Door Membership Availability
-
-On-site purchases will start on Friday of the convention as Thursday will be for pre-registration pickup only. Due to the limited supply of benefits, we will NOT be selling upgraded tiers of memberships (Sponsors and above) at the door — only weekend "Attending” level and day passes will be available to purchase while availability lasts.
 
 ***
 
