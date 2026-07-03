@@ -16,6 +16,10 @@ params:
 
 # Anthrocon Parade & Block Party
 
+> **UPDATE (7/3):** Due to the heat and extreme weather situation in the Pittsburgh forecast, Anthrocon has decided to cancel the 2026 Fursuit Parade and Block Party scheduled for 2pm, July 4th. Please follow our social media channels for more information about alternative indoor activities in place of the parade.
+
+---
+
 {{< center >}}**We’re taking our engagement with the City of Pittsburgh to the next level!**{{< /center >}}
 
 {{< center >}}On Saturday July 4, we’ll be closing down the street of Penn Avenue between 9th and 11th Street and hosting two public events: the **Fursuit Parade**, and the **Anthrocon Block Party**! We’re partnering with the City of Pittsburgh to create a day of friendly, safe mingling where we can share the magic of our fandom.{{< /center >}}
