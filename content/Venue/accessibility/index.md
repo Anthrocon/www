@@ -32,7 +32,7 @@ Attendees can also consider renting the necessary equipment from some of these l
 - [Cloud of Goods](https://www.cloudofgoods.com/product-rentals/mobility)
 - [Rent It Today](https://www.rentittoday.com/medical-equipment-rentals/mobility-scooter-rental-pittsburgh-pa-14693)
 
-Anthrocon’s shuttle service uses ADA accessible buses for attendees with wheelchair or mobility devices.
+Anthrocon’s shuttle service uses accessible buses for attendees with wheelchair or mobility devices.
 
 ***
 
