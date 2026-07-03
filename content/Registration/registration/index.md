@@ -25,6 +25,9 @@ weight: 10
 
 ## 2026 Registration Updates
 
+> **UPDATE:** Full weekend membership for Anthrocon 2026 are now **sold out**. Day passes are available at the door with pricing information below.
+
+
 ### Hotel Booking Registration Policy
 
 You must be registered for Anthrocon in order to access the Anthrocon room reservation portal through our registration system. For more details on the process, [refer to our Hotels page](/hotel).
