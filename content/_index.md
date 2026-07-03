@@ -12,10 +12,12 @@ params:
       {{<columns>}}
       {{< center >}}{{< button href="https://anthrocon.org/registration" >}}Register{{< /button >}}{{< /center >}}
       {{< center >}}{{< button href="https://anthrocon.org/dealers-list-2026" >}}Dealers list{{< /button >}}{{< /center >}}
+      {{< center >}}{{< button href="/conbook-2026" >}}2026 Conbook{{< /button >}}{{< /center >}}
       <--->
       {{< center >}}{{< button href="https://anthrocon.org/schedule" >}}Schedule and map{{< /button >}}{{< /center >}}
       {{< center >}}{{< button href="https://anthrocon.tv" >}}Livestream{{< /button >}}{{< /center >}}
       <--->
+      {{< center >}}{{< button href="/schedule-2026" >}}2026 Schedule (PDFs){{< /button >}}{{< /center >}}
       {{< center >}}{{< button href="https://www.anthrocon.org/shuttle-buses" >}}Shuttle Buses{{< /button >}}{{< /center >}}
       {{< center >}}{{< button href="https://www.anthrocon.org/partners-2026" >}}Deals and Discounts{{< /button >}}{{< /center >}}
       {{< /columns >}}
