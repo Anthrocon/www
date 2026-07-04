@@ -25,7 +25,7 @@ weight: 10
 
 ## 2026 Registration Updates
 
-> **UPDATE:** Full weekend membership for Anthrocon 2026 are now **sold out**. Day passes are available at the door with pricing information below.
+> **UPDATE:** Full weekend membership for Anthrocon 2026 are now **sold out**. Day passes for Saturday are also **sold out**. Sunday day passes are available at the door with pricing and will be available to purchase at Midnight (EST), July 4th.
 
 ### At-the-Door Membership Availability
 
