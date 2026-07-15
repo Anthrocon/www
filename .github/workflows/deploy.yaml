@@ -12,6 +12,7 @@ jobs:
     uses: Anthrocon/actions-pages/.github/workflows/deploy.yaml@main
     with:
       cloudflare-project: anthrocon
+      cloudflare-project-create: true
       hugo-version: 0.164.0
 
     secrets:
