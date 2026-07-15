@@ -1,16 +1,19 @@
-name: Deploy Hugo site
+name: Deploy Hugo pages
 
 on:
   push:
-    branches:
-      - main
-
-  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * *
+      timezone: America/New_York
 
 jobs:
   call:
     name: Call workflow
-    uses: Anthrocon/actions-deploy/.github/workflows/deploy.yaml@main
+    uses: Anthrocon/.github/workflows/deploy.yaml@main
     with:
-      hugo-version: '0.146.6'
-      enforce-https: true
+      cloudflare-project: anthrocon
+      hugo-version: 0.164.0
+
+    secrets:
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
