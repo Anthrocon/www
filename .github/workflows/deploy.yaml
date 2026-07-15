@@ -9,7 +9,7 @@ on:
 jobs:
   call:
     name: Call workflow
-    uses: Anthrocon/actions-pages/.github/workflows/deploy.yaml@main
+    uses: Anthrocon/actions-pages/.github/workflows/deploy.yaml@7aa77de621f74c2d1c273a1a6d694b3cebb664f7
     with:
       cloudflare-project: anthrocon
       cloudflare-project-create: true
