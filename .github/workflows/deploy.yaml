@@ -9,10 +9,9 @@ on:
 jobs:
   call:
     name: Call workflow
-    uses: Anthrocon/actions-pages/.github/workflows/deploy.yaml@7aa77de621f74c2d1c273a1a6d694b3cebb664f7
+    uses: Anthrocon/actions-pages/.github/workflows/deploy.yaml@v1
     with:
       cloudflare-project: anthrocon
-      cloudflare-project-create: true
       hugo-version: 0.164.0
 
     secrets:
