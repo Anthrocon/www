@@ -1,6 +1,6 @@
 # www
 
-[![Deploy Hugo site](https://github.com/Anthrocon/www/actions/workflows/deploy.yaml/badge.svg)](https://github.com/Anthrocon/www/actions/workflows/deploy.yaml)
+[![Deploy pages](https://github.com/Anthrocon/www/actions/workflows/deploy.yaml/badge.svg)](https://github.com/Anthrocon/www/actions/workflows/deploy.yaml)
 
 The Anthrocon website.
 
