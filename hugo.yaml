@@ -24,11 +24,19 @@ frontmatter:
     - ":default"
 
 imaging:
-  hint: "picture"
-  quality: 85
-  resampleFilter: "Lanczos"
+  avif:
+    hint: "picture"
+    quality: 70
 
-languageCode: "en-US"
+  jpeg:
+    quality: 90
+
+  resampleFilter: "lanczos"
+  webp:
+    hint: "picture"
+    quality: 85
+
+locale: "en-US"
 markup:
   goldmark:
     renderer:
@@ -79,7 +87,7 @@ privacy:
     privacyEnhanced: true
 
 theme: "anthropomorphic"
-timeout: "600s"
+timeout: "30m"
 timeZone: "America/New_York"
-title: "Anthrocon 2026: Critters, Cryptids & Curses - July 2-5, 2026"
+title: "Anthrocon 2027 — LEVEL 30: BEGIN — July 1-4, 2027"
 titleCaseStyle: "chicago"
