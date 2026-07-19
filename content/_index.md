@@ -5,14 +5,12 @@ aliases:
 
 params:
     banner: "photo_2026-07-05 15.36.42.jpeg"
-    banner_title: "Anthrocon 2027"
     banner_atcon: true
     banner_caption: >
-      July 1-4, 2027 - Pittsburgh PA
       {{<columns>}}
-      {{< img src="logo.svg" alt="The Anthrocon logo." hint="logo">}}
+      {{< img src="2027_theme_logo.png" alt="The Anthrocon logo." transparent="true" hint="logo">}}
       <--->
-      # Anthrocon 2027: [Theme Name]
+      # Anthrocon 2027 - LEVEL 30: BEGIN
 
       ## July 1-4, 2027
       
