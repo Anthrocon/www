@@ -4,22 +4,17 @@ aliases:
     - "/home"
 
 params:
-    banner: "LUA_1928.png"
-    banner_title: "Anthrocon 2026: Critters, Cryptics and Curses"
+    banner: "photo_2026-07-05 15.36.42.jpeg"
     banner_atcon: true
     banner_caption: >
-      July 2-5, 2026 - Pittsburgh PA
       {{<columns>}}
-      {{< center >}}{{< button href="https://anthrocon.org/registration" >}}Register{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="https://anthrocon.org/dealers-list-2026" >}}Dealers list{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="/conbook-2026" >}}2026 Conbook{{< /button >}}{{< /center >}}
+      {{< img src="2027_theme_logo.png" alt="The Anthrocon logo." transparent="true" hint="logo">}}
       <--->
-      {{< center >}}{{< button href="https://anthrocon.org/schedule" >}}Schedule and map{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="https://anthrocon.tv" >}}Livestream{{< /button >}}{{< /center >}}
-      <--->
-      {{< center >}}{{< button href="/schedule-2026" >}}2026 Schedule (PDFs){{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="https://www.anthrocon.org/shuttle-buses" >}}Shuttle Buses{{< /button >}}{{< /center >}}
-      {{< center >}}{{< button href="https://www.anthrocon.org/partners-2026" >}}Deals and Discounts{{< /button >}}{{< /center >}}
+      # Anthrocon 2027 - LEVEL 30: BEGIN
+
+      ## July 1-4, 2027
+      
+      ### We're excited to have you join for our 30th edition of Anthrocon, with details coming Fall 2026!
       {{< /columns >}}
     banner_author: "Luau"
     banner_url: "https://www.furtrack.com/index/photographer:luau"
