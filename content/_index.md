@@ -4,7 +4,7 @@ aliases:
     - "/home"
 
 params:
-    banner: "photo_2026-07-05 15.36.42.jpeg"
+    banner: "LUA_1928.png"
     banner_atcon: true
     banner_caption: >
       {{<columns>}}
