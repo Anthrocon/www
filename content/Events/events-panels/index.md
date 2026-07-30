@@ -16,6 +16,8 @@ weight: 10
 
 # Events and Panels at Anthrocon
 
+> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
+
 {{< center >}}Anthrocon features a variety of events and panels over the weekend. From outdoor parades to learning new crafts and social meetups, you’ll have plenty to do!{{< /center >}}
 
 {{< center >}}[Policies and Rules](#anthrocon-event-policies-and-rules) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}

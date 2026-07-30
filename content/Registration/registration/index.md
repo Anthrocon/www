@@ -17,6 +17,8 @@ weight: 10
 
 # Registration for Anthrocon 2026
 
+> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
+
 {{< center >}}We’re excited to have you join us for Anthrocon. Find out information on how you can register, what you’ll need in order to register, and other important information.{{< /center >}}
 
 {{< center >}}[Registration Updates](#2026-registration-updates) - [How to Register](#how-to-register) - [Minor Forms](#minor-forms) - [FAQs](#frequently-asked-questions){{< /center >}}

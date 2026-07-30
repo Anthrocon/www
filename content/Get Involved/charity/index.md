@@ -13,6 +13,8 @@ params:
 
 # Charity
 
+> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
+
 {{< center >}}Anthrocon prides itself in partnering with local charities located in Pennsylvania, and giving back to those in need through our various fundraising events at the con. Furries are some of the most generous folk, and we’re here to help prove that.{{< /center >}}
 
 {{< center >}}[2026 Sponsored Charity](#2026-charity-j-and-j-farms-animal-sanctuary) - [Bucket Brigade](#bucket-brigade) - [Charity Auction](#charity-auction-and-raffle) - [Frequently Asked Questions](#frequently-asked-questions){{< /center >}}

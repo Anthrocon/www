@@ -12,7 +12,10 @@ params:
     banner_url: "https://www.furtrack.com/index/photographer:tobee"
 ---
 
+
 # Shuttle Buses for Anthrocon Hotels
+
+> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
 
 We’re partnering with several services to provide free transportation for attendees between partnered hotels and the convention. Services start at 8 AM and end at 3 AM the following day from Thursday July 2 to Saturday July 4. On Sunday July 5, it starts at 8 AM and ends at 1 AM.
 

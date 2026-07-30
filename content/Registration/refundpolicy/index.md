@@ -10,6 +10,8 @@ params:
 
 # Membership Refunds and Deferrals
 
+> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
+
 As much as we hope everyone planning to come to Anthrocon can attend, we understand that people have events in their life that make them unable to attend even after they have registered as Members.
 
 {{< center >}}[Refunds](#refunds) - [Rollovers](#rollovers-and-deferrals) - [Requirements and Policies for Requests](#requirements-and-policies-for-requests){{< /center >}}
