@@ -34,7 +34,7 @@ If you're traveling by car, this is the address to put into your navigation syst
 
 ### Parking
 
-There are **plenty** of parking options besides those at the hotels! [**View our public parking map on Google to see what's nearby**.](https://www.google.com/maps/d/u/9/edit?mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&usp=sharing)
+There are **plenty** of parking options besides those at the hotels! [**View the ParkPGH map to see what's nearby**.](https://parkpgh.org)
 
 ### Sharing a Ride
 
