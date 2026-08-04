@@ -26,11 +26,11 @@ params:
 {{< columns >}}
 If you’re driving into Pittsburgh, we recommend exploring the public parking lots and garages that are scattered throughout the city. Anthrocon does not have any partnerships nor special rates with the listed parking lots. Always check the individual parking lots and garages for information accuracy.
 
-{{< center >}}{{< button href="https://www.google.com/maps/d/u/9/edit?mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&usp=sharing" >}}View map{{< /button >}}{{< /center >}}
+{{< center >}}{{< button href="https://parkpgh.org" >}}View map{{< /button >}}{{< /center >}}
 
 <--->
 
-{{< img src="Parking+Map+2022.png" alt="A Google Maps view of public paid parking lots in the Triangle district of Pittsburgh." hint="drawing" link="https://www.google.com/maps/d/u/0/viewer?ll=40.44194598380221%2C-79.9980669&mid=17unBdeSNoGpgAQtNXWvszGHmZtnXCQmE&z=16" >}}
+{{< img src="Parking+Map+2022.png" alt="A Google Maps view of public paid parking lots in the Triangle district of Pittsburgh." hint="drawing" link="https://parkpgh.org" >}}
 {{< /columns >}}
 
 ***
