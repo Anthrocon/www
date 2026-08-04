@@ -13,7 +13,7 @@ params:
 
 # Hotels for Anthrocon
 
-> **Hotel reservations for the Anthrocon 2026 room block will close after June 12. If you’re looking for a room, you can book at hotels outside of Anthrocon’s block. Existing reservations in Anthrocon’s block can still be inquired about by emailing Orchid Events. Reservation data will be transferred to all partner hotels in the second half of June - please do not inquire with the hotel until after then.**
+> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
 
 {{< center >}}
 

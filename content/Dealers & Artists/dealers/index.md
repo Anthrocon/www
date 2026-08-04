@@ -13,6 +13,8 @@ params:
 
 # Dealers Room
 
+> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
+
 {{< center >}}Anthrocon 2026's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 3 to Sunday July 5. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
 
 {{< center >}}[Important Information](#important-information-for-applying) - [Table Pricing for 2026](#table-pricing-for-2026) - [Dealer Assistants](#dealer-assistants){{< /center >}}
