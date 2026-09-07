@@ -38,7 +38,7 @@ Anthrocon is a Pennsylvania-incorporated 501(c)(7) not-for-profit organization. 
 {{< center >}}
 **Director of Audio/Visual**
 
-Kenneth “Gen. Talon” Baker
+Kenny “Pawkaf” Baker
 {{< /center >}}
 
 <--->
