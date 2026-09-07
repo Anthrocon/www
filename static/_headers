@@ -1,2 +1,2 @@
 /*
-    Content-Security-Policy: default-src 'self'; frame-src https:; upgrade-insecure-requests;
+    Content-Security-Policy: default-src 'none'; font-src 'self'; frame-src https:; img-src 'self'; media-src 'self'; script-src 'self'; style-src 'self'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'
