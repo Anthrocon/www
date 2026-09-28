@@ -36,7 +36,7 @@ Pre-registration for 2027 will open online on **October 20, 2026 at approximatel
 
 ## Dealers and Artists Alley
 
-Dealers applications are scheduled to open starting October 20 and will remain open for approximately three weeks. Once applications close, curation and selection will happen between November and January 2027, with approved applicants notified no later than mid-January.
+Dealers applications are scheduled to open starting October 20 and will remain open for approximately three weeks. Once applications close, curation and selection will happen between November and January 2027, with approved applicants notified no later than the end of January.
 
 Artists Alley lottery signups will be announced later in 2027\.
 
