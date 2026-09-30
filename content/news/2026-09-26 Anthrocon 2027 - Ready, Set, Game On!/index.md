@@ -18,7 +18,7 @@ Just like the thrill of a new game reveal, we’re excited to announce the first
 
 ## Registration
 
-Pre-registration for 2027 will open online on **October 20, 2026 at approximately 8 PM EDT** while inventory lasts or until our cutoff date in June 2027, whichever happens first. **After that, you will be able to purchase Day Pass memberships at the door** while inventory lasts. All information will continue to be updated on our [Registration page](https://www.anthrocon.org/registration/) before the start of pre-registration. 
+Pre-registration for 2027 will open online on **October 20, 2026 at approximately 8 PM EDT** while inventory lasts or until our cutoff date in June 2027, whichever happens first. **After that, you will be able to purchase Day Pass memberships during the convention, on our site,** while inventory lasts. All information will continue to be updated on our [Registration page](https://www.anthrocon.org/registration/) before the start of pre-registration. 
 
 **Creating an account**: You must first create an account (or log in with your previous account) on the [registration system](http://reg.anthrocon.org) starting in early October, then you can select and purchase a membership. Simply creating an account does NOT constitute membership, so make sure you complete both steps.
 
@@ -32,7 +32,7 @@ Pre-registration for 2027 will open online on **October 20, 2026 at approximatel
 * The raffle results will be drawn immediately, and if you are selected, you will be notified by email and the registration type automatically added to your cart in the Registration system.   
 * **You will have up to 48 hours to pay for it, otherwise it will automatically be removed and a new person will be eligible for it**. If you aren’t selected for an Ultrasponsor, you will still be able to purchase other registration types starting October 20th while inventory lasts.
 
-**Day passes**: We will continue to review our system to ensure more fairness for those that are planning to purchase day passes at the convention. Day passes will not be sold as part of pre-registration online, only during the actual event itself.
+**Day passes**: We will continue to review our system to ensure more fairness for those that are planning to purchase day passes during the convention. Day passes will not be sold as part of pre-registration. They will only be available on our site, during the actual event itself.
 
 ## Dealers and Artists Alley
 
