@@ -47,7 +47,7 @@ There are several levels of memberships available for purchase. We recommend reg
 
   - Ultrasponsor: October 11-14 (Lottery Entry on registration system)
   - Sponsor, Supersponsor, Attending: October 20, 2027 at approximately 8 PM Eastern Daylight Time
-  - Dealers: registration as above — table applications open October 20, 2026 at approximately 8 PM Eastern Daylight Time
+  - Dealers: registration as above — table applications open October 20, 2027 at approximately 8 PM Eastern Daylight Time
 - **On-site registration:** July 1-4, 2027.
 
 Please read the following instructions in order to successfully purchase your conbadge.
