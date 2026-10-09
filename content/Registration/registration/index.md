@@ -6,7 +6,7 @@ aliases:
 params:
     banner: "2022+Randorn+_Z9N3518.jpg"
     banner_title: "Attend Anthrocon"
-    banner_caption: "Join us for our next Anthrocon happening July 2-5, 2026"
+    banner_caption: "Join us for our next Anthrocon happening July 1-4, 2027"
     banner_button: "Register Online"
     banner_button_link: "https://reg.anthrocon.org/"
     banner_author: "Randorn Canis"
@@ -15,19 +15,19 @@ params:
 weight: 10
 ---
 
-# Registration for Anthrocon 2026
+# Registration for Anthrocon 2027
 
 > Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
 
 {{< center >}}We’re excited to have you join us for Anthrocon. Find out information on how you can register, what you’ll need in order to register, and other important information.{{< /center >}}
 
-{{< center >}}[Registration Updates](#2026-registration-updates) - [How to Register](#how-to-register) - [Minor Forms](#minor-forms) - [FAQs](#frequently-asked-questions){{< /center >}}
+{{< center >}}[Registration Updates](#2027-registration-updates) - [How to Register](#how-to-register) - [Minor Forms](#minor-forms) - [FAQs](#frequently-asked-questions){{< /center >}}
 
 ***
 
-## 2026 Registration Updates
+## 2027 Registration Updates
 
-> **UPDATE:** Full weekend membership for Anthrocon 2026 are now **sold out**. Day passes for Saturday are also **sold out**. Sunday day passes are available at the door with pricing and will be available to purchase at Midnight (EST), July 4th.
+> **UPDATE:** Full weekend membership for Anthrocon 2027 are now **sold out**. Day passes for Saturday are also **sold out**. Sunday day passes are available at the door with pricing and will be available to purchase at Midnight (EST), July 4th.
 
 ### At-the-Door Membership Availability
 
@@ -37,11 +37,11 @@ On-site purchases will start on Friday of the convention as Thursday will be for
 
 You must be registered for Anthrocon in order to access the Anthrocon room reservation portal through our registration system. For more details on the process, [refer to our Hotels page](/hotel).
 
-### Pre-Registration Cap for Anthrocon 2026
+### Pre-Registration Cap for Anthrocon 2027
 
-Anthrocon 2026 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registration hit certain thresholds for awareness on when the limit is close.
+Anthrocon 2027 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registration hit certain thresholds for awareness on when the limit is close.
 
-### Registration Process for 2026
+### Registration Process for 2027
 
 To ensure you have a smooth registration experience and secure a badge, please read over our [updated How to Register section](#how-to-register) below these updates.
 
@@ -49,13 +49,14 @@ To ensure you have a smooth registration experience and secure a badge, please r
 
 ## How to Register
 
-There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2026 registration are:
+There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2027 registration are:
 
 - **Online pre-registration:**
-  - Sponsor, Supersponsor, Ultrasponsor: October 27, 2025 at noon Eastern Daylight Time
-  - Attending: November 3, 2025 at noon Eastern Standard Time
-  - Dealers: registration as above — table applications open October 27, 2025 at 4 PM Eastern Daylight Time
-- **On-site registration:** July 3-5, 2026.
+
+  - Ultrasponsor: October 11-14 (Lottery Entry on registration system)
+  - Sponsor, Supersponsor, Attending: October 20, 2027 at approximately 8 PM Eastern Daylight Time
+  - Dealers: registration as above — table applications open October 20, 2026 at approximately 8 PM Eastern Daylight Time
+- **On-site registration:** July 1-4, 2027.
 
 Please read the following instructions in order to successfully purchase your conbadge.
 
@@ -67,7 +68,7 @@ Please read the following instructions in order to successfully purchase your co
 
 {{< center >}}### Registering as a Minor{{< /center >}}
 
-**If you will be a minor at Anthrocon** (under the age of 18 by July 2, 2026), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [Minor Forms section](#minor-forms).
+**If you will be a minor at Anthrocon** (under the age of 18 by July 1, 2027), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [Minor Forms section](#minor-forms).
 
 {{< center >}}### Registration Levels{{< /center >}}
 
@@ -115,7 +116,7 @@ Sponsors are generous patrons who like to help us provide even more services and
 {{< center >}}
 ### Supersponsor
 
-***Limited Availability (700) - Pre-registration only***
+***Limited Availability (600) - Pre-registration only***
 
 **Pricing:**\
 Pre-registration price: $350\
@@ -138,7 +139,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{< center >}}
 ### Ultrasponsor
 
-***Limited Availability (35) - Pre-registration only***
+***Limited Availability (35) - Pre-registration only, lottery (raffle) through registration system from October 11-14)***
 
 **Pricing:**\
 Pre-registration price: $1200\
@@ -209,22 +210,22 @@ A Dealer membership allows a member all the benefits of an Attending membership,
 
 ## Minor Forms
 
-{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 2, 2026**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. Notarization is not required if your parent or legal guardian is with you at badge pick-up. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
+{{< center >}}If you are attending Anthrocon and are **under the age of 18 by July 1, 2027**, you must bring a completed and notarized Minor Consent Form in order to pick up your registration. Notarization is not required if your parent or legal guardian is with you at badge pick-up. If you are under the age of 13 and attending with an adult who is not your parent or legal guardian, you must also bring a completed and notarized Assignment of Responsibility form.{{< /center >}}
 
 {{< columns >}}
 {{< center >}}**Minor Consent Form**{{< /center >}}
 
 This form is required for any minor attending the convention, either with or without the supervision of their parent or legal guardian.
 
-{{< center >}}{{< button relref="ParentalConsent-2026.pdf" >}}Download Parental Consent for Minor Attendees Form{{< /button >}}{{< /center >}}
+{{< center >}}{{< button relref="ParentalConsent-2027.pdf" >}}Download Parental Consent for Minor Attendees Form{{< /button >}}{{< /center >}}
 
 <--->
 
 {{< center >}}**Assignment of Responsibility**{{< /center >}}
 
-Required for attendees who are under 13 years of age and attending Anthrocon 2026 with an adult other than their parent or legal guardian.
+Required for attendees who are under 13 years of age and attending Anthrocon 2027 with an adult other than their parent or legal guardian.
 
-{{< center >}}{{< button relref="MinorAssignment-2026.pdf" >}}Download Assignment of Responsibility for Minor Attendees Form{{< /button >}}{{< /center >}}
+{{< center >}}{{< button relref="MinorAssignment-2027.pdf" >}}Download Assignment of Responsibility for Minor Attendees Form{{< /button >}}{{< /center >}}
 
 {{< /columns >}}
 
@@ -249,10 +250,10 @@ Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultraspons
 
 | Pre-registration Pickup |
 | --- | --- |
-| Thursday, July 2 | 12-8 PM |
-| Friday, July 3 | 9 AM-8 PM |
-| Saturday, July 4 | 10 AM-6 PM |
-| Sunday, July 5 | 10 AM-4 PM |
+| Thursday, July 1 | 12-8 PM |
+| Friday, July 2 | 9 AM-8 PM |
+| Saturday, July 3 | 10 AM-6 PM |
+| Sunday, July 4 | 10 AM-4 PM |
 
 Lines will close at the end of the pickup times listed. Registration will remain open to serve everyone already in line with a purchased registration.
 
