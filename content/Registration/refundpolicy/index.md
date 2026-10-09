@@ -10,8 +10,6 @@ params:
 
 # Membership Refunds and Deferrals
 
-> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
-
 As much as we hope everyone planning to come to Anthrocon can attend, we understand that people have events in their life that make them unable to attend even after they have registered as Members.
 
 {{< center >}}[Refunds](#refunds) - [Rollovers](#rollovers-and-deferrals) - [Requirements and Policies for Requests](#requirements-and-policies-for-requests){{< /center >}}
@@ -20,8 +18,8 @@ As much as we hope everyone planning to come to Anthrocon can attend, we underst
 
 Anthrocon has the following policies in place for membership refunds, including when we *can* and *cannot* grant them:
 
-- There is a refund deadline every year for memberships, this year it is the same as the close of Pre-registration. For Anthrocon 2026, that date is **June 26, 2026 at 11:59 PM EDT**. Refund requests after this time will not be granted. Memberships cannot be transferred after the refund deadline.
-- A portion of all Sponsor, Supersponsor, or Ultrasponsor membership fees **include a non-refundable donation to Anthrocon** which will help us to provide the finest convention experience we can. As Anthrocon is a 501(c)(7) registered nonprofit organization, the portion that is considered donation is not deductible from US taxes. As a donation, **it is not refundable if a registration is canceled or downgraded**. The donation portion of each membership level as well as the total refundable amount for Anthrocon 2026 is as follows:
+- There is a refund deadline every year for memberships, this year it is the same as the close of Pre-registration. For Anthrocon 2027, that date is **June 28, 2027 at 11:59 PM EDT**. Refund requests after this time will not be granted. Memberships cannot be transferred after the refund deadline.
+- A portion of all Sponsor, Supersponsor, or Ultrasponsor membership fees **include a non-refundable donation to Anthrocon** which will help us to provide the finest convention experience we can. As Anthrocon is a 501(c)(7) registered nonprofit organization, the portion that is considered donation is not deductible from US taxes. As a donation, **it is not refundable if a registration is canceled or downgraded**. The donation portion of each membership level as well as the total refundable amount for Anthrocon 2027 is as follows:
 
 {{< center >}}
 | Membership Level | Amount Considered a Donation |
@@ -34,7 +32,7 @@ Anthrocon has the following policies in place for membership refunds, including 
 
 ## Rollovers and Deferrals
 
-For those who find that they will be unable to attend the convention after the refund deadline, you may request that your membership be deferred to the following year. Deferred memberships have no cash value, cannot be refunded at any time, and will only be good for the following convention year. Deferred memberships cannot be downgraded to another membership type. If the deferred membership is not used the following year, it will be forfeited. Requests for deferral must be received by the Monday before the convention. For Anthrocon 2026 that date is **June 29, 2026 at 11:59 PM EDT**. Deferral requests after this time will not be granted.
+For those who find that they will be unable to attend the convention after the refund deadline, you may request that your membership be deferred to the following year. Deferred memberships have no cash value, cannot be refunded at any time, and will only be good for the following convention year. Deferred memberships cannot be downgraded to another membership type. If the deferred membership is not used the following year, it will be forfeited. Requests for deferral must be received by the Monday before the convention. For Anthrocon 2027 that date is **June 28, 2027 at 11:59 PM EDT**. Deferral requests after this time will not be granted.
 
 ## Requirements and Policies for Requests
 
