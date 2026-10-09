@@ -131,7 +131,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{< center >}}
 ### Ultrasponsor
 
-***Limited Availability (35) - Pre-registration only, lottery (raffle) through registration system from October 11-14)***
+***Limited Availability (35) - Pre-registration only, lottery (raffle) through registration system from October 11-14***
 
 **Pricing:**\
 Pre-registration price: $1200\
