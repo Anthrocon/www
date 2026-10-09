@@ -17,8 +17,6 @@ weight: 10
 
 # Registration for Anthrocon 2027
 
-> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
-
 {{< center >}}We’re excited to have you join us for Anthrocon. Find out information on how you can register, what you’ll need in order to register, and other important information.{{< /center >}}
 
 {{< center >}}[Registration Updates](#2027-registration-updates) - [How to Register](#how-to-register) - [Minor Forms](#minor-forms) - [FAQs](#frequently-asked-questions){{< /center >}}
@@ -26,8 +24,6 @@ weight: 10
 ***
 
 ## 2027 Registration Updates
-
-> **UPDATE:** Full weekend membership for Anthrocon 2027 are now **sold out**. Day passes for Saturday are also **sold out**. Sunday day passes are available at the door with pricing and will be available to purchase at Midnight (EST), July 4th.
 
 ### At-the-Door Membership Availability
 
@@ -40,10 +36,6 @@ You must be registered for Anthrocon in order to access the Anthrocon room reser
 ### Pre-Registration Cap for Anthrocon 2027
 
 Anthrocon 2027 will be limiting the number of pre-registration badges sold before the convention in accordance with safety policies set out by the venue and convention. Announcements will be made on official convention channels when pre-registration hit certain thresholds for awareness on when the limit is close.
-
-### Registration Process for 2027
-
-To ensure you have a smooth registration experience and secure a badge, please read over our [updated How to Register section](#how-to-register) below these updates.
 
 ***
 
