@@ -48,6 +48,7 @@ There are several levels of memberships available for purchase. We recommend reg
   - Ultrasponsor: October 11-14 (Lottery Entry on registration system)
   - Sponsor, Supersponsor, Attending: October 20, 2027 at approximately 8 PM Eastern Daylight Time
   - Dealers: registration as above — table applications open October 20, 2027 at approximately 8 PM Eastern Daylight Time
+  - Pre-registration will close on June 25, 2027 at 11:59 PM EDT, or earlier if memberships are sold out.
 - **On-site registration:** July 1-4, 2027.
 
 Please read the following instructions in order to successfully purchase your conbadge.
@@ -165,7 +166,7 @@ Pre-registration price: not available\
 On-site price: $50
 {{< /center >}}
 
-Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on-site.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
+Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on our site, starting at midnight on they day they are to be used.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
 {{% /tab %}}
 {{% tab "PUP Membership (Ages 12 and Under)" %}}
 {{< center >}}
@@ -238,7 +239,7 @@ At the door registration times while availability lasts:
 | Saturday Day | Midnight Saturday morning to 6 PM | Saturday, 10 AM-6 PM |
 | Sunday Day | Midnight Sunday morning to 4 PM | Sunday, 10 AM-4 PM |
 
-Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultrasponsor memberships purchased before the close of pre-registration on June 26:
+Pre-registered pickup times for Attending, Sponsor, Supersponsor, and Ultrasponsor memberships purchased before the close of pre-registration on June 25:
 
 | Pre-registration Pickup |
 | --- | --- |
