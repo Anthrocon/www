@@ -18,7 +18,7 @@ As much as we hope everyone planning to come to Anthrocon can attend, we underst
 
 Anthrocon has the following policies in place for membership refunds, including when we *can* and *cannot* grant them:
 
-- There is a refund deadline every year for memberships, this year it is the same as the close of Pre-registration. For Anthrocon 2027, that date is **June 28, 2027 at 11:59 PM EDT**. Refund requests after this time will not be granted. Memberships cannot be transferred after the refund deadline.
+- There is a refund deadline every year for memberships, this year it is the same as the close of Pre-registration. For Anthrocon 2027, that date is **June 25, 2027 at 11:59 PM EDT**. Refund requests after this time will not be granted. Memberships cannot be transferred after the refund deadline.
 - A portion of all Sponsor, Supersponsor, or Ultrasponsor membership fees **include a non-refundable donation to Anthrocon** which will help us to provide the finest convention experience we can. As Anthrocon is a 501(c)(7) registered nonprofit organization, the portion that is considered donation is not deductible from US taxes. As a donation, **it is not refundable if a registration is canceled or downgraded**. The donation portion of each membership level as well as the total refundable amount for Anthrocon 2027 is as follows:
 
 {{< center >}}
