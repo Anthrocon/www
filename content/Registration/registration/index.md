@@ -27,7 +27,7 @@ weight: 10
 
 ### At-the-Door Membership Availability
 
-On-site purchases will start on Friday of the convention as Thursday will be for pre-registration pickup only. Due to the limited supply of benefits, we will NOT be selling upgraded tiers of memberships (Sponsors and above) at the door — only weekend "Attending” level and day passes will be available to purchase while availability lasts.
+On-site purchases will start on Friday of the convention as Thursday will be for pre-registration pick up only. Due to the limited supply of benefits, we will NOT be selling upgraded tiers of memberships (Sponsors and above) at the door — only weekend "Attending” level and day passes will be available to purchase while availability lasts.
 
 ### Hotel Booking Registration Policy
 
@@ -44,24 +44,23 @@ Anthrocon 2027 will be limiting the number of pre-registration badges sold befor
 There are several levels of memberships available for purchase. We recommend registering early as you’ll save some money and receive some advance perks (depending on your level). The key dates for Anthrocon 2027 registration are:
 
 - **Online pre-registration:**
-
   - Ultrasponsor: October 11-14 (Lottery Entry on registration system)
-  - Sponsor, Supersponsor, Attending: October 20, 2027 at approximately 8 PM Eastern Daylight Time
-  - Dealers: registration as above — table applications open October 20, 2027 at approximately 8 PM Eastern Daylight Time
-  - Pre-registration will close on June 25, 2027 at 11:59 PM EDT, or earlier if memberships are sold out.
-- **On-site registration:** July 1-4, 2027.
+  - Attending, Sponsor, Supersponsor: October 20, 2026 at approximately 8 PM Eastern Daylight Time
+  - Dealer: registration as above — table applications open October 20, 2026 at approximately 8 PM (EDT)
+  - Pre-registration will close June 25, 2027 at 11:59 PM (EDT) or earlier if memberships are sold out
+- **On-site registration:** July 1-4, 2027
 
 Please read the following instructions in order to successfully purchase your conbadge.
 
-- Log in to your existing account on [our Registration portal](https://reg.anthrocon.org/), or create a new account by selecting `Create Your Account` and following the instructions — including verifying your email.
-- Once your account is registered and verified, select `Start registration` from the Attendance page, then select your desired level. Available levels will be displayed at the start times listed above. Sold out and unavailable levels will not be visible.
-- Fill out the form and select `Register`. Your registration is now held in stock, but not completed.
+- Log in to your existing account on [our registration portal](https://reg.anthrocon.org/) or create a new account by selecting `Create Your Account` and following the instructions including verifying your email address.
+- Once your account is registered and verified, select `Start registration` from the Attendance page, then select your desired level. Your registration is now held in stock, but not complete. Available levels will be displayed at the start times listed above. Sold out and unavailable levels will not be visible.
+- Fill out the form and select `Register`.
 - Select `View cart` and complete checkout. Your membership is NOT complete until you check out.
-- For Ultrasponsors and Supersponsors, additional ticketed event options will be visible once your registration is held in stock.
+- For Ultrasponsor and Supersponsor, additional ticketed event options will be visible once your registration is held in stock.
 
 {{< center >}}### Registering as a Minor{{< /center >}}
 
-**If you will be a minor at Anthrocon** (under the age of 18 by July 1, 2027), you will need to complete a **Minor Consent form** to pick up your registration, and other forms if required. Find out more details and download the forms in our [Minor Forms section](#minor-forms).
+**If you will be a minor at Anthrocon** (under the age of 18 by July 1, 2027), you will need to complete a **Minor Consent form** to pick up your registration, plus other forms if required. Find more details and download the forms in our [Minor Forms section](#minor-forms).
 
 {{< center >}}### Registration Levels{{< /center >}}
 
@@ -79,7 +78,7 @@ On-site price: $100
 
 As an Attending member, you’ll get:
 
-- Access to the convention space and activities for the duration of this year's convention once registration opens (Thursday, July 2 pre-registered — Friday, July 3 at the door)
+- Access to the convention space and activities for the duration of this year's convention once registration opens
 - Our souvenir con book and other publications
 - A weekend of fun
 
@@ -89,7 +88,7 @@ As an Attending member, you’ll get:
 {{< center >}}
 ### Sponsor
 
-***Limited Availability (2200) - Pre-registration only***
+***Limited Availability (2200) — Pre-registration only***
 
 **Pricing:**\
 Pre-registration price: $140\
@@ -99,9 +98,9 @@ On-site price: not available
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
 
 - A nifty Sponsor ribbon
-- A free Anthrocon t-shirt
+- A free Anthrocon T-shirt
 - An expedited pick-up line on site
-- Earlier entry into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor and Supersponsor entry)
+- Earlier entry into the Dealers Room on Friday, Saturday, and Sunday (after Ultrasponsor and Supersponsor entry)
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
@@ -109,7 +108,7 @@ Sponsors are generous patrons who like to help us provide even more services and
 {{< center >}}
 ### Supersponsor
 
-***Limited Availability (600) - Pre-registration only***
+***Limited Availability (600) — Pre-registration only***
 
 **Pricing:**\
 Pre-registration price: $350\
@@ -120,7 +119,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 
 - A nifty Supersponsor ribbon
 - An invitation to the Artists & Dealers reception on Friday evening
-- Earlier admission into the Dealers Room on Friday, Saturday and Sunday (after Ultrasponsor)
+- Earlier admission into the Dealers Room on Friday, Saturday, and Sunday (after Ultrasponsor)
 - Advance admission to selected main ballroom events
 - A unique gift available to Supersponsors
 - Our wonderful Supersponsor Brunch on Sunday
@@ -132,7 +131,7 @@ Supersponsors are some of the most generous persons on the planet! We heap lavis
 {{< center >}}
 ### Ultrasponsor
 
-***Limited Availability (35) - Pre-registration only, lottery (raffle) through registration system from October 11-14***
+***Limited Availability (35) — Pre-registration only, lottery (raffle) through our registration system October 11-14***
 
 **Pricing:**\
 Pre-registration price: $1200\
@@ -151,7 +150,7 @@ On-site price: not available
 - An exclusive Saturday Ultrasponsor and VIP Cocktail Reception
 - Special Ultrasponsor Badge
 - Free access to the Anthrocon River Cruises (if cruises are available)
-- Expedited elevator line privileges in the Westin Hotel (guest floor elevators)
+- Expedited elevator line privileges in The Westin Hotel (guest floor elevators)
 
 {{< center >}}{{< button href="https://reg.anthrocon.org/" >}}Register Online{{< /button >}}{{< /center >}}
 {{% /tab %}}
@@ -166,28 +165,27 @@ Pre-registration price: not available\
 On-site price: $50
 {{< /center >}}
 
-Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day(s) they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on our site, starting at midnight on they day they are to be used.** Day badges can be upgraded to full weekend memberships at registration unless attending memberships are sold out.
+Day memberships allow a member access to the convention space and activities for the day listed on the membership, our souvenir con book, and other publications. Day memberships are good for the day they are purchased (shown on badge) and will expire when registration opens the following day. **They are available for purchase only on our site, starting at midnight on they day they are to be used.** Day badges can be upgraded to full weekend memberships at registration unless Attending memberships are sold out.
 {{% /tab %}}
-{{% tab "PUP Membership (Ages 12 and Under)" %}}
+{{% tab "PUP Membership (Ages 12 and Younger)" %}}
 {{< center >}}
-### PUP Membership (Ages 12 and Under)
+### PUP Membership (Ages 12 and Younger)
 
 **Pricing (On-Site Purchase Only):**\
 Pre-registration price: not available\
 On-site price: $5
 {{< /center >}}
 
-Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 & under child for a minimal $5 fee. Purchase of these badges is not required.
+Children who are 12 years old and younger at the time of the convention can get into the convention for free. As such they do not need to register and do not get a convention badge. However, we do offer PUP badges for those who wish to get a convention badge for their 12 and younger child. Purchase of these badges is not required.
 
-***Please note that children 12 and under must be accompanied by an adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian, a signed and notarized “[Parental Assignment for Supervision of Minor Child](#minor-forms)” form must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent/guardian will need to be purchased separately.***
+***Please note that children 12 and under must be accompanied by an adult (18 years or older) at all times, whether they purchase a PUP badge or not. If the accompanying adult is not a parent or legal guardian, a signed and notarized “[Parental Assignment for Supervision of Minor Child](#minor-forms)” form must be completed and turned in at registration. PUP badges include the price for the child only. Membership for the parent or guardian will need to be purchased separately.***
 {{% /tab %}}
 {{% tab "Dealer" %}}
 {{< center >}}### Dealer and Dealer Assistant Membership{{< /center >}}
 
-A Dealer membership allows a member all the benefits of an Attending membership, as well as the ability to purchase a Dealer Table, and admission to the Artists & Dealers Social on Friday night. Dealer/Sponsor and Dealer/Supersponsor memberships are also available, giving the benefits of Sponsor and Supersponsor levels to Dealers!
+A Dealer membership allows a member all the benefits of an Attending membership, as well as the ability to purchase a dealer table and admission to the Artists & Dealers Social on Friday night. Dealer/Sponsor and Dealer/Supersponsor memberships are also available, giving the benefits of Sponsor and Supersponsor levels to Dealers!
 
 ***Dealer Assistants will purchase their own badges separately.*** Read [the Dealers Room page]({{< relref "/Dealers & Artists/dealers" >}}) for rules and information.
-
 {{% /tab %}}
 {{% /tabs %}}
 
