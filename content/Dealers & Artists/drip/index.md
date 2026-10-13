@@ -13,7 +13,7 @@ params:
 
 # Anthrocon 2027 Dealer Rules & Information Packet
 
-Anthrocon is July 2-July 6, 2027. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
+Anthrocon is July 1-July 4, 2027. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
 
 [Dealers Room Schedule](#dealers-room-schedule) | [Types and Sizes of Tables](#types-and-sizes-of-tables) | [Applying for a Dealers Table](#applying-for-a-dealers-table) | [Waitlist, Table Placement and Cancellations](#waitlist-table-placement-and-cancellations) | [Guidelines on Displays](#guidelines-on-displays) | [Check In, Set Up and Teardown](#check-in-set-up-and-teardown) | [Attendee Entry, Convention Center Information](#attendee-entry-convention-center-information) | [Administrative Details](#administrative-details)
 
