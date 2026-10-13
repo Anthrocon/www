@@ -30,7 +30,7 @@ The 2027 Dealers Room map and list will be available closer to the convention. C
 
 ## Dealers Applications for Anthrocon 2027
 
-Applications to vend at Anthrocon 2027 will be open from **October 20 at 8 PM Eastern Daylight Time** to **November 17, 2025**. Reviews and acceptance or rejections will be finalized **by January 26, 2027**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
+Applications to vend at Anthrocon 2027 will be open from **October 20 at 8 PM Eastern Daylight Time** to **November 17, 2026**. Reviews and acceptance or rejections will be finalized **by January 26, 2027**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
 
 Applications can be made through our registration system. Please see the following steps for more information.
 
