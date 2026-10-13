@@ -36,7 +36,7 @@ But most importantly, be safe and have fun.<br>
 
 ## Standards of Conduct
 
-This is the Standards of Conduct for Anthrocon, Inc. and all events sponsored by Anthrocon, Inc.; these entities are referred to as ‘Anthrocon’ henceforth.
+This is the Standards of Conduct for Anthrocon, Inc. and all events sponsored by Anthrocon, Inc.; these entities are referred to as ‘Anthrocon’ henceforth. By registering for Anthrocon, you’re agreeing to respect and follow all the standards below with the knowledge that Anthrocon can remove your membership without refund if you don’t.
 
 The primary purpose of Anthrocon is for our attendees to have fun. To ensure that the greatest number of people do so, we have established these Standards of Conduct. These rules are to ensure that the behavior of any one small group does not disturb the membership as a whole, and does not detract from the comfortable atmosphere of the convention. Anthrocon welcomes all parties with an interest in anthropomorphic animals; however, the convention's management reserves the right to deny or revoke the membership of any individual at any time for any reason.
 
@@ -58,7 +58,9 @@ All convention space is considered to be "PG" at all times, with the exception o
 
 Public displays of affection should be kept to those appropriate for polite company. Please express your devotion to your significant other either in appropriate ways, or in private.
 
-### Clothing Guidelines
+### Clothing and Display Guidelines
+
+All attendees are required to keep their membership badge visible displayed at all times when on the premises of event venues.
 
 Any Personal Protective Equipment (PPE), such as masks, required by venues or other Anthrocon policies must be worn.
 
@@ -102,11 +104,19 @@ Harassment includes, but is not limited to:
 
 If people tell you "no" or ask you to leave them alone, your business with them is done. If you continue to attempt contact with them, you may be removed from the premises and have membership privileges permanently revoked. Remember: "A costume does not imply consent."
 
-Anyone who has been convicted of a crime of violence against another person for which they are required to register with any state or local law enforcement agency may be denied membership to the convention at the sole discretion of Anthrocon, Inc.
+### Criminal History
+
+Anyone who has been convicted of any violent or sexual offense against another person for which they are required to register with any state or local law enforcement agency may be denied membership to the convention at the sole discretion of Anthrocon, Inc. Registration may be revoked without refund at any time if Anthrocon becomes aware this provision applies to any member. Persons with questions as to whether this applies to their specific situation should contact Anthrocon in advance of registering, and register at risk of future revocation if they fail to do so.
+
+### Personal Property and Injury Liability
+
+Anthrocon is not responsible nor liable for any personal injury, illness or death or as a result of negligence of the individual, other attendees, other personnel employed by the venue as part of the event, or any other reasonable party or entity that Anthrocon is not in control of.
+
+Anthrocon is not responsible for guaranteeing the safety or condition of any personal or commercial property brought onto any official event venue or premises. Third-party services that may offer storage or safekeeping services will maintain and enforce their own liability for attendees that choose to utilize those services.
 
 ### Attendance by Minors
 
-Anyone who is under the age of 18 years at any time during the convention must present a signed and notarized parental permission form (or consent assignment form) unless accompanied by a parent or able to produce evidence of legal emancipation. There are no exceptions.
+Anyone who is under the age of 18 years at any time during the convention must present a signed and notarized parental permission form (or consent assignment form) unless accompanied by a parent or able to produce evidence of legal emancipation. There are no exceptions. Children under the age of 13 must be accompanied by a parent or legal guardian at all times while on convention property.
 
 Minors are not permitted under any circumstances to enter areas designated for mature audiences.
 
@@ -164,8 +174,6 @@ The possession and use of any controlled substance which is legal in the Commonw
 
 No actual weapons or any item that can be easily mistaken for one may be carried either openly or concealed at any time in convention space, regardless of any government permits which you may possess. Exceptions may be made only for duly appointed law enforcement officers by prior arrangement with the Safety Department. Personal pocket knives with single-edged blades less than 4 inches long are permitted.
 
-Realistic weapon replicas are permitted as part of a costume only during costume events such as the Fursuit Parade and must be appropriately peace-bonded; ask the Safety Department for instruction on how to do so. They must be cased or otherwise secured when being carried outside of costume.
-
 ### Media Relations and Use of Anthrocon Images or Footage
 
 All journalists, media photographers, and any other members of the press are required to display an official Anthrocon Press Badge or be accompanied by a senior Anthrocon staff member at all times while in convention space. Members of the press who have not been issued a Press Badge may not conduct interviews or take photographs, audio or video footage without an escort.
@@ -186,15 +194,17 @@ Anthrocon considers recorded interviews of any type performed in Anthrocon space
 
 ### Payments and Money Matters
 
-Anthrocon accepts most major credit and debit cards. Chargebacks (denying a charge) that are made for the purpose of avoiding payment to Anthrocon or of avoiding hotel cancellation fees, that are made without sufficient cause, or that are made without first attempting to resolve the dispute with Anthrocon may result in permanent revocation of membership privileges and possible legal action.
-
-Checks that are presented against insufficient funds will be charged a fee of $30 per check.
-
-Members who have an outstanding balance due to Anthrocon must settle that balance before being permitted to attend the convention.
+Anthrocon accepts most major credit and debit cards as well as many tap-to-pay systems. No cash is accepted. All outstanding payments due to Anthrocon must be paid on or before August 31 following the convention. Attempts to avoid payment to Anthrocon or to any of its hotel partners for any outstanding debts, including late cancellation fees, may result in permanent revocation of membership privileges and possible legal action.  Such attempts include, but are not limited to, chargebacks (denying a charge) that are made for the purpose of avoiding payment to Anthrocon or of avoiding hotel cancellation fees, that are made without sufficient cause, or that are made without first attempting to resolve the dispute with Anthrocon.
 
 Please note that Anthrocon is a 501(c)7 nonprofit organization. As such, donations to the organization are **not deductible** from individual U.S. Federal income taxes.
 
 Anthrocon cannot involve itself in financial disputes between individual members, and cannot divulge information about an individual member to any party other than to banking officials or legal authorities.
+
+### Inappropriate usage of Anthrocon assets
+
+The official Anthrocon trademark and all related materials and assets are the sole property of the Anthrocon, Inc. and not to be re-created, remixed or redistributed without express written consent.
+
+Anthrocon has a zero-tolerance policy for any material, property or likeness to official Anthrocon assets. We reserve the right to remove or confiscate any such material, including but not limited to counterfeit memberships, and may involve law enforcement where deemed necessary.
 
 ### Technology Policy
 
@@ -206,6 +216,12 @@ The usage of any technology or device in a way that is malicious in nature will 
 - Any other action or behavior by a device that causes harmful or disruptive impact to the integrity, availability, or confidentiality of any system.
 
 Any instance of the above, regardless whether or not deemed criminal in nature, will be reported to the appropriate authorities in addition to any consequences determined by Anthrocon, Inc.
+
+### Inappropriate usage of Anthrocon assets
+
+The official Anthrocon trademark and all related materials and assets are the sole property of the Anthrocon, Inc. and not to be re-created, remixed or redistributed without express written consent.
+
+Anthrocon has a zero-tolerance policy for any material, property or likeness to official Anthrocon assets. We reserve the right to remove or confiscate any such material, including but not limited to counterfeit memberships, and may involve law enforcement where deemed necessary.
 
 ### Miscellaneous Notes
 
