@@ -11,9 +11,9 @@ params:
     banner_url: ""
 ---
 
-# Anthrocon 2026 Dealer Rules & Information Packet
+# Anthrocon 2027 Dealer Rules & Information Packet
 
-Anthrocon is July 2-July 6, 2026. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
+Anthrocon is July 2-July 6, 2027. The Dealers Room will be in Halls A and B of The David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222.
 
 [Dealers Room Schedule](#dealers-room-schedule) | [Types and Sizes of Tables](#types-and-sizes-of-tables) | [Applying for a Dealers Table](#applying-for-a-dealers-table) | [Waitlist, Table Placement and Cancellations](#waitlist-table-placement-and-cancellations) | [Guidelines on Displays](#guidelines-on-displays) | [Check In, Set Up and Teardown](#check-in-set-up-and-teardown) | [Attendee Entry, Convention Center Information](#attendee-entry-convention-center-information) | [Administrative Details](#administrative-details)
 
@@ -23,7 +23,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 
 ### Dealers Room Schedule
 
-| Thursday, July 2, 2026 |
+| Thursday, July 1, 2027 |
 | --- | --- |
 | 12 PM - 8 PM | Dealer Registration open |
 | 12 PM - 3 PM | Dealers/DAs only, hand carry and assigned dock entry |
@@ -31,7 +31,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 | 9 PM - 9:30 PM | Dealers/DAs only, hand-carry and carts only |
 | 9:30 PM onward | Off limits to all, including Dealers |
 
-| Friday, July 3, 2026 |
+| Friday, July 2, 2027 |
 | --- | --- |
 | 8 AM - 11:30 AM | Dealers/DAs only, loading dock open for package drop-off |
 | 8 AM - 1 PM | Dealer Registration in Hall D |
@@ -40,7 +40,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 | 6 PM - 7 PM | Dealers/DAs only to close tables |
 | 7 PM onward | Off limits to all, including Dealers\* |
 
-| Saturday, July 4, 2026 |
+| Saturday, July 3, 2027 |
 | --- | --- |
 | 9 AM - 9:50 AM | Dealers/DAs only to open tables |
 | 9:50 AM - 10 AM | Sponsor, Supersponsor, and Ultrasponsor entry |
@@ -48,7 +48,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 | 6 PM - 7 PM | Dealers/DAs only to close tables |
 | 7 PM onward | Off limits to all, including Dealers\* |
 
-| Sunday, July 5, 2026 |
+| Sunday, July 4, 2027 |
 | --- | --- |
 | 9 AM - 9:50 AM | Dealers/DAs only to open tables |
 | 9:50 AM - 10 AM | Sponsor, Supersponsor, and Ultrasponsor entry |
@@ -56,7 +56,7 @@ Dealers Room Staff have final say on all matters. The Dealers Room Director's de
 | 4 PM - 8 PM | Dealers/DAs only for teardown |
 | 4 PM - 8 PM | Loading dock open for move-out |
 
-Schedule subject to change before July 2026, last updated October 2025.
+Schedule subject to change before July 2027, last updated October 2025.
 
 \* Subject to Dealers Room Director's (or designated authority) discretion. The room will
 be completely secured during this time.
@@ -64,7 +64,9 @@ be completely secured during this time.
 
 ## Types and Sizes of Tables
 
-**Standard tables:** These are located in rows, in groups of three or five with exit gaps to either end of the group. Other dealers will be beside you and in a row directly behind you. Half tables are only available in the Bodega area of the Dealers Room. All Standard table rows include a 2’8” center aisle for easier egress in case of emergencies.
+### Standard tables
+
+Standard tables are located in rows, in groups of three or five with exit gaps to either end of the group. Other dealers will be beside you and in a row directly behind you. Half tables are only available in the Bodega area of the Dealers Room. All Standard table rows include a 2’8” center aisle for easier egress in case of emergencies.
 
 | Table Size | Space (Total) | Space (Tables Only) | Space (Behind) | Chairs Provided |
 | :----: | :----: | :----: | :----: | :----: |
@@ -75,7 +77,9 @@ be completely secured during this time.
 | Quad | 304sqft | 32x’30” ( 2’6”) | 32’x7’ | 8 |
 | Quint | 380sqft | 40’x30” ( 2’6”) | 40’x7’ | 10 |
 
-**Endcap tables:** These are identical to Standard tables, except they are located on the end of a row. They may be purchased in Single, Double, or Quad sizes.
+### Endcap tables
+
+An upgrade available to Standard Tables, Endcaps are tables located at the end of a row. They may be purchased in Single, Double, or Quad sizes.
 
 | Table Size | Space (Tables Only) | Space (Behind)\* | Chairs Provided |
 | :----: | :----: | :----: | :----: |
@@ -87,28 +91,32 @@ be completely secured during this time.
 
 **Electrical power is NOT included with Standard or Endcap tables; it must be purchased from the convention center.** Electricity can be purchased via an online form that will be sent to approved dealers. Purchase of electricity can be made all the way until Friday morning before the Dealers Room opens to attendees, but rates increase 15 business days before the first day of the convention.
 
-**Booths:** There are three booth types available at Anthrocon, Small, Large and Tattoo booths. All booths are bound by two or three sides by pipe and drape. All the space within your booth may be used. Tattoo booths have a shared back space for storing supplies, stencil printers and for privacy in case a tattoo client needs a break. This is a shared space surrounded by pipe and drape and should not be used as part of your personal dealer booth. Tables and chairs are provided, though you can bring your own tables or remove them entirely. Every booth comes with a 20A 3-outlet circuit for your use at no additional charge. Tattoo booths require submitting a Bloodborne Pathogen certification as well as proof of liability insurance to Anthrocon before the event.
+### Booths and Islands
 
-**\*NEW FOR 2026\*** Islands are also available this year. Islands are not neighboring any other tables or booths and have all four sides clear. They do not come with any pipe and drape, though some may be requested for an extra charge if you wish. As with other booths, all the space within your area may be used. Tables and chairs are provided, though you can bring your own tables or remove them entirely. Islands also come with a 20A 3-outlet circuit for your use at no additional charge.
+Three booth types are available at Anthrocon, Small, Large and Tattoo booths. Standard booths are bound by three sides by pipe and drape with neighbours on either side. Endcap upgrades are available for booths with only one shared wall and an option to have two open sides or one open front and one pipe and drape wall. Islands are not neighboring any other tables or booths and have all four sides clear. They do not come with any pipe and drape, though pipe and drape can be installed at an additional cost. All the space within your booth may be used in any configuration you’d like to set up.
 
-| Booth Size | Space | Tables included | Chairs Provided |
+Tables and chairs are provided up to the maximum listed below. You can bring your own extra tables or remove them entirely. One 20A 3-outlet circuit power drops are included for all booth sizes and islands, if you require more power drops you may pay for additional electricity. Tattoo booths have a shared back space for storing supplies, stencil printers and for privacy in case a tattoo client needs a break. This is a shared space surrounded by pipe and drape and should not be used as part of your personal dealer space. Tattoo booths require submitting a Bloodborne Pathogen certification as well as proof of liability insurance to Anthrocon before the event. Tattoo artists are responsible for their own sharps disposal.
+
+| Booth Size | Space | Maximum Tables included | Chairs Provided |
 | :----: | :----: | :----: | :----: |
 | Single | 16'x16' | 4 | 8 |
 | Large | 20'x24' | 6 | 12 |
 | Tattoo | 12'x10' | 1 | 2 |
 | Island | 25'x25' | 8 | 12 |
 
+### General Table information
+
 **No Dealership may encroach on aisle space, other dealerships, safety gaps, the center aisle, or any indicated walking paths. This includes placement of merchandise, signage, seating, or storage, as well as gaps adjoining Endcap tables; these gaps may not be adjusted without the approval of staff.**
 
 Tables and chairs may be removed from your area at your discretion; place them in front of your dealership during Setup and a Teamster will remove them. Tables can be moved and rearranged anywhere within your allotted space. Relocating or removing a Bodega table requires the full agreement of both Dealerships using the table.
 
-Extra tables added to your space will require the purchase of at least a Double Table, payment of a surcharge, and advance communication with the Dealers Room Staff. We cannot place additional chairs at your dealership due to space constraints and fire code restrictions/
+Extra tables added to your space will require the purchase of at least a Double Table, payment of a surcharge, and advance communication with the Dealers Room Staff if you require extra tables from the convention center. You can add any extra tables of your own as long as you are keeping all of your tables, displays and merch (including overstock) in your own space. We cannot place additional chairs at your dealership due to space constraints and fire code restrictions as there can only be two chairs and two people behind every physical table.
 
-If the requested table size is not available, you may be offered a smaller alternative option if you’ve indicated you’d be willing to take one on your application. However, dealers cannot “upgrade” to a larger space before the convention. We recommend applying for the amount of space you need.
+If the table size applied for is not available, you may be offered a smaller alternative option if you’ve indicated you’d be willing to take one on your application. Dealers cannot upgrade to a larger space before the convention once a table is accepted. We recommend applying for the amount of space you need.
 
 ## Applying for a Dealers Table
 
-Applications will open on **October 27, 2025**, and will close on **November 17, 2025**.
+Applications will open on **October 20, 2027**, and will close on **November 18, 2027**.
 
 Registration can be accessed at https://reg.anthrocon.org.
 
@@ -116,23 +124,33 @@ Fill out your application completely and carefully. Date of receiving the applic
 
 Dealership Table prices do not include an attendee membership, but a membership of any level must be purchased with every table.
 
-The Dealers Room Staff will review your submission and begin approvals as promptly as possible, generally in January 2026. We may ask you for more information before we can approve your Dealership. You’ll be emailed about approval, denial, or waitlisting; there may be multiple rounds of approvals before notification of denial or waitlisting in order to efficiently handle matters. Please note that status in the ConCat system does not always indicate approval or denial as approvals are often entered into the system in stages.
+The Dealers Room Staff will review your submission and begin approvals as promptly as possible, generally in January 2027. We may ask you for more information before we can approve your Dealership. You’ll be emailed about approval, denial, or waitlisting; there may be multiple rounds of approvals before notification of denial or waitlisting in order to efficiently handle matters. Please note that status in the ConCat system does not always indicate approval or denial as approvals are often entered into the system in stages.
+
+### Curation process
 
 Dealership applications will be approved based on a juried curation process. Curation will be performed principally by the Anthrocon Dealers Room staff, although other Anthrocon staff may be involved. Dealerships will be chosen based on a variety of factors, including but not limited to:
 
-**Relevancy:** Generally, items offered by dealerships should be related to the furry fandom or have a broad appeal to attendees and be of a good quality. Applications should be aimed more at furry conventions over other types of convention. Merchandise should be of a good quality that will interest attendees.
+Dealership applications will be approved based on a juried curation process. Curation will be performed principally by the Anthrocon Dealers Room staff, although other Anthrocon staff may be involved.
 
-**Originality and Uniqueness:** Merchandise designed, created or manufactured by the dealership itself; original characters over fan works and the variety of the merchandise itself will all be taken into consideration. Dealerships selling unique items that fill a niche few others do may also be taken into consideration.
+### General application guidelines
 
-**Other:** Prior behavior at Anthrocon such as treatment of Anthrocon Staff, DLCC staff, fellow dealers and attendees; adherence to Dealer Room rules and other interaction will be considered during curation. Prior status as a Guest of Honor or Charitable organization will also be taken into account.
+Applications should include a link to examples of art or merch you would like to sell at Anthrocon, applications without links to examples of work will not be considered. Avoid linking to any sites or galleries that require a log in (locked FA, Twitter, Instagram) or social media sites that do not lend to easy scrolling through your work. Linking to a website or page with photos of merch/art samples and table setup(s) is best practice. Avoid Google Docs or Discord links if possible as they can expire and are often difficult to browse. An online store or a dedicated application page, such as a page hosted on Carrd, is highly recommended for applications.
 
-**Incomplete applications will not be considered until all required information is provided.**
+**You must have a Pennsylvania sales tax license to sell any taxable items at Anthrocon, no exceptions. Applications must include a tax ID at the time of curation (starting when applications close) or they will not be considered for voting until one is provided.**
 
-**General application guidelines:** **Avoid linking to any sites or galleries that require a log in (locked FA, Twitter). Linking to a website or page with merch/art samples and table setup photo is best practice. Avoid Google Docs or Discord links if possible as they do expire. An online store or a dedicated application page, such as Carrd, is highly recommended for applications.
+Generally, the jury takes in to consideration the following factors when voting for Dealerships.
 
-Dealers staff can not provide individual feedback on applications due to the volume of applications received.
+**Relevancy:** Items offered by dealerships should be related to the furry fandom or have a broad appeal to attendees and be of a good quality. Applications should be aimed more at furry conventions over other types of conventions. Anime or other convention focused applications are not an automatic denial, but it may result in fewer votes overall. Merchandise should be of a good quality that will interest attendees.
 
-**You must have a Pennsylvania sales tax license to sell any taxable items at Anthrocon, no exceptions.**
+**Originality and Uniqueness:** Merchandise designed, created or manufactured by the dealership itself is preferable to selling merchandise created by large companies. The proportion of original characters and works versus fan works and the variety of the merchandise itself will all be taken into consideration. Dealerships selling unique items that fill a niche few others do may also be taken into consideration.
+
+**Behaviour:** Prior behavior at Anthrocon such as treatment of Anthrocon Staff, DLCC staff, fellow dealers and attendees will be considered during curation. Prior adherence to Dealer Room rules and other interactions will also be taken in to consideration.
+
+Prior status as a Guest of Honor or Charitable organization will also be taken into account.
+
+**Incomplete applications will not be considered until all required information is provided. Dealers may only apply for one area (General, Bodega or 18+). Any dealer applying for multiple areas will be denied. If a Dealer would like to be considered for multiple areas, make a note in the requests area of your table selection that you would also like to be considered for an alternative table size or area.**
+
+Anthrocon receives more applications annually for the Dealers Room than there is space for Dealers, a denial is not an indication of a lack of quality or skill on the part of applicants. Dealers Room staff are not able provide individual feedback on applications due to the volume of applications received.
 
 All dealers are required to collect and report a state tax of 6% and an Allegheny county tax of 1% on all sales of taxable goods, for a total sales tax of 7%. Clothing that is “Ordinary or everyday wear” such as T-shirts, hats, hoodies, etc. are not taxed; but ornamental, sportswear, formal, fur, and/or costume clothes (including fursuits and fursuit parts) are taxable. If there is a question as to whether an item is going to be taxable, please contact the Pennsylvania Department of Revenue or visit their website at https://www.revenue.pa.gov/.
 
@@ -168,11 +186,11 @@ Applications can be for either the General room or the 18+ Section, but not both
 
 #### Dealers
 
-The Dealer is the lead person for the Dealership. In almost all cases, they will be the owner of the business and the person who holds the Pennsylvania Tax License; they will be directly responsible for the Dealership, and they will be the final authority for communication with Dealers Room Staff, convention staff, or Convention Center staff. Every Dealership must have one and only one Dealer, and a Dealer can belong to only one Dealership.
+The Dealer is the lead person for the Dealership. Generally, they will be the owner of the business and the person who holds the Pennsylvania Tax License; they will be directly responsible for the Dealership, and they will be the final authority for communication with Dealers Room Staff, convention staff, or Convention Center staff. Every Dealership must have one and only one Dealer, and a Dealer can belong to only one Dealership.
 
-There are occasions where a business owner must have someone else operate the Dealership at Anthrocon; this physically present person should be assigned as the Dealer so that Anthrocon has an immediate point of contract at the convention.
+There are occasions where a business owner must have someone else operate the Dealership at Anthrocon; this physically present person should be assigned as the Dealer so that Anthrocon has an immediate point of contract at the convention. We understand that many dealers may be a partnership, however for consistency of communication, only one person can be registered as the Dealer.
 
-Dealers may purchase any level of membership desired from Attending to Ultrasponsor. You may also upgrade your Membership at any time before the close of Pre-registration by logging into your registration account at https://reg.anthrocon.org.
+Dealers may purchase any level of membership desired from Attending to Ultrasponsor. Sponsor and higher tiers do sell out, we recommend purchasing any higher tier membership as soon as possible, there are no sponsor memberships set aside for Dealers post acceptance. You may also upgrade your Membership at any time before the close of Pre-registration by logging into your registration account at https://reg.anthrocon.org, subject to availability of higher tiers of membership.
 
 #### Dealer Assistants
 
@@ -190,15 +208,23 @@ Dealer assistants can be designated by the dealer through their application in t
 
 ## Waitlist, Table Placement and Cancellations
 
-Once all tables in the Dealers Room have been assigned or suitable space is not available, any remaining applications will either be placed on the Waitlist or Declined. We will inform you if you have been placed on the waitlist once it has been determined. It is entirely possible that some Dealers may be told of their approval before other dealers are told of their Waitlist status, as curation and assignments are done in groups. We will not deliberately oversell the Dealers Room.
+### Waitlist Policies
+
+Once all tables in the Dealers Room have been assigned or suitable space is not available, any remaining applications will either be placed on the Waitlist or Declined. We will inform you if you have been placed on the waitlist once it has been determined. It is entirely possible that some Dealers may be told of their approval before other dealers are told of their Waitlist status, as curation and assignments are done in groups. We will not deliberately oversell the Dealers Room. Due to the large number of applications and the fact that we do not have a significant number of cancellations or declined tables, only the top 10% of unapproved dealers will be selected for the waitlist to provide more realistic expectations of our waitlist. Waitlisted or denied Dealerships are able to enter the on site table lottery, see the section below for more information about on site sales.
 
 We will process the Waitlist based on the same curated criteria. Let us know you are willing to accept a different table type than your requested one. When listing minimum table sizes you would be willing to take, do not take a table that your set up or merchandise will not fit in. There will be no option to “upgrade” to a larger table size once you have accepted a space.
 
-Once a table comes open, we will email the next Dealer on the waitlist that has a matching table type. There will be a limited time for response, generally a week to 14 days. Once the Dealer indicates their willingness to purchase a table, the Dealership will be approved and the payment will be required via the registration portal. **There is no need to email the Dealers Room staff about table openings; they will notify you when a table is available, and they will not be able to tell your position on the waitlist.**
+Once a table comes open, we will email the next Dealer on the waitlist that has a matching table type. There will be a limited time for response, generally a 3 to 10 days. Once the Dealer indicates their willingness to purchase a table, the Dealership will be approved and the payment will be required via the registration portal. Dealers must pay for their table before their Dealership is confirmed as being accepted off the waitlist. **There is no need to email the Dealers Room staff about table openings; they will notify you when a table is available, and they will not be able to tell your position on the waitlist.**
 
-If you find that you will not need or cannot use any or all of your Dealership space, please inform us as soon as possible. The earlier we know, the easier it will be for a replacement Dealer to make travel plans for Anthrocon. It is against Anthrocon’s policy to transfer an unwanted table to another person to bypass the waiting list.
+In the event of cancelled tables, it is against Anthrocon’s policy to transfer an unwanted table to another person to bypass the waiting list.
 
-Once payment is complete and your dealership is confirmed, seating requests can be made directly in the registration system. You are able to request a neighboring table with another approved dealer directly from your application. Both dealers must approve the seating request for it to be considered. Please do not add neighbor requests to other text boxes in your application or they may be missed. You are able to request to be away from dealers by product type (ie, not near soap vendors due to smell sensitivities) or make other special requests (ie, near the bathroom) via the special requests box. Please understand that if you have made many requests or very precise requests, we may not be able to accommodate them all specifically, and will do our best to meet as many as possible within reason. Do not request specific rows or room area placements as those will not be considered. Please let us know if you need a placement for accessibility or health reasons.
+### Table Assignments
+
+Once payment is complete and your dealership is confirmed, seating requests can be made directly in the registration system. You are able to request a neighboring table with another approved dealer directly from your application in ConCat. Both dealers must approve the seating request for it to be considered.
+
+Please do not add neighbor requests to other text boxes in your application or they may be missed. You are able to request to be away from dealers by product type (ie, not near soap vendors due to smell sensitivities) or make other special requests (ie, near the bathroom) via the special requests box. Please understand that if you have made many requests or very precise requests, we may not be able to accommodate them all specifically, and will do our best to meet as many as possible within reason. 
+
+Do not request specific rows or room area placements as those will not be considered. Please let us know if you need a placement for accessibility or health reasons.
 
 All Half-tables will be grouped together in “The Bodega”, an area designed to help new, growing, or small-format Dealers who have outgrown the Artists Alley stand out. Tables in The Bodega are considered the same as any other Dealer Table, and those Dealers have the same privileges and options as any other Dealer.
 
@@ -210,21 +236,25 @@ In the unlikely event there is a conflict of placement at the convention, Dealer
 
 Table or Memberships cancellations should be directed to both <dealers@anthrocon.org> and <refunds@anthrocon.org>. If canceling a table, please mention explicitly whether you wish to cancel just your Dealer table or both your table fees and registration.
 
-Full refunds will be given for 2026 tables that are canceled on or before April 30, 2026. No refunds will be given for tables canceled after this date!
+### Cancellations
 
-Full refunds will be given for 2026 Memberships that are canceled on or before June 12, 2026. No refunds will be given for memberships canceled after this date! Neither Memberships nor Dealerships can be ‘rolled over’ to the next year’s convention, and ‘vouchers’ are no longer provided.
+If you find that you will not need or cannot use any or all of your Dealership space, please inform us as soon as possible. The earlier we know, the easier it will be for a replacement Dealer to make travel plans for Anthrocon. Table or Membership cancellations should be directed to both <dealers@anthrocon.org> and <refunds@anthrocon.org>. If canceling a table, please mention explicitly whether you wish to cancel just your Dealer table or both your table fees and registration.
+
+Full refunds will be given for 2027 tables that are canceled on or before April 30, 2027. No refunds will be given for tables canceled after this date!
+
+Full refunds will be given for 2027 Memberships that are canceled on or before June 1, 2027. No refunds will be given for memberships canceled after this date! Neither Memberships nor Dealerships can be ‘rolled over’ to the next year’s convention, and ‘vouchers’ are no longer provided.
 
 ### On Site Table Sales
 
-There are occasionally last-minute cancellations that cannot be dealt with before the close of pre-registration. Anthrocon will offer these tables to appropriate new potential Dealers or as upgrade options for Dealers seeking a larger table. Dealers must still have a Pennsylvania tax ID and follow the same rules as any other dealer. These tables will be available on Thursday of the convention. To purchase an on site table, a prospective dealer needs to sign up at the Dealers Room registration table between 12pm and 1pm (or starting when dealers registration opens if registration opens early). At 1pm, Dealers Room staff will be conducting a lottery of anyone who has applied for a table to fill any open tables. At 1:15, the lottery results will be available and anyone who wishes to purchase an on site table can check to see if they’ve received one. Dealers who entered the lottery must arrive to claim and purchase their table before 2pm or their spot will be released and given to the next person in the lottery.
+There are occasionally last-minute cancellations that cannot be dealt with before the close of pre-registration. Anthrocon will offer these tables to appropriate new potential Dealers or as upgrade options for Dealers seeking a larger table. Dealers must still have a Pennsylvania tax ID and follow the same rules as any other dealer. These tables will be available on Thursday of the convention. To purchase an on site table, a prospective dealer needs to sign up at the Dealers Room registration table between 12pm and 1pm (or starting when dealers registration opens if registration opens early). You do not need to wait in the Dealer registration line, just approach the registration table to sign up. At 1pm, Dealers Room staff will be conducting a lottery of anyone who has applied for a table to fill any open tables. At 1:30, the lottery results will be available and anyone who wishes to purchase an on site table can check to see if they’ve received one. Dealers who entered the lottery must arrive to claim and purchase their table before 2:30pm Thursday or their spot will be released and given to the next person in the lottery.
 
-Any table that is left unclaimed as of 6 PM on the Friday of convention will be offered to appropriate potential Dealers, unless the owner of the table contacts us prior to that time and provides a reason for the delay in arriving. If you know you will be late or are unable to attend at the last minute, please contact Dealer Staff by email or other means as soon as possible. To purchase an unclaimed table, please see the Dealers Room staff table at 5:45pm Friday.
+Any table that is left unclaimed as of 6 PM on the Friday of convention will be offered to appropriate potential Dealers, unless the owner of the table contacts us prior to that time and provides a reason for the delay in arriving. If you know you will be late or are unable to attend at the last minute, please contact Dealer Staff by email or other means as soon as possible. To purchase an unclaimed table, please see the Dealers Room staff table at 5:45pm Friday to enter that second lottery. Signing up for the Thursday on site sales lottery will not enter you in to the Friday unclaimed table sales lottery.
 
 ## Guidelines on Merchandise
 
 Items and services offered in the Anthrocon Dealers Room should be related to the anthropomorphic theme of the convention or should have a broad appeal to furries and others in attendance at Anthrocon. While we do not exclude any sort of merchandise or services, those more “on-brand” with Anthrocon will be given preference.
 
-Items generated wholly or partially by Artificial Intelligence based tools are not permitted for sale in the Dealers Room. Selling AI generated works is grounds for removal from the room, including reselling any artwork. Selling items, such as 3D printed object, that were made using AI may still result in removal from the convention, even if the person selling was not aware they were made using AI. Dealers are responsible for verifying any works they are displaying or selling.
+**Items generated wholly or partially by Artificial Intelligence based tools are not permitted for sale in the Dealers Room. Selling AI generated works is grounds for removal from the room, including reselling any artwork.** Selling items, such as 3D printed object, that were made using AI may still result in removal from the convention, even if the person selling was not aware they were made using AI. Dealers are responsible for verifying any works they are displaying or selling.
 
 Items and services that are illegal to possess or sell in the United States, Commonwealth of Pennsylvania, or City of Pittsburgh are equally prohibited in the Dealers Room. Items and services that require a specific permit or license to display or sell will require the Dealer to present the license. Notably, this includes CBD products, tobacco, lotteries, and raffles. Items or services which may be hazardous will require the Dealer to carry their own insurance; if we determine this is necessary, the Dealers Staff will reach out for a copy of your Certificate of Insurance.
 
@@ -237,6 +267,8 @@ Depiction of minors, real or fictional, in adult situations is strictly prohibit
 Items of a racist, sexist, or otherwise hateful nature will not be permitted for sale in the Dealers Room. This includes paraphernalia related to certain groups or political movements, or items intended to agitate and provoke.
 
 Non-firearm weapons such as swords are acceptable provided the item is blunted and that the purchases are fully wrapped afterward. Anthrocon safety policy requires that these items not be waved, pointed, or otherwise brandished in public. Any items which resemble firearms but are non-firing must also be fully wrapped and not brandished. Customers who purchase such items should be encouraged to carry them directly to their hotel rooms or vehicles.
+
+Items such as lighters may be sold as long as they are empty of fuel and not able to be lit. Any firestarting device that is capable of lighting without fuel may not be sold. Display items for off site delivery are allowed.
 
 Tattoos may not be offered in the dealers room anywhere outside of tattoo booths for hygiene reasons. Tattoos should not be done on areas requiring censorship and clients must remain fully clothed. Hotels expressly forbid tattooing inside their rooms.
 
@@ -289,7 +321,7 @@ Anthrocon holds each Dealer responsible for ensuring that minors are not permitt
 
 **Five Senses Rule:** Your displays, merchandise, and staff should not annoy customers or other dealers with sight, sound, smell, taste, or touch. This includes but is not limited to bright or flashing lights, loudspeakers, strong scents or eating other dealers. Videos, music, video games, and other audio need to be kept at a volume that does not annoy customers or other dealers; headphones are recommended if audio is an important part of your business. The Dealers Room Director and Staff have the final authority on what constitutes an annoyance and may ask to turn off or take down portions of a setup if it is found to be difficult to your neighbors. Please be mindful of your set up and how it may affect others around you.
 
-**\*NEW FOR 2026\*** For safety reasons, displays in the Dealers Room can not exceed 15 feet in height or 10 feet for Bodega tables. This height is from the floor to the top of the display.
+For safety reasons, displays in the Dealers Room can not exceed 15 feet in height or 10 feet for Bodega tables. This height is from the floor to the top of the display.
 
 ## Guidelines on sales and behavior
 
@@ -325,7 +357,7 @@ In the event of an emergency, either locate the nearest Rover or come to the Dea
 
 Those in the 18+ Section are still expected to follow the rules presented in the Standards of Conduct; dealers and attendees must remain in “street legal” attire at all times, and displays of affection should remain appropriate. Leashes and leads may not be attached to collars, and adult-oriented audio must not be audible outside of the 18+ Section, with headphones strongly recommended.
 
-Items which resemble male or female genitalia or orifices, whether of a realistic or fantastic nature, that are either penetrative or penetrable may only be sold in the 18+ area of the dealers room. All of these items (including grinders and related toys) must be placed in a discreet package and heat sealed in opaque packaging at the provided station before being sold to any attendee. These packages may not be opened in any convention space under any circumstances or the attendee will risk losing their Anthrocon badge. Dealers are responsible for communicating this to any attendees purchasing these items, though signage will also be present.
+Items which resemble male or female genitalia or orifices, whether of a realistic or fantastic nature, that are either penetrative or penetrable may only be sold in the 18+ area of the dealers room. All of these items (including grinders and related toys) must be placed in a discreet, opaque sealed package that can not be opened without the use of scissors; similar to poly mailer bage. These packages may not be opened in any convention space under any circumstances or the attendee will risk losing their Anthrocon badge. Dealers are responsible for communicating this to any attendees purchasing these items.
 
 Questions, complaints or concerns about the Dealers Room should be directed onsite to the Dealers Room Staff or Director. You may also feel free to contact Safety, Convention Operations, or other staff persons during the convention for appropriate issues, particularly for urgent situations. Please try to notify us of your concerns onsite and quickly if possible — we want to help you out promptly!
 
@@ -333,9 +365,9 @@ Questions, complaints or concerns about the Dealers Room should be directed onsi
 
 ### Registration check in
 
-Dealer Registration is located in the East Lobby on Thursday and Hall D/E on Friday and Saturday. You will be able to head directly in to the DLCC from registration, no entry is allowed without a badge. You will need a government issued photo ID to pick up your registration, the same as attendee registration. Only Dealer registration is in the East Lobby, you will not be able to pick up any badges other than Dealer or Dealer Assistant badges here. Dealer or Assistant Sponsor, SuperSponsor or UltraSponsor badges are able to pick up at Dealer Registration.
+Dealer Registration is located above the East Lobby in front of Hall A on Thursday and Hall D/E on Friday and Saturday. You will be able to head directly in to the DLCC from registration, no entry is allowed without a badge. You will need a government issued photo ID to pick up your registration, the same as attendee registration. Only Dealer registration is in the Hall A Lobby, you will not be able to pick up any badges other than Dealer or Dealer Assistant badges here. Dealer or Assistant Sponsor, SuperSponsor or UltraSponsor badges are able to pick up at Dealer Registration.
 
-Dealer registration will be opening at 12 PM on Thursday, July 2, 2026\. Dealer registration tends to move fairly quickly, but be aware there can be waits during peak times such as opening and just before general dock opening.
+Dealer registration will be opening at 12 PM on Thursday, July 1, 2027.
 
 A reminder that there should be no stopping to unload on Fort Duquesne Road.
 
@@ -373,7 +405,7 @@ Dealers are permitted to drive their vehicle onto the floor for load-out once th
 
 Taxis or rideshare vehicles must wait in line as any other vehicle if using the loading dock. As such, they are not recommended.
 
-The dealers room should be completely closed and cleared by 8 PM on Sunday. Your dealership space should be completely packed up and checked by staff before this time and your vehicle should be off the floor by then. Any dealerships still on the floor past 8 PM may be fined for teamster overtime and cleanup charges from the DLCC.
+**The dealers room should be completely closed and cleared by 8 PM on Sunday.** Your dealership space should be completely packed up and checked by staff before this time and your vehicle should be off the floor by then. Any dealerships still on the floor past 8 PM may be fined for teamster overtime and cleanup charges from the DLCC.
 
 ## Attendee entry, convention center information
 
