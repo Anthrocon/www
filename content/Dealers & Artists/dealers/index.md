@@ -13,34 +13,29 @@ params:
 
 # Dealers Room
 
-> Updated content for Anthrocon 2027 will be added to this page in the future. You can still reference info details on this page for future planning, but they are subject to change. Stay tuned to our social media and announcement channels.
+{{< center >}}Anthrocon 2027's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 2 to Sunday July 4. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
 
-{{< center >}}Anthrocon 2026's Dealers Room will be located in Halls A and B of the [David L. Lawrence Convention Center](http://www.pittsburghcc.com/). The Dealers Room will be open Friday July 3 to Sunday July 5. With over 100,000 square feet of space filled with vendors of all kinds, you’ll have plenty of browsing and shopping to do.{{< /center >}}
-
-{{< center >}}[Important Information](#important-information-for-applying) - [Table Pricing for 2026](#table-pricing-for-2026) - [Dealer Assistants](#dealer-assistants){{< /center >}}
+{{< center >}}[Important Information](#important-information-for-applying) - [Table Pricing for 2027](#table-pricing-for-2027) - [Dealer Assistants](#dealer-assistants){{< /center >}}
 
 {{< columns >}}
 
-## Anthrocon 2026 Dealers Room List and Map
+## Anthrocon 2027 Dealers Room List and Map
 
-The 2026 Dealers Room map and list is now available and can be found here!
-
-
-{{< center >}}{{< button href="/dealers-list-2026" >}}Anthrocon Dealers List 2026{{< /button >}}{{< /center >}}
+The 2027 Dealers Room map and list will be available closer to the convention. Check back later!
 
 <--->
 
 {{< img src="2023+Nightdragon+AC+218.jpg" alt="A vendor and a costumed customer performing a transaction in Anthrocon's Dealers Room." hint="picture" attr="Nightdragon" attrlink="https://nightdragon0.smugmug.com" >}}
 {{< /columns >}}
 
-## Dealers Applications for Anthrocon 2026
+## Dealers Applications for Anthrocon 2027
 
-Applications to vend at Anthrocon 2026 will be open from **October 27 at 12 PM Eastern Daylight Time** to **November 17, 2025**. Reviews and acceptance or rejections will be finalized **by January 26, 2026**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
+Applications to vend at Anthrocon 2027 will be open from **October 20 at 8 PM Eastern Daylight Time** to **November 17, 2026**. Reviews and acceptance or rejections will be finalized **by January 26, 2027**. If you are a dealer’s assistant, you must wait until your dealer is approved before applying separately for a Dealer Assistant badge.
 
 Applications can be made through our registration system. Please see the following steps for more information.
 
 - Read [the Dealer Rules & Information Packet](/drip/) before you begin.
-- Register for an account by visiting [our new registration portal](/registration/) on October 21, selecting "Register", and following the instructions.
+- Register for an account by visiting [our new registration portal](/registration/) on October 20, selecting "Register", and following the instructions.
 - Once your account is registered and verified, select "Vendor" from the left menu.
 - Enter your business information including your Pennsylvania tax ID, then select and complete your application for **one area only**.
 
@@ -59,7 +54,7 @@ You must read and understand the [Dealer Rules & Information Packet (DRIP)](/dri
 - [Telegram Dealers Announcement Channel](https://t.me/anthrocondealersannounce)
 - [Telegram Dealers Chat group](https://t.me/+Ut8XsuB-6oBS4fVz)
 
-You will need your PA sales tax number (Revenue ID) to vend at Anthrocon. [Click here to apply for a PA Sales Tax License](https://mypath.pa.gov/_/). **Any application submitted that does not have a complete, valid PA Tax ID will not be eligible for curation until the Tax ID has been emailed to the Anthrocon Dealers Room staff at** <dealers@anthrocon.org>**.** This may result in your application being considered in later rounds of curation or placed on a waitlist; however, no application will be immediately rejected over a "Pending" Tax ID. It is the responsibility of the applying dealer to submit a valid Tax ID.
+You will need your PA sales tax number (Revenue ID) to vend at Anthrocon. [Click here to apply for a PA Sales Tax License](https://mypath.pa.gov/_/). **Any application submitted that does not have a complete, valid PA Tax ID will not be eligible for curation until the Tax ID has been emailed to the Anthrocon Dealers Room staff at** <dealers@anthrocon.org>**.** This may result in your application being considered in later rounds of curation or placed on a waitlist; applications will not be considered with a missing Tax ID. It is the responsibility of the applying dealer to submit a valid Tax ID.
 
 ## WARNING: Unauthorized Service Providers
 
@@ -70,12 +65,12 @@ As a dealer, you may be contacted by unauthorized service providers — for hote
 Additional information:
 
 - [DLCC Load-in/load-out information](/dealers-loading-instructions/)
-- [Shipping items to the convention](/dlcc-shipping-guide/) (reference from 2025 — updated 2026 version to be provided at a later date)
-- [Dealers Parking Lot Information](/dealers-parking/) (reference from 2025 — updated 2026 version to be provided at a later date)
+- [Shipping items to the convention](/dlcc-shipping-guide/) (reference from 2026 — updated 2027 version to be provided at a later date)
+- [Dealers Parking Lot Information](/dealers-parking/) (reference from 2026 — updated 2027 version to be provided at a later date)
 
 ***
 
-## Table Pricing for 2026
+## Table Pricing for 2027
 
 Our table prices for the Dealers Room are listed below. **Please note: ELECTRICAL POWER IS NOT INCLUDED, except for Booths.** If your table has a need for power, please contact our Dealers Room team once you have been confirmed for a space.
 
@@ -94,7 +89,7 @@ The following options **do not include power (electricity)**. Requests for power
 
 ### Endcap Tables
 
-The following options **do not include power (electricity)**. Requests for power can be made through the order forms for 2026, to be provided to approved dealers.
+The following options **do not include power (electricity)**. Requests for power can be made through the order forms for 2027, to be provided to approved dealers.
 
 - **Single Table (8'×30"):** $400
 - **Double Table (16'×30"):** $675
@@ -104,27 +99,27 @@ The following options **do not include power (electricity)**. Requests for power
 
 **Tattoo Booth:** $600
 
-- 10’×10’ partially enclosed with two 8’×30" tables
+- 10’×10’ partially enclosed with optional two 8’×30" tables
 - Includes 20A electrical power
 - At convention tattoos may only happen in tattoo booths, not in any other areas of the Dealers Room
 
 **Small Booth:** $1400
 
-- 16’×16’ partially enclosed with four 8’×30" tables
+- 16’×16’ partially enclosed with optional four 8’×30" tables
 - Includes 20A electrical power
 
 **Large Booth:** $2200
 
-- 20’×24’ partially enclosed with six 8’×30" tables
+- 20’×24’ partially enclosed with optional six 8’×30" tables
 - Includes 20A electrical power
 
 **Island:** $2600
 
-- 25’x25’ space with eight 8’x30” tables
+- 25’x25’ space with optional eight 8’x30” tables
 - Includes 20A electrical power
 
 ## Dealer Assistants
 
-Dealer Assistants must purchase their badges separately once the dealer application has been approved. This option will become available starting on **January 2026**. Please see the DRIP on restrictions on Dealer Assistants numbers for table sizes.
+Dealer Assistants must purchase their badges separately once the dealer application has been approved. This option will become available starting on **January 2027**. Please see the DRIP on restrictions on Dealer Assistants numbers for table sizes.
 
 {{< center >}}*Inquiries may be sent to* <dealers@anthrocon.org>*, on Twitter to* [@AnthroconDealer](https://twitter.com/AnthroconDealer)*, or by postal mail to:* Anthrocon, Inc., 150 Wrenn Drive Unit 759, Cary, NC 27512{{< /center >}}
