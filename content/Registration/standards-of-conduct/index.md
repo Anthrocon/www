@@ -31,7 +31,7 @@ This is some people's hard-earned Paid Time Off, or maybe even their one annual 
 
 Lastly, Staff are unpaid volunteers who are trying their best to put on an event they think a large crowd of likeminded individuals will enjoy. This fandom is their home as much as it is yours. Please treat them with respect and they will strive to return that in kind.
 
-But most importantly, be safe and have fun.<br>
+But most importantly, be safe and have fun.\
 :3
 
 ## Standards of Conduct
@@ -46,7 +46,7 @@ Anyone who accepts a membership agrees to indemnify and hold harmless Anthrocon 
 
 As a condition of membership, all Anthrocon attendees are required to abide by these standards of conduct for the entire duration of their stay, even prior to Opening Ceremonies or after Closing Ceremonies.
 
-### The golden rule
+### The Golden Rule
 
 The following rule supersedes all others listed below and may be invoked at any time:
 
@@ -60,7 +60,7 @@ Public displays of affection should be kept to those appropriate for polite comp
 
 ### Clothing and Display Guidelines
 
-All attendees are required to keep their membership badge visible displayed at all times when on the premises of event venues.
+All attendees are required to keep their membership badge visibly displayed at all times when on the premises of event venues.
 
 Any Personal Protective Equipment (PPE), such as masks, required by venues or other Anthrocon policies must be worn.
 
@@ -194,13 +194,13 @@ Anthrocon considers recorded interviews of any type performed in Anthrocon space
 
 ### Payments and Money Matters
 
-Anthrocon accepts most major credit and debit cards as well as many tap-to-pay systems. No cash is accepted. All outstanding payments due to Anthrocon must be paid on or before August 31 following the convention. Attempts to avoid payment to Anthrocon or to any of its hotel partners for any outstanding debts, including late cancellation fees, may result in permanent revocation of membership privileges and possible legal action.  Such attempts include, but are not limited to, chargebacks (denying a charge) that are made for the purpose of avoiding payment to Anthrocon or of avoiding hotel cancellation fees, that are made without sufficient cause, or that are made without first attempting to resolve the dispute with Anthrocon.
+Anthrocon accepts most major credit and debit cards as well as many tap-to-pay systems. No cash is accepted. All outstanding payments due to Anthrocon must be paid on or before August 31 following the convention. Attempts to avoid payment to Anthrocon or to any of its hotel partners for any outstanding debts, including late cancellation fees, may result in permanent revocation of membership privileges and possible legal action. Such attempts include, but are not limited to, chargebacks (denying a charge) that are made for the purpose of avoiding payment to Anthrocon or of avoiding hotel cancellation fees, that are made without sufficient cause, or that are made without first attempting to resolve the dispute with Anthrocon.
 
 Please note that Anthrocon is a 501(c)7 nonprofit organization. As such, donations to the organization are **not deductible** from individual U.S. Federal income taxes.
 
 Anthrocon cannot involve itself in financial disputes between individual members, and cannot divulge information about an individual member to any party other than to banking officials or legal authorities.
 
-### Inappropriate usage of Anthrocon assets
+### Inappropriate Usage of Anthrocon Assets
 
 The official Anthrocon trademark and all related materials and assets are the sole property of the Anthrocon, Inc. and not to be re-created, remixed or redistributed without express written consent.
 
@@ -217,12 +217,6 @@ The usage of any technology or device in a way that is malicious in nature will 
 
 Any instance of the above, regardless whether or not deemed criminal in nature, will be reported to the appropriate authorities in addition to any consequences determined by Anthrocon, Inc.
 
-### Inappropriate usage of Anthrocon assets
-
-The official Anthrocon trademark and all related materials and assets are the sole property of the Anthrocon, Inc. and not to be re-created, remixed or redistributed without express written consent.
-
-Anthrocon has a zero-tolerance policy for any material, property or likeness to official Anthrocon assets. We reserve the right to remove or confiscate any such material, including but not limited to counterfeit memberships, and may involve law enforcement where deemed necessary.
-
 ### Miscellaneous Notes
 
 The standards of conduct for Anthrocon will be enforced by Anthrocon Safety Staff. Please remember that your membership badge is the property of Anthrocon, and must be presented and/or surrendered to any Staff member requesting it. If you have any problem with any action taken by a Staff member you may take the matter up with the Safety Head or with Anthrocon's Chairman.
@@ -231,7 +225,7 @@ Please be reminded that these rules involve "worst-case" scenarios and are put i
 
 We anticipate no difficulties, as our members as a whole are rational and responsible people. Anthrocon is prepared to handle difficulties as efficiently as possible should they occur. We thank our members for their past cooperation and for their continued assistance in making this a safe and enjoyable experience for everyone. Please remember to be courteous of those around you, and have fun!
 
-## Staff complaint submission forms
+## Staff Complaint Submission Forms
 
 If you wish to submit a complaint about a member of Anthrocon staff, please use the form options below:
 
