@@ -1,7 +1,7 @@
 ---
 title: "Anthrocon River Cruises"
 params:
-    banner: "2026+Tobee+20270703_191503.jpg"
+    banner: "2026+Tobee+20260703_191503.jpg"
     banner_title: ""
     banner_caption: ""
     banner_author: "Tobee"
