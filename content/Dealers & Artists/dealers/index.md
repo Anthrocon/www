@@ -99,18 +99,26 @@ The following options **do not include power (electricity)**. Requests for power
 
 **Tattoo Booth:** $600
 
-- 10’×10’ partially enclosed with optional two 8’×30" tables
+- 10’×10’ partially enclosed with one 8’×30" table
 - Includes 20A electrical power
 - At convention tattoos may only happen in tattoo booths, not in any other areas of the Dealers Room
 
 **Small Booth:** $1400
 
 - 16’×16’ partially enclosed with optional four 8’×30" tables
+- Pipe and drape on three sides with neighbors on either side
+- Includes 20A electrical power
+
+**Small Booth Endcap:** $1600
+
+- 16’×16’ partially enclosed with optional four 8’×30" tables
+- Pipe and drape on two sides (back and one side) with neighbor on one side
 - Includes 20A electrical power
 
 **Large Booth:** $2200
 
 - 20’×24’ partially enclosed with optional six 8’×30" tables
+- Pipe and drape on three sides with neighbors on either side
 - Includes 20A electrical power
 
 **Island:** $2600
