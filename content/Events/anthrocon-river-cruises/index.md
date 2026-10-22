@@ -156,5 +156,5 @@ Unfortunately, no. Once the boat has set sailed, it will not be able to change i
 - The deadline to request a refund for an Anthrocon River Cruise is **June 14, 2027** at 11:59 PM EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.
 - Refunds will not be issued if you miss the boarding time for your cruise.
-- Refund requests must made by email to <refunds@anthrocon.org>. We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR, and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
+- Refund requests should be made online. Log in through the registration portal at <https://reg.anthrocon.org/>, select `Order History` from the left menu, `{{< html >}}<i class="fa-solid fa-ellipsis"></i>{{< /html >}}` and `Request Refund` from the top of your order, and enter a quantity and additional information for your request. Requests must be submitted before the deadline above.
 - Refunds must be approved/requested by the person who purchased the tickets.
