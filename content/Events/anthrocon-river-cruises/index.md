@@ -1,7 +1,7 @@
 ---
 title: "Anthrocon River Cruises"
 params:
-    banner: "2025+Tobee+20250705_211121.jpg"
+    banner: "2026+Tobee+20260703_191503.jpg"
     banner_title: ""
     banner_caption: ""
     banner_author: "Tobee"
@@ -12,7 +12,7 @@ params:
 
 {{< center >}}In partnership with the Gateway Clipper Fleet, Anthrocon is offering River Cruises during the convention with options for sightseeing and/or cocktail cruises.{{< /center >}}
 
-{{< center >}}[Cruise options](#anthrocon-2026-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
+{{< center >}}[Cruise options](#anthrocon-2027-cruise-options) - [Boarding process](#boarding-process) - [FAQs](#frequently-asked-questions) - [Refund policy](#refund-policy-for-cruises){{< /center >}}
 
 {{< columns >}}
 {{< img src="LUA_3152.png" alt="The Gateway Clipper Fleet's ship \"3 Rivers Queen\" with fursuiters on board." hint="photo" attr="Luau" attrlink="https://www.furtrack.com/index/photographer:hokuloa_luau" >}}
@@ -30,12 +30,10 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 ***
 
-## Anthrocon 2026 Cruise Options
-
-> **NOTE: All cruises are sold out for 2026.**
+## Anthrocon 2027 Cruise Options
 
 {{% tabs %}}
-{{% tab "Thursday, July 2" %}}
+{{% tab "Thursday, July 1" %}}
 {{< center >}}
 ### Thursday Sightseeing Cruise
 
@@ -44,12 +42,12 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 - **Boarding Time:** 6:30 PM
 - **Cruise Time:** 7:00 - 8:00 PM
-- **Price:** $25
+- **Price:** $35
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
 {{% /tab %}}
-{{% tab "Friday, July 3" %}}
+{{% tab "Friday, July 2" %}}
 {{< center >}}
 ### Friday Sightseeing Cruise
 
@@ -58,12 +56,36 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 - **Boarding Time:**  6:30 PM
 - **Cruise Time:** 7:00 - 8:00 PM
-- **Price:** $25
+- **Price:** $35
 - **Capacity:** 175
 - **Amenities:** Bottled water and straws
 
 {{% /tab %}}
-{{% tab "Saturday, July 4" %}}
+{{% tab "Saturday, July 3" %}}
+{{< center >}}
+### Saturday Sightseeing Cruise
+
+1:00 PM to 2:00 PM
+{{< /center >}}
+
+- **Boarding Time:** 12:30 PM
+- **Cruise Time:** 1:00 - 2:00 PM
+- **Price:** $35
+- **Capacity:** 175
+- **Amenities:** Bottled water and straws
+
+{{< center >}}
+### Saturday Sightseeing Cruise
+
+3:00 PM to 4:00 PM
+{{< /center >}}
+
+- **Boarding Time:** 2:30 PM
+- **Cruise Time:** 3:00 - 4:00 PM
+- **Price:** $35
+- **Capacity:** 175
+- **Amenities:** Bottled water and straws
+
 {{< center >}}
 ### Saturday Cocktail Cruise
 
@@ -72,23 +94,9 @@ You **do not** need a con badge to board the cruise. However, you will need your
 
 - **Boarding Time:** 5:00 PM
 - **Cruise Time:** 5:30 - 8:00 PM
-- **Price:** $65
+- **Price:** $75
 - **Capacity:** 175
 - **Amenities:** Hors d'oeuvres, light snacks, drink tickets and cash bar
-
-{{% /tab %}}
-{{% tab "Sunday, July 5" %}}
-{{< center >}}
-### Sunday Sightseeing Cruises
-
-1:00 PM to 2:00 PM\
-3:00 PM to 4:00 PM
-{{< /center >}}
-
-- **Boarding Time:** 12:30 PM (first cruise), 2:30 PM (second cruise)
-- **Price:** $25
-- **Capacity:** 175
-- **Amenities:** Bottled water and straws
 
 {{% /tab %}}
 {{% /tabs %}}
@@ -145,8 +153,8 @@ Unfortunately, no. Once the boat has set sailed, it will not be able to change i
 
 ## Refund policy for cruises
 
-- The deadline to request a refund for an Anthrocon River Cruise is **June 14, 2026** at 11:59 PM EDT. Refund requests after this time will not be granted.
+- The deadline to request a refund for an Anthrocon River Cruise is **June 14, 2027** at 11:59 PM EDT. Refund requests after this time will not be granted.
 - The cruises will set sail rain or shine. If conditions on the river itself prevent a safe departure and the cruise is cancelled, refunds will be issued for that cruise.
 - Refunds will not be issued if you miss the boarding time for your cruise.
-- Refund requests must made by email to <refunds@anthrocon.org>. We need your LEGAL NAME, EMAIL USED FOR PURCHASE, CRUISE THAT TICKETS WERE PURCHASED FOR, and NUMBER OF TICKETS PURCHASED to properly identify you for a refund. We cannot accept refund requests through social media or other methods.
+- Refund requests should be made online. Log in through the registration portal at <https://reg.anthrocon.org/>, select `Order History` from the left menu, `{{< html >}}<i class="fa-solid fa-ellipsis"></i>{{< /html >}}` and `Request Refund` from the top of your order, and enter a quantity and additional information for your request. Requests must be submitted before the deadline above.
 - Refunds must be approved/requested by the person who purchased the tickets.
