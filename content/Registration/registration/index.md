@@ -97,7 +97,6 @@ On-site price: not available
 
 Sponsors are generous patrons who like to help us provide even more services and events for our membership. A Sponsor gets the full privileges of an Attending membership, as well as the following:
 
-- A nifty Sponsor ribbon
 - A free Anthrocon T-shirt
 - An expedited pick-up line on site
 - Earlier entry into the Dealers Room on Friday, Saturday, and Sunday (after Ultrasponsor and Supersponsor entry)
@@ -117,7 +116,6 @@ On-site price: not available
 
 Supersponsors are some of the most generous persons on the planet! We heap lavish praise and gifts unto them. A Supersponsor gets the full privileges of a Sponsor membership, as well as the following:
 
-- A nifty Supersponsor ribbon
 - An invitation to the Artists & Dealers reception on Friday evening
 - Earlier admission into the Dealers Room on Friday, Saturday, and Sunday (after Ultrasponsor)
 - Advance admission to selected main ballroom events
@@ -140,12 +138,11 @@ On-site price: not available
 
 {{< center >}}Our highest level of sponsorship, with our utmost gratitude! An Ultrasponsor gets all privileges of a Supersponsor membership, as well as the following:{{< /center >}}
 
-- A nifty Ultrasponsor ribbon
 - VIP badge pick up at registration
 - First opportunity to register for a hotel room, based on availability[\*\*](#disclaimers-for-registration-tiers)
 - Front-of-line privileges for early admission into the Dealers Room on Friday
 - Front-of-line privileges to main ballroom events (plus 1 guest if desired)
-- An exclusive gift available only to Anthrocon Ultrasponsors
+- An exclusive giftyessir available only to Anthrocon Ultrasponsors
 - Our wonderful Supersponsor Brunch on Sunday
 - An exclusive Saturday Ultrasponsor and VIP Cocktail Reception
 - Special Ultrasponsor Badge
