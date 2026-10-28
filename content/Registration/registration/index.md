@@ -142,7 +142,7 @@ On-site price: not available
 - First opportunity to register for a hotel room, based on availability[\*\*](#disclaimers-for-registration-tiers)
 - Front-of-line privileges for early admission into the Dealers Room on Friday
 - Front-of-line privileges to main ballroom events (plus 1 guest if desired)
-- An exclusive giftyessir available only to Anthrocon Ultrasponsors
+- An exclusive gift available only to Anthrocon Ultrasponsors
 - Our wonderful Supersponsor Brunch on Sunday
 - An exclusive Saturday Ultrasponsor and VIP Cocktail Reception
 - Special Ultrasponsor Badge
