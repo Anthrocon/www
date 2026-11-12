@@ -38,7 +38,7 @@ Reservations outside of Anthrocon’s hotel block cannot be transferred into Ant
 {{< img src="2024 Kaze-6533.jpg" hint="picture" attr="Kaze" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
 {{< /columns >}}
 
-- If you register after the General booking date, the link needed to reserve a hotel room will be included in the confirmation email from your registration. If you don't see the hotel booking link in your confirmation email, [contact our team for support](/contact).
+- Registered attendees will be able to access the official booking portal through the registration system based on the opening date corresponding to their membership level. These dates will be updated closer to January 2027.
 - **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
 - **Only one room may be booked per registered attendee**, as it is linked to the registration.
 - A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 16, 2026 at 11:59 PM Eastern Time — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
