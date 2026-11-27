@@ -4,11 +4,11 @@ aliases:
     - "/hotels"
 
 params:
-    banner: "2024 Kavaeric DSC03395.jpg"
+    banner: "2026 Kaze-8139.jpg"
     banner_title: ""
     banner_caption: ""
-    banner_author: "Kavaeric"
-    banner_url: "https://www.furtrack.com/index/photographer:kavaeric"
+    banner_author: "Kaze"
+    banner_url: "https://www.furtrack.com/index/photographer:kaze_shiba"
 ---
 
 # Hotels for Anthrocon
@@ -29,19 +29,27 @@ Anthrocon has partnered with many hotels within the locale of the David L. Lawre
 ## Booking Process
 
 {{< columns >}}
-Hotel bookings for the Anthrocon 2026 official hotel block close after June 12. You can still book rooms at hotels outside of Anthrocon’s hotel block through other booking or travel sites.
+Hotel booking links for the official Anthrocon hotel blocks will be available to pre-registered members through the Registration portal on the following days, based on membership type (all opening times will be approximately 12 PM Eastern Time):
 
-Reservations outside of Anthrocon’s hotel block cannot be transferred into Anthrocon’s block and are subject to all policies of the booking site and hotel property.
+- Ultrasponsors: February 2, 2027
+- Dealers: February 9, 2027
+- Supersponsors: February 16, 2027
+- General (Attending/Sponsor): February 23, 2027
 
 <--->
 
-{{< img src="2024 Kaze-6533.jpg" hint="picture" attr="Kaze" attrlink="https://www.furtrack.com/index/photographer:kaze_shiba" >}}
+{{< img src="2026 Kavaeric _DSC1-0507.jpg" hint="picture" attr="Kavaeric" attrlink="https://www.furtrack.com/index/photographer:kavaeric" >}}
 {{< /columns >}}
 
-- Registered attendees will be able to access the official booking portal through the registration system based on the opening date corresponding to their membership level. These dates will be updated closer to January 2027.
-- **If you do not know** your roommates' names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
-- **Only one room may be booked per registered attendee**, as it is linked to the registration.
-- A one-night deposit will NOT be required. However, a valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 16, 2026 at 11:59 PM Eastern Time — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate.
+Please note that official hotel reservations, particularly those at hotels close to the convention center, are in extremely high demand and limited supply. For earlier blocks, you may not be guaranteed your hotel of choice, but you will have much better chances of securing a preferential stay. At least one room at every hotel will be available in each block, but we cannot guarantee you will get your preferred option. For those with access to earlier blocks but do not get any room at all, you will have a second chance during the General booking.
+
+Do NOT book through a hotel’s website if you want to get Anthrocon’s rates (subject to availability). Reservations outside of Anthrocon’s hotel block cannot be transferred into Anthrocon’s block and are subject to all policies of the booking site and hotel property.
+
+- If you register after the General booking date on February 23, 2027, the link needed to reserve a hotel room will be located in the registration system in the “Hotel reservations” page. 
+- If you do not know your roommates’ names or email addresses, you may put “pending” as a placeholder and then contact Orchid Events to update their information once known.
+- Only one room may be booked per registered attendee, as it is linked to the registration.
+- If you need to cancel your hotel reservation, you must do this separately from cancelling your convention registration. Cancelling one will not cancel the other; please use the link found in your hotel reservation email to manage or cancel your reservation.
+- A valid credit card must be linked to the room reservation at the time of booking. Cancellations or changes can be made without penalty until May 17, 2027 at 11:59 PM Eastern Time — after that date, cancellations will be charged a one-night penalty (room and tax) at the hotel’s rate, along with any other applicable penalties per the hotel’s policy.
 
 ***
 
@@ -261,26 +269,6 @@ The Hilton Garden Inn Pittsburgh Downtown enjoys a central spot in the heart of 
 **Shuttle Service:** Yes
 
 [Learn more about the Hilton Garden Inn Pittsburgh Downtown](https://www.hilton.com/en/hotels/pitfagi-hilton-garden-inn-pittsburgh-downtown/)
-{{< /columns >}}
-
-***
-
-{{< columns "33%" >}}
-{{< img src="holiday-inn-express-and-suites-pittsburgh-4137111561-2x1.jpg" alt="A picture of the exterior of the Holiday Inn Express Pittsburgh North Shore." hint="photo" >}}
-
-<--->
-
-### Holiday Inn Express Pittsburgh North Shore
-
-The Holiday Inn Express Pittsburgh North Shore is located amongst many trendy establishments and is a short walk from Heinz Field, where the Pittsburgh Steelers and the Panthers play.
-
-**One King or Two Queen Bed:** $199/night
-
-**Walking Distance:** 0.7 miles
-
-**Shuttle Service:** Yes
-
-[Learn more about the Holiday Inn Express Pittsburgh North Shore](https://www.ihg.com/holidayinnexpress/hotels/us/en/pittsburgh/pitns/hoteldetail)
 {{< /columns >}}
 
 ***
